@@ -1,0 +1,1161 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "In the Mood for Love (2000)",
+      "Tokyo Story (1953)",
+      "Ikiru (1952)",
+      "8 1/2 (1963)",
+      "L'Avventura (1960)",
+      "Persona (1966)",
+      "Fanny and Alexander (1982)",
+      "Andrei Rublev (1966)",
+      "Stalker (1979)",
+      "Ugetsu (1953)",
+      "The Leopard (1963)",
+      "Landscape in the Mist (1988)",
+      "Once Upon a Time in Anatolia (2011)",
+      "The Thin Red Line (1998)",
+      "Come and See (1985)",
+      "The Pianist (2002)",
+      "Son of Saul (2015)",
+      "Chinatown (1974)",
+      "Taxi Driver (1976)",
+      "Memories of Murder (2003)",
+      "Zodiac (2007)",
+      "Mulholland Drive (2001)",
+      "The White Ribbon (2009)",
+      "Cache (2005)",
+      "The Lives of Others (2006)",
+      "There Will Be Blood (2007)",
+      "Three Colors: Blue (1993)",
+      "A Separation (2011)",
+      "Portrait of a Lady on Fire (2019)",
+      "Once Upon a Time in the West (1968)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 4.0,
+        "feeling": "Languid longing and restraint hit a deep nerve, the mood lingered long after.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tokyo Story (1953)",
+        "rating": 4.5,
+        "feeling": "Quiet devastation and filial distance moved me with its clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ikiru (1952)",
+        "rating": 4.5,
+        "feeling": "Humanistic urgency and hard-earned meaning left me humbled.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "8 1/2 (1963)",
+        "rating": 4.0,
+        "feeling": "A heady, playful self-portrait that dazzled me more than it moved me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "L'Avventura (1960)",
+        "rating": 4.0,
+        "feeling": "Its emptiness and drift fascinated me more than it frustrated me.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Persona (1966)",
+        "rating": 4.0,
+        "feeling": "Intense, formally sharp identity play that unsettled in the best way.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fanny and Alexander (1982)",
+        "rating": 4.0,
+        "feeling": "Sprawling, intimate, and humane, its warmth tempered the darkness.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Andrei Rublev (1966)",
+        "rating": 4.5,
+        "feeling": "Spiritual grandeur and brutal history felt overwhelming and vital.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.0,
+        "feeling": "Hypnotic and searching, if a touch more austere than I craved.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ugetsu (1953)",
+        "rating": 4.0,
+        "feeling": "A haunting moral fable whose quiet sorrows stayed with me.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Leopard (1963)",
+        "rating": 4.0,
+        "feeling": "Elegant, elegiac spectacle with a lucid eye for fading power.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Landscape in the Mist (1988)",
+        "rating": 4.5,
+        "feeling": "Its slow, aching odyssey struck that contemplative sweet spot for me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Anatolia (2011)",
+        "rating": 4.0,
+        "feeling": "Patient, windblown searching that deepened into rich, lived-in philosophy.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Thin Red Line (1998)",
+        "rating": 4.0,
+        "feeling": "Lyrical war reverie that balanced carnage with contemplation.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.5,
+        "feeling": "Unflinching and immersive, I was shaken and awed.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Pianist (2002)",
+        "rating": 4.0,
+        "feeling": "Sober, finely controlled survival tale that earned its emotion.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Son of Saul (2015)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic and rigorous, its focus made the horror palpable.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.0,
+        "feeling": "Pristine craftsmanship and moral rot that tightened like a vise.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Taxi Driver (1976)",
+        "rating": 4.5,
+        "feeling": "A raw character study that crawled under my skin.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny, procedural despair that resonated.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Methodical obsession rendered with cool, gripping precision.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 3.5,
+        "feeling": "Seductive and nightmarish, though its fragmentation kept me at arm's length.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The White Ribbon (2009)",
+        "rating": 4.0,
+        "feeling": "Chilling austerity and buried cruelty that quietly gnawed at me.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Cache (2005)",
+        "rating": 3.5,
+        "feeling": "I admired the rigor more than I felt it, but its unease lingered.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Earnest surveillance drama with real moral weight.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "There Will Be Blood (2007)",
+        "rating": 4.5,
+        "feeling": "Operatic ambition and corrosive character work gripped me throughout.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.0,
+        "feeling": "Cool grief and luminous detail made for a quietly cathartic experience.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "Piercingly humane and exact, every choice stung.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 3.5,
+        "feeling": "Controlled passion and painterly craft I admired, if from a slight distance.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Once Upon a Time in the West (1968)",
+        "rating": 4.5,
+        "feeling": "Mythic grandeur and patient set pieces scratched my Leone itch.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Mirror (1975)",
+      "Late Spring (1949)",
+      "Sansho the Bailiff (1954)",
+      "A Man Escaped (1956)",
+      "Au Hasard Balthazar (1966)",
+      "The Cranes Are Flying (1957)",
+      "The Ascent (1977)",
+      "Three Colors: Red (1994)",
+      "The Double Life of Veronique (1991)",
+      "Ida (2013)",
+      "Leviathan (2014)",
+      "Burning (2018)",
+      "Cure (1997)",
+      "Mother (2009)",
+      "A Prophet (2009)",
+      "The Battle of Algiers (1966)",
+      "Paths of Glory (1957)",
+      "Army of Shadows (1969)",
+      "Le Samourai (1967)",
+      "Solaris (1972)",
+      "The Third Man (1949)",
+      "High and Low (1963)",
+      "Ran (1985)",
+      "Paris, Texas (1984)",
+      "Close-Up (1990)",
+      "Uzak (2002)",
+      "Yi Yi (2000)",
+      "A Brighter Summer Day (1991)",
+      "4 Months, 3 Weeks and 2 Days (2007)",
+      "The Great Silence (1968)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Mirror (1975)",
+        "rating": 4.0,
+        "feeling": "Shifting memories and Soviet ghosts washed over me in a luminous, elusive trance",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Late Spring (1949)",
+        "rating": 4.5,
+        "feeling": "Quiet filial sacrifice unfolded with such clarity it hurt",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sansho the Bailiff (1954)",
+        "rating": 4.5,
+        "feeling": "Humanistic tragedy rendered with austere grace left me hollowed and grateful",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Man Escaped (1956)",
+        "rating": 4.0,
+        "feeling": "Ascetic tension and spiritual resolve made every gesture feel momentous",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Au Hasard Balthazar (1966)",
+        "rating": 4.5,
+        "feeling": "A crushing litany of human frailty through a saintly gaze broke me open",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Cranes Are Flying (1957)",
+        "rating": 4.0,
+        "feeling": "Lyrical wartime yearning and loss swept me up and stung",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "The Ascent (1977)",
+        "rating": 4.5,
+        "feeling": "Spiritual martyrdom in winter\u2019s grasp felt searing and transcendent",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Three Colors: Red (1994)",
+        "rating": 4.5,
+        "feeling": "Interlaced fates and ethical echoes warmed into a quietly profound communion",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Double Life of Veronique (1991)",
+        "rating": 4.0,
+        "feeling": "Sensitive metaphysical twinning cast a tender, uncanny spell",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ida (2013)",
+        "rating": 4.0,
+        "feeling": "Chiseled austerity and buried grief resonated in the silences",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Leviathan (2014)",
+        "rating": 4.0,
+        "feeling": "Bleak civic rot and battered dignity weighed on me with cold clarity",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 4.0,
+        "feeling": "Ambiguous desire and class unease simmered into a haunting, slow fire",
+        "genres": []
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.0,
+        "feeling": "Disquieting minimalism eroded certainty until dread felt inevitable",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Mother (2009)",
+        "rating": 4.0,
+        "feeling": "Dogged maternal love twisted into a morally queasy, gripping spiral",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.0,
+        "feeling": "A hard, lucid ascent through corruption felt both inevitable and alive",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Battle of Algiers (1966)",
+        "rating": 4.5,
+        "feeling": "Riveting, unsentimental insurgency that pulsated with moral complexity",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 4.5,
+        "feeling": "Righteous fury and stark form turned hypocrisy into indelible tragedy",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 4.5,
+        "feeling": "Steely, weary resistance rendered betrayal and duty with devastating calm",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Samourai (1967)",
+        "rating": 4.0,
+        "feeling": "Cool precision and fatal solitude etched a perfect, hollow elegance",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.5,
+        "feeling": "Mournful cosmic intimacy made memory and love feel oceanic",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Wry fatalism and shadowy craft coiled into crisp, enduring suspense",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 4.5,
+        "feeling": "Moral calculus and procedural rigor tightened into bracing human drama",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ran (1985)",
+        "rating": 4.5,
+        "feeling": "Operatic ruin blazed with painterly fury and existential chill",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Paris, Texas (1984)",
+        "rating": 4.0,
+        "feeling": "Deserted longing and fragile reconnection left a tender ache",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Close-Up (1990)",
+        "rating": 4.5,
+        "feeling": "Cinema and identity folded into each other with disarming, humane wonder",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Uzak (2002)",
+        "rating": 4.0,
+        "feeling": "Wintry alienation and petty frictions accumulated into aching candor",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Yi Yi (2000)",
+        "rating": 4.5,
+        "feeling": "Everyday grace and clear-eyed melancholy expanded into a generous symphony",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Brighter Summer Day (1991)",
+        "rating": 4.5,
+        "feeling": "Youthful drift and political undercurrents bloomed into an epic, intimate sorrow",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "4 Months, 3 Weeks and 2 Days (2007)",
+        "rating": 4.5,
+        "feeling": "Unblinking realism and moral peril clenched my gut and mind",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Great Silence (1968)",
+        "rating": 4.0,
+        "feeling": "Icy fatalism carved a stark, bracing western that lingered",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Seven Samurai (1954)",
+      "Rashomon (1950)",
+      "Throne of Blood (1957)",
+      "Harakiri (1962)",
+      "Fires on the Plain (1959)",
+      "Ordet (1955)",
+      "Winter Light (1963)",
+      "Cries and Whispers (1972)",
+      "Pickpocket (1959)",
+      "Mouchette (1967)",
+      "Nostalghia (1983)",
+      "The Sacrifice (1986)",
+      "Ivan's Childhood (1962)",
+      "A City of Sadness (1989)",
+      "Flowers of Shanghai (1998)",
+      "Taipei Story (1985)",
+      "Pather Panchali (1955)",
+      "Aparajito (1956)",
+      "The World of Apu (1959)",
+      "The Spirit of the Beehive (1973)",
+      "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)",
+      "Werckmeister Harmonies (2000)",
+      "Satantango (1994)",
+      "The Conversation (1974)",
+      "All the President's Men (1976)",
+      "Le Cercle Rouge (1970)",
+      "Where Is the Friend's House? (1987)",
+      "Taste of Cherry (1997)",
+      "The Travelling Players (1975)",
+      "Early Summer (1951)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 4.5,
+        "feeling": "Communal resolve and measured heroism swelled into a generous, exhilarating human epic.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rashomon (1950)",
+        "rating": 4.0,
+        "feeling": "Fractured truth and moral fog sharpened my sense of how memory betrays us.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Throne of Blood (1957)",
+        "rating": 4.5,
+        "feeling": "Operatic ruin and mist-shrouded fate hit with stark, chilling inevitability.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Harakiri (1962)",
+        "rating": 4.5,
+        "feeling": "A steely dismantling of hollow honor that cut clean to human dignity.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Fires on the Plain (1959)",
+        "rating": 4.5,
+        "feeling": "Starved, hellish clarity reduced war to its most harrowing human remnants.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Ordet (1955)",
+        "rating": 4.5,
+        "feeling": "Faith\u2019s quiet rigor blossomed into a miracle that felt both earned and humbling.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Winter Light (1963)",
+        "rating": 4.0,
+        "feeling": "Spiritual desolation rendered with piercing, unsparing lucidity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cries and Whispers (1972)",
+        "rating": 4.0,
+        "feeling": "Skin-close suffering and estranged tenderness left a raw afterglow.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pickpocket (1959)",
+        "rating": 4.0,
+        "feeling": "Ascetic precision and restless compulsion gathered into a glimmer of grace.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mouchette (1967)",
+        "rating": 4.5,
+        "feeling": "Cruelty\u2019s gray weather and a child\u2019s fragile dignity quietly shattered me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Nostalghia (1983)",
+        "rating": 4.0,
+        "feeling": "Exilic longing and spiritual drift pooled into a somber, hypnotic ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sacrifice (1986)",
+        "rating": 4.0,
+        "feeling": "Apocalyptic dread softened into an austere prayer of fraught hope.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ivan's Childhood (1962)",
+        "rating": 4.0,
+        "feeling": "War\u2019s ruins seen through a child\u2019s gaze turned memory into tender grief.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "A City of Sadness (1989)",
+        "rating": 4.5,
+        "feeling": "History\u2019s hush threaded through family life with mournful, enveloping grace.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Flowers of Shanghai (1998)",
+        "rating": 4.0,
+        "feeling": "Lamplit rituals and opium haze sealed a world of power and yearning.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Taipei Story (1985)",
+        "rating": 4.0,
+        "feeling": "Drifting modernity and spent loyalties gathered into quiet, aching clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pather Panchali (1955)",
+        "rating": 4.5,
+        "feeling": "Everyday wonder and hardship bloomed into pure, humane lyricism.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Aparajito (1956)",
+        "rating": 4.0,
+        "feeling": "Education\u2019s pull and filial love tugged against each other with lucid sorrow.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The World of Apu (1959)",
+        "rating": 4.5,
+        "feeling": "Loss and renewal ripened into a hard-won, compassionate swell.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Spirit of the Beehive (1973)",
+        "rating": 4.5,
+        "feeling": "Postwar hush and childhood fantasy merged into a luminous, haunting spell.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Satantango (1994)",
+        "rating": 4.0,
+        "feeling": "Time-dilated rot and communal delusion seeped in with inexorable dread.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "Surveillance guilt coiled tighter until silence felt deafening.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.0,
+        "feeling": "Methodical inquiry turned civic rot into gripping, lucid process.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Cercle Rouge (1970)",
+        "rating": 4.0,
+        "feeling": "Cool fatalism and meticulous craft clicked into elegant inevitability.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Where Is the Friend's House? (1987)",
+        "rating": 4.5,
+        "feeling": "A simple errand unfolded into ethical urgency and gentle grace.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Taste of Cherry (1997)",
+        "rating": 4.0,
+        "feeling": "A spare drive toward death curved into a quiet, humanist stay.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Travelling Players (1975)",
+        "rating": 4.0,
+        "feeling": "History\u2019s processional weight moved with austere, accumulating power.",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Early Summer (1951)",
+        "rating": 4.5,
+        "feeling": "Familial pressure and quiet defiance resolved with Ozu\u2019s tender, crystalline wisdom.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Tree of Life (2011)",
+      "Wild Strawberries (1957)",
+      "The Seventh Seal (1957)",
+      "L'Argent (1983)",
+      "Diary of a Country Priest (1951)",
+      "Code Unknown (2000)",
+      "About Elly (2009)",
+      "The Salesman (2016)",
+      "Climates (2006)",
+      "The Color of Pomegranates (1969)",
+      "Ulysses' Gaze (1995)",
+      "A Time to Live, a Time to Die (1985)",
+      "The Puppetmaster (1993)",
+      "The Terrorizers (1986)",
+      "Poetry (2010)",
+      "Secret Sunshine (2007)",
+      "The Life of Oharu (1952)",
+      "When a Woman Ascends the Stairs (1960)",
+      "Kwaidan (1964)",
+      "Ashes and Diamonds (1958)",
+      "Werckmeister Harmonies (2000)",
+      "The Death of Mr. Lazarescu (2005)",
+      "Police, Adjective (2009)",
+      "The Wind Will Carry Us (1999)",
+      "Through the Olive Trees (1994)",
+      "Platform (2000)",
+      "Still Life (2006)",
+      "My Night at Maud's (1969)",
+      "L'Eclisse (1962)",
+      "Cr\u00eda cuervos (1976)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Tree of Life (2011)",
+        "rating": 4.0,
+        "feeling": "Cosmic reverie and familial ache stirred me, even if its reach occasionally outpaced my attachment.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wild Strawberries (1957)",
+        "rating": 4.5,
+        "feeling": "A gentle pilgrimage through memory and regret left me quietly moved and clear-eyed.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Seventh Seal (1957)",
+        "rating": 4.0,
+        "feeling": "Medieval dread and spiritual doubt played with lucid starkness that I admired and felt.",
+        "genres": [
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "L'Argent (1983)",
+        "rating": 4.0,
+        "feeling": "Bresson\u2019s pitiless mechanics turned a small sin into chilling, inexorable ruin.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Diary of a Country Priest (1951)",
+        "rating": 4.5,
+        "feeling": "Ascetic grace and eroding faith accumulated into a humbling, piercing ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Code Unknown (2000)",
+        "rating": 3.5,
+        "feeling": "Its rigorous mosaic unsettled me, though I admired it a touch more than I felt it.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "About Elly (2009)",
+        "rating": 4.5,
+        "feeling": "Moral currents and fragile truths tightened into devastating, humane suspense.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Salesman (2016)",
+        "rating": 4.0,
+        "feeling": "Measured unraveling of pride and injury pricked at my conscience throughout.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Climates (2006)",
+        "rating": 4.0,
+        "feeling": "Ceylan\u2019s wintry drift and wounded intimacy settled into a bleak, honest hush.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Color of Pomegranates (1969)",
+        "rating": 3.5,
+        "feeling": "Sumptuous ritual and iconography entranced me, even as its cool remove kept me at a distance.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Ulysses' Gaze (1995)",
+        "rating": 4.0,
+        "feeling": "A mournful odyssey through memory and history weighed on me with foggy, fatal beauty.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "A Time to Live, a Time to Die (1985)",
+        "rating": 4.5,
+        "feeling": "Autobiographical drift and family sorrow unfolded with tender, lucid inevitability.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Puppetmaster (1993)",
+        "rating": 4.5,
+        "feeling": "Lamplit recollection and historical pressure merged into a quietly majestic lament.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Terrorizers (1986)",
+        "rating": 4.0,
+        "feeling": "Urban disconnection and narrative ricochets coalesced into cool, unsettling clarity.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Poetry (2010)",
+        "rating": 4.5,
+        "feeling": "Gentle lyricism and stark moral shock ripened into a deeply resonant grace.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Secret Sunshine (2007)",
+        "rating": 4.0,
+        "feeling": "Faith, grief, and rage churned into raw, discomfiting intimacy that lingered.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Life of Oharu (1952)",
+        "rating": 4.5,
+        "feeling": "Mizoguchi\u2019s compassionate gaze turned inexorable ruin into sorrowful, luminous tragedy.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "When a Woman Ascends the Stairs (1960)",
+        "rating": 4.0,
+        "feeling": "Naruse\u2019s clear-eyed empathy charted survival with poised, aching restraint.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ashes and Diamonds (1958)",
+        "rating": 4.5,
+        "feeling": "After-war disillusion and doomed romance burned with stark, indelible urgency.",
+        "genres": [
+          "Drama",
+          "War",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Death of Mr. Lazarescu (2005)",
+        "rating": 4.0,
+        "feeling": "Bureaucratic drift and bodily frailty accumulated into a grim, humane nightlong odyssey.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Wind Will Carry Us (1999)",
+        "rating": 4.5,
+        "feeling": "Quiet patience and ethical curiosity opened into a gently profound attentiveness to life.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Through the Olive Trees (1994)",
+        "rating": 4.0,
+        "feeling": "Meta play and stubborn courtship warmed into a lightly aching human mosaic.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Still Life (2006)",
+        "rating": 4.0,
+        "feeling": "Ruins and river changes framed tender searches with calm, suggestive melancholy.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Night at Maud's (1969)",
+        "rating": 4.0,
+        "feeling": "Talky moral chess and winter intimacy left me thoughtful and quietly stirred.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "L'Eclisse (1962)",
+        "rating": 4.0,
+        "feeling": "Alienated romance and modern surfaces glowed with cool, disquieting beauty.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cr\u00eda cuervos (1976)",
+        "rating": 4.0,
+        "feeling": "Childhood grief and spectral memory pooled into a subdued, haunting chill.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

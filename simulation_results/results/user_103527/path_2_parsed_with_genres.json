@@ -1,0 +1,1201 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Blow Out (1981)",
+      "Dressed to Kill (1980)",
+      "Pierrot le Fou (1965)",
+      "Contempt (1963)",
+      "Band of Outsiders (1964)",
+      "Landscape in the Mist (1988)",
+      "Eternity and a Day (1998)",
+      "Celine and Julie Go Boating (1974)",
+      "La Belle Noiseuse (1991)",
+      "L'Avventura (1960)",
+      "Blow-Up (1966)",
+      "The Passenger (1975)",
+      "Rear Window (1954)",
+      "Vertigo (1958)",
+      "The Tenant (1976)",
+      "Chinatown (1974)",
+      "Pickpocket (1959)",
+      "A Man Escaped (1956)",
+      "The Double Life of Veronique (1991)",
+      "Three Colors: Blue (1993)",
+      "Mirror (1975)",
+      "Stalker (1979)",
+      "In the Mood for Love (2000)",
+      "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)",
+      "Le Samourai (1967)",
+      "Cache (2005)",
+      "The Piano Teacher (2001)",
+      "High and Low (1963)",
+      "Dead Ringers (1988)",
+      "Branded to Kill (1967)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.0,
+        "feeling": "De Palma\u2019s paranoid formal games and melancholic sting work for me.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dressed to Kill (1980)",
+        "rating": 3.5,
+        "feeling": "Stylish and nasty",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Pierrot le Fou (1965)",
+        "rating": 4.5,
+        "feeling": "Godard\u2019s freewheeling romantic anarchy is catnip to me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Contempt (1963)",
+        "rating": 4.0,
+        "feeling": "Cool, corrosive and elegantly disenchanted",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Band of Outsiders (1964)",
+        "rating": 4.0,
+        "feeling": "Playful cinephile caper with airy melancholy\u2014light but irresistible.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Landscape in the Mist (1988)",
+        "rating": 4.0,
+        "feeling": "Hypnotic, wintry drift with images that linger like a bruise.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Eternity and a Day (1998)",
+        "rating": 3.5,
+        "feeling": "Muted elegy",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Celine and Julie Go Boating (1974)",
+        "rating": 4.0,
+        "feeling": "Magical loopiness with rigorous play",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "La Belle Noiseuse (1991)",
+        "rating": 4.0,
+        "feeling": "Patient, tactile study of looking and labor",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "L'Avventura (1960)",
+        "rating": 4.0,
+        "feeling": "Alienated drift and moral vacancy rendered with thrilling clarity.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Blow-Up (1966)",
+        "rating": 3.5,
+        "feeling": "Sleek ambiguity",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Passenger (1975)",
+        "rating": 3.5,
+        "feeling": "Austere identity fugue",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 3.5,
+        "feeling": "Ingenious and tight, though its neatness keeps me at a remove.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Vertigo (1958)",
+        "rating": 4.0,
+        "feeling": "Obsession spiraling into dream\u2014lush and unsettling, if controlled.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Tenant (1976)",
+        "rating": 3.5,
+        "feeling": "Clammy paranoia I can\u2019t shake, even when it strains credulity.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 3.5,
+        "feeling": "Sun-baked rot and fatalism\u2014impeccable, if a bit airless.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pickpocket (1959)",
+        "rating": 3.5,
+        "feeling": "Spare, ascetic grace",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Man Escaped (1956)",
+        "rating": 4.0,
+        "feeling": "Pure, patient suspense",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Double Life of Veronique (1991)",
+        "rating": 3.5,
+        "feeling": "Tender metaphysics",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.0,
+        "feeling": "Cool grief chiming into fragile freedom",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mirror (1975)",
+        "rating": 3.0,
+        "feeling": "Gorgeous, elusive currents I admire more than I feel.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 3.5,
+        "feeling": "Grave, immersive trek",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 4.0,
+        "feeling": "Silken restraint and ache",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Le Samourai (1967)",
+        "rating": 4.0,
+        "feeling": "Zen-noir precision",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cache (2005)",
+        "rating": 3.5,
+        "feeling": "Icy guilt box that pricks and lingers, if schematic.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Piano Teacher (2001)",
+        "rating": 3.5,
+        "feeling": "Cruel intimacy\u2014riveting and queasy in equal measure.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 4.0,
+        "feeling": "Moral geometry tightened into first-rate suspense.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dead Ringers (1988)",
+        "rating": 3.0,
+        "feeling": "Clinical dread and decay\u2014compelling, but not my favorite strain.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Branded to Kill (1967)",
+        "rating": 3.5,
+        "feeling": "Barbed, pop-surreal cool",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Action"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Mulholland Drive (2001)",
+      "The Conversation (1974)",
+      "Night Moves (1975)",
+      "The Parallax View (1974)",
+      "Army of Shadows (1969)",
+      "Le Cercle Rouge (1970)",
+      "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles (1975)",
+      "Last Year at Marienbad (1961)",
+      "Hiroshima mon amour (1959)",
+      "Cl\u00e9o from 5 to 7 (1962)",
+      "The Umbrellas of Cherbourg (1964)",
+      "Woman in the Dunes (1964)",
+      "Belle de Jour (1967)",
+      "The Conformist (1970)",
+      "Don't Look Now (1973)",
+      "The Driver (1978)",
+      "Mishima: A Life in Four Chapters (1985)",
+      "The American Friend (1977)",
+      "Purple Noon (1960)",
+      "Rosemary's Baby (1968)",
+      "Au Hasard Balthazar (1966)",
+      "L'Argent (1983)",
+      "La Notte (1961)",
+      "L'Eclisse (1962)",
+      "Red Desert (1964)",
+      "Three Colors: Red (1994)",
+      "Cure (1997)",
+      "Werckmeister Harmonies (2000)",
+      "Berberian Sound Studio (2012)",
+      "Peeping Tom (1960)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 4.0,
+        "feeling": "Hollywood\u2019s dream-logic noir\u2014seductive, uncanny, and quietly devastating.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "Austere paranoia tuned like a chamber piece\u2014ethically prickly and precise.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Night Moves (1975)",
+        "rating": 3.5,
+        "feeling": "Sun-bleached melancholy and moral drift\u2014noir dissolving into sea-mist.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 3.5,
+        "feeling": "Paranoid machinery whirring coldly\u2014terrific set pieces, chilling void.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 4.0,
+        "feeling": "Granite sobriety and moral hush\u2014resistance as slow, inexorable doom.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Cercle Rouge (1970)",
+        "rating": 4.0,
+        "feeling": "Zen heist geometry\u2014cool surfaces, immaculate clockwork.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Last Year at Marienbad (1961)",
+        "rating": 3.5,
+        "feeling": "Hypnotic maze of memory\u2014swoon and distance in equal measure.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hiroshima mon amour (1959)",
+        "rating": 4.0,
+        "feeling": "Tender formalism\u2014time\u2019s wounds braided into lucid, aching talk.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cl\u00e9o from 5 to 7 (1962)",
+        "rating": 4.0,
+        "feeling": "Weightless drift taking on quiet gravity\u2014time and city breathed in.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Umbrellas of Cherbourg (1964)",
+        "rating": 4.0,
+        "feeling": "Candy-colored fatalism\u2014pure song shaping bittersweet fate.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Woman in the Dunes (1964)",
+        "rating": 4.0,
+        "feeling": "Sand, sweat, entrapment\u2014existential grind rendered tactile.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Belle de Jour (1967)",
+        "rating": 3.5,
+        "feeling": "Cool erotic fable\u2014desire\u2019s compartments elegantly disturbed.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Conformist (1970)",
+        "rating": 4.0,
+        "feeling": "Baroque chill\u2014ideology lacquered in immaculate surfaces.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 3.5,
+        "feeling": "Grief refracted into occult dread\u2014eerie, lingering sorrow.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Driver (1978)",
+        "rating": 3.5,
+        "feeling": "Lean asphalt ritual\u2014silence, angles, and professionalism.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Mishima: A Life in Four Chapters (1985)",
+        "rating": 3.5,
+        "feeling": "Crystalline compartments of life and art\u2014beautifully severe.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The American Friend (1977)",
+        "rating": 3.5,
+        "feeling": "Shabby existential noir\u2014friendship curdled into complicity.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Purple Noon (1960)",
+        "rating": 4.0,
+        "feeling": "Sunlit elegance masking moral rot\u2014sleek, remorseless.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rosemary's Baby (1968)",
+        "rating": 4.0,
+        "feeling": "Urban paranoia with satin glide\u2014domesticity soured into nightmare.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Au Hasard Balthazar (1966)",
+        "rating": 4.0,
+        "feeling": "Sacred cruelty observed with piercing calm\u2014humility that bruises.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "L'Argent (1983)",
+        "rating": 3.5,
+        "feeling": "Hard, impersonal causality\u2014money\u2019s chill ripples to ruin.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "La Notte (1961)",
+        "rating": 3.5,
+        "feeling": "Elegant ennui\u2014relationships fraying under fluorescent modernity.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "L'Eclisse (1962)",
+        "rating": 4.0,
+        "feeling": "Alienation distilled\u2014architecture and absence as romance.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Red Desert (1964)",
+        "rating": 3.5,
+        "feeling": "Industrial malaise in poisonous color\u2014disquiet in every frame.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Three Colors: Red (1994)",
+        "rating": 3.5,
+        "feeling": "Fate\u2019s crossed wires and moral echoes\u2014warm, a touch schematic.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 3.5,
+        "feeling": "Hypnotic dread creeping into the everyday\u2014mystery left open like a wound.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Berberian Sound Studio (2012)",
+        "rating": 3.0,
+        "feeling": "Sonic paranoia and cine-claustrophobia\u2014clever, ultimately hermetic.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Peeping Tom (1960)",
+        "rating": 3.5,
+        "feeling": "Voyeurism as pathology\u2014meta-horror with a queasy, clinical gaze.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Vivre sa vie (1962)",
+      "Masculin F\u00e9minin (1966)",
+      "My Night at Maud's (1969)",
+      "Paris Belongs to Us (1961)",
+      "Le Pont du Nord (1981)",
+      "Muriel (1963)",
+      "Je t'aime, je t'aime (1968)",
+      "Mouchette (1967)",
+      "Diary of a Country Priest (1951)",
+      "Le Doulos (1963)",
+      "The Bad Sleep Well (1960)",
+      "Stray Dog (1949)",
+      "The Wages of Fear (1953)",
+      "Les Diaboliques (1955)",
+      "Nostalghia (1983)",
+      "The Face of Another (1966)",
+      "Pale Flower (1964)",
+      "Vengeance Is Mine (1979)",
+      "A Short Film About Killing (1988)",
+      "Days of Being Wild (1990)",
+      "2046 (2004)",
+      "The Green Ray (1986)",
+      "The White Ribbon (2009)",
+      "Code Unknown (2000)",
+      "Zodiac (2007)",
+      "Thief (1981)",
+      "Blue Velvet (1986)",
+      "La C\u00e9r\u00e9monie (1995)",
+      "Beau Travail (1999)",
+      "Femme Fatale (2002)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Vivre sa vie (1962)",
+        "rating": 4.0,
+        "feeling": "Chaptered alienation and gaze\u2014cool sorrow accruing quietly.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Masculin F\u00e9minin (1966)",
+        "rating": 3.5,
+        "feeling": "Pop fizz brushes politics in brisk vignettes\u2014restless, slyly sad.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Night at Maud's (1969)",
+        "rating": 4.0,
+        "feeling": "Talk as seduction and ethics\u2014crisp, humane, softly piercing.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paris Belongs to Us (1961)",
+        "rating": 3.5,
+        "feeling": "Paranoid bohemia in conspiratorial fog\u2014shaggy yet entrancing.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Muriel (1963)",
+        "rating": 3.5,
+        "feeling": "Shards of memory clicking coldly\u2014domestic spaces haunted by history\u2019s tremor.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Je t'aime, je t'aime (1968)",
+        "rating": 3.5,
+        "feeling": "Time-loop melancholia\u2014fractured tenderness with playful rigor.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mouchette (1967)",
+        "rating": 4.0,
+        "feeling": "Sacred cruelty in Bressonian severity\u2014devastation in the smallest gestures.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Diary of a Country Priest (1951)",
+        "rating": 4.0,
+        "feeling": "Ascetic grace tracing faith\u2019s erosion\u2014quietly harrowing and pure.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Bad Sleep Well (1960)",
+        "rating": 3.5,
+        "feeling": "Corporate noir with moral steel\u2014precise, a touch programmatic.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stray Dog (1949)",
+        "rating": 3.5,
+        "feeling": "Sweaty procedural empathy\u2014cop and criminal mirrored in heat-haze.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Wages of Fear (1953)",
+        "rating": 4.0,
+        "feeling": "Tense, grinding fatalism\u2014suspense as physical ordeal.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Les Diaboliques (1955)",
+        "rating": 3.5,
+        "feeling": "Cruel mechanics and clammy dread\u2014elegant, nasty fun.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Nostalghia (1983)",
+        "rating": 3.0,
+        "feeling": "Sepulchral drift and spiritual ache\u2014mesmerizing, held at an icy remove.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Face of Another (1966)",
+        "rating": 3.5,
+        "feeling": "Identity as mask and maze\u2014coolly hypnotic, clinically unnerving.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pale Flower (1964)",
+        "rating": 3.5,
+        "feeling": "Nocturnal elegance and death-drive romance\u2014silk over steel.",
+        "genres": [
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Vengeance Is Mine (1979)",
+        "rating": 3.5,
+        "feeling": "Bleak, unblinking manhunt\u2014amorality rendered with dry bite.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Short Film About Killing (1988)",
+        "rating": 3.5,
+        "feeling": "Green-tinged moral chill\u2014didactic, yet chillingly precise.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Days of Being Wild (1990)",
+        "rating": 3.5,
+        "feeling": "Languid heartbreak in humid neon\u2014adrift, intoxicating.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "2046 (2004)",
+        "rating": 3.0,
+        "feeling": "Baroque echoes of lost time\u2014beautiful drift that keeps me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Green Ray (1986)",
+        "rating": 3.5,
+        "feeling": "Sunlit loneliness tuned to tiny epiphanies\u2014gently piercing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The White Ribbon (2009)",
+        "rating": 3.5,
+        "feeling": "Icy parable of rot\u2014immaculate, a bit schematic.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Code Unknown (2000)",
+        "rating": 3.5,
+        "feeling": "Fractured urban tapestry\u2014cool moral provocations that linger.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Procedural obsession carved in steel\u2014dread accumulating with elegant calm.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 3.5,
+        "feeling": "Hard-edged professionalism and neon melancholy\u2014sleek, focused.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blue Velvet (1986)",
+        "rating": 4.0,
+        "feeling": "Suburban rot in velvet shadows\u2014uncanny, intoxicating cruelty.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "La C\u00e9r\u00e9monie (1995)",
+        "rating": 3.5,
+        "feeling": "Class warfare as slow-burn dread\u2014polite surfaces split open.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Femme Fatale (2002)",
+        "rating": 3.5,
+        "feeling": "Lustrous sleight-of-hand\u2014dizzy, disreputable, deliciously rigged.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Le Doulos (1962)",
+      "Le Deuxi\u00e8me Souffle (1966)",
+      "Bob le flambeur (1956)",
+      "The Long Goodbye (1973)",
+      "The Friends of Eddie Coyle (1973)",
+      "Klute (1971)",
+      "Cutter's Way (1981)",
+      "Lost Highway (1997)",
+      "Memories of Murder (2003)",
+      "Get Carter (1971)",
+      "The Long Good Friday (1980)",
+      "The Spirit of the Beehive (1973)",
+      "The Travelling Players (1975)",
+      "Close-Up (1990)",
+      "A Separation (2011)",
+      "Safe (1995)",
+      "The Sweet Hereafter (1997)",
+      "World on a Wire (1973)",
+      "Investigation of a Citizen Above Suspicion (1970)",
+      "Salvatore Giuliano (1962)",
+      "Ossessione (1943)",
+      "The Spider's Stratagem (1970)",
+      "Providence (1977)",
+      "Mon oncle d'Am\u00e9rique (1980)",
+      "Le Boucher (1970)",
+      "La femme infid\u00e8le (1969)",
+      "Chungking Express (1994)",
+      "Fallen Angels (1995)",
+      "The Devil, Probably (1977)",
+      "Phoenix (2014)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Le Doulos (1962)",
+        "rating": 4.0,
+        "feeling": "Labyrinthine honor codes in cool shadow\u2014betrayal as elegant ritual.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Le Deuxi\u00e8me Souffle (1966)",
+        "rating": 3.5,
+        "feeling": "Hard, ascetic fatalism\u2014professionalism eroding under moral pressure.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Bob le flambeur (1956)",
+        "rating": 3.5,
+        "feeling": "Dapper melancholy and luck\u2019s geometry\u2014playful yet fatalistic.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Long Goodbye (1973)",
+        "rating": 3.5,
+        "feeling": "Shaggy noir dissolved in sunlit irony\u2014Marlowe adrift in a world gone slack.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Friends of Eddie Coyle (1973)",
+        "rating": 4.0,
+        "feeling": "Low-key doom and grubby ethics\u2014crime as slow, suffocating attrition.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Klute (1971)",
+        "rating": 3.5,
+        "feeling": "Urban paranoia with silken chill\u2014desire and danger wired tight.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Cutter's Way (1981)",
+        "rating": 3.5,
+        "feeling": "Sour post-Vietnam hangover\u2014friendship curdled into quixotic fury.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Lost Highway (1997)",
+        "rating": 3.5,
+        "feeling": "Noir as fevered loop\u2014seductive dread and identity unmoored.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.0,
+        "feeling": "Procedural obsession in humid dread\u2014ambiguity left to gnaw.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Get Carter (1971)",
+        "rating": 3.5,
+        "feeling": "Brutal resolve in grim grays\u2014revenge ground down to routine.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Long Good Friday (1980)",
+        "rating": 3.5,
+        "feeling": "Swagger meeting systemic rot\u2014clockwork pressure bursting at the seams.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Spirit of the Beehive (1973)",
+        "rating": 3.5,
+        "feeling": "Childhood hauntings breathed in amber light\u2014war\u2019s ghost under the skin.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Travelling Players (1975)",
+        "rating": 4.0,
+        "feeling": "Epic, somber pageant\u2014history looping through ritual and hush.",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Close-Up (1990)",
+        "rating": 4.0,
+        "feeling": "Cinema folding into life\u2014tender, lucid inquiry into desire and masks.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 3.5,
+        "feeling": "Moral geometry in close quarters\u2014cool, humane ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Safe (1995)",
+        "rating": 4.0,
+        "feeling": "Suburban malaise distilled\u2014toxic air, existential cough.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Sweet Hereafter (1997)",
+        "rating": 3.5,
+        "feeling": "Icy elegy of communal grief\u2014gentle, pricking despair.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Investigation of a Citizen Above Suspicion (1970)",
+        "rating": 3.5,
+        "feeling": "Bitter satire tightened into a trap\u2014power exposing its own rot.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Salvatore Giuliano (1962)",
+        "rating": 3.5,
+        "feeling": "Forensic political mosaic\u2014cool rigor over hot myth.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Spider's Stratagem (1970)",
+        "rating": 3.5,
+        "feeling": "Baroque myth and small-town fog\u2014truth refracted into elegant lies.",
+        "genres": [
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Providence (1977)",
+        "rating": 3.5,
+        "feeling": "Aging mind staging its own trial\u2014dream, doubt, and caustic play.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Mon oncle d'Am\u00e9rique (1980)",
+        "rating": 3.5,
+        "feeling": "Didactic but sly\u2014behavioral parable woven through lived mess.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Le Boucher (1970)",
+        "rating": 4.0,
+        "feeling": "Polite surfaces fissuring\u2014desire and dread sharing one quiet blade.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "La femme infid\u00e8le (1969)",
+        "rating": 3.5,
+        "feeling": "Cool domestic crime\u2014jealousy etched with elegant restraint.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Chungking Express (1994)",
+        "rating": 4.0,
+        "feeling": "Pop fizz and midnight ache\u2014weightless drift turning tender.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Fallen Angels (1995)",
+        "rating": 3.5,
+        "feeling": "Neon loneliness in fractured poses\u2014romance as stylish drift.",
+        "genres": [
+          "Action",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Devil, Probably (1977)",
+        "rating": 3.5,
+        "feeling": "Bressonian despair pared to bone\u2014youth drifting toward the void.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Phoenix (2014)",
+        "rating": 3.5,
+        "feeling": "Postwar noir as identity riddle\u2014cool ache with an aftershock.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

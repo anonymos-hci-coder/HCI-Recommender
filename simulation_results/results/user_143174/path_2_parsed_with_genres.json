@@ -1,0 +1,1294 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Beauty and the Beast (1991)",
+      "Aladdin (1992)",
+      "The Lion King (1994)",
+      "Toy Story (1995)",
+      "Monsters, Inc. (2001)",
+      "Moana (2016)",
+      "National Lampoon's Christmas Vacation (1989)",
+      "Home Alone (1990)",
+      "Elf (2003)",
+      "Ghostbusters (1984)",
+      "Airplane! (1980)",
+      "The Naked Gun: From the Files of Police Squad! (1988)",
+      "The Producers (1967)",
+      "Blazing Saddles (1974)",
+      "Groundhog Day (1993)",
+      "Big (1988)",
+      "The Exorcist (1973)",
+      "Poltergeist (1982)",
+      "The Conjuring (2013)",
+      "The Conjuring 2 (2016)",
+      "The Sixth Sense (1999)",
+      "The Others (2001)",
+      "The Haunting (1963)",
+      "The Omen (1976)",
+      "The Godfather (1972)",
+      "Goodfellas (1990)",
+      "The Untouchables (1987)",
+      "Die Hard (1988)",
+      "Speed (1994)",
+      "Black Hawk Down (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Beauty and the Beast (1991)",
+        "rating": 4.5,
+        "feeling": "Classic fairy-tale warmth and heart hit my sweet spot.",
+        "genres": [
+          "Romance",
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Aladdin (1992)",
+        "rating": 4.5,
+        "feeling": "Fast-paced adventure with humor and heart makes for joyful family viewing.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lion King (1994)",
+        "rating": 4.5,
+        "feeling": "Stirring coming-of-age tale with real emotional stakes.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 4.0,
+        "feeling": "Clever buddy rivalry turning to friendship is fun and heartfelt.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.0,
+        "feeling": "Cute monster-world twist with big heart and laughs.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.0,
+        "feeling": "Brisk, uplifting mythic quest with family-friendly spirit.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "National Lampoon's Christmas Vacation (1989)",
+        "rating": 4.5,
+        "feeling": "Holiday chaos and goofy family mishaps are exactly my kind of comfort comedy.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Home Alone (1990)",
+        "rating": 4.5,
+        "feeling": "Inventive, family-friendly slapstick that never gets old.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Elf (2003)",
+        "rating": 3.5,
+        "feeling": "Sweet, goofy holiday cheer works, if a bit sugary for me.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 4.5,
+        "feeling": "Supernatural hijinks blended with deadpan comedy is right up my alley.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Airplane! (1980)",
+        "rating": 5.0,
+        "feeling": "Wall-to-wall absurd gags and wordplay I adore.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Naked Gun: From the Files of Police Squad! (1988)",
+        "rating": 4.5,
+        "feeling": "Relentless sight gags and deadpan silliness land hard for me.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Blazing Saddles (1974)",
+        "rating": 5.0,
+        "feeling": "Wild, irreverent western spoof that cracks me up.",
+        "genres": [
+          "Western",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.0,
+        "feeling": "Smart, funny loop premise with just enough heart.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Big (1988)",
+        "rating": 4.0,
+        "feeling": "Warm wish-fulfillment fantasy with gentle laughs.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Exorcist (1973)",
+        "rating": 5.0,
+        "feeling": "Serious, unsettling supernatural terror done right.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Poltergeist (1982)",
+        "rating": 4.5,
+        "feeling": "Classic haunted-house thrills with great atmosphere.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Conjuring (2013)",
+        "rating": 4.0,
+        "feeling": "Tense, well-crafted haunting that delivers solid scares.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Conjuring 2 (2016)",
+        "rating": 3.5,
+        "feeling": "More of the same chills\u2014good, just a notch less sharp.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 4.0,
+        "feeling": "Moody, compassionate ghost story that sticks with me.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.5,
+        "feeling": "Eerie, slow-burn atmosphere and maternal stakes pull me in.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.5,
+        "feeling": "Subtle, suggestive chills over gore\u2014my preferred horror.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Omen (1976)",
+        "rating": 4.0,
+        "feeling": "Creepy, ominous dread with a strong occult hook.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Godfather (1972)",
+        "rating": 5.0,
+        "feeling": "Immersive, operatic crime saga that's riveting start to finish.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Goodfellas (1990)",
+        "rating": 4.5,
+        "feeling": "Propulsive, stylish underworld chronicle that grips.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Untouchables (1987)",
+        "rating": 4.0,
+        "feeling": "Classic cops-vs-mob tale with sturdy old-school appeal.",
+        "genres": [
+          "Crime",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Die Hard (1988)",
+        "rating": 4.5,
+        "feeling": "Tight, witty, high-stakes action that fires on all cylinders.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 4.0,
+        "feeling": "Lean, relentless thriller ride that keeps me locked in.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Black Hawk Down (2001)",
+        "rating": 4.5,
+        "feeling": "Gritty, immersive combat intensity that hits hard.",
+        "genres": [
+          "Action",
+          "War",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Princess Bride (1987)",
+      "Planes, Trains and Automobiles (1987)",
+      "Uncle Buck (1989)",
+      "Scrooged (1988)",
+      "Ferris Bueller's Day Off (1986)",
+      "Spaceballs (1987)",
+      "Robin Hood: Men in Tights (1993)",
+      "Top Secret! (1984)",
+      "Beetlejuice (1988)",
+      "Addams Family Values (1993)",
+      "Men in Black (1997)",
+      "Galaxy Quest (1999)",
+      "Dumb and Dumber (1994)",
+      "The Incredibles (2004)",
+      "Toy Story 2 (1999)",
+      "Tangled (2010)",
+      "The Emperor's New Groove (2000)",
+      "The Iron Giant (1999)",
+      "The Nightmare Before Christmas (1993)",
+      "Coco (2017)",
+      "The Shining (1980)",
+      "The Exorcist III (1990)",
+      "The Ring (2002)",
+      "The Innocents (1961)",
+      "The Fog (1980)",
+      "Heat (1995)",
+      "L.A. Confidential (1997)",
+      "The Departed (2006)",
+      "Saving Private Ryan (1998)",
+      "Lethal Weapon (1987)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.5,
+        "feeling": "Witty fairy-tale swashbuckling with heart is right in my family-friendly sweet spot.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Planes, Trains and Automobiles (1987)",
+        "rating": 4.5,
+        "feeling": "Warm, chaotic holiday travel comedy with two great goofs\u2014exactly my comfort zone.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Uncle Buck (1989)",
+        "rating": 4.0,
+        "feeling": "Big-hearted, homespun laughs with a lovable slob vibe that works for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Scrooged (1988)",
+        "rating": 4.0,
+        "feeling": "Snarky Christmas redemption tale hits enough holiday cheer despite the cynical edge.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ferris Bueller's Day Off (1986)",
+        "rating": 4.0,
+        "feeling": "Breezy, mischievous 80s fun with just the right carefree snap.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Spaceballs (1987)",
+        "rating": 4.5,
+        "feeling": "Mel Brooks\u2019 wall-to-wall spoofing and silly gags crack me up.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Robin Hood: Men in Tights (1993)",
+        "rating": 4.0,
+        "feeling": "Cornball Brooks antics and songy silliness I\u2019m happy to ride with.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Top Secret! (1984)",
+        "rating": 4.5,
+        "feeling": "Relentless sight gags and absurd wordplay are my comedy catnip.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 4.0,
+        "feeling": "Macabre hijinks and deadpan laughs make this spooky-fun romp click.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Addams Family Values (1993)",
+        "rating": 4.0,
+        "feeling": "Cheerfully morbid family antics with sharp, playful humor I enjoy.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 4.0,
+        "feeling": "Snappy buddy banter and breezy alien hijinks keep it light and fun.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 3.5,
+        "feeling": "Affectionate sci\u2011fi send\u2011up is charming, if a bit inside-baseball for me.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Dumb and Dumber (1994)",
+        "rating": 3.5,
+        "feeling": "Go-for-broke idiot slapstick lands more hits than misses for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.0,
+        "feeling": "Brisk, heartfelt superhero family adventure that stays crowd-pleasing.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Toy Story 2 (1999)",
+        "rating": 4.0,
+        "feeling": "Clever, warm sequel with nimble humor and real heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.0,
+        "feeling": "Lively fairy\u2011tale romp with tuneful charm and bright, bouncy humor.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Emperor's New Groove (2000)",
+        "rating": 4.5,
+        "feeling": "Lean, gag\u2011driven silliness with lovable oddballs\u2014my kind of Disney.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Big-hearted, throwback fable that hits moving, heroic notes.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Nightmare Before Christmas (1993)",
+        "rating": 4.0,
+        "feeling": "Whimsical spooky\u2011season charm blended with offbeat holiday cheer.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.0,
+        "feeling": "Colorful, heartfelt journey about family and music that goes down easy.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "Slow-burn dread and oppressive mood deliver the kind of serious chills I love.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Exorcist III (1990)",
+        "rating": 4.0,
+        "feeling": "Measured, ominous supernatural dread with a couple knockout scares.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Ring (2002)",
+        "rating": 4.0,
+        "feeling": "Moody, atmospheric curse mystery that keeps me tensely hooked.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.5,
+        "feeling": "Elegant, ambiguous ghost story that chills through suggestion\u2014my style.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Fog (1980)",
+        "rating": 4.0,
+        "feeling": "Old-school, seaside spookiness with thick atmosphere I dig.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "Grand, propulsive crime saga with taut cat\u2011and\u2011mouse intensity.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.0,
+        "feeling": "Stylish, sturdy noir mystery with satisfying old\u2011school punch.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 4.0,
+        "feeling": "Tense undercover twists with muscular crime drama energy I can get behind.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Saving Private Ryan (1998)",
+        "rating": 4.5,
+        "feeling": "Grim, immersive combat and brotherhood that hits hard.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Lethal Weapon (1987)",
+        "rating": 4.5,
+        "feeling": "Snappy buddy-cop chemistry and punchy action done right.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Monty Python and the Holy Grail (1975)",
+      "Life of Brian (1979)",
+      "Hot Shots! (1991)",
+      "Hot Shots! Part Deux (1993)",
+      "The Naked Gun 2 1/2: The Smell of Fear (1991)",
+      "The Naked Gun 33 1/3: The Final Insult (1994)",
+      "Austin Powers: International Man of Mystery (1997)",
+      "National Lampoon's Vacation (1983)",
+      "Clue (1985)",
+      "The Blues Brothers (1980)",
+      "Ratatouille (2007)",
+      "Up (2009)",
+      "Inside Out (2015)",
+      "Zootopia (2016)",
+      "The Lego Movie (2014)",
+      "How to Train Your Dragon (2010)",
+      "Shrek (2001)",
+      "Who Framed Roger Rabbit (1988)",
+      "The Rescuers Down Under (1990)",
+      "The Muppet Christmas Carol (1992)",
+      "The Legend of Hell House (1973)",
+      "The Woman in Black (2012)",
+      "1408 (2007)",
+      "Gremlins (1984)",
+      "The Amityville Horror (1979)",
+      "Don't Look Now (1973)",
+      "Die Hard with a Vengeance (1995)",
+      "Lethal Weapon 2 (1989)",
+      "The Hunt for Red October (1990)",
+      "Ronin (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Monty Python and the Holy Grail (1975)",
+        "rating": 4.5,
+        "feeling": "Absurd, quotable gag barrage that nails my love of goofy, deadpan spoofing.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Life of Brian (1979)",
+        "rating": 4.0,
+        "feeling": "Sharp, irreverent satire with plenty of Python absurdity\u2014less wall-to-wall gags than Holy Grail but still hits.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Hot Shots! (1991)",
+        "rating": 4.5,
+        "feeling": "Rapid-fire spoof and sight gags are exactly my comedy sweet spot.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Hot Shots! Part Deux (1993)",
+        "rating": 4.0,
+        "feeling": "Still silly and fun with big spoof energy, just a notch less fresh.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Austin Powers: International Man of Mystery (1997)",
+        "rating": 4.0,
+        "feeling": "Goofy spy send-up and wordplay work",
+        "genres": [
+          "Science Fiction",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "National Lampoon's Vacation (1983)",
+        "rating": 4.5,
+        "feeling": "Chaotic family road-trip mishaps deliver the kind of comfort comedy I love.",
+        "genres": [
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 4.5,
+        "feeling": "Snappy ensemble farce packed with clever wordplay and zippy whodunit fun.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Blues Brothers (1980)",
+        "rating": 4.0,
+        "feeling": "Deadpan antics and over-the-top set pieces amuse me",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.0,
+        "feeling": "Warm, clever family fare with heart and humor done right.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.0,
+        "feeling": "Sweet adventure with real heart\u2014just a tad syrupy in spots, but it soars.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Inside Out (2015)",
+        "rating": 4.0,
+        "feeling": "Inventive, heartfelt family story with a smart, breezy touch that works for me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Zootopia (2016)",
+        "rating": 4.0,
+        "feeling": "Lively buddy mystery with bright humor and easygoing family appeal.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 3.5,
+        "feeling": "Zippy and clever, though the meta frenzy can be a bit much for me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Big-hearted, soaring adventure with strong heroic notes I respond to.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Shrek (2001)",
+        "rating": 4.0,
+        "feeling": "Fairy-tale spoofing and broad laughs hit nicely despite some crude edges.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Who Framed Roger Rabbit (1988)",
+        "rating": 4.5,
+        "feeling": "Witty noir-toon mashup with snappy laughs and old-school charm I dig.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Rescuers Down Under (1990)",
+        "rating": 4.0,
+        "feeling": "Solid, brisk Disney adventure with likable heroes and family-friendly spirit.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Muppet Christmas Carol (1992)",
+        "rating": 4.0,
+        "feeling": "Cozy, tuneful holiday comfort that scratches my seasonal sweet spot.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Legend of Hell House (1973)",
+        "rating": 4.5,
+        "feeling": "Moody, oppressive haunted-house chills with the suggestive menace I love.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Woman in Black (2012)",
+        "rating": 3.5,
+        "feeling": "Atmospheric period spookiness works, though the jump-scare rhythm softens the impact for me.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "1408 (2007)",
+        "rating": 4.0,
+        "feeling": "Tense, clever psychological haunting that keeps me tightly on edge.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gremlins (1984)",
+        "rating": 4.0,
+        "feeling": "Mischievous creature chaos blends spooky fun and laughs right in my lane.",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Amityville Horror (1979)",
+        "rating": 3.5,
+        "feeling": "Classic haunted-house vibes land, even if it\u2019s a bit creaky compared to my favorites.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 3.5,
+        "feeling": "Eerie, restrained grief-tinged mystery that I respect more than I love.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Die Hard with a Vengeance (1995)",
+        "rating": 4.0,
+        "feeling": "Punchy, witty cat-and-mouse thrills\u2014solid return for McClane.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Lethal Weapon 2 (1989)",
+        "rating": 4.0,
+        "feeling": "Buddy-cop chemistry and brisk action still click, just a hair below the first.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.0,
+        "feeling": "Sturdy, old-school submarine suspense with satisfying tension.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 4.0,
+        "feeling": "Lean, hard-edged thriller with great chase craftsmanship that keeps me locked in.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Naked Gun 2 1/2: The Smell of Fear (1991)",
+      "The Naked Gun 33 1/3: The Final Insult (1994)",
+      "UHF (1989)",
+      "Dirty Rotten Scoundrels (1988)",
+      "A Fish Called Wanda (1988)",
+      "Three Amigos! (1986)",
+      "A Shot in the Dark (1964)",
+      "The Man with Two Brains (1983)",
+      "Johnny English (2003)",
+      "It's a Wonderful Life (1946)",
+      "The Goonies (1985)",
+      "Labyrinth (1986)",
+      "The Secret of NIMH (1982)",
+      "The Great Mouse Detective (1986)",
+      "Hercules (1997)",
+      "The Sword in the Stone (1963)",
+      "Paddington (2014)",
+      "Paddington 2 (2017)",
+      "Enchanted (2007)",
+      "Kubo and the Two Strings (2016)",
+      "The Orphanage (2007)",
+      "The Devil's Backbone (2001)",
+      "Rosemary's Baby (1968)",
+      "The Uninvited (1944)",
+      "The Autopsy of Jane Doe (2016)",
+      "The Awakening (2011)",
+      "Halloween (1978)",
+      "The French Connection (1971)",
+      "Crimson Tide (1995)",
+      "Road to Perdition (2002)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "UHF (1989)",
+        "rating": 4.0,
+        "feeling": "Zany channel-of-spoofs and absurd sketches hit my goofy, gag-driven sweet spot.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Dirty Rotten Scoundrels (1988)",
+        "rating": 4.5,
+        "feeling": "Sharp con-game farce with slick performances and clever turns keeps me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "A Fish Called Wanda (1988)",
+        "rating": 4.0,
+        "feeling": "Cheeky, farcical caper with snappy antics\u2014less wall-to-wall gags but very fun.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Three Amigos! (1986)",
+        "rating": 3.5,
+        "feeling": "Genial, cornball western spoofing that amuses even if it\u2019s lighter on killer gags.",
+        "genres": [
+          "Comedy",
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Shot in the Dark (1964)",
+        "rating": 4.5,
+        "feeling": "Prime Clouseau slapstick and escalating farce\u2014exactly my kind of classic silliness.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Man with Two Brains (1983)",
+        "rating": 4.0,
+        "feeling": "Loopy Steve Martin absurdity with inspired stupid-smart gags I\u2019m happy to ride with.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Johnny English (2003)",
+        "rating": 3.5,
+        "feeling": "Light, clean spy spoofing with enough dopey set pieces to keep it breezy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "rating": 4.5,
+        "feeling": "Warm, earnest holiday uplift that nails my soft spot for classic seasonal comfort.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Goonies (1985)",
+        "rating": 4.0,
+        "feeling": "Breezy, booby-trap adventure with rowdy kid energy that scratches my family-fun itch.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Labyrinth (1986)",
+        "rating": 3.5,
+        "feeling": "Whimsical, oddball fantasy with catchy bits\u2014charming, if a notch uneven for me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret of NIMH (1982)",
+        "rating": 4.0,
+        "feeling": "Moody, adventurous animation with heart and a touch of spooky atmosphere I like.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy",
+          "Adventure",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Great Mouse Detective (1986)",
+        "rating": 4.0,
+        "feeling": "Snappy, old-school Disney mystery romp with likable heroes and brisk charm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Hercules (1997)",
+        "rating": 3.5,
+        "feeling": "Bouncy, jokey Disney outing with a fun villain\u2014entertaining if a bit lightweight.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy",
+          "Adventure",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sword in the Stone (1963)",
+        "rating": 4.0,
+        "feeling": "Cozy, episodic Disney charm and gentle magic that goes down easy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.0,
+        "feeling": "Kindhearted, gently goofy family warmth that fits my comfort-movie lane.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Even warmer, funnier, and more generous\u2014prime cozy family comfort I eat up.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 3.5,
+        "feeling": "Playful fairy-tale send-up with sweet humor that works even if the romance is syrupy.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.0,
+        "feeling": "Elegantly crafted mythic quest with heart and heroism that hits solidly.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.5,
+        "feeling": "Elegant, maternal-stakes ghost story with rich atmosphere\u2014right in my horror wheelhouse.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "Haunting, wartime ghost tale with strong mood and melancholy that pulls me in.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rosemary's Baby (1968)",
+        "rating": 4.5,
+        "feeling": "Slow-burn occult dread done with unnerving precision\u2014the serious chills I love.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Uninvited (1944)",
+        "rating": 4.5,
+        "feeling": "Classic, suggestive ghost story with old-school romantic gloom that chills nicely.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Autopsy of Jane Doe (2016)",
+        "rating": 4.0,
+        "feeling": "Tense, contained mystery-haunting with creeping dread that keeps me on edge.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Awakening (2011)",
+        "rating": 3.5,
+        "feeling": "Handsome period spookiness with solid atmosphere, even if the bumps get familiar.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Halloween (1978)",
+        "rating": 4.0,
+        "feeling": "Lean, relentless dread and pristine suspense over gore\u2014classic slasher done right.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.0,
+        "feeling": "Gritty, propulsive cop-vs-smugglers thriller with old-school punch I appreciate.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Crimson Tide (1995)",
+        "rating": 4.0,
+        "feeling": "Taut submarine standoff with muscular tension and sharp debates that keep me locked in.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Road to Perdition (2002)",
+        "rating": 4.0,
+        "feeling": "Moody, father-son crime tale with sturdy old-school weight and handsome craft.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1229 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "City Lights (1931)",
+      "Modern Times (1936)",
+      "The Gold Rush (1925)",
+      "The General (1926)",
+      "Steamboat Bill, Jr. (1928)",
+      "The Freshman (1925)",
+      "Girl Shy (1924)",
+      "Man with a Movie Camera (1929)",
+      "Berlin: Symphony of a Great City (1927)",
+      "Nanook of the North (1922)",
+      "Bicycle Thieves (1948)",
+      "How Green Was My Valley (1941)",
+      "Tokyo Story (1953)",
+      "La Strada (1954)",
+      "The Third Man (1949)",
+      "Double Indemnity (1944)",
+      "Laura (1944)",
+      "Notorious (1946)",
+      "The 39 Steps (1935)",
+      "High Noon (1952)",
+      "The Ox-Bow Incident (1943)",
+      "The Treasure of the Sierra Madre (1948)",
+      "The Night of the Hunter (1955)",
+      "Cat People (1942)",
+      "The Innocents (1961)",
+      "The Red Turtle (2016)",
+      "The Iron Giant (1999)",
+      "The Triplets of Belleville (2003)",
+      "Metropolis (1927)",
+      "Ikiru (1952)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "City Lights (1931)",
+        "rating": 4.0,
+        "feeling": "The blend of tender romance and clever gags landed with me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Modern Times (1936)",
+        "rating": 3.5,
+        "feeling": "Inventive gags and social bite, though a touch repetitive for my taste.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Gold Rush (1925)",
+        "rating": 3.5,
+        "feeling": "Warm, hardy set-pieces and heart kept me engaged.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The General (1926)",
+        "rating": 3.5,
+        "feeling": "Impressive craft and momentum, if emotionally a bit cool.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "War",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Steamboat Bill, Jr. (1928)",
+        "rating": 3.0,
+        "feeling": "The stuntwork dazzles even when the setups feel thin.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Freshman (1925)",
+        "rating": 3.0,
+        "feeling": "Pleasantly funny and earnest, but not top-tier for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Girl Shy (1924)",
+        "rating": 3.5,
+        "feeling": "The breathless finale and shy charm really worked.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Man with a Movie Camera (1929)",
+        "rating": 3.5,
+        "feeling": "Formally thrilling city rhythms I enjoy revisiting.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Berlin: Symphony of a Great City (1927)",
+        "rating": 3.0,
+        "feeling": "Evocative urban flow, slightly less vivid to me than similar pieces.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Nanook of the North (1922)",
+        "rating": 3.0,
+        "feeling": "Absorbing survival details despite the staged elements.",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bicycle Thieves (1948)",
+        "rating": 3.0,
+        "feeling": "Quietly wrenching without tipping into sentimentality.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "How Green Was My Valley (1941)",
+        "rating": 3.0,
+        "feeling": "Handsomely told memory piece that moved me in parts.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tokyo Story (1953)",
+        "rating": 3.0,
+        "feeling": "Gentle, clear-eyed family observation that I respect and feel.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "La Strada (1954)",
+        "rating": 3.5,
+        "feeling": "Melancholy circus road feels and moral bite lingered.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 3.0,
+        "feeling": "Atmosphere and moral grayness kept me interested.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 3.0,
+        "feeling": "Sharp and efficient, if a bit schematic.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 2.5,
+        "feeling": "Moody and elegant, though it kept me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 2.5,
+        "feeling": "Classy suspense with a cool burn I admired more than loved.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The 39 Steps (1935)",
+        "rating": 2.5,
+        "feeling": "Brisk and witty, but lightly disposable to me.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 2.5,
+        "feeling": "Straight moral spine",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Ox-Bow Incident (1943)",
+        "rating": 2.5,
+        "feeling": "Lean, uneasy parable that lands its punch.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Treasure of the Sierra Madre (1948)",
+        "rating": 3.0,
+        "feeling": "Greed, grit, and doubt play well here.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Night of the Hunter (1955)",
+        "rating": 3.0,
+        "feeling": "Lyrical menace that intrigued more than it enthralled me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cat People (1942)",
+        "rating": 2.0,
+        "feeling": "Suggestive mood worked, though the romance angle left me cold.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 2.5,
+        "feeling": "Elegant ambiguity and chill, if a bit remote.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Red Turtle (2016)",
+        "rating": 4.0,
+        "feeling": "Quiet, luminous fable that left me serene.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 2.5,
+        "feeling": "Sweet and earnest, a touch too tidy for me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Triplets of Belleville (2003)",
+        "rating": 3.5,
+        "feeling": "Weirdly charming and rhythmically delightful.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Metropolis (1927)",
+        "rating": 2.5,
+        "feeling": "Grand imagery, but the melodrama and message felt heavy-handed.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ikiru (1952)",
+        "rating": 3.0,
+        "feeling": "Measured, humane search for meaning that I felt more quietly than deeply.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Kid (1921)",
+      "The Cameraman (1928)",
+      "The Kid Brother (1927)",
+      "Trouble in Paradise (1932)",
+      "The Illusionist (2010)",
+      "Spirited Away (2001)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Song of the Sea (2014)",
+      "Koyaanisqatsi (1982)",
+      "Sans Soleil (1983)",
+      "The Thin Blue Line (1988)",
+      "High and Low (1963)",
+      "Le Trou (1960)",
+      "Rififi (1955)",
+      "The Wages of Fear (1953)",
+      "Ugetsu (1953)",
+      "Onibaba (1964)",
+      "The Spirit of the Beehive (1973)",
+      "A Matter of Life and Death (1946)",
+      "The Man Who Shot Liberty Valance (1962)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "2001: A Space Odyssey (1968)",
+      "Her (2013)",
+      "Sunrise: A Song of Two Humans (1927)",
+      "The Crowd (1928)",
+      "L'Atalante (1934)",
+      "Nights of Cabiria (1957)",
+      "Wild Strawberries (1957)",
+      "Paths of Glory (1957)",
+      "Seven Samurai (1954)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Kid (1921)",
+        "rating": 4.0,
+        "feeling": "Tender pathos and spry gags hit that Chaplin sweet spot for me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Cameraman (1928)",
+        "rating": 3.5,
+        "feeling": "Supple gag craft and urban bustle kept me grinning even when the romance is thin.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Kid Brother (1927)",
+        "rating": 3.5,
+        "feeling": "Lloyd\u2019s nimble wit and build-to-a-bang structure worked nicely.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Trouble in Paradise (1932)",
+        "rating": 3.0,
+        "feeling": "Silken wit and thievery amuse, though the romantic toggling keeps me slightly detached.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Illusionist (2010)",
+        "rating": 3.5,
+        "feeling": "Melancholy grace and near-silent delicacy felt quietly luminous.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 3.0,
+        "feeling": "Imaginative and sumptuous, if a touch busy for my tastes.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.0,
+        "feeling": "Brushstroke beauty and aching tenderness left me serene and moved.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 3.0,
+        "feeling": "Folkloric warmth and music charmed me, even if the quest beats feel familiar.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Sans Soleil (1983)",
+        "rating": 3.5,
+        "feeling": "Wandering meditations on time and image stirred me in a cool, steady way.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Thin Blue Line (1988)",
+        "rating": 3.0,
+        "feeling": "Precise structure and stylized inquiry engaged more than they thrilled.",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 3.0,
+        "feeling": "Ace procedural clarity and moral shadings kept me absorbed.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Trou (1960)",
+        "rating": 3.0,
+        "feeling": "Stark patience and tactile craft drew me in without grandstanding.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 2.5,
+        "feeling": "The meticulous heist dazzles, though the hardboiled trappings feel a bit rote to me.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wages of Fear (1953)",
+        "rating": 3.0,
+        "feeling": "Sweaty tension and fatalism worked, if at a measured distance.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ugetsu (1953)",
+        "rating": 3.0,
+        "feeling": "Lyrical ghostliness and moral warning lingered more than they overwhelmed.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Onibaba (1964)",
+        "rating": 2.0,
+        "feeling": "Earthy dread and mask imagery unsettled me, though the horror mode isn\u2019t my draw.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Spirit of the Beehive (1973)",
+        "rating": 3.0,
+        "feeling": "Delicate postwar hush and childhood hauntings quietly resonated.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Matter of Life and Death (1946)",
+        "rating": 3.0,
+        "feeling": "Inventive whimsy and romance charm, even if the celestial courtroom cools me a bit.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 2.5,
+        "feeling": "Clear-eyed legend-making engaged me, though the Western shell keeps me at arm\u2019s length.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 2.5,
+        "feeling": "Languid beauty and mythic melancholy intrigued me more than they gripped me.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "2001: A Space Odyssey (1968)",
+        "rating": 2.5,
+        "feeling": "Monumental imagery and design impress, but its chill leaves me admiring from afar.",
+        "genres": [
+          "Science Fiction",
+          "Mystery",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 2.5,
+        "feeling": "Poignant and polished, though the tech-romance conceit feels a touch tidy to me.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sunrise: A Song of Two Humans (1927)",
+        "rating": 3.0,
+        "feeling": "Sumptuous visual storytelling with a melodramatic arc I respected more than loved.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Crowd (1928)",
+        "rating": 3.0,
+        "feeling": "Everyday struggle and city swell felt keenly observed and modestly affecting.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "L'Atalante (1934)",
+        "rating": 2.5,
+        "feeling": "Poetic drift and marital ache are lovely, if emotionally cool for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Nights of Cabiria (1957)",
+        "rating": 3.5,
+        "feeling": "Giulietta\u2019s resilience and Fellini\u2019s tenderness truly moved me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wild Strawberries (1957)",
+        "rating": 3.0,
+        "feeling": "Gentle retrospection and dream interludes stirred a quiet melancholy.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 3.0,
+        "feeling": "Lean moral ferocity and crisp staging landed their punch.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 3.0,
+        "feeling": "Robust craft and communal arc satisfy, even if I feel it more than I burn for it.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Great Dictator (1940)",
+      "The Circus (1928)",
+      "Speedy (1928)",
+      "The Navigator (1924)",
+      "Our Hospitality (1923)",
+      "PlayTime (1967)",
+      "Mon Oncle (1958)",
+      "I Was Born, But... (1932)",
+      "People on Sunday (1930)",
+      "The Last Laugh (1924)",
+      "Umberto D. (1952)",
+      "Il Posto (1961)",
+      "El Sur (1983)",
+      "The Cranes Are Flying (1957)",
+      "A Man Escaped (1956)",
+      "The Docks of New York (1928)",
+      "The Shop Around the Corner (1940)",
+      "Good Morning (1959)",
+      "Only Yesterday (1991)",
+      "My Neighbor Totoro (1988)",
+      "Grave of the Fireflies (1988)",
+      "Persepolis (2007)",
+      "The Devil's Backbone (2001)",
+      "Picnic at Hanging Rock (1975)",
+      "La Jet\u00e9e (1962)",
+      "Solaris (1972)",
+      "The Rider (2017)",
+      "McCabe & Mrs. Miller (1971)",
+      "After Life (1998)",
+      "Faces Places (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Great Dictator (1940)",
+        "rating": 3.5,
+        "feeling": "Spry satire and a humane plea land even when the sermon shows.",
+        "genres": [
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "The Circus (1928)",
+        "rating": 3.5,
+        "feeling": "Backstage scrapes and tender longing play with an easy grace.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Speedy (1928)",
+        "rating": 3.5,
+        "feeling": "New York bustle and fleet gags gave me a happy hum.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Navigator (1924)",
+        "rating": 3.5,
+        "feeling": "Buoyant sea-borne inventiveness and the odd-couple rhythm kept me grinning.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Our Hospitality (1923)",
+        "rating": 3.0,
+        "feeling": "Antique feud gags and courtship amuse without a deep pull.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "PlayTime (1967)",
+        "rating": 3.0,
+        "feeling": "Dazzling design and crowded choreography I admired more than I loved.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Mon Oncle (1958)",
+        "rating": 3.5,
+        "feeling": "Playful ribbing of modern fuss meets Hulot\u2019s warmth in a pleasing glide.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "I Was Born, But... (1932)",
+        "rating": 3.0,
+        "feeling": "Childhood bravado shading into adult compromise feels clean and true.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "People on Sunday (1930)",
+        "rating": 3.0,
+        "feeling": "A breezy city weekend alive with texture, even if slight.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Last Laugh (1924)",
+        "rating": 3.0,
+        "feeling": "Fluid style and social sting move me, even as the melodrama shows.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Umberto D. (1952)",
+        "rating": 3.5,
+        "feeling": "Quiet desperation and loyal companionship left a steady ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Il Posto (1961)",
+        "rating": 3.0,
+        "feeling": "Office maze and tentative hearts feel keenly observed if modest.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "El Sur (1983)",
+        "rating": 3.0,
+        "feeling": "Hushed remembrance and a father\u2019s shadow linger softly.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Cranes Are Flying (1957)",
+        "rating": 3.0,
+        "feeling": "Breathless camera and wartime ache moved me at a measured distance.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "A Man Escaped (1956)",
+        "rating": 3.0,
+        "feeling": "Meticulous patience and tactile craft absorbed me without grandstanding.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Docks of New York (1928)",
+        "rating": 3.0,
+        "feeling": "Sooty romance and harbor mood quietly pulled me in.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 3.0,
+        "feeling": "Spry wit and tender correspondence charmed me without fireworks.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Good Morning (1959)",
+        "rating": 3.0,
+        "feeling": "Gentle gags and suburban rhythms kept me smiling softly.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Only Yesterday (1991)",
+        "rating": 3.5,
+        "feeling": "Lyrical memory and quiet self-reckoning felt tender and true.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 3.0,
+        "feeling": "Pastoral hush and small wonders soothed me, even if it\u2019s slight.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Grave of the Fireflies (1988)",
+        "rating": 3.5,
+        "feeling": "Spare, humane tragedy left me with a calm, lingering hurt.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Persepolis (2007)",
+        "rating": 3.0,
+        "feeling": "Personal history and sharp wit engaged me, though the arc feels tidy.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 2.5,
+        "feeling": "Moody orphanage and ghostly grief intrigued me, but the horror frame isn\u2019t my draw.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Picnic at Hanging Rock (1975)",
+        "rating": 3.0,
+        "feeling": "Sun-dazed mystery lingered more than it gripped me.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "La Jet\u00e9e (1962)",
+        "rating": 3.5,
+        "feeling": "A melancholy time-loop reverie that stirred me in its brief, potent spell.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 3.0,
+        "feeling": "Somber, memory-haunted space drift absorbed me at a cool remove.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Rider (2017)",
+        "rating": 1.0,
+        "feeling": "Action-mash hero antics left me cold despite the novelty.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "McCabe & Mrs. Miller (1971)",
+        "rating": 2.5,
+        "feeling": "Wintry frontier drift and a bruised partnership engaged me more in mood than momentum.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Faces Places (2017)",
+        "rating": 3.5,
+        "feeling": "Warm road encounters and a playful kinship left me gently uplifted.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Apartment (1960)",
+      "Brief Encounter (1945)",
+      "In the Mood for Love (2000)",
+      "The Earrings of Madame de... (1953)",
+      "Singin' in the Rain (1952)",
+      "The Secret of Roan Inish (1994)",
+      "Koyaanisqatsi (1982)",
+      "Close-Up (1990)",
+      "Still Walking (2008)",
+      "Paterson (2016)",
+      "Columbus (2017)",
+      "The Gleaners and I (2000)",
+      "Los Angeles Plays Itself (2003)",
+      "The Haunting (1963)",
+      "The Others (2001)",
+      "Stalker (1979)",
+      "Arrival (2016)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "The Straight Story (1999)",
+      "Bad Day at Black Rock (1955)",
+      "The Last Picture Show (1971)",
+      "Show People (1928)",
+      "The Passion of Joan of Arc (1928)",
+      "A Canterbury Tale (1944)",
+      "In a Lonely Place (1950)",
+      "Charade (1963)",
+      "Whisper of the Heart (1995)",
+      "When Marnie Was There (2014)",
+      "Wolfwalkers (2020)",
+      "The Sting (1973)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Apartment (1960)",
+        "rating": 3.5,
+        "feeling": "Tender office melancholy and sly wit hit a humane groove for me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 3.0,
+        "feeling": "Hushed longing and moral restraint moved me in a quiet way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 3.5,
+        "feeling": "Sumptuous restraint and ache I felt at a cool, steady burn.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Earrings of Madame de... (1953)",
+        "rating": 2.5,
+        "feeling": "Gliding elegance I admired more than I truly felt.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 3.0,
+        "feeling": "Breezy showmanship and transition gags delighted, if lightly.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Secret of Roan Inish (1994)",
+        "rating": 3.0,
+        "feeling": "Folkloric hush and seaside yearning charmed without overwhelming.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Close-Up (1990)",
+        "rating": 3.5,
+        "feeling": "Layered self-portraiture and moral empathy stirred me thoughtfully.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Still Walking (2008)",
+        "rating": 3.5,
+        "feeling": "Tender, clear-eyed family rhythms left a soft, lasting ache.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paterson (2016)",
+        "rating": 3.0,
+        "feeling": "Daily poetry and gentle routines soothed me, if a bit slight.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Columbus (2017)",
+        "rating": 3.0,
+        "feeling": "Hushed connection and crisp spaces engaged me at a measured remove.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Gleaners and I (2000)",
+        "rating": 3.5,
+        "feeling": "Warm curiosity and playful gleaning left me gently uplifted.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 2.5,
+        "feeling": "Suggestive dread worked even as the horror frame keeps me cool.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 2.5,
+        "feeling": "Elegantly eerie, with chill atmosphere I admired more than loved.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 3.0,
+        "feeling": "Somber drift and metaphysical hush absorbed me at a distance.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 2.5,
+        "feeling": "Polished, poignant sci-fi that felt a touch tidy to me.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 2.5,
+        "feeling": "Inventive memory romance whose cleverness felt slightly too neat.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Straight Story (1999)",
+        "rating": 3.5,
+        "feeling": "Plainspoken kindness and slow-road grace quietly moved me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bad Day at Black Rock (1955)",
+        "rating": 2.5,
+        "feeling": "Lean moral parable that lands its punch without deep heat.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Last Picture Show (1971)",
+        "rating": 3.0,
+        "feeling": "Dusty small-town drift and aching youth held me in a calm way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Show People (1928)",
+        "rating": 3.0,
+        "feeling": "Spry studio satire and starry gags kept me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Passion of Joan of Arc (1928)",
+        "rating": 3.0,
+        "feeling": "Fierce close-ups and spiritual torment gripped me more in respect than heat.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "A Canterbury Tale (1944)",
+        "rating": 3.0,
+        "feeling": "Odd, gentle wartime wayfaring I found quietly agreeable.",
+        "genres": [
+          "Mystery",
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In a Lonely Place (1950)",
+        "rating": 3.0,
+        "feeling": "Brittle romance and noir doubt engaged me without consuming me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 2.5,
+        "feeling": "Glossy caper-romance that amuses while staying a bit disposable.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 3.5,
+        "feeling": "Tender coming-of-age and creative stirrings left a warm glow.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "When Marnie Was There (2014)",
+        "rating": 3.0,
+        "feeling": "Melancholy mystery and soft forgiveness resonated gently.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 3.0,
+        "feeling": "Folkloric vigor and lush design charmed me even when busy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 2.5,
+        "feeling": "Slick con-game pleasures entertain, though the cleverness feels rote.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1209 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Postman, The (1997)",
+      "Chariots of Fire (1981)",
+      "Emma (1996)",
+      "Sense and Sensibility (1995)",
+      "Waking Ned Devine (a.k.a. Waking Ned) (1998)",
+      "Jesus Christ Superstar (1973)",
+      "Persuasion (1995)",
+      "Big Bully (1996)",
+      "Apostle, The (1997)",
+      "Gods Must Be Crazy, The (1980)",
+      "Napoleon Dynamite (2004)",
+      "Enchanted April (1992)",
+      "Persuasion (2007)",
+      "Strictly Ballroom (1992)",
+      "Dish, The (2001)",
+      "English Patient, The (1996)",
+      "Wish Upon a Star (1996)",
+      "Babe (1995)",
+      "My Big Fat Greek Wedding (2002)",
+      "Cinderella (1997)",
+      "Gone with the Wind (1939)",
+      "Midnight Diner (2019)",
+      "Wiz, The (1978)",
+      "Pride and Prejudice (1995)",
+      "What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004)",
+      "I Feel Pretty (2018)",
+      "Nacho Libre (2006)",
+      "Emma (2020)",
+      "Horse Whisperer, The (1998)",
+      "Yentl (1983)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Postman, The (1997)",
+        "rating": 2.5,
+        "feeling": "The post-apocalyptic hopefulness appealed, but the delivery felt heavy-handed and overlong.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Chariots of Fire (1981)",
+        "rating": 4.5,
+        "feeling": "Stirring, dignified inspiration with a soulful pulse that stuck with me.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Emma (1996)",
+        "rating": 4.0,
+        "feeling": "Witty, warm, and charming enough to make the matchmaking mischief delightful.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.5,
+        "feeling": "Graceful and heartfelt, with emotions and manners that really landed.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Waking Ned Devine (a.k.a. Waking Ned) (1998)",
+        "rating": 4.5,
+        "feeling": "Cozy, clever, and full of community spirit that made me grin.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Jesus Christ Superstar (1973)",
+        "rating": 3.5,
+        "feeling": "Bold and intriguing, though the rock-opera style isn\u2019t fully my groove.",
+        "genres": [
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Persuasion (1995)",
+        "rating": 4.0,
+        "feeling": "Quietly romantic and mature in a way I really appreciated.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Big Bully (1996)",
+        "rating": 1.5,
+        "feeling": "Mean-spirited and flat, with little charm to soften the edges.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Apostle, The (1997)",
+        "rating": 4.0,
+        "feeling": "A flawed man\u2019s fervor made for compelling, human drama.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Gods Must Be Crazy, The (1980)",
+        "rating": 3.5,
+        "feeling": "Gentle laughs and a sweet spirit, even if a bit dated.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Napoleon Dynamite (2004)",
+        "rating": 2.5,
+        "feeling": "Quirky deadpan that left me more bemused than charmed.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Persuasion (2007)",
+        "rating": 3.5,
+        "feeling": "Still affecting, though less textured and luminous than the earlier take.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Strictly Ballroom (1992)",
+        "rating": 4.0,
+        "feeling": "Fizzy, feel-good momentum with satisfying underdog sparkle.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dish, The (2001)",
+        "rating": 2.5,
+        "feeling": "Neat idea, but too slight to leave much of an impression.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "English Patient, The (1996)",
+        "rating": 4.0,
+        "feeling": "Lush and tragic, sometimes slow, but emotionally rewarding.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Wish Upon a Star (1996)",
+        "rating": 2.5,
+        "feeling": "Cute body-swap fun, yet pretty disposable for me.",
+        "genres": [
+          "TV Movie",
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Babe (1995)",
+        "rating": 4.5,
+        "feeling": "Tender, funny, and quietly profound\u2014an easy smile-maker.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "My Big Fat Greek Wedding (2002)",
+        "rating": 4.0,
+        "feeling": "Broad but affectionate laughs with a big, beating heart.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cinderella (1997)",
+        "rating": 3.0,
+        "feeling": "Pleasant and tuneful, if more charming than memorable.",
+        "genres": [
+          "TV Movie",
+          "Family",
+          "Fantasy",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Gone with the Wind (1939)",
+        "rating": 3.5,
+        "feeling": "Grand and sweeping, though its excess could be wearying.",
+        "genres": [
+          "Drama",
+          "War",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Midnight Diner (2019)",
+        "rating": 4.0,
+        "feeling": "Gentle, savory slices of life that warmed me up.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wiz, The (1978)",
+        "rating": 2.5,
+        "feeling": "Inventive in spots, but the magic didn\u2019t fully click for me.",
+        "genres": [
+          "Music",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Pride and Prejudice (1995)",
+        "rating": 2.5,
+        "feeling": "Informative enough, but a behind-the-scenes feature holds limited appeal.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004)",
+        "rating": 2.0,
+        "feeling": "Big questions, but the pop-philosophy sheen didn\u2019t convince me.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "I Feel Pretty (2018)",
+        "rating": 3.0,
+        "feeling": "Sweet message with uneven laughs, pleasant overall.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Nacho Libre (2006)",
+        "rating": 3.5,
+        "feeling": "Goofy heart and Jack Black charm made it hard not to smile.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Emma (2020)",
+        "rating": 3.5,
+        "feeling": "Stylish and playful, though it held me at a polite distance.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Horse Whisperer, The (1998)",
+        "rating": 3.5,
+        "feeling": "Earnest and scenic, a bit slow but quietly moving.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Yentl (1983)",
+        "rating": 4.0,
+        "feeling": "Soulful songs and a sincere story of identity won me over.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Blair Witch Project, The (1999)",
+      "Farewell My Concubine (Ba wang bie ji) (1993)",
+      "My Favorite Year (1982)",
+      "Mixed Nuts (1994)",
+      "Begotten (1990)",
+      "Tales from the Hood (1995)",
+      "River Runs Through It, A (1992)",
+      "Village, The (2004)",
+      "Finding 'Ohana (2021)",
+      "First Wives Club, The (1996)",
+      "Family Guy Presents: Blue Harvest (2007)",
+      "Wag the Dog (1997)",
+      "Dear Comrade (2019)",
+      "Overcome (2008)",
+      "Among the Living (2014)",
+      "Major Payne (1995)",
+      "All the Gods in the Sky (2019)",
+      "American Pop (1981)",
+      "Girl 6 (1996)",
+      "You're Ugly Too (2015)",
+      "Night Shift (1982)",
+      "The Amorous Adventures of Moll Flanders (1965)",
+      "Ernst Th\u00e4lmann - Sohn seiner Klasse (1954)",
+      "Tango (1998)",
+      "La nottata (1974)",
+      "Dead Presidents (1995)",
+      "Shrek the Halls (2007)",
+      "Pacific Heights (1990)",
+      "Pascual Duarte (1976)",
+      "Something Borrowed (2011)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Blair Witch Project, The (1999)",
+        "rating": 2.0,
+        "feeling": "Clever premise, but the shaky dread and lack of payoff left me cold",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Farewell My Concubine (Ba wang bie ji) (1993)",
+        "rating": 4.5,
+        "feeling": "Sweeping, heartbreaking, and artfully composed in a way that lingered",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "My Favorite Year (1982)",
+        "rating": 4.0,
+        "feeling": "Nostalgic, witty, and sweetly humane",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mixed Nuts (1994)",
+        "rating": 2.0,
+        "feeling": "Frantic holiday farce with thin warmth and scattered laughs",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tales from the Hood (1995)",
+        "rating": 2.5,
+        "feeling": "Its pointed themes landed, but the horror trappings kept me at a distance",
+        "genres": [
+          "Horror",
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "River Runs Through It, A (1992)",
+        "rating": 4.0,
+        "feeling": "Lyrical, serene, and quietly moving",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Village, The (2004)",
+        "rating": 3.5,
+        "feeling": "Atmospheric and earnest, with a payoff that moved me more than it surprised",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Finding 'Ohana (2021)",
+        "rating": 3.5,
+        "feeling": "A warm, breezy adventure whose heritage heart won me over",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "First Wives Club, The (1996)",
+        "rating": 3.5,
+        "feeling": "Spirited camaraderie and fizzy fun, even when it gets broad",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Wag the Dog (1997)",
+        "rating": 4.0,
+        "feeling": "Smart, sly satire that felt both funny and unsettling",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dear Comrade (2019)",
+        "rating": 3.5,
+        "feeling": "Impassioned and sincere, if occasionally overheated",
+        "genres": [
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Overcome (2008)",
+        "rating": 2.0,
+        "feeling": "Well-meant but heavy-handed and derivative",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Among the Living (2014)",
+        "rating": 2.0,
+        "feeling": "Tense setup, but the grimness outweighed the intrigue for me",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Major Payne (1995)",
+        "rating": 2.0,
+        "feeling": "Loud, cartoonish antics with just a hint of heart",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "All the Gods in the Sky (2019)",
+        "rating": 1.5,
+        "feeling": "Bleak and oppressive in a way that didn\u2019t feel illuminating",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "American Pop (1981)",
+        "rating": 4.0,
+        "feeling": "A tuneful, panoramic journey that resonated",
+        "genres": [
+          "Animation",
+          "Music",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Girl 6 (1996)",
+        "rating": 2.5,
+        "feeling": "Stylish and sporadically engaging, but emotionally distant",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "You're Ugly Too (2015)",
+        "rating": 4.0,
+        "feeling": "Tender, quietly funny, and ultimately touching",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Night Shift (1982)",
+        "rating": 3.0,
+        "feeling": "Breezy early-80s silliness with some charm and some creaks",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Amorous Adventures of Moll Flanders (1965)",
+        "rating": 3.0,
+        "feeling": "A cheeky period romp more playful than affecting",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Ernst Th\u00e4lmann - Sohn seiner Klasse (1954)",
+        "rating": 2.5,
+        "feeling": "Earnest and informative, but didactic enough to dull the drama",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tango (1998)",
+        "rating": 3.5,
+        "feeling": "Lush, sensual dance cinema whose movement outshone its melodrama",
+        "genres": [
+          "Music",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dead Presidents (1995)",
+        "rating": 3.0,
+        "feeling": "Gritty and forceful, but too bleak for me to fully embrace",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Shrek the Halls (2007)",
+        "rating": 2.5,
+        "feeling": "Cute in spots, but mostly forgettable holiday filler",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Pacific Heights (1990)",
+        "rating": 3.0,
+        "feeling": "Tense and watchable, though a bit sour and contrived",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Pascual Duarte (1976)",
+        "rating": 2.5,
+        "feeling": "Stark and intense, but the relentless brutality wore me down",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Something Borrowed (2011)",
+        "rating": 2.0,
+        "feeling": "Glossy yet sour, with a love triangle that left me cold",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Passion of the Christ, The (2004)",
+      "Dude, Where's My Car? (2000)",
+      "Rugrats Go Wild! (2003)",
+      "Antichrist (2009)",
+      "Transylmania (2009)",
+      "Kill List (2011)",
+      "Family Guy Presents: Blue Harvest (2007)",
+      "Alan Smithee Film: Burn Hollywood Burn, An (1997)",
+      "Adventures of Pluto Nash, The (2002)",
+      "DMB (2000)",
+      "Pootie Tang (2001)",
+      "Mannan (1992)",
+      "Two if by Sea (1996)",
+      "What Planet Are You From? (2000)",
+      "Gods and Generals (2003)",
+      "For Roseanna (Roseanna's Grave) (1997)",
+      "Monsters vs Aliens: Mutant Pumpkins from Outer Space (2009)",
+      "Crossing Guard, The (1995)",
+      "High Tension (Haute tension) (Switchblade Romance) (2003)",
+      "Detroit Rock City (1999)",
+      "Screwed (2000)",
+      "Chinese Coffee (2000)",
+      "Hamlet 2 (2008)",
+      "The Minimalists: Less Is Now (2021)",
+      "Brave Little Toaster, The (1987)",
+      "Shakes the Clown (1992)",
+      "Until Cancer Do Us Part (2015)",
+      "Forces of Nature (1999)",
+      "Fair Game (1995)",
+      "Jack-O (1995)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Passion of the Christ, The (2004)",
+        "rating": 2.0,
+        "feeling": "Spiritually potent, but the unrelenting, graphic brutality left me numb more than moved.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dude, Where's My Car? (2000)",
+        "rating": 2.0,
+        "feeling": "Goofy energy, yet too dopey and disposable to really land for me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Rugrats Go Wild! (2003)",
+        "rating": 2.5,
+        "feeling": "Cute crossover antics, but mostly lightweight and forgettable.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Antichrist (2009)",
+        "rating": 1.0,
+        "feeling": "Technically striking, but the bleak, punishing despair was not for me.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Transylmania (2009)",
+        "rating": 1.5,
+        "feeling": "Broad, juvenile spoofing with few laughs and less charm.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Kill List (2011)",
+        "rating": 2.0,
+        "feeling": "Grim and tense, but the oppressive dread outweighed any reward.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Adventures of Pluto Nash, The (2002)",
+        "rating": 1.5,
+        "feeling": "Shrill, weightless sci-fi shenanigans with little warmth or wit.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "DMB (2000)",
+        "rating": 2.5,
+        "feeling": "With no real hook, it played like slight, hit-and-miss comedy.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Pootie Tang (2001)",
+        "rating": 2.0,
+        "feeling": "A few absurd chuckles, but the sketchy silliness wore thin fast.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Mannan (1992)",
+        "rating": 3.0,
+        "feeling": "Old-fashioned melodrama with an earnest streak that carried it some.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Two if by Sea (1996)",
+        "rating": 2.5,
+        "feeling": "A couple sparks of chemistry, but the caper-romance felt contrived.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "What Planet Are You From? (2000)",
+        "rating": 2.5,
+        "feeling": "Sweet idea, but it is breezy, uneven fluff.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Gods and Generals (2003)",
+        "rating": 2.5,
+        "feeling": "Sincere and stately, yet ponderous and reverential to a fault.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "For Roseanna (Roseanna's Grave) (1997)",
+        "rating": 4.0,
+        "feeling": "Bittersweet, humane, and quietly heartwarming in its small-town way.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Monsters vs Aliens: Mutant Pumpkins from Outer Space (2009)",
+        "rating": 2.5,
+        "feeling": "Seasonal silliness that is cute enough and quickly forgotten.",
+        "genres": [
+          "TV Movie",
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Crossing Guard, The (1995)",
+        "rating": 3.5,
+        "feeling": "Raw grief and guilt made it tough but compelling.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "High Tension (Haute tension) (Switchblade Romance) (2003)",
+        "rating": 1.5,
+        "feeling": "Relentless nastiness drowned out the suspense for me.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Detroit Rock City (1999)",
+        "rating": 3.0,
+        "feeling": "Rowdy, nostalgic romp with energy to spare but not much depth.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Screwed (2000)",
+        "rating": 2.0,
+        "feeling": "Loud, strained hijinks with only scattered laughs.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Chinese Coffee (2000)",
+        "rating": 3.5,
+        "feeling": "Talky, intimate character piece that rewarded patience.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hamlet 2 (2008)",
+        "rating": 3.5,
+        "feeling": "Goofy and uneven, yet its scrappy, earnest showmanship won me over enough.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Minimalists: Less Is Now (2021)",
+        "rating": 2.5,
+        "feeling": "Well-meaning and tidy, but a bit preachy and thin.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Brave Little Toaster, The (1987)",
+        "rating": 4.0,
+        "feeling": "Inventive, tender adventure with a quietly beating heart.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Until Cancer Do Us Part (2015)",
+        "rating": 4.0,
+        "feeling": "Intimate and compassionate, sobering yet moving.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Forces of Nature (1999)",
+        "rating": 3.0,
+        "feeling": "Charming leads and a breezy pace, even if it is messy.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Fair Game (1995)",
+        "rating": 2.0,
+        "feeling": "Noisy, shallow action that left me indifferent.",
+        "genres": [
+          "Action"
+        ]
+      },
+      {
+        "title": "Jack-O (1995)",
+        "rating": 1.0,
+        "feeling": "Cheap, joyless slasher fare that I could not warm to.",
+        "genres": [
+          "Horror"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Stupids, The (1996)",
+      "Little Shop of Horrors, The (1960)",
+      "Toys (1992)",
+      "Cook the Thief His Wife & Her Lover, The (1989)",
+      "Random Hearts (1999)",
+      "Step Brothers (2008)",
+      "War of the Worlds, The (1953)",
+      "Winter in Prostokvashino (1984)",
+      "Ready to Wear (Pret-A-Porter) (1994)",
+      "George Carlin: Doin' it Again (1990)",
+      "Mark of Zorro, The (1940)",
+      "Drowning by Numbers (1988)",
+      "Drowning Mona (2000)",
+      "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "Must Read After My Death (2007)",
+      "Day the Earth Stood Still, The (1951)",
+      "Knightriders (1981)",
+      "MatchMaker, The (1997)",
+      "Joe Versus the Volcano (1990)",
+      "Rudolph, the Red-Nosed Reindeer (1964)",
+      "Something Wicked This Way Comes (1983)",
+      "How the Grinch Stole Christmas (a.k.a. The Grinch) (2000)",
+      "Victor/Victoria (1982)",
+      "Macbeth (1948)",
+      "Mama (2013)",
+      "Accused at 17 (2009)",
+      "Smilla's Sense of Snow (1997)",
+      "Radioland Murders (1994)",
+      "I Love You, I Love You Not (1996)",
+      "Zr\u00f3bmy sobie wnuka (2003)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Stupids, The (1996)",
+        "rating": 1.5,
+        "feeling": "Shrill, dim-witted slapstick with too little warmth to latch onto.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Little Shop of Horrors, The (1960)",
+        "rating": 2.5,
+        "feeling": "A clever, scrappy premise, but the macabre silliness kept me at arm\u2019s length.",
+        "genres": [
+          "Horror",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Toys (1992)",
+        "rating": 2.5,
+        "feeling": "Whimsical and imaginative, yet heavy-handed and uneven enough to blunt the charm.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Cook the Thief His Wife & Her Lover, The (1989)",
+        "rating": 2.0,
+        "feeling": "Sumptuous to look at, but the cruelty and decadence made it more punishing than rewarding.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Random Hearts (1999)",
+        "rating": 2.5,
+        "feeling": "Somber and earnest, but sluggish and oddly uninvolving despite the hook.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Step Brothers (2008)",
+        "rating": 2.5,
+        "feeling": "A few big laughs, but the coarse, shouty man-child antics wore thin.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "War of the Worlds, The (1953)",
+        "rating": 3.0,
+        "feeling": "Classic, tense sci-fi spectacle, engaging if not especially warm.",
+        "genres": [
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "Winter in Prostokvashino (1984)",
+        "rating": 3.5,
+        "feeling": "Cozy, gently funny wintertime comforts with a sweet, homespun feel.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Ready to Wear (Pret-A-Porter) (1994)",
+        "rating": 2.5,
+        "feeling": "Glossy, scattershot satire that felt more busy than biting.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "George Carlin: Doin' it Again (1990)",
+        "rating": 3.0,
+        "feeling": "Smart, prickly observations that hit and miss for me, with a caustic edge.",
+        "genres": [
+          "TV Movie",
+          "Comedy",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Mark of Zorro, The (1940)",
+        "rating": 4.0,
+        "feeling": "Dashing, old-school swashbuckling that goes down delightfully light.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "Action"
+        ]
+      },
+      {
+        "title": "Drowning by Numbers (1988)",
+        "rating": 2.5,
+        "feeling": "Arch, morbid cleverness that intrigued more than it moved me.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Drowning Mona (2000)",
+        "rating": 2.5,
+        "feeling": "Sour, quirky small-town comedy with laughs that only sporadically landed.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+        "rating": 3.0,
+        "feeling": "Energetic and goofy with some laughs, but too broad and blaring overall.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Must Read After My Death (2007)",
+        "rating": 4.0,
+        "feeling": "Intimate, haunting home-movie archaeology that left a lingering ache.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Day the Earth Stood Still, The (1951)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, humane sci-fi with a moral clarity that resonated.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Knightriders (1981)",
+        "rating": 3.5,
+        "feeling": "Odd but earnest, a shaggy ensemble piece with heart for its found family.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "MatchMaker, The (1997)",
+        "rating": 3.5,
+        "feeling": "Sweet, lightly amusing romance with a simple, pleasing charm.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Joe Versus the Volcano (1990)",
+        "rating": 4.0,
+        "feeling": "Offbeat and big-hearted, a whimsical fable that won me over.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Rudolph, the Red-Nosed Reindeer (1964)",
+        "rating": 4.5,
+        "feeling": "Tender misfit magic and timeless tunes that warmed me right up.",
+        "genres": [
+          "Animation",
+          "Family",
+          "TV Movie",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Something Wicked This Way Comes (1983)",
+        "rating": 3.0,
+        "feeling": "Moody, nostalgic dark fantasy whose menace sometimes chilled more than charmed.",
+        "genres": [
+          "Fantasy",
+          "Mystery",
+          "Horror"
+        ]
+      },
+      {
+        "title": "How the Grinch Stole Christmas (a.k.a. The Grinch) (2000)",
+        "rating": 2.5,
+        "feeling": "Loud and gaudy, but the core of kindness still peeks through.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Victor/Victoria (1982)",
+        "rating": 4.0,
+        "feeling": "Witty, tuneful and charmingly gender-bending, with real warmth.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Macbeth (1948)",
+        "rating": 3.0,
+        "feeling": "Atmospheric and forceful, though its bleakness kept me at a remove.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mama (2013)",
+        "rating": 2.0,
+        "feeling": "Atmospheric and jumpy, but the grim supernatural dread wasn\u2019t my thing.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Accused at 17 (2009)",
+        "rating": 2.0,
+        "feeling": "Well-meaning TV-movie melodrama that felt thin and contrived.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Smilla's Sense of Snow (1997)",
+        "rating": 3.5,
+        "feeling": "Icy, intriguing mystery with atmosphere to spare, if a bit remote.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Radioland Murders (1994)",
+        "rating": 2.5,
+        "feeling": "Frantic, old-timey farce with energy but not much heart.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "I Love You, I Love You Not (1996)",
+        "rating": 3.5,
+        "feeling": "Tender intergenerational melancholy that touched me more than it thrilled.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zr\u00f3bmy sobie wnuka (2003)",
+        "rating": 3.0,
+        "feeling": "Folksy, good-natured family scheming that amuses more than it delights.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

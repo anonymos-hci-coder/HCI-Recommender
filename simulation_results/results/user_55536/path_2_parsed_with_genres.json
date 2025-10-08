@@ -1,0 +1,1305 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "La La Land (2016)",
+      "The Greatest Showman (2017)",
+      "Enchanted (2007)",
+      "Cinderella (2015)",
+      "Ever After: A Cinderella Story (1998)",
+      "Stardust (2007)",
+      "The Princess Bride (1987)",
+      "Tangled (2010)",
+      "Frozen (2013)",
+      "Moana (2016)",
+      "How to Train Your Dragon (2010)",
+      "Paddington 2 (2017)",
+      "About Time (2013)",
+      "The Age of Adaline (2015)",
+      "The Time Traveler's Wife (2009)",
+      "The Lake House (2006)",
+      "Interstellar (2014)",
+      "The Martian (2015)",
+      "Her (2013)",
+      "Midnight in Paris (2011)",
+      "Notting Hill (1999)",
+      "10 Things I Hate About You (1999)",
+      "You've Got Mail (1998)",
+      "The Holiday (2006)",
+      "Crazy Rich Asians (2018)",
+      "The Big Sick (2017)",
+      "Crazy, Stupid, Love. (2011)",
+      "Pride & Prejudice (2005)",
+      "Sense and Sensibility (1995)",
+      "The Secret Life of Walter Mitty (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.5,
+        "feeling": "Swept up by the music and the bittersweet tug between dreams and love.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Greatest Showman (2017)",
+        "rating": 4.0,
+        "feeling": "An uplifting tale of ambition and heart that left me smiling.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 4.5,
+        "feeling": "A charming blend of fairy-tale whimsy and real-world romance.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cinderella (2015)",
+        "rating": 4.5,
+        "feeling": "Classic, kind-hearted magic done with warmth and elegance.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ever After: A Cinderella Story (1998)",
+        "rating": 4.0,
+        "feeling": "A grounded, spirited take on Cinderella that still made me swoon.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 4.5,
+        "feeling": "Whimsical adventure and sincere romance that felt wonderfully transportive.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Pure delight\u2014witty, romantic, and irresistible.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.0,
+        "feeling": "Bright, funny, and sweet with a lovable duo to root for.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Frozen (2013)",
+        "rating": 3.5,
+        "feeling": "Cute and heartfelt, though it didn\u2019t sweep me away like others.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.5,
+        "feeling": "A spirited, uplifting journey anchored by courage and heart.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.0,
+        "feeling": "A tender, exciting friendship story with soaring moments.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Warm, funny, and irresistibly kind\u2014left me glowing.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.5,
+        "feeling": "Gently profound and romantic",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Age of Adaline (2015)",
+        "rating": 4.0,
+        "feeling": "Elegant and wistful, with a timeless romantic pull.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Time Traveler's Wife (2009)",
+        "rating": 3.5,
+        "feeling": "Bittersweet and tender, though a touch uneven for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Lake House (2006)",
+        "rating": 4.0,
+        "feeling": "Dreamy and hopeful, a soft spot for love across time.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.0,
+        "feeling": "Epic and emotional, balancing cosmic wonder with family ties.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.0,
+        "feeling": "Engaging, clever, and surprisingly heartwarming.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "Thoughtful and tender, a modern love story that lingers.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Midnight in Paris (2011)",
+        "rating": 4.0,
+        "feeling": "Charming and nostalgic, like a romantic postcard.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.5,
+        "feeling": "Irresistibly sweet with lovely chemistry that won me over.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "10 Things I Hate About You (1999)",
+        "rating": 4.0,
+        "feeling": "Smart, spirited, and sincerely romantic.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.5,
+        "feeling": "Cozy and romantic",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 4.0,
+        "feeling": "Comforting, feel-good romance with plenty of warmth.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 4.0,
+        "feeling": "Glitzy, funny, and heartfelt in all the right ways.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.0,
+        "feeling": "Sincere, funny, and touching without feeling heavy.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love. (2011)",
+        "rating": 4.0,
+        "feeling": "Breezy, charming, and emotionally satisfying.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.5,
+        "feeling": "Swoon-worthy, gorgeously told, and deeply romantic.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.0,
+        "feeling": "Graceful and tender with quietly moving emotions.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Secret Life of Walter Mitty (2013)",
+        "rating": 3.5,
+        "feeling": "Inspiring and gentle, though more a mood than a rush.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Paddington (2014)",
+      "Brooklyn (2015)",
+      "Emma. (2020)",
+      "Becoming Jane (2007)",
+      "Little Women (2019)",
+      "Roman Holiday (1953)",
+      "Sabrina (1995)",
+      "The Guernsey Literary and Potato Peel Pie Society (2018)",
+      "While You Were Sleeping (1995)",
+      "Sleepless in Seattle (1993)",
+      "When Harry Met Sally... (1989)",
+      "13 Going on 30 (2004)",
+      "Two Weeks Notice (2002)",
+      "Miss Congeniality (2000)",
+      "Bridget Jones's Diary (2001)",
+      "Set It Up (2018)",
+      "To All the Boys I\u2019ve Loved Before (2018)",
+      "The Princess Diaries (2001)",
+      "The Parent Trap (1998)",
+      "Penelope (2006)",
+      "Ella Enchanted (2004)",
+      "A Knight\u2019s Tale (2001)",
+      "The Mummy (1999)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+      "Big Fish (2003)",
+      "The Truman Show (1998)",
+      "Singin\u2019 in the Rain (1952)",
+      "My Fair Lady (1964)",
+      "Hairspray (2007)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "Warm, funny, and kind-hearted\u2014this felt like a comforting hug in movie form.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 4.5,
+        "feeling": "Tender, homespun romance that quietly swept me away.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Emma. (2020)",
+        "rating": 4.0,
+        "feeling": "A sprightly, elegant Austen confection with charming sparks.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Becoming Jane (2007)",
+        "rating": 3.5,
+        "feeling": "Wistful and romantic, though a touch restrained for me.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Little Women (2019)",
+        "rating": 4.5,
+        "feeling": "Earnest, cozy, and deeply affectionate\u2014sisters and dreams that linger.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 4.0,
+        "feeling": "Effervescent and romantic, a lovely escape.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sabrina (1995)",
+        "rating": 4.0,
+        "feeling": "A glossy, grown-up fairy tale with sweet chemistry.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Guernsey Literary and Potato Peel Pie Society (2018)",
+        "rating": 4.5,
+        "feeling": "Bookish warmth, gentle romance, and healing community\u2014right up my alley.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 4.5,
+        "feeling": "Cozy, funny, and irresistibly sweet.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 4.5,
+        "feeling": "Tender and hopeful, like a warm hug of a movie.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.5,
+        "feeling": "Smart, sparkling, and sincerely romantic.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "13 Going on 30 (2004)",
+        "rating": 4.0,
+        "feeling": "Bubbly, wish-fulfillment fun with a heartfelt core.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Two Weeks Notice (2002)",
+        "rating": 4.0,
+        "feeling": "Light, charming banter with a comfy, classic rom-com feel.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Miss Congeniality (2000)",
+        "rating": 4.0,
+        "feeling": "Goofy, spirited fun with a lovable makeover glow.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Bridget Jones's Diary (2001)",
+        "rating": 4.0,
+        "feeling": "Messy, funny, and ultimately very endearing.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Set It Up (2018)",
+        "rating": 4.0,
+        "feeling": "Bright, breezy, and sweetly satisfying.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "To All the Boys I\u2019ve Loved Before (2018)",
+        "rating": 4.0,
+        "feeling": "Cute, sincere teen romance that made me smile.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Princess Diaries (2001)",
+        "rating": 4.5,
+        "feeling": "A delightful modern princess fantasy with kindness at its heart.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Parent Trap (1998)",
+        "rating": 4.5,
+        "feeling": "Wholesome, clever, and full of feel-good sparks.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Penelope (2006)",
+        "rating": 4.0,
+        "feeling": "Whimsical and kind, a self-love fairy tale I enjoyed.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ella Enchanted (2004)",
+        "rating": 4.0,
+        "feeling": "Playful, earnest magic with a girl-power streak.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Knight\u2019s Tale (2001)",
+        "rating": 4.0,
+        "feeling": "Rousing, romantic fun with a lovable underdog spirit.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.0,
+        "feeling": "Swashbuckling adventure with just the right dash of romance.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.0,
+        "feeling": "A zippy, adventurous romp that kept me grinning.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+        "rating": 4.0,
+        "feeling": "Sweeping, wondrous family fantasy with a brave heart.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Big Fish (2003)",
+        "rating": 4.0,
+        "feeling": "Whimsical tall tales with tender father-son longing.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, heartfelt, and quietly awe-inspiring.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Singin\u2019 in the Rain (1952)",
+        "rating": 4.0,
+        "feeling": "Joyous, fizzy musical magic that left me light.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Fair Lady (1964)",
+        "rating": 4.0,
+        "feeling": "Elegant tunes and a satisfying makeover arc.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hairspray (2007)",
+        "rating": 4.0,
+        "feeling": "Upbeat, catchy, and full of buoyant optimism.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Mamma Mia! (2008)",
+      "Begin Again (2013)",
+      "Once (2007)",
+      "The Young Victoria (2009)",
+      "Belle (2013)",
+      "Far from the Madding Crowd (2015)",
+      "Jane Eyre (2011)",
+      "Persuasion (1995)",
+      "Shakespeare in Love (1998)",
+      "The Hundred-Foot Journey (2014)",
+      "Saving Mr. Banks (2013)",
+      "Finding Neverland (2004)",
+      "The Best Exotic Marigold Hotel (2011)",
+      "The Secret Garden (1993)",
+      "A Little Princess (1995)",
+      "Kiki's Delivery Service (1989)",
+      "Howl's Moving Castle (2004)",
+      "Spirited Away (2001)",
+      "Ratatouille (2007)",
+      "WALL\u00b7E (2008)",
+      "Up (2009)",
+      "Coco (2017)",
+      "The Map of Tiny Perfect Things (2021)",
+      "Palm Springs (2020)",
+      "Somewhere in Time (1980)",
+      "The Illusionist (2006)",
+      "Titanic (1997)",
+      "Australia (2008)",
+      "Wonder Woman (2017)",
+      "Romancing the Stone (1984)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Mamma Mia! (2008)",
+        "rating": 4.0,
+        "feeling": "Sun-soaked, feel-good wedding romp that left me grinning.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 4.0,
+        "feeling": "Tender, lived-in music romance that quietly tugged at my heart.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Young Victoria (2009)",
+        "rating": 4.5,
+        "feeling": "Elegant, affectionate period romance that felt genuinely swoon-worthy.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Belle (2013)",
+        "rating": 4.0,
+        "feeling": "Graceful, heartfelt and quietly inspiring with a romantic undercurrent.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Far from the Madding Crowd (2015)",
+        "rating": 4.0,
+        "feeling": "Stirring, patient romance with lush vistas and satisfying sparks.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jane Eyre (2011)",
+        "rating": 4.0,
+        "feeling": "Gothic, smoldering and earnest\u2014moody romance that drew me in.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Persuasion (1995)",
+        "rating": 4.5,
+        "feeling": "Wistful, mature second-chance love that melted me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Shakespeare in Love (1998)",
+        "rating": 4.0,
+        "feeling": "Playful, witty and bittersweet\u2014a charming theatrical swoon.",
+        "genres": [
+          "Romance",
+          "History",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Hundred-Foot Journey (2014)",
+        "rating": 4.5,
+        "feeling": "Comforting and flavorful, a warm tale of family and finding home.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Saving Mr. Banks (2013)",
+        "rating": 4.5,
+        "feeling": "Nostalgic, tender and surprisingly moving.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Finding Neverland (2004)",
+        "rating": 4.0,
+        "feeling": "Gentle, imaginative and quietly touching.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret Garden (1993)",
+        "rating": 4.5,
+        "feeling": "Enchanting and restorative, blooming with hope.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Little Princess (1995)",
+        "rating": 4.5,
+        "feeling": "Luminous, kind-hearted wonder that left me glowing.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 4.5,
+        "feeling": "Soft, sweet independence and kindness with breezy charm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 4.0,
+        "feeling": "Whimsical and romantic, a fanciful adventure with heart.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.5,
+        "feeling": "Wonder-filled, brave and deeply enchanting.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "Deliciously charming and heartfelt, a cozy celebration of passion.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "WALL\u00b7E (2008)",
+        "rating": 4.5,
+        "feeling": "Tender, hopeful sci-fi romance that felt beautifully human.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "Bittersweet, buoyant adventure that lifted my spirits.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Vibrant, loving celebration of family and music that warmed me.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Map of Tiny Perfect Things (2021)",
+        "rating": 4.0,
+        "feeling": "Light, thoughtful loop romance that found little joys.",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 4.0,
+        "feeling": "Smart, funny and surprisingly sweet beneath the snark.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Somewhere in Time (1980)",
+        "rating": 4.0,
+        "feeling": "Dreamy, time-tossed romance with a yearning ache.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Illusionist (2006)",
+        "rating": 4.0,
+        "feeling": "Moody, romantic intrigue with a satisfying, magical pull.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Titanic (1997)",
+        "rating": 5.0,
+        "feeling": "Sweeping, aching romance that swept me away.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Australia (2008)",
+        "rating": 4.0,
+        "feeling": "Old-fashioned, expansive melodrama with rugged romance I enjoyed.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wonder Woman (2017)",
+        "rating": 4.0,
+        "feeling": "Rousing and sincere, with brave-hearted heroism and a touch of romance.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 4.0,
+        "feeling": "Zippy, jungle-set adventure with bantery sparks and fun swoon.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Your Name (2016)",
+      "Whisper of the Heart (1995)",
+      "Luca (2021)",
+      "Encanto (2021)",
+      "Aladdin (1992)",
+      "The Princess and the Frog (2009)",
+      "Mary Poppins (1964)",
+      "Mary Poppins Returns (2018)",
+      "The Iron Giant (1999)",
+      "Meet the Robinsons (2007)",
+      "Big Hero 6 (2014)",
+      "The Kid Who Would Be King (2019)",
+      "Willow (1988)",
+      "The Mask of Zorro (1998)",
+      "The Lost City (2022)",
+      "Ticket to Paradise (2022)",
+      "Letters to Juliet (2010)",
+      "Kate & Leopold (2001)",
+      "Safety Not Guaranteed (2012)",
+      "Pleasantville (1998)",
+      "Chocolat (2000)",
+      "Am\u00e9lie (2001)",
+      "Julie & Julia (2009)",
+      "Chef (2014)",
+      "Salmon Fishing in the Yemen (2011)",
+      "Miss Potter (2006)",
+      "Victoria & Abdul (2017)",
+      "Cyrano (2021)",
+      "Begin Again (2013)",
+      "Sing Street (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.5,
+        "feeling": "A dreamy, time-tossed romance that felt tender and beautifully fated.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 4.5,
+        "feeling": "Bookish, gentle coming-of-age that warmed my heart.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Luca (2021)",
+        "rating": 4.5,
+        "feeling": "Sun-dappled, sweet friendship and seaside wonder that felt cozy and bright.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Encanto (2021)",
+        "rating": 4.5,
+        "feeling": "Vibrant family magic with joyful songs and healing heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Aladdin (1992)",
+        "rating": 4.5,
+        "feeling": "A romantic, zippy musical adventure that kept me grinning.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Princess and the Frog (2009)",
+        "rating": 4.0,
+        "feeling": "A charming, jazzy fairy tale with a hardworking heart.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Mary Poppins (1964)",
+        "rating": 4.5,
+        "feeling": "Practically perfect whimsy and warmth that left me beaming.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Mary Poppins Returns (2018)",
+        "rating": 4.0,
+        "feeling": "Sweet, nostalgic magic with gentle tunes and a comforting glow.",
+        "genres": [
+          "Fantasy",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "A tender, brave-hearted friendship story that moved me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Meet the Robinsons (2007)",
+        "rating": 4.0,
+        "feeling": "A goofy, hopeful time-travel romp with a big, kind heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Big Hero 6 (2014)",
+        "rating": 4.0,
+        "feeling": "Comforting hugs and zippy heroics that felt both fun and heartfelt.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Animation",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Kid Who Would Be King (2019)",
+        "rating": 4.0,
+        "feeling": "An earnest, rousing kids' adventure with a can-do spirit.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Willow (1988)",
+        "rating": 4.0,
+        "feeling": "Classic, questing fantasy with cozy, old-school charm.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.0,
+        "feeling": "Swashbuckling fun with smolder and sparkle.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lost City (2022)",
+        "rating": 4.0,
+        "feeling": "A silly, bantery treasure romp that kept me smiling.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ticket to Paradise (2022)",
+        "rating": 4.0,
+        "feeling": "Easy, sun-drenched second-chance comfort.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Letters to Juliet (2010)",
+        "rating": 4.0,
+        "feeling": "A sweet, scenic love quest that made me wistful.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Kate & Leopold (2001)",
+        "rating": 4.0,
+        "feeling": "Old-fashioned swoon with a charming time-tossed spark.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 4.0,
+        "feeling": "Quirky, tender maybe-time-travel that left me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pleasantville (1998)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, gently magical and quietly heart-stirring.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chocolat (2000)",
+        "rating": 4.5,
+        "feeling": "Warm, indulgent fable about kindness, community, and love.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 4.5,
+        "feeling": "Whimsical, kind-hearted mischief with a romantic flutter.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Julie & Julia (2009)",
+        "rating": 4.5,
+        "feeling": "Cozy, inspiring and deliciously life-affirming.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chef (2014)",
+        "rating": 4.0,
+        "feeling": "A feel-good, flavorful road trip that left me content.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Miss Potter (2006)",
+        "rating": 4.5,
+        "feeling": "Gentle, tender portrait with softly swoony grace.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Victoria & Abdul (2017)",
+        "rating": 4.0,
+        "feeling": "Warm, dignified friendship with a soft, affectionate glow.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Cyrano (2021)",
+        "rating": 4.5,
+        "feeling": "Lyrical, aching unspoken love that made me swoon.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.5,
+        "feeling": "Buoyant, heartfelt youth and music that lifted me.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1252 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Star Wars: The Last Jedi (2017)",
+      "Star Wars: Episode VII - The Force Awakens (2015)",
+      "Star Wars: The Rise of Skywalker (2019)",
+      "Captain Marvel (2018)",
+      "Hamilton (2020)",
+      "Pretty Woman (1990)",
+      "You've Got Mail (1998)",
+      "Bridget Jones's Diary (2001)",
+      "Bohemian Rhapsody (2018)",
+      "Sleepless in Seattle (1993)",
+      "The Little Mermaid (2023)",
+      "Bridget Jones: The Edge of Reason (2004)",
+      "When Harry Met Sally... (1989)",
+      "Thor: Love and Thunder (2022)",
+      "My Big Fat Greek Wedding (2002)",
+      "Mulan (2020)",
+      "Promising Young Woman (2020)",
+      "Love Actually (2003)",
+      "Black Widow (2021)",
+      "Black Panther: Wakanda Forever (2022)",
+      "A Star Is Born (2018)",
+      "Family Stone, The (2005)",
+      "Help, The (2011)",
+      "13 reasons why",
+      "Star Trek (2009)",
+      "Notting Hill (1999)",
+      "Titanic (1997)",
+      "Crazy, Stupid, Love. (2011)",
+      "Birdcage, The (1996)",
+      "Kill Bill: Vol. 2 (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Star Wars: The Last Jedi (2017)",
+        "rating": 4.0,
+        "feeling": "Loved the character focus and bold moments, even if a few detours dragged.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode VII - The Force Awakens (2015)",
+        "rating": 4.0,
+        "feeling": "A fun, nostalgic blast that made me smile and cheer.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: The Rise of Skywalker (2019)",
+        "rating": 3.5,
+        "feeling": "Entertaining and heartfelt in spots, but overstuffed and messy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Hamilton (2020)",
+        "rating": 2.0,
+        "feeling": "Interesting insights, but a talky promo lacks the musical magic I crave.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Pretty Woman (1990)",
+        "rating": 4.5,
+        "feeling": "Charming, romantic, and pure comfort.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.5,
+        "feeling": "Warm, witty, and swoony in all the right ways.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bridget Jones's Diary (2001)",
+        "rating": 4.0,
+        "feeling": "Relatable, funny, and sweet with a lovable mess of a heroine.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bohemian Rhapsody (2018)",
+        "rating": 4.0,
+        "feeling": "The music soars and the drama pulled me in despite some bumps.",
+        "genres": [
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 4.5,
+        "feeling": "Tender, hopeful, and irresistibly romantic.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Little Mermaid (2023)",
+        "rating": 4.0,
+        "feeling": "Colorful, cute, and buoyant family fun.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bridget Jones: The Edge of Reason (2004)",
+        "rating": 3.5,
+        "feeling": "Still fun, though a bit broader and thinner than the first.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.5,
+        "feeling": "Smart, sparkling, and genuinely romantic.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Thor: Love and Thunder (2022)",
+        "rating": 3.5,
+        "feeling": "Light, silly fun with some heart, though the humor overpowers the stakes.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "My Big Fat Greek Wedding (2002)",
+        "rating": 4.5,
+        "feeling": "Big-hearted, culture-clash comedy that made me grin.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mulan (2020)",
+        "rating": 3.0,
+        "feeling": "Stirring in moments but too serious to fully sweep me away.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Promising Young Woman (2020)",
+        "rating": 2.5,
+        "feeling": "Compelling but too dark and prickly for my taste.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love Actually (2003)",
+        "rating": 4.5,
+        "feeling": "Festive, cozy, and bursting with romantic moments.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Black Widow (2021)",
+        "rating": 4.0,
+        "feeling": "Grounded family dynamics make the action more engaging.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Black Panther: Wakanda Forever (2022)",
+        "rating": 4.0,
+        "feeling": "Powerful and respectful, if a bit heavy at times.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "A Star Is Born (2018)",
+        "rating": 4.5,
+        "feeling": "Beautifully performed and emotionally wrenching.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Family Stone, The (2005)",
+        "rating": 4.0,
+        "feeling": "Messy family drama with warmth and holiday charm.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Help, The (2011)",
+        "rating": 4.0,
+        "feeling": "Moving, character-driven, and ultimately uplifting.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 4.0,
+        "feeling": "Energetic, character-forward space adventure that\u2019s easy to enjoy.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.5,
+        "feeling": "Endearingly funny and romantic with lovely chemistry.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Titanic (1997)",
+        "rating": 5.0,
+        "feeling": "Epic, swooning romance that swept me away.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love. (2011)",
+        "rating": 4.0,
+        "feeling": "Funny and heartfelt with a satisfying romantic payoff.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Birdcage, The (1996)",
+        "rating": 4.0,
+        "feeling": "Joyful, sharp, and fabulously funny.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kill Bill: Vol. 2 (2004)",
+        "rating": 4.0,
+        "feeling": "Stylish and satisfying, though the violence sometimes kept me at arm\u2019s length.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Zeitgeist: The Movie (2007)",
+      "Jeepers Creepers 2 (2003)",
+      "Zeitgeist: Addendum (2008)",
+      "Lost World, The (1925)",
+      "Twin Falls Idaho (1999)",
+      "Zeitgeist: Moving Forward (2011)",
+      "Air Bud: Golden Receiver (1998)",
+      "Jeepers Creepers (2001)",
+      "They (2002)",
+      "Marley & Me (2008)",
+      "I Shot Andy Warhol (1996)",
+      "Sweetest Thing, The (2002)",
+      "Cabin in the Woods, The (2012)",
+      "Alien Escape (1995)",
+      "I Ought to Be in Pictures (1982)",
+      "Romeo Is Bleeding (1993)",
+      "Descent, The (2005)",
+      "Suffer, Little Children (1983)",
+      "400 Days (2015)",
+      "Apocalypto (2006)",
+      "Disturbing Behavior (1998)",
+      "Goofy Movie, A (1995)",
+      "Annabelle: Creation (2017)",
+      "Chasing Coral (2017)",
+      "I Care a Lot (2020)",
+      "One I Love, The (2014)",
+      "Solovey-Razboynik (2012)",
+      "Becky (2020)",
+      "Sabato domenica e luned\u00ec (1990)",
+      "Anne Frank Remembered (1995)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Zeitgeist: The Movie (2007)",
+        "rating": 1.5,
+        "feeling": "Conspiracy-heavy and preachy, not my kind of viewing.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Jeepers Creepers 2 (2003)",
+        "rating": 0.5,
+        "feeling": "Mean-spirited monster mayhem I just don't enjoy.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Zeitgeist: Addendum (2008)",
+        "rating": 1.5,
+        "feeling": "Grand claims and lectures left me cold despite the ideas.",
+        "genres": [
+          "Documentary",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Lost World, The (1925)",
+        "rating": 2.5,
+        "feeling": "Historic and imaginative, but too creaky to sweep me up.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Romance",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Twin Falls Idaho (1999)",
+        "rating": 3.5,
+        "feeling": "Touching and unusual love story that moved me, if a bit somber.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zeitgeist: Moving Forward (2011)",
+        "rating": 1.5,
+        "feeling": "Dense and didactic, more lecture than engaging story.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Air Bud: Golden Receiver (1998)",
+        "rating": 3.0,
+        "feeling": "Goofy, gentle fun with a sweet heart, even if it's super silly.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Jeepers Creepers (2001)",
+        "rating": 1.0,
+        "feeling": "Suspenseful in parts but the grim horror isn't for me.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "They (2002)",
+        "rating": 1.5,
+        "feeling": "Creepy premise but I don't enjoy this kind of nightmare fare.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Marley & Me (2008)",
+        "rating": 4.5,
+        "feeling": "Warm, funny, and heartbreakingly sweet\u2014totally in my wheelhouse.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "I Shot Andy Warhol (1996)",
+        "rating": 2.5,
+        "feeling": "Strong acting, but the harsh story kept me at a distance.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sweetest Thing, The (2002)",
+        "rating": 3.5,
+        "feeling": "Silly and fun with some big laughs, even if it's pretty shallow.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Cabin in the Woods, The (2012)",
+        "rating": 2.5,
+        "feeling": "Clever and cheeky, but the gore and bleakness wore me down.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "I Ought to Be in Pictures (1982)",
+        "rating": 3.5,
+        "feeling": "A gently funny, heartfelt parent-child reconnection that I enjoyed.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Romeo Is Bleeding (1993)",
+        "rating": 2.0,
+        "feeling": "Stylish noir touches, but too grim and violent for my taste.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Descent, The (2005)",
+        "rating": 0.5,
+        "feeling": "Claustrophobic, gruesome terror I just can't handle.",
+        "genres": [
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Suffer, Little Children (1983)",
+        "rating": 0.5,
+        "feeling": "Mean-spirited demonic horror\u2014hard pass.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "400 Days (2015)",
+        "rating": 3.0,
+        "feeling": "Intriguing premise with some tension, though it left me unsatisfied.",
+        "genres": [
+          "Mystery",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Apocalypto (2006)",
+        "rating": 2.5,
+        "feeling": "Visceral and gripping, but far too brutal for me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Disturbing Behavior (1998)",
+        "rating": 2.0,
+        "feeling": "Creepy teen sci-fi with a few thrills but not my cup of tea.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Goofy Movie, A (1995)",
+        "rating": 4.0,
+        "feeling": "Sweet, catchy, and endearing father-son adventure that made me smile.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Romance",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Annabelle: Creation (2017)",
+        "rating": 0.5,
+        "feeling": "Well-crafted maybe, but possessed-doll scares are a no for me.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Chasing Coral (2017)",
+        "rating": 3.0,
+        "feeling": "Gorgeous and important, though a bit too sobering and talky for me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "One I Love, The (2014)",
+        "rating": 4.0,
+        "feeling": "A quirky, intimate relationship puzzle that kept me engaged.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Solovey-Razboynik (2012)",
+        "rating": 2.0,
+        "feeling": "The zany caper tone didn't click for me despite some lively moments.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Becky (2020)",
+        "rating": 1.5,
+        "feeling": "Mean, bloody revenge thriller that turned me off.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Action"
+        ]
+      },
+      {
+        "title": "Sabato domenica e luned\u00ec (1990)",
+        "rating": 3.5,
+        "feeling": "Light, flavorful domestic comedy with warmth and charm.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Anne Frank Remembered (1995)",
+        "rating": 3.5,
+        "feeling": "Deeply moving and respectful, if emotionally heavy for me.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Cook the Thief His Wife & Her Lover, The (1989)",
+      "Excalibur (1981)",
+      "Rocky Horror Picture Show, The (1975)",
+      "Faces of Death 6 (1996)",
+      "Big Hit, The (1998)",
+      "American Werewolf in Paris, An (1997)",
+      "North (1994)",
+      "Santa Sangre (1989)",
+      "Lawnmower Man, The (1992)",
+      "Eye of the Beholder (1999)",
+      "Toys (1992)",
+      "Femme Fatale (2002)",
+      "Faces of Death: Fact or Fiction? (1999)",
+      "Crazy n' the City (2005)",
+      "Vampire Hunter D: Bloodlust (Banpaia hant\u00e2 D) (2000)",
+      "Turbo: A Power Rangers Movie (1997)",
+      "Crow: Salvation, The (2000)",
+      "Angel Heart (1987)",
+      "Antonio One Two Three (2019)",
+      "Amor de mis amores (2014)",
+      "Oliver! (1968)",
+      "Hercules in the Maze of the Minotaur (1994)",
+      "Lord of the Flies (1963)",
+      "End of the Affair, The (1999)",
+      "Very Bad Things (1998)",
+      "Last Man Standing (1996)",
+      "Faces of Death 3 (1985)",
+      "Lumi\u00e8re (1976)",
+      "Flubber (1997)",
+      "Outrage (2009)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Cook the Thief His Wife & Her Lover, The (1989)",
+        "rating": 1.5,
+        "feeling": "Stylish but cruel and hard to sit through\u2014the abuse and nastiness smothered any romance for me.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Excalibur (1981)",
+        "rating": 3.0,
+        "feeling": "The mythic sweep impressed me, but the surreal heaviness kept me at arm\u2019s length.",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Rocky Horror Picture Show, The (1975)",
+        "rating": 4.0,
+        "feeling": "Campy, catchy, and delightfully weird\u2014more fun than scary for me.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Fantasy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Faces of Death 6 (1996)",
+        "rating": 0.5,
+        "feeling": "Exploitative shock clips are exactly the kind of grim footage I avoid.",
+        "genres": [
+          "Documentary",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Big Hit, The (1998)",
+        "rating": 2.0,
+        "feeling": "Goofy energy can\u2019t hide the mean, shoot-\u2019em-up crime vibe I don\u2019t enjoy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "American Werewolf in Paris, An (1997)",
+        "rating": 1.5,
+        "feeling": "Silly creature antics with horror beats I just don\u2019t like.",
+        "genres": [
+          "Horror",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "North (1994)",
+        "rating": 2.5,
+        "feeling": "Whimsical idea, but the tone feels snarky rather than warm and uplifting.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Santa Sangre (1989)",
+        "rating": 0.5,
+        "feeling": "Surreal and brutal\u2014the violence and cult horror pushed me away.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Lawnmower Man, The (1992)",
+        "rating": 2.0,
+        "feeling": "The sci\u2011fi hook intrigues, but the horror edge and dated feel left me cold.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Eye of the Beholder (1999)",
+        "rating": 2.0,
+        "feeling": "Moody and bleak with little warmth to latch onto.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Toys (1992)",
+        "rating": 3.5,
+        "feeling": "Colorful, whimsical production design with a sweet heart I mostly enjoyed.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Femme Fatale (2002)",
+        "rating": 3.0,
+        "feeling": "Glossy, twisty fun, though the cold noir edges kept me from loving it.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Faces of Death: Fact or Fiction? (1999)",
+        "rating": 0.5,
+        "feeling": "Even as an explainer, it dwells on disturbing material I don\u2019t want to watch.",
+        "genres": [
+          "Documentary",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Crazy n' the City (2005)",
+        "rating": 3.0,
+        "feeling": "Light buddy chemistry is appealing, but the serial\u2011killer thread dampened my enjoyment.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Vampire Hunter D: Bloodlust (Banpaia hant\u00e2 D) (2000)",
+        "rating": 2.5,
+        "feeling": "Gothic style and adventure are cool, yet the horror elements limit my enthusiasm.",
+        "genres": [
+          "Animation",
+          "Fantasy",
+          "Horror",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Turbo: A Power Rangers Movie (1997)",
+        "rating": 2.5,
+        "feeling": "Innocent Saturday\u2011morning fun, but it\u2019s pretty thin and corny.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Crow: Salvation, The (2000)",
+        "rating": 1.5,
+        "feeling": "Dark, vengeful violence with a grim tone that\u2019s not for me.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Horror",
+          "Crime",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Angel Heart (1987)",
+        "rating": 1.5,
+        "feeling": "Atmospheric but disturbing\u2014the occult horror left me uneasy.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Antonio One Two Three (2019)",
+        "rating": 3.0,
+        "feeling": "Low\u2011key, interwoven slices of life with moments of charm, if a bit slow.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Amor de mis amores (2014)",
+        "rating": 4.0,
+        "feeling": "Playful, swoony rom\u2011com complications right in my comfort zone.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Oliver! (1968)",
+        "rating": 4.0,
+        "feeling": "Lively songs and heart make it a classic musical I can happily hum along to.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hercules in the Maze of the Minotaur (1994)",
+        "rating": 2.5,
+        "feeling": "Light, TV\u2011movie adventure that\u2019s pleasant but forgettable.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "TV Movie",
+          "Action"
+        ]
+      },
+      {
+        "title": "Lord of the Flies (1963)",
+        "rating": 2.0,
+        "feeling": "Powerful but bleak and unsettling, which is tough for me to enjoy.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "End of the Affair, The (1999)",
+        "rating": 4.0,
+        "feeling": "An elegant, yearning romance that swept me up despite the melancholy.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Very Bad Things (1998)",
+        "rating": 0.5,
+        "feeling": "Nasty, mean\u2011spirited dark comedy that really turned me off.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Last Man Standing (1996)",
+        "rating": 1.5,
+        "feeling": "Grim, macho shootouts with little warmth\u2014just not my thing.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Western"
+        ]
+      },
+      {
+        "title": "Faces of Death 3 (1985)",
+        "rating": 0.5,
+        "feeling": "Morbid shock material I have zero interest in watching.",
+        "genres": [
+          "Documentary",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Lumi\u00e8re (1976)",
+        "rating": 3.0,
+        "feeling": "An intimate, talky relationship drama with a gentle, wistful tone I appreciated.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Flubber (1997)",
+        "rating": 3.5,
+        "feeling": "Silly, bouncy family fun with a sweet heart that made me smile.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Outrage (2009)",
+        "rating": 3.0,
+        "feeling": "Important subject, but the political doc approach felt heavy and talky for me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "All That Jazz (1979)",
+      "Sicko (2007)",
+      "Ed (1996)",
+      "Hope Floats (1998)",
+      "The Ghost of St. Michael's (1941)",
+      "Miss Sloane (2016)",
+      "Grand Canyon (1991)",
+      "Sing 2 (2021)",
+      "Where To Invade Next (2015)",
+      "The Other Side of Sleep (2011)",
+      "Expelled: No Intelligence Allowed (2008)",
+      "Quills (2000)",
+      "Mother (1996)",
+      "20 Dates (1998)",
+      "Fifty Shades of Grey (2015)",
+      "Nell (1994)",
+      "Foreman (2017)",
+      "Suddenly, One Day (1989)",
+      "A Cheerful Christmas (2019)",
+      "Fitzgerald Family Christmas, The (2012)",
+      "Addiction Incorporated (2011)",
+      "Grease Live (2016)",
+      "Inventing the Abbotts (1997)",
+      "Boys on the Side (1995)",
+      "Mail Order Bride (2003)",
+      "Fateless (Sorstalans\u00e1g) (2005)",
+      "Fahrenheit 11/9 (2018)",
+      "William Shakespeare's Romeo + Juliet (1996)",
+      "Wag the Dog (1997)",
+      "Powder (1995)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "All That Jazz (1979)",
+        "rating": 3.5,
+        "feeling": "The showbiz energy dazzled me, though the self-destructive darkness kept me at a distance.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sicko (2007)",
+        "rating": 2.5,
+        "feeling": "Informative and passionate, but the talky political style wore me down.",
+        "genres": [
+          "Documentary",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ed (1996)",
+        "rating": 2.0,
+        "feeling": "Sweet idea, but the goofy chimp antics are a bit too corny for me.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hope Floats (1998)",
+        "rating": 4.0,
+        "feeling": "Heart-on-sleeve small-town healing and romance that warmed me.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Ghost of St. Michael's (1941)",
+        "rating": 3.0,
+        "feeling": "Old-fashioned, lightly spooky silliness that\u2019s pleasant if slight.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Miss Sloane (2016)",
+        "rating": 3.5,
+        "feeling": "Engrossing and sharp, though the hardball politics felt a bit cold.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Grand Canyon (1991)",
+        "rating": 3.5,
+        "feeling": "Humane and thoughtful, if a touch heavy and meandering.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sing 2 (2021)",
+        "rating": 4.0,
+        "feeling": "Colorful, catchy, and cheerfully uplifting family fun.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Music",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Where To Invade Next (2015)",
+        "rating": 3.0,
+        "feeling": "Playful and eye-opening in parts, though still a bit lecture-y for me.",
+        "genres": [
+          "Documentary",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Other Side of Sleep (2011)",
+        "rating": 2.5,
+        "feeling": "Moody and slow",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Expelled: No Intelligence Allowed (2008)",
+        "rating": 1.5,
+        "feeling": "Agenda-driven and preachy, not my kind of documentary.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Quills (2000)",
+        "rating": 2.0,
+        "feeling": "Bold and provocative, but the cruelty and sexual bleakness put me off.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mother (1996)",
+        "rating": 3.5,
+        "feeling": "Gently funny and touching mother-son friction I related to.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "20 Dates (1998)",
+        "rating": 3.0,
+        "feeling": "Cute premise with some laughs, though the meta dating shtick wears thin.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Fifty Shades of Grey (2015)",
+        "rating": 2.0,
+        "feeling": "Glossy romance with boundaries I\u2019m not comfortable with.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Nell (1994)",
+        "rating": 3.5,
+        "feeling": "Tender and earnest, with a quirky heart that moved me.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Foreman (2017)",
+        "rating": 3.5,
+        "feeling": "An uplifting, redemptive life story that kept me engaged.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Suddenly, One Day (1989)",
+        "rating": 3.0,
+        "feeling": "Quiet, reflective family drama that\u2019s affecting if a bit somber.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Cheerful Christmas (2019)",
+        "rating": 4.0,
+        "feeling": "Cozy, candy-cane romance that gave me warm holiday fuzzies.",
+        "genres": [
+          "Romance",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Fitzgerald Family Christmas, The (2012)",
+        "rating": 3.5,
+        "feeling": "Messy but heartfelt family healing with seasonal warmth.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Addiction Incorporated (2011)",
+        "rating": 3.5,
+        "feeling": "Clear, compelling story of accountability that held my interest.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Grease Live (2016)",
+        "rating": 4.0,
+        "feeling": "High-energy, feel-good musical staging that put a smile on my face.",
+        "genres": [
+          "TV Movie",
+          "Music"
+        ]
+      },
+      {
+        "title": "Inventing the Abbotts (1997)",
+        "rating": 4.0,
+        "feeling": "A wistful, swoony period romance right in my comfort zone.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Boys on the Side (1995)",
+        "rating": 4.0,
+        "feeling": "Warm, compassionate friendship road tale that touched me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mail Order Bride (2003)",
+        "rating": 2.0,
+        "feeling": "Caper vibes and mob antics felt too thin and rough for my taste.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Fateless (Sorstalans\u00e1g) (2005)",
+        "rating": 2.5,
+        "feeling": "Powerful and important, but the unrelenting bleakness was tough for me.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fahrenheit 11/9 (2018)",
+        "rating": 2.5,
+        "feeling": "Provocative and timely, yet too strident and downbeat for my liking.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "William Shakespeare's Romeo + Juliet (1996)",
+        "rating": 4.5,
+        "feeling": "Stylish, passionate, and tragically romantic\u2014swept me away.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Wag the Dog (1997)",
+        "rating": 3.5,
+        "feeling": "Clever and witty, though the cynicism kept me slightly removed.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Powder (1995)",
+        "rating": 3.0,
+        "feeling": "Gentle sci-fi fable with heart, even if it\u2019s a bit melodramatic.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    ]
+  }
+]

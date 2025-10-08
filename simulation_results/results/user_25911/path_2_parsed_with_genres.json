@@ -1,0 +1,845 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Cl\u00e9o from 5 to 7 (1962)",
+      "The Gleaners and I (2000)",
+      "Portrait of a Lady on Fire (2019)",
+      "Carol (2015)",
+      "Weekend (2011)",
+      "After Life (1998)",
+      "The Road Home (1999)",
+      "In the Mood for Love (2000)",
+      "The Green Ray (1986)",
+      "Stories We Tell (2012)",
+      "Persepolis (2007)",
+      "Alice Doesn't Live Here Anymore (1974)",
+      "My Dinner with Andre (1981)",
+      "Her (2013)",
+      "The Lobster (2015)",
+      "Ida (2013)",
+      "The Lives of Others (2006)",
+      "The Umbrellas of Cherbourg (1964)",
+      "Wendy and Lucy (2008)",
+      "The Double Life of V\u00e9ronique (1991)",
+      "Three Colors: Blue (1993)",
+      "A Separation (2011)",
+      "The Farewell (2019)",
+      "Lady Bird (2017)",
+      "Frances Ha (2012)",
+      "You Can Count on Me (2000)",
+      "The Piano (1993)",
+      "All About My Mother (1999)",
+      "God\u2019s Own Country (2017)",
+      "The Salt of the Earth (2014)"
+    ],
+    "simulated_ratings": []
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Cleo from 5 to 7 (1962)",
+      "Faces Places (2017)",
+      "Her (2013)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "The Worst Person in the World (2021)",
+      "Portrait of a Lady on Fire (2019)",
+      "Carol (2015)",
+      "Frances Ha (2012)",
+      "Love Is Strange (2014)",
+      "Weekend (2011)",
+      "Wendy and Lucy (2008)",
+      "Certain Women (2016)",
+      "Ulee's Gold (1997)",
+      "The Green Ray (1986)",
+      "Tokyo Story (1953)",
+      "Shoplifters (2018)",
+      "The Rider (2017)",
+      "Ghost World (2001)",
+      "Bill Cunningham New York (2010)",
+      "The Red Turtle (2016)",
+      "The Stepford Wives (1975)",
+      "All About My Mother (1999)",
+      "Me and You and Everyone We Know (2005)",
+      "Obvious Child (2014)",
+      "Saint Frances (2019)",
+      "Columbus (2017)",
+      "In the Mood for Love (2000)",
+      "Party Girl (1995)",
+      "The Farewell (2019)",
+      "20th Century Women (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Cleo from 5 to 7 (1962)",
+        "rating": 5.0,
+        "feeling": "Exhilarated by its humane gaze and the ticking, lived-in minutes",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Faces Places (2017)",
+        "rating": 4.5,
+        "feeling": "A tender, playful ramble that left me grinning and misty",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.5,
+        "feeling": "A melancholy, curiously intimate tech-age romance that lingered with me",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Inventive and affecting, though the angst sometimes smudges the tenderness",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Worst Person in the World (2021)",
+        "rating": 4.5,
+        "feeling": "Piercingly honest and warm, I saw so much of modern uncertainty in it",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 5.0,
+        "feeling": "Transfixing, sensual, and fiercely empathetic\u2014pure cinema of looking",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.5,
+        "feeling": "Elegant ache, restrained and ravishing in equal measure",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love Is Strange (2014)",
+        "rating": 4.0,
+        "feeling": "Gentle and heartbreaking with a lived-in grace",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Weekend (2011)",
+        "rating": 4.0,
+        "feeling": "Intimate, talky, and true in ways that quietly cut",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Wendy and Lucy (2008)",
+        "rating": 4.0,
+        "feeling": "Spare and compassionate",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Certain Women (2016)",
+        "rating": 4.0,
+        "feeling": "Subtle as a breath, yet cumulatively profound",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ulee's Gold (1997)",
+        "rating": 3.5,
+        "feeling": "Stoic and sincere, with a quiet warmth I appreciated",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Green Ray (1986)",
+        "rating": 3.5,
+        "feeling": "Meandering but emotionally precise, the final grace note moved me",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tokyo Story (1953)",
+        "rating": 4.5,
+        "feeling": "Devastating in its restraint",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Shoplifters (2018)",
+        "rating": 4.5,
+        "feeling": "Tender, thorny, and deeply humane",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Rider (2017)",
+        "rating": 0.5,
+        "feeling": "Overcaffeinated spectacle that left me cold",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ghost World (2001)",
+        "rating": 4.0,
+        "feeling": "Sardonic, awkward, and unexpectedly tender",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Red Turtle (2016)",
+        "rating": 4.0,
+        "feeling": "Serene, wordless wonder that washed over me",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Stepford Wives (1975)",
+        "rating": 4.0,
+        "feeling": "A chillingly sharp feminist parable that still stings",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "All About My Mother (1999)",
+        "rating": 4.5,
+        "feeling": "Lush, compassionate, and gloriously messy in its love for women",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Me and You and Everyone We Know (2005)",
+        "rating": 3.5,
+        "feeling": "Sweetly odd and affecting, though a bit twee at times",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Obvious Child (2014)",
+        "rating": 4.0,
+        "feeling": "Funny, frank, and refreshingly grounded",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Columbus (2017)",
+        "rating": 4.5,
+        "feeling": "A meditative duet of space and feeling that soothed me",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 5.0,
+        "feeling": "An exquisite ache\u2014desire suspended in time",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Party Girl (1995)",
+        "rating": 3.5,
+        "feeling": "Fizzy 90s charm with a librarian soul that made me smile",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Farewell (2019)",
+        "rating": 4.0,
+        "feeling": "Tender, funny, and quietly shattering",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "20th Century Women (2016)",
+        "rating": 4.5,
+        "feeling": "Generous, thoughtful, and alive to the mess of becoming",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Vagabond (1985)",
+      "The Gleaners and I (2000)",
+      "Still Walking (2008)",
+      "After Life (1998)",
+      "Drive My Car (2021)",
+      "Wheel of Fortune and Fantasy (2021)",
+      "Yi Yi (2000)",
+      "Past Lives (2023)",
+      "Aftersun (2022)",
+      "Petite Maman (2021)",
+      "The Souvenir (2019)",
+      "Never Rarely Sometimes Always (2020)",
+      "Pariah (2011)",
+      "The Watermelon Woman (1996)",
+      "Desert Hearts (1985)",
+      "Happy Together (1997)",
+      "Call Me by Your Name (2017)",
+      "The Handmaiden (2016)",
+      "Girlhood (2014)",
+      "Things to Come (2016)",
+      "Toni Erdmann (2016)",
+      "Phoenix (2014)",
+      "Cold War (2018)",
+      "A Separation (2011)",
+      "Stories We Tell (2012)",
+      "Dick Johnson Is Dead (2020)",
+      "The Fits (2015)",
+      "The Assistant (2019)",
+      "After Yang (2021)",
+      "Paterson (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Vagabond (1985)",
+        "rating": 5.0,
+        "feeling": "A fierce, unsentimental elegy for freedom that left me raw and deeply moved.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Gleaners and I (2000)",
+        "rating": 4.5,
+        "feeling": "Playful and compassionate, it made me newly attentive to what\u2014and who\u2014gets cast aside.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Still Walking (2008)",
+        "rating": 4.5,
+        "feeling": "Quietly devastating and humane, the small gestures lingered like afterglow.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Drive My Car (2021)",
+        "rating": 4.5,
+        "feeling": "A patient, resonant drift through grief and connection that stayed with me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wheel of Fortune and Fantasy (2021)",
+        "rating": 4.0,
+        "feeling": "Light on its feet yet piercing, I savored its accidents of desire and regret.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Yi Yi (2000)",
+        "rating": 4.5,
+        "feeling": "Expansive yet intimate, an accumulation of life\u2019s tender confusions.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Past Lives (2023)",
+        "rating": 4.5,
+        "feeling": "A gentle, aching contemplation of paths taken and left behind.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Aftersun (2022)",
+        "rating": 4.5,
+        "feeling": "Softly shattering",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Petite Maman (2021)",
+        "rating": 4.5,
+        "feeling": "A tiny, luminous fable of loss and kinship that warmed me.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Souvenir (2019)",
+        "rating": 4.0,
+        "feeling": "Delicately observed and bruising, it felt like paging through a tender diary.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Never Rarely Sometimes Always (2020)",
+        "rating": 4.5,
+        "feeling": "Spare and clear-eyed, it quietly broke my heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pariah (2011)",
+        "rating": 4.5,
+        "feeling": "Honest and luminous, it glowed with fierce tenderness.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Desert Hearts (1985)",
+        "rating": 4.0,
+        "feeling": "Romantic and clear-eyed, its warmth built to a steady blaze.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Happy Together (1997)",
+        "rating": 4.5,
+        "feeling": "Restless and bruised, its longing pulsed like a heartbeat.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Call Me by Your Name (2017)",
+        "rating": 4.0,
+        "feeling": "Swooning and sun-dappled, tender if a touch too languid for me.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Handmaiden (2016)",
+        "rating": 4.0,
+        "feeling": "Lush, twisty, and deliciously subversive",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Girlhood (2014)",
+        "rating": 4.0,
+        "feeling": "Vivid and compassionate, it thrummed with the electricity of becoming.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Things to Come (2016)",
+        "rating": 4.0,
+        "feeling": "Philosophical and quietly liberating, it left me serene and stirred.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Toni Erdmann (2016)",
+        "rating": 4.0,
+        "feeling": "Awkwardly tender and cathartic, silliness blossoming into ache.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Phoenix (2014)",
+        "rating": 4.0,
+        "feeling": "Sharp and haunting, a gripping study of self and performance.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cold War (2018)",
+        "rating": 4.0,
+        "feeling": "Icy and impassioned, an elegant wound of a love story.",
+        "genres": [
+          "Romance",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "Precise and humane, its moral knot tightened until I could hardly breathe.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Stories We Tell (2012)",
+        "rating": 4.0,
+        "feeling": "Warm, inquisitive, and alive to memory\u2019s slipperiness.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Fits (2015)",
+        "rating": 2.5,
+        "feeling": "Moody and folkloric, but the occult spiral kept me at a distance.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Assistant (2019)",
+        "rating": 2.5,
+        "feeling": "Glossy and pleasant, yet thinly drawn and predictable.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paterson (2016)",
+        "rating": 4.5,
+        "feeling": "A serene hymn to noticing, with small joys accumulating into grace.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "After Life (1998)",
+      "Our Little Sister (2015)",
+      "Happy Hour (2015)",
+      "Asako I & II (2018)",
+      "Chungking Express (1994)",
+      "A Brighter Summer Day (1991)",
+      "Flowers of Shanghai (1998)",
+      "Late Spring (1949)",
+      "An Autumn Afternoon (1962)",
+      "Millennium Mambo (2001)",
+      "Pather Panchali (1955)",
+      "35 Shots of Rum (2008)",
+      "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles (1975)",
+      "One Fine Morning (2022)",
+      "Tomboy (2011)",
+      "Far from Heaven (2002)",
+      "Pain and Glory (2019)",
+      "Volver (2006)",
+      "Three Colors: Blue (1993)",
+      "Certified Copy (2010)",
+      "About Elly (2009)",
+      "The Lunchbox (2013)",
+      "Lady Bird (2017)",
+      "Support the Girls (2018)",
+      "Lost in Translation (2003)",
+      "Little Men (2016)",
+      "Frances Ha (2013)",
+      "Before Sunrise (1995)",
+      "The Souvenir Part II (2021)",
+      "After Yang (2021)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Our Little Sister (2015)",
+        "rating": 4.5,
+        "feeling": "A balm of sisterly grace, small gestures accumulating into warmth.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Happy Hour (2015)",
+        "rating": 2.0,
+        "feeling": "Easygoing and slight, its breeziness left me unengaged.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Asako I & II (2018)",
+        "rating": 4.0,
+        "feeling": "Elusive and tender, its doubles lingered like a gentle ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Chungking Express (1994)",
+        "rating": 4.5,
+        "feeling": "Fizzing with melancholy and lightness, it made my heart float.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Brighter Summer Day (1991)",
+        "rating": 4.5,
+        "feeling": "Expansive yet intimate, a quietly devastating coming-of-age.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Flowers of Shanghai (1998)",
+        "rating": 4.5,
+        "feeling": "Languorous and hypnotic, its candlelit world seeped into me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Late Spring (1949)",
+        "rating": 5.0,
+        "feeling": "A sublime hush of love and duty that left me quietly undone.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "An Autumn Afternoon (1962)",
+        "rating": 4.5,
+        "feeling": "Autumnal, tender, and wry\u2014resignation wrapped in warmth.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Millennium Mambo (2001)",
+        "rating": 3.5,
+        "feeling": "A neon drift, mesmerizing if a bit emotionally distant for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pather Panchali (1955)",
+        "rating": 5.0,
+        "feeling": "Tender, elemental, and full of life\u2019s small miracles.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "One Fine Morning (2022)",
+        "rating": 4.5,
+        "feeling": "Gentle and clear-eyed, its everyday aches glowed.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tomboy (2011)",
+        "rating": 4.5,
+        "feeling": "Open-hearted and precise, it held so much in small moments.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Far from Heaven (2002)",
+        "rating": 4.0,
+        "feeling": "Lush and aching, its artifice sharpened the pain.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pain and Glory (2019)",
+        "rating": 4.5,
+        "feeling": "Tenderly reflective, creation and memory braided into a soft ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Volver (2006)",
+        "rating": 4.0,
+        "feeling": "Warm, funny, and haunted\u2014family knots untied with grace.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.5,
+        "feeling": "Cool and devastating, grief slowly blooming into connection.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Certified Copy (2010)",
+        "rating": 4.5,
+        "feeling": "Playful and piercing, love and identity refracted into mystery.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Elly (2009)",
+        "rating": 4.5,
+        "feeling": "Taut and humane, its moral ripples tightened my chest.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 4.0,
+        "feeling": "Delicate and nourishing, a quiet correspondence blossoming.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Lady Bird (2017)",
+        "rating": 4.0,
+        "feeling": "Funny and tender, its mother-daughter spikiness rang true.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Support the Girls (2018)",
+        "rating": 4.0,
+        "feeling": "Generous and scrappy, a day-in-the-life of fierce care.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Lost in Translation (2003)",
+        "rating": 3.5,
+        "feeling": "Gently wistful, though its haze kept me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Little Men (2016)",
+        "rating": 4.0,
+        "feeling": "Quietly bruising, friendship and class rubbing tenderly raw.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Frances Ha (2013)",
+        "rating": 3.5,
+        "feeling": "Spry and affectionate, if a touch too fussy for me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.5,
+        "feeling": "A heady, tender drift of conversation that left me glowing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Souvenir Part II (2021)",
+        "rating": 4.5,
+        "feeling": "A lucid, tender reckoning\u2014art shaping grief into clarity.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

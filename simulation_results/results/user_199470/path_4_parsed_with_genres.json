@@ -1,0 +1,1185 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Emma (2020)",
+      "Ready to Wear (Pret-A-Porter) (1994)",
+      "Burn After Reading (2008)",
+      "Breakfast at Tiffany's (1961)",
+      "Vicky Cristina Barcelona (2008)",
+      "And the Ship Sails On (E la nave va) (1983)",
+      "Grand Budapest Hotel, The (2014)",
+      "Inherent Vice (2014)",
+      "Rocky Horror Picture Show, The (1975)",
+      "Skin I Live In, The (La piel que habito) (2011)",
+      "Birdman: Or (The Unexpected Virtue of Ignorance) (2014)",
+      "Winnie the Pooh and the Day of Concern (1972)",
+      "Eyes Wide Shut (1999)",
+      "Pain and Glory (2019)",
+      "Fantastic Mr. Fox (2009)",
+      "Gone Girl (2014)",
+      "Steve Jobs (2015)",
+      "2 Days in Paris (2007)",
+      "White Oleander (2002)",
+      "Girl with the Dragon Tattoo, The (2011)",
+      "Match Point (2005)",
+      "In Bruges (2008)",
+      "Stories We Tell (2012)",
+      "Gnome-Mobile, The (1967)",
+      "Inglourious Basterds (2009)",
+      "BoJack Horseman Christmas Special: Sabrina's Christmas Wish (2014)",
+      "Source, The (1999)",
+      "McCabe & Mrs. Miller (1971)",
+      "Green for Danger (1946)",
+      "Jackie (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Emma (2020)",
+        "rating": 3.5,
+        "feeling": "Charming and crisp, but its period polish kept me at a slight remove.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ready to Wear (Pret-A-Porter) (1994)",
+        "rating": 2.0,
+        "feeling": "Scattered satire with few laughs left me mostly indifferent.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Burn After Reading (2008)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny and tightly wound",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Breakfast at Tiffany's (1961)",
+        "rating": 3.5,
+        "feeling": "Audrey\u2019s allure works, though the romance feels lighter than I prefer.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Vicky Cristina Barcelona (2008)",
+        "rating": 4.0,
+        "feeling": "Sun-drenched, messy desire\u2014talky but seductively bittersweet.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "And the Ship Sails On (E la nave va) (1983)",
+        "rating": 3.5,
+        "feeling": "Playful and melancholy, though its whimsy occasionally drifts.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Grand Budapest Hotel, The (2014)",
+        "rating": 4.5,
+        "feeling": "Immaculate craft and deadpan humor with a wistful pulse underneath.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inherent Vice (2014)",
+        "rating": 3.0,
+        "feeling": "Vibey haze outweighs payoff",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Rocky Horror Picture Show, The (1975)",
+        "rating": 3.0,
+        "feeling": "Campy fun in spurts, but the kitsch wears thin for me.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Fantasy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Skin I Live In, The (La piel que habito) (2011)",
+        "rating": 4.0,
+        "feeling": "Elegant, twisted, and unsettling in a way that stuck with me.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Birdman: Or (The Unexpected Virtue of Ignorance) (2014)",
+        "rating": 4.0,
+        "feeling": "Showy but intimate",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Eyes Wide Shut (1999)",
+        "rating": 4.0,
+        "feeling": "Hypnotic anxiety piece\u2014clinical, cold, and eerily engrossing.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Pain and Glory (2019)",
+        "rating": 4.5,
+        "feeling": "Tender, reflective, and quietly devastating\u2014right in my wheelhouse.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fantastic Mr. Fox (2009)",
+        "rating": 4.0,
+        "feeling": "Wry and meticulously made",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.0,
+        "feeling": "Slick, mean, and gripping",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Steve Jobs (2015)",
+        "rating": 3.5,
+        "feeling": "Crackling dialogue, emotionally cool",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "2 Days in Paris (2007)",
+        "rating": 3.5,
+        "feeling": "Neurotic banter and cultural friction make for a prickly, funny stroll.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "White Oleander (2002)",
+        "rating": 3.5,
+        "feeling": "Earnest, well-acted melancholy that lingers without overwhelming.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Girl with the Dragon Tattoo, The (2011)",
+        "rating": 4.0,
+        "feeling": "Taut, moody investigation with satisfying bite.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Match Point (2005)",
+        "rating": 4.0,
+        "feeling": "Icy ambition and moral rot\u2014sleek and absorbing.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 4.5,
+        "feeling": "Darkly hilarious and bruised",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Stories We Tell (2012)",
+        "rating": 4.0,
+        "feeling": "Form and feeling intertwine beautifully",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Gnome-Mobile, The (1967)",
+        "rating": 1.5,
+        "feeling": "Corny and dated family fluff that tried my patience.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Inglourious Basterds (2009)",
+        "rating": 4.5,
+        "feeling": "Tense, talky, and viciously playful\u2014thrilling set pieces throughout.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Source, The (1999)",
+        "rating": 3.5,
+        "feeling": "Engaging overview\u2014less revelatory than evocative, but I was into it.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "McCabe & Mrs. Miller (1971)",
+        "rating": 3.5,
+        "feeling": "Hazy, mournful western mood that I respected more than loved.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Green for Danger (1946)",
+        "rating": 4.0,
+        "feeling": "Lean, witty mystery with a satisfying sting.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jackie (2016)",
+        "rating": 4.0,
+        "feeling": "Intimate and haunting",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Serbian Film, A (Srpski film) (2010)",
+      "Cat in the Hat, The (2003)",
+      "Last Days (2005)",
+      "Fifty Shades Darker (2017)",
+      "Grateful Dead (1995)",
+      "Adventures of Elmo in Grouchland, The (1999)",
+      "Heidi Fleiss: Hollywood Madam (1995)",
+      "Stalker (1979)",
+      "Crash (1996)",
+      "Surf's Up (2007)",
+      "Fahrenheit 9/11 (2004)",
+      "Boys (1996)",
+      "Thomas Crown Affair, The (1968)",
+      "Spanking the Monkey (1994)",
+      "Struck by Lightning (2012)",
+      "Drumline (2002)",
+      "Secret Adventures of Tom Thumb, The (1993)",
+      "Love (2015)",
+      "Being Human (1993)",
+      "Barcelona (1994)",
+      "God's Not Dead (2014)",
+      "White Mile (1994)",
+      "Henry Fool (1997)",
+      "Sicko (2007)",
+      "Barbie Mariposa and Her Butterfly Fairy Friends (2008)",
+      "Selena (1997)",
+      "Easy Rider (1969)",
+      "Thin Red Line, The (1998)",
+      "Glen or Glenda (1953)",
+      "Leap Year (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Serbian Film, A (Srpski film) (2010)",
+        "rating": 0.5,
+        "feeling": "Repulsive shock over substance\u2014I wanted out.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cat in the Hat, The (2003)",
+        "rating": 0.5,
+        "feeling": "Loud, grating chaos with none of the charm.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Last Days (2005)",
+        "rating": 3.5,
+        "feeling": "Hypnotic drift\u2014bleak, intimate, and purposefully elusive.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fifty Shades Darker (2017)",
+        "rating": 1.5,
+        "feeling": "Glossy emptiness",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Grateful Dead (1995)",
+        "rating": 3.0,
+        "feeling": "Pleasantly evocative slideshow\u2014minor but nicely mooded.",
+        "genres": []
+      },
+      {
+        "title": "Adventures of Elmo in Grouchland, The (1999)",
+        "rating": 2.0,
+        "feeling": "Sweet and colorful, but strictly for very small kids.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Music"
+        ]
+      },
+      {
+        "title": "Heidi Fleiss: Hollywood Madam (1995)",
+        "rating": 3.0,
+        "feeling": "Gossipy, uneven, yet engaging snapshot of a tawdry scene.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "Transfixing, meditative journey that seeped under my skin.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Crash (1996)",
+        "rating": 4.0,
+        "feeling": "Icy, perverse fascination\u2014unnerving but absorbing.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Surf's Up (2007)",
+        "rating": 3.5,
+        "feeling": "Light, witty, and warmly crafted\u2014easy to enjoy.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Fahrenheit 9/11 (2004)",
+        "rating": 3.0,
+        "feeling": "Blunt and galvanizing, but heavy-handed.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Boys (1996)",
+        "rating": 2.5,
+        "feeling": "Moody setup, thin payoff\u2014I never fully connected.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Thomas Crown Affair, The (1968)",
+        "rating": 4.0,
+        "feeling": "Sleek cat-and-mouse chic with irresistible cool.",
+        "genres": [
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Spanking the Monkey (1994)",
+        "rating": 3.5,
+        "feeling": "Squirmy, sharp indie discomfort that mostly works.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Drumline (2002)",
+        "rating": 3.0,
+        "feeling": "Formulaic, but the rhythms and energy carry it.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Secret Adventures of Tom Thumb, The (1993)",
+        "rating": 3.5,
+        "feeling": "Inventive, grotesque stop-motion that left a vivid imprint.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Love (2015)",
+        "rating": 2.0,
+        "feeling": "Explicit and earnest, yet numbing in its indulgence.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Barcelona (1994)",
+        "rating": 4.0,
+        "feeling": "Wry, talky charm with prickly cultural friction\u2014right up my alley.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "God's Not Dead (2014)",
+        "rating": 1.0,
+        "feeling": "Didactic and tin-eared",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "White Mile (1994)",
+        "rating": 2.5,
+        "feeling": "Serviceable TV-movie tension with little aftertaste.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Henry Fool (1997)",
+        "rating": 4.0,
+        "feeling": "Dry, offbeat, and slyly affecting\u2014smart indie wavelength.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sicko (2007)",
+        "rating": 3.5,
+        "feeling": "Broad but humane\u2014angry, clear, and moving.",
+        "genres": [
+          "Documentary",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Barbie Mariposa and Her Butterfly Fairy Friends (2008)",
+        "rating": 1.5,
+        "feeling": "Plastic fantasy that quickly wore me down.",
+        "genres": [
+          "Animation",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Selena (1997)",
+        "rating": 3.5,
+        "feeling": "Earnest, heartfelt biopic elevated by the music.",
+        "genres": [
+          "Drama",
+          "Music",
+          "History"
+        ]
+      },
+      {
+        "title": "Easy Rider (1969)",
+        "rating": 3.5,
+        "feeling": "Iconic, ragged reverie I respected more than loved.",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Thin Red Line, The (1998)",
+        "rating": 4.0,
+        "feeling": "Lyrical war meditation\u2014gorgeous, remote, and stirring.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Glen or Glenda (1953)",
+        "rating": 2.0,
+        "feeling": "Sincere curiosity muddled by clumsy, campy execution.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Leap Year (2010)",
+        "rating": 2.0,
+        "feeling": "Tourist-postcard rom-com\u2014cute, contrived, disposable.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Stuart Saves His Family (1995)",
+      "Starship Troopers (1997)",
+      "Creep (2014)",
+      "Freeway (1996)",
+      "Caligula (1979)",
+      "Wrongfully Accused (1998)",
+      "Woman, The (2011)",
+      "Very Bad Things (1998)",
+      "Me Myself I (2000)",
+      "The Taking of Deborah Logan (2014)",
+      "Iron Sky (2012)",
+      "You're Next (2011)",
+      "Chain Letter (2009)",
+      "ABCs of Death, The (2012)",
+      "The Emoji Movie (2017)",
+      "When Night Is Falling (1995)",
+      "Beyond Skyline (2017)",
+      "The Platform (2019)",
+      "Minus Man, The (1999)",
+      "Trekkies (1997)",
+      "Summer of Sam (1999)",
+      "Lord of the Rings, The (1978)",
+      "Vanishing, The (1993)",
+      "\u0421\u0435\u0440\u0434\u0446\u0430 \u0442\u0440\u0435\u0445 (1992)",
+      "Phat Beach (1996)",
+      "Tank 432 (2015)",
+      "Jane Austen's Mafia! (1998)",
+      "House (2008)",
+      "Barbie: Mariposa and The Fairy Princess (2013)",
+      "Attack of the Killer Tomatoes! (1978)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Stuart Saves His Family (1995)",
+        "rating": 3.0,
+        "feeling": "Earnest and gently funny, modestly affecting despite its SNL DNA.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Starship Troopers (1997)",
+        "rating": 3.5,
+        "feeling": "Sharp-edged satire wrapped in glossy bug-splatter\u2014fun if a bit blunt.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Creep (2014)",
+        "rating": 4.0,
+        "feeling": "Small-scale, skin-crawling two-hander that lingered uneasily.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Freeway (1996)",
+        "rating": 4.0,
+        "feeling": "Ferocious, grimy fairy-tale riff\u2014nasty, funny, and perversely gripping.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Caligula (1979)",
+        "rating": 1.5,
+        "feeling": "Lurid shock overwhelms any insight\u2014I felt more numbed than engaged.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Wrongfully Accused (1998)",
+        "rating": 1.5,
+        "feeling": "Relentless gag spray with few actual laughs\u2014mostly wearying.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Woman, The (2011)",
+        "rating": 3.5,
+        "feeling": "A small, humane chamber piece whose quiet conversation stings.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Very Bad Things (1998)",
+        "rating": 2.0,
+        "feeling": "Shrill, mean-spirited farce that left a sour aftertaste.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Me Myself I (2000)",
+        "rating": 2.0,
+        "feeling": "A few chuckles, but the manic, juvenile swings wore me down.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Taking of Deborah Logan (2014)",
+        "rating": 3.5,
+        "feeling": "Effectively unnerving docu-horror with a slightly exploitative edge.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Iron Sky (2012)",
+        "rating": 2.0,
+        "feeling": "Goofy premise, scattershot satire\u2014the joke wears thin fast.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Emoji Movie (2017)",
+        "rating": 0.5,
+        "feeling": "Cynical, joyless brand-soup\u2014pure slog.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "When Night Is Falling (1995)",
+        "rating": 3.5,
+        "feeling": "Sensual and earnest",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Beyond Skyline (2017)",
+        "rating": 2.0,
+        "feeling": "Noisy, weightless spectacle\u2014momentary thrills, little residue.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Platform (2019)",
+        "rating": 4.0,
+        "feeling": "Blunt but gripping allegory that gnawed at me afterward.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Minus Man, The (1999)",
+        "rating": 3.5,
+        "feeling": "Quietly eerie drift\u2014its calm surface hides a chill.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Trekkies (1997)",
+        "rating": 3.0,
+        "feeling": "Affectionate and amusing, if more curious than deep.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Summer of Sam (1999)",
+        "rating": 3.5,
+        "feeling": "Sweaty paranoia and neighborhood tension\u2014messy but compelling.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Lord of the Rings, The (1978)",
+        "rating": 3.0,
+        "feeling": "Ambitious, rough-hewn fantasy that I admired more than loved.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Vanishing, The (1993)",
+        "rating": 2.5,
+        "feeling": "Serviceable suspense without the dread I craved.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery",
+          "Horror"
+        ]
+      },
+      {
+        "title": "\u0421\u0435\u0440\u0434\u0446\u0430 \u0442\u0440\u0435\u0445 (1992)",
+        "rating": 2.5,
+        "feeling": "Old-fashioned adventure-romance I watched at a remove.",
+        "genres": [
+          "Romance",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Phat Beach (1996)",
+        "rating": 1.0,
+        "feeling": "Leering, slack comedy with almost no spark.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tank 432 (2015)",
+        "rating": 2.5,
+        "feeling": "Claustrophobic hook undermined by muddled execution.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jane Austen's Mafia! (1998)",
+        "rating": 1.5,
+        "feeling": "Rapid-fire spoofing with a low hit rate\u2014mostly airballs.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "House (2008)",
+        "rating": 1.5,
+        "feeling": "Derivative haunted-house beats with a preachy aftertaste.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Barbie: Mariposa and The Fairy Princess (2013)",
+        "rating": 1.5,
+        "feeling": "Bright and harmless, but plasticky and numbing.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Attack of the Killer Tomatoes! (1978)",
+        "rating": 2.0,
+        "feeling": "The absurd idea amuses",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Hamilton (2020)",
+      "Winnie the Pooh and the Blustery Day (1968)",
+      "Breaking the Waves (1996)",
+      "Winnie the Pooh and the Honey Tree (1966)",
+      "13 reasons why",
+      "Winnie Pooh (1969)",
+      "Before Midnight (2013)",
+      "Now, Voyager (1942)",
+      "The Power of the Dog (2021)",
+      "Barb and Star Go to Vista Del Mar (2021)",
+      "In the Company of Men (1997)",
+      "Experimenter (2015)",
+      "Cloudy with a Chance of Meatballs (2009)",
+      "Where the Wild Things Are (2009)",
+      "Frozen Land (Paha maa) (2005)",
+      "Scarlet Street (1945)",
+      "The Ghost in the Invisible Bikini (1966)",
+      "Balloonfest (2017)",
+      "Twist of Faith (2004)",
+      "Whiplash (2014)",
+      "La La Land (2016)",
+      "Patton Oswalt: Annihilation (2017)",
+      "Follow Me, Boys! (1966)",
+      "Trouble with Harry, The (1955)",
+      "Nowitzki: The Perfect Shot (2014)",
+      "Elle (2016)",
+      "Portland (1996)",
+      "Paint It Yellow (Rang De Basanti) (2006)",
+      "Eye of the Beholder (1999)",
+      "Life of Pi (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Hamilton (2020)",
+        "rating": 3.0,
+        "feeling": "Engaging roundtable with insight, though the promotional gloss kept me at arm\u2019s length.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Winnie the Pooh and the Blustery Day (1968)",
+        "rating": 2.5,
+        "feeling": "Gentle and sweet, but firmly for littles\u2014pleasant more than affecting.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music"
+        ]
+      },
+      {
+        "title": "Breaking the Waves (1996)",
+        "rating": 4.5,
+        "feeling": "Raw, devotional heartbreak that left me wrung out and haunted.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Winnie the Pooh and the Honey Tree (1966)",
+        "rating": 2.5,
+        "feeling": "Whimsical and mild",
+        "genres": [
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Winnie Pooh (1969)",
+        "rating": 3.0,
+        "feeling": "Charming, offbeat animation with a playful melancholy I liked.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Before Midnight (2013)",
+        "rating": 4.5,
+        "feeling": "Talky, acid, and deeply felt\u2014age and compromise cut to the bone.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Now, Voyager (1942)",
+        "rating": 4.0,
+        "feeling": "Classic, well-burnished melodrama that moved me more than I expected.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Power of the Dog (2021)",
+        "rating": 4.0,
+        "feeling": "Chilly, coiled tension with a quiet sting that lingered.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Barb and Star Go to Vista Del Mar (2021)",
+        "rating": 2.5,
+        "feeling": "Goofy sunshine that made me grin in bits, but the silliness wore thin.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "In the Company of Men (1997)",
+        "rating": 4.0,
+        "feeling": "Acrid, incisive cruelty\u2014hard to watch, harder to shake.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Experimenter (2015)",
+        "rating": 4.0,
+        "feeling": "Playful formal choices, coolly compelling ideas\u2014right up my alley.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Cloudy with a Chance of Meatballs (2009)",
+        "rating": 3.5,
+        "feeling": "Zippy, clever, and surprisingly warm\u2014corny in spots but it works.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Where the Wild Things Are (2009)",
+        "rating": 4.0,
+        "feeling": "Beautifully bruised childhood reverie\u2014lonely, messy, and tender.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Frozen Land (Paha maa) (2005)",
+        "rating": 4.0,
+        "feeling": "Bleak domino tragedy that burrowed under my skin.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Scarlet Street (1945)",
+        "rating": 4.0,
+        "feeling": "Silky, fatalistic noir\u2014cruel and satisfying.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Balloonfest (2017)",
+        "rating": 3.5,
+        "feeling": "Fascinating civic fiasco\u2014short, sharp, and oddly sad.",
+        "genres": [
+          "History",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Twist of Faith (2004)",
+        "rating": 3.5,
+        "feeling": "Earnest, intimate reckoning that hit with sober weight.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Whiplash (2014)",
+        "rating": 4.5,
+        "feeling": "Fierce and propulsive\u2014ambition\u2019s poison goes down like fire.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.0,
+        "feeling": "Gorgeous, bittersweet showmanship\u2014swept me up even as it stays a touch airy.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Patton Oswalt: Annihilation (2017)",
+        "rating": 3.5,
+        "feeling": "Smart, bruised laughter\u2014funny and humane if a bit uneven.",
+        "genres": [
+          "Comedy",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Follow Me, Boys! (1966)",
+        "rating": 2.0,
+        "feeling": "Wholesome, overlong syrup that left me mostly unmoved.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Trouble with Harry, The (1955)",
+        "rating": 4.0,
+        "feeling": "Dry, macabre whimsy\u2014Hitchcock in a playful, pleasing key.",
+        "genres": [
+          "Comedy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Nowitzki: The Perfect Shot (2014)",
+        "rating": 3.0,
+        "feeling": "Engaging, respectful sports hagiography\u2014solid if conventional.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Elle (2016)",
+        "rating": 4.0,
+        "feeling": "Icy, provocative cat-and-mouse that kept me on edge.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Portland (1996)",
+        "rating": 3.0,
+        "feeling": "Shaggy, scrappy vignette\u2014thin but evocative.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Paint It Yellow (Rang De Basanti) (2006)",
+        "rating": 3.5,
+        "feeling": "Rousing, earnest pivot from hangout charm to political fervor\u2014uneven but affecting.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Eye of the Beholder (1999)",
+        "rating": 2.0,
+        "feeling": "Moody muddle\u2014intrigue slips through its fingers.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Life of Pi (2012)",
+        "rating": 3.5,
+        "feeling": "Ravishing mythmaking that stirred me more visually than emotionally.",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

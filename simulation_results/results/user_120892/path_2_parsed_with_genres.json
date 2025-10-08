@@ -1,0 +1,1310 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "About Time (2013)",
+      "The Holiday (2006)",
+      "Love Actually (2003)",
+      "Set It Up (2018)",
+      "To All the Boys I've Loved Before (2018)",
+      "Always Be My Maybe (2019)",
+      "Crazy Rich Asians (2018)",
+      "The Proposal (2009)",
+      "13 Going on 30 (2004)",
+      "While You Were Sleeping (1995)",
+      "Notting Hill (1999)",
+      "Serendipity (2001)",
+      "The Princess Switch (2018)",
+      "Back to the Future (1985)",
+      "The Terminator (1984)",
+      "The Matrix (1999)",
+      "Inception (2010)",
+      "Minority Report (2002)",
+      "Edge of Tomorrow (2014)",
+      "Source Code (2011)",
+      "Ready Player One (2018)",
+      "Star Trek (2009)",
+      "Jurassic Park (1993)",
+      "Men in Black (1997)",
+      "Knives Out (2019)",
+      "Searching (2018)",
+      "A Simple Favor (2018)",
+      "The Girl on the Train (2016)",
+      "The Fugitive (1993)",
+      "Revenge of the Electric Car (2011)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "About Time (2013)",
+        "rating": 3.0,
+        "feeling": "Sweet time-travel heart-warmer that mostly worked on me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 3.5,
+        "feeling": "Cozy Christmas comfort",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Love Actually (2003)",
+        "rating": 3.5,
+        "feeling": "Corny in spots, but the Christmas glow wins me over.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Set It Up (2018)",
+        "rating": 3.0,
+        "feeling": "Cute and lightweight",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "To All the Boys I've Loved Before (2018)",
+        "rating": 3.5,
+        "feeling": "Adorable YA chemistry that hit my soft spot.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Always Be My Maybe (2019)",
+        "rating": 3.0,
+        "feeling": "Pleasant, breezy, but not unforgettable.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 2.5,
+        "feeling": "Glossy fun, a bit too soap-y for my taste.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 3.5,
+        "feeling": "Classic rom-com rhythms that still click.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "13 Going on 30 (2004)",
+        "rating": 3.0,
+        "feeling": "Sweet premise, moderate charm, mild laughs.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 3.0,
+        "feeling": "Gentle and cozy, if a little contrived.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 3.5,
+        "feeling": "Effortlessly romantic with just enough wit.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Serendipity (2001)",
+        "rating": 3.0,
+        "feeling": "Cheesy fate games I can tolerate around the holidays.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Princess Switch (2018)",
+        "rating": 3.5,
+        "feeling": "Ridiculous but festive and comfy.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 4.0,
+        "feeling": "Nostalgic time-travel magic that still zips.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Terminator (1984)",
+        "rating": 3.5,
+        "feeling": "Lean, gritty sci-fi that holds up well.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Matrix (1999)",
+        "rating": 3.0,
+        "feeling": "Cool ideas",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 3.0,
+        "feeling": "Clever and propulsive, emotionally a tad chilly.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 3.0,
+        "feeling": "Sharp premise, a little over-polished for my taste.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 3.5,
+        "feeling": "Smart, punchy time-loop fun.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 3.0,
+        "feeling": "Engaging puzzle-box with decent heart.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ready Player One (2018)",
+        "rating": 2.0,
+        "feeling": "Reference overload",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 2.5,
+        "feeling": "Zippy reboot that felt a bit disposable.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Jurassic Park (1993)",
+        "rating": 3.0,
+        "feeling": "Iconic thrills, less gripping to me now.",
+        "genres": [
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 3.0,
+        "feeling": "Snappy, likable sci-fi goofiness.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 3.5,
+        "feeling": "Twisty, playful mystery that kept me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Searching (2018)",
+        "rating": 3.5,
+        "feeling": "Clever, tense tech-thriller that hooked me.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Simple Favor (2018)",
+        "rating": 3.0,
+        "feeling": "Slick, fizzy mystery with uneven tone.",
+        "genres": [
+          "Thriller",
+          "Comedy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Girl on the Train (2016)",
+        "rating": 2.5,
+        "feeling": "Moody and pulpy",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 3.5,
+        "feeling": "Rock-solid 90s thriller with great momentum.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Revenge of the Electric Car (2011)",
+        "rating": 3.0,
+        "feeling": "Interesting follow-up",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Glass Onion: A Knives Out Mystery (2022)",
+      "Missing (2023)",
+      "Game Night (2018)",
+      "Love Hard (2021)",
+      "About Fate (2022)",
+      "Palm Springs (2020)",
+      "The Map of Tiny Perfect Things (2021)",
+      "The Adam Project (2022)",
+      "Deja Vu (2006)",
+      "Safety Not Guaranteed (2012)",
+      "The Lake House (2006)",
+      "The Time Traveler's Wife (2009)",
+      "Frequency (2000)",
+      "Project Almanac (2015)",
+      "Speed (1994)",
+      "True Lies (1994)",
+      "Mission: Impossible (1996)",
+      "National Treasure (2004)",
+      "Enola Holmes (2020)",
+      "See How They Run (2022)",
+      "Murder on the Orient Express (2017)",
+      "Red Eye (2005)",
+      "Disturbia (2007)",
+      "Easy A (2010)",
+      "Love, Simon (2018)",
+      "The DUFF (2015)",
+      "Definitely, Maybe (2008)",
+      "The Big Sick (2017)",
+      "The Noel Diary (2022)",
+      "Inside Man (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Glass Onion: A Knives Out Mystery (2022)",
+        "rating": 3.0,
+        "feeling": "Flashy and fun, if a shade broader and less cozy than I prefer.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Missing (2023)",
+        "rating": 3.5,
+        "feeling": "Tense, clever screenlife sleuthing that kept me leaning in.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Game Night (2018)",
+        "rating": 3.0,
+        "feeling": "Goofy twists and brisk momentum made for a breezy good time.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Love Hard (2021)",
+        "rating": 3.5,
+        "feeling": "Catfish hijinks plus Christmas cozy equals my kind of comfort watch.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Fate (2022)",
+        "rating": 3.0,
+        "feeling": "Fate-y rom-com fluff that went down easy on a wintry night.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 3.5,
+        "feeling": "Smart, snappy time-loop chemistry that clicked for me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Map of Tiny Perfect Things (2021)",
+        "rating": 3.0,
+        "feeling": "Sweet YA loop with gentle charm, if a bit slight.",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Adam Project (2022)",
+        "rating": 2.5,
+        "feeling": "Quippy, glossy time-travel that felt more prefab than heartfelt.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Deja Vu (2006)",
+        "rating": 3.0,
+        "feeling": "Propulsive, gadget-y thriller with a neat time-warp hook.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 3.0,
+        "feeling": "Low-key oddball romance with a soft sci-fi whisper I liked.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Lake House (2006)",
+        "rating": 3.0,
+        "feeling": "Sincere time-crossed sap that I can roll with.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Time Traveler's Wife (2009)",
+        "rating": 2.5,
+        "feeling": "Earnest and wistful, but a little soggy for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Frequency (2000)",
+        "rating": 3.0,
+        "feeling": "Father-son twistiness with solid stakes and a satisfying pulse.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Project Almanac (2015)",
+        "rating": 2.0,
+        "feeling": "Teen time-meddling that gets messy and thin.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 3.5,
+        "feeling": "Lean, high-concept adrenaline that still zooms.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "True Lies (1994)",
+        "rating": 3.0,
+        "feeling": "Big, brawny spy romp\u2014fun, if a tad broad.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible (1996)",
+        "rating": 3.0,
+        "feeling": "Slick spy puzzles with cool set pieces, a bit chilly.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 3.0,
+        "feeling": "Corny clue-chasing that\u2019s silly but enjoyable enough.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Enola Holmes (2020)",
+        "rating": 3.0,
+        "feeling": "Spry, youthful sleuthing with charm to spare.",
+        "genres": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "See How They Run (2022)",
+        "rating": 3.0,
+        "feeling": "Light, meta whodunit vibes that amused more than thrilled.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Murder on the Orient Express (2017)",
+        "rating": 2.5,
+        "feeling": "Polished and stodgy",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Red Eye (2005)",
+        "rating": 3.0,
+        "feeling": "Taut, tidy airplane thriller that did the job.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Disturbia (2007)",
+        "rating": 2.5,
+        "feeling": "Teen rear-window riff that\u2019s watchable, if formulaic.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Easy A (2010)",
+        "rating": 3.0,
+        "feeling": "Witty teen shenanigans with a warm, playful bounce.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Love, Simon (2018)",
+        "rating": 3.0,
+        "feeling": "Sweet, earnest teen romance that left me smiling.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The DUFF (2015)",
+        "rating": 2.5,
+        "feeling": "Cute, predictable high school makeover comfort.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Definitely, Maybe (2008)",
+        "rating": 3.0,
+        "feeling": "Gentle, engaging storybook romance with a cozy afterglow.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 3.0,
+        "feeling": "Funny and tender, even if the dramedy beats felt familiar.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Noel Diary (2022)",
+        "rating": 3.0,
+        "feeling": "Quiet, wintry heartwarmer that fit my holiday soft spot.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 3.5,
+        "feeling": "Clever, confident heist puzzle that kept me hooked.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Princess Switch: Switched Again (2020)",
+      "The Princess Switch 3: Romancing the Star (2021)",
+      "Holidate (2020)",
+      "Happiest Season (2020)",
+      "Single All the Way (2021)",
+      "A Castle for Christmas (2021)",
+      "The Knight Before Christmas (2019)",
+      "A Christmas Prince (2017)",
+      "A Christmas Prince: The Royal Wedding (2018)",
+      "To All the Boys: P.S. I Still Love You (2020)",
+      "To All the Boys: Always and Forever (2021)",
+      "27 Dresses (2008)",
+      "Two Weeks Notice (2002)",
+      "You've Got Mail (1998)",
+      "Sleepless in Seattle (1993)",
+      "The Hating Game (2021)",
+      "What If (2014)",
+      "Crazy, Stupid, Love. (2011)",
+      "The Lost City (2022)",
+      "Ticket to Paradise (2022)",
+      "Anyone But You (2023)",
+      "Love at First Sight (2023)",
+      "The Idea of You (2024)",
+      "17 Again (2009)",
+      "Groundhog Day (1993)",
+      "Bill & Ted's Excellent Adventure (1989)",
+      "Ocean's Eleven (2001)",
+      "Now You See Me (2013)",
+      "Catch Me If You Can (2002)",
+      "Enola Holmes 2 (2022)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Princess Switch: Switched Again (2020)",
+        "rating": 3.0,
+        "feeling": "Goofy triple-switch antics, but still warm and festive enough for me.",
+        "genres": [
+          "Family",
+          "Romance",
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "The Princess Switch 3: Romancing the Star (2021)",
+        "rating": 2.5,
+        "feeling": "Diminishing returns, though the holiday coziness just about carries it.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Holidate (2020)",
+        "rating": 3.0,
+        "feeling": "Snarky holiday pact premise that turns comfy by the end.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Happiest Season (2020)",
+        "rating": 3.0,
+        "feeling": "Messy family drama, but the holiday glow and sincerity landed.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Single All the Way (2021)",
+        "rating": 3.0,
+        "feeling": "Predictable, sweet, and exactly the kind of cozy I toss on in December.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Castle for Christmas (2021)",
+        "rating": 2.5,
+        "feeling": "Scenic and snug, if a bit stiff and storybook-thin.",
+        "genres": [
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Knight Before Christmas (2019)",
+        "rating": 3.0,
+        "feeling": "Ridiculous time-magic, yet it scratches my festive comfort itch.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Christmas Prince (2017)",
+        "rating": 3.0,
+        "feeling": "Royal fluff I can happily sip like hot cocoa.",
+        "genres": [
+          "Romance",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "A Christmas Prince: The Royal Wedding (2018)",
+        "rating": 2.5,
+        "feeling": "Cute enough, though the sparkle fades a notch from the first.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "To All the Boys: P.S. I Still Love You (2020)",
+        "rating": 3.0,
+        "feeling": "Still charming YA swoon, just a tad lighter than the first.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "To All the Boys: Always and Forever (2021)",
+        "rating": 3.0,
+        "feeling": "Sweet senior-year sendoff with gentle feels.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "27 Dresses (2008)",
+        "rating": 3.0,
+        "feeling": "Classic rom-com rhythms that go down easy.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Two Weeks Notice (2002)",
+        "rating": 3.0,
+        "feeling": "Comfortably formulaic with likable leads.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 3.5,
+        "feeling": "Effortlessly cozy and romantic in all the right ways.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 3.0,
+        "feeling": "Tender and wistful, if a touch contrived for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Hating Game (2021)",
+        "rating": 3.0,
+        "feeling": "Breezy enemies-to-lovers banter that mostly works.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "What If (2014)",
+        "rating": 1.5,
+        "feeling": "Sweet for little kids, but too slight to click with me.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love. (2011)",
+        "rating": 3.0,
+        "feeling": "Funny, wistful ensemble rom-com that kept me engaged.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lost City (2022)",
+        "rating": 2.5,
+        "feeling": "Glossy jungle hijinks with some laughs, a bit too prefab.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ticket to Paradise (2022)",
+        "rating": 3.0,
+        "feeling": "Sunny, easygoing charm I can relax into.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Anyone But You (2023)",
+        "rating": 2.5,
+        "feeling": "Broad, sexy-screwball energy that lands unevenly for me.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Love at First Sight (2023)",
+        "rating": 3.0,
+        "feeling": "Airplane-meet-cute sap that worked on my softer side.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Idea of You (2024)",
+        "rating": 2.5,
+        "feeling": "Star-crossed gloss with some swoon, but the celebrity sheen keeps me at arm\u2019s length.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "17 Again (2009)",
+        "rating": 3.0,
+        "feeling": "Body-swap-ish wish fulfillment that\u2019s lightweight fun.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 3.5,
+        "feeling": "Time-loop comfort watch with a warm glow I appreciate.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Bill & Ted's Excellent Adventure (1989)",
+        "rating": 3.0,
+        "feeling": "Goofy time-travel romp that\u2019s amiable if slight.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 3.5,
+        "feeling": "Slick, playful heist mechanics that hit my sweet spot.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Now You See Me (2013)",
+        "rating": 3.0,
+        "feeling": "Flashy, twisty caper that entertains even if it\u2019s airy.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 3.5,
+        "feeling": "Breezy cat-and-mouse with satisfying momentum.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Enola Holmes 2 (2022)",
+        "rating": 3.0,
+        "feeling": "Spry, charming sleuthing that stays lively enough.",
+        "genres": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Thomas Crown Affair (1999)",
+      "Sneakers (1992)",
+      "Logan Lucky (2017)",
+      "Clue (1985)",
+      "The Nice Guys (2016)",
+      "Kiss Kiss Bang Bang (2005)",
+      "The Italian Job (2003)",
+      "Phone Booth (2002)",
+      "The Negotiator (1998)",
+      "The Lincoln Lawyer (2011)",
+      "Romancing the Stone (1984)",
+      "Kate & Leopold (2001)",
+      "The Family Man (2000)",
+      "Midnight in Paris (2011)",
+      "The Age of Adaline (2015)",
+      "Just Like Heaven (2005)",
+      "Big (1988)",
+      "The Princess Bride (1987)",
+      "Stardust (2007)",
+      "Enchanted (2007)",
+      "Music and Lyrics (2007)",
+      "Hitch (2005)",
+      "The American President (1995)",
+      "Dave (1993)",
+      "Chef (2014)",
+      "Last Christmas (2019)",
+      "Falling for Christmas (2022)",
+      "The Holiday Calendar (2018)",
+      "Last Holiday (2006)",
+      "Noelle (2019)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.5,
+        "feeling": "Sleek cat-and-mouse romance with classy heist vibes that hit my caper sweet spot.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 3.5,
+        "feeling": "Laid-back ensemble caper with clever gadgetry and comfy momentum I liked.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 3.0,
+        "feeling": "Folksy, offbeat heist fun\u2014light and likable if a bit airy for me.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 3.0,
+        "feeling": "Zany whodunit antics that amuse more than they wow, but I had a good time.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.0,
+        "feeling": "Crackling banter and messy 70s sleuthing made for a breezy, if shaggy, ride.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 3.0,
+        "feeling": "Snarky, twisty L.A. noir send-up that entertained even if the tone wobbles.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 3.0,
+        "feeling": "Glossy, pedal-to-the-metal caper that\u2019s fun while it lasts.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Negotiator (1998)",
+        "rating": 3.5,
+        "feeling": "Tense, crafty hostage chess match with satisfying twists and momentum.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lincoln Lawyer (2011)",
+        "rating": 3.0,
+        "feeling": "Slick legal thriller with a compelling hook and steady pulse.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 3.0,
+        "feeling": "Old-school jungle rom-adventure that\u2019s charmingly pulpy and easygoing.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kate & Leopold (2001)",
+        "rating": 3.0,
+        "feeling": "Time-crossed sap I can roll with thanks to gentle charm and fish-out-of-time fun.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Family Man (2000)",
+        "rating": 3.5,
+        "feeling": "Alt-life Christmas coziness with enough heart to warm me up.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Midnight in Paris (2011)",
+        "rating": 3.0,
+        "feeling": "Whimsical time-wander nostalgia that\u2019s pleasant, if a touch precious for me.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Age of Adaline (2015)",
+        "rating": 2.5,
+        "feeling": "Earnest, glossy immortality romance that plays a bit too soggy for my taste.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Just Like Heaven (2005)",
+        "rating": 3.0,
+        "feeling": "Sweet, light afterlife rom-com fluff that goes down easy.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Big (1988)",
+        "rating": 3.5,
+        "feeling": "Warm, wish-fulfillment fantasy with playful heart that still lands.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 3.5,
+        "feeling": "Storybook wit and swoon that\u2019s effortlessly charming and cozy.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.0,
+        "feeling": "Whimsical fairy-tale quest with enough sparkle and heart to keep me smiling.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 3.0,
+        "feeling": "Fish-out-of-fairytale fun\u2014sweet, self-aware, and comfortably cozy.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Music and Lyrics (2007)",
+        "rating": 3.0,
+        "feeling": "Light, catchy rom-com rhythms with amiable chemistry and toe-taps.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hitch (2005)",
+        "rating": 3.0,
+        "feeling": "Breezy, crowd-pleasing matchmaking hijinks that hit classic rom-com beats.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The American President (1995)",
+        "rating": 3.5,
+        "feeling": "Witty, grown-up romance with a cozy, old-fashioned glow I enjoyed.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dave (1993)",
+        "rating": 3.0,
+        "feeling": "Gentle, feel-good Oval Office fable that\u2019s amiable and soft.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Chef (2014)",
+        "rating": 3.0,
+        "feeling": "Food-truck feel-good vibes with warm father-son beats and easy charm.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Last Christmas (2019)",
+        "rating": 3.0,
+        "feeling": "Holiday-heart dramedy with cozy London glow that worked well enough on me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Falling for Christmas (2022)",
+        "rating": 3.0,
+        "feeling": "Hallmark-y amnesia fluff with festive warmth I can sip like cocoa.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Holiday Calendar (2018)",
+        "rating": 3.0,
+        "feeling": "Predictable Advent magic, but the gentle holiday cozy wins out.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Last Holiday (2006)",
+        "rating": 3.0,
+        "feeling": "Life-embracing, Euro-hotel wish fulfillment that\u2019s warm and uplifting.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Noelle (2019)",
+        "rating": 3.0,
+        "feeling": "Candy-cane fantasy that\u2019s sweet, slight, and seasonally comforting.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    ]
+  }
+]

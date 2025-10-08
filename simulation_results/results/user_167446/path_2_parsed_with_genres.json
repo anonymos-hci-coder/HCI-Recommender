@@ -1,0 +1,1276 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Dark City (1998)",
+      "The Matrix (1999)",
+      "Minority Report (2002)",
+      "Gattaca (1997)",
+      "Ex Machina (2014)",
+      "The Adjustment Bureau (2011)",
+      "Source Code (2011)",
+      "Looper (2012)",
+      "Children of Men (2006)",
+      "The Truman Show (1998)",
+      "Twelve Monkeys (1995)",
+      "Inception (2010)",
+      "Hellboy (2004)",
+      "Spider-Man 2 (2004)",
+      "X2: X-Men United (2003)",
+      "Iron Man (2008)",
+      "The Dark Knight (2008)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "Notting Hill (1999)",
+      "When Harry Met Sally... (1989)",
+      "10 Things I Hate About You (1999)",
+      "Bridget Jones's Diary (2001)",
+      "The Proposal (2009)",
+      "Crazy, Stupid, Love. (2011)",
+      "About Time (2013)",
+      "Legally Blonde (2001)",
+      "Hot Fuzz (2007)",
+      "Men in Black (1997)",
+      "The Incredibles (2004)",
+      "The Iron Giant (1999)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Dark City (1998)",
+        "rating": 4.5,
+        "feeling": "Loved the moody, noir dystopia and the reality-bending mystery that kept tightening its grip",
+        "genres": [
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Matrix (1999)",
+        "rating": 3.5,
+        "feeling": "Slick philosophy-meets-action that works, even if the cool can feel a bit self-serious",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.0,
+        "feeling": "Taut tech thriller with moral wrinkles that hit my sweet spot",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.5,
+        "feeling": "Elegant, human sci\u2011fi with stakes of identity and destiny that really resonate",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Adjustment Bureau (2011)",
+        "rating": 3.5,
+        "feeling": "Fate-versus-free-will romance that\u2019s engaging if a touch lightweight",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 3.5,
+        "feeling": "Tight, looping mystery that balances momentum and emotion well enough",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 3.5,
+        "feeling": "Clever premise and grubby futurism, though it sags in spots",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.0,
+        "feeling": "Bleak, immersive world-building with urgency that lingers after the credits",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 3.5,
+        "feeling": "Smart, humane satire about control and authenticity that mostly sticks",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Twelve Monkeys (1995)",
+        "rating": 3.5,
+        "feeling": "Gritty, twisty time-travel that keeps me uneasy in a good way",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 3.5,
+        "feeling": "Inventive dream-heist mechanics that satisfy more than they move me",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Hellboy (2004)",
+        "rating": 3.5,
+        "feeling": "Charming monster-heroics and tactile design make for a solid ride",
+        "genres": [
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Spider-Man 2 (2004)",
+        "rating": 3.5,
+        "feeling": "Strong character beats and a great villain, still a bit comic-book broad",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "X2: X-Men United (2003)",
+        "rating": 3.5,
+        "feeling": "Sleek ensemble superhero entry balancing powers and prejudice themes",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Iron Man (2008)",
+        "rating": 3.5,
+        "feeling": "Snappy tech swagger and an origin story that goes down easy",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 3.5,
+        "feeling": "Intense crime saga with a magnetic villain that runs a little long but grips",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 3.0,
+        "feeling": "Big swashbuckling fun though the jokiness wears thin for me",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 3.5,
+        "feeling": "British charm and gentle humor keep the fairy-tale premise sweet",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 3.5,
+        "feeling": "Witty sparring and relationship insight that\u2019s a tad tidy",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "10 Things I Hate About You (1999)",
+        "rating": 3.0,
+        "feeling": "Lively teen spin on Shakespeare that\u2019s cute more than affecting",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bridget Jones's Diary (2001)",
+        "rating": 4.0,
+        "feeling": "Endearing, self-deprecating heroine with sharp British wit",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 3.0,
+        "feeling": "Watchable opposites-attract fluff with predictable beats",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love. (2011)",
+        "rating": 3.5,
+        "feeling": "Messy but likable ensemble rom-com with a few real laughs",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Time-travel used for warm, grounded life lessons that land for me",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Legally Blonde (2001)",
+        "rating": 3.5,
+        "feeling": "Bubbly empowerment comedy that wins by sheer charm",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.0,
+        "feeling": "Razor-sharp genre send-up with propulsive laughs and craft",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 3.5,
+        "feeling": "Breezy sci\u2011fi comedy with wry wit and a fun odd-couple vibe",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 3.5,
+        "feeling": "Family superhero adventure with verve and brains, if a bit familiar",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.0,
+        "feeling": "Warm, soulful sci\u2011fi fable that hits my sentimental side just right",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Blade Runner (1982)",
+      "Blade Runner 2049 (2017)",
+      "Arrival (2016)",
+      "Ex Machina (2014)",
+      "Annihilation (2018)",
+      "Edge of Tomorrow (2014)",
+      "Predestination (2014)",
+      "Coherence (2013)",
+      "Timecrimes (2007)",
+      "The Prestige (2006)",
+      "Memento (2000)",
+      "The Game (1997)",
+      "Enemy of the State (1998)",
+      "Sneakers (1992)",
+      "RoboCop (1987)",
+      "Total Recall (1990)",
+      "District 9 (2009)",
+      "Moon (2009)",
+      "Sunshine (2007)",
+      "The Martian (2015)",
+      "Upgrade (2018)",
+      "A.I. Artificial Intelligence (2001)",
+      "Her (2013)",
+      "Snowpiercer (2013)",
+      "Pleasantville (1998)",
+      "The World's End (2013)",
+      "Four Weddings and a Funeral (1994)",
+      "Love Actually (2003)",
+      "Sliding Doors (1998)",
+      "The Big Sick (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 4.5,
+        "feeling": "Gorgeously moody noir sci\u2011fi about identity and mortality that sinks its hooks in me.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.0,
+        "feeling": "Immersive, elegiac future\u2011noir that deepens the questions even if it runs chilly and long.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Brainy, humane first\u2011contact puzzle where time and language stir real emotion.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 3.5,
+        "feeling": "Haunting, heady weirdness with striking imagery that intrigues more than it connects.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 3.5,
+        "feeling": "Clever, kinetic time\u2011loop fun that clicks even if stakes feel mostly game\u2011like.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 3.5,
+        "feeling": "Knotty time\u2011travel ouroboros that satisfies the brain more than the heart.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 3.5,
+        "feeling": "Low\u2011budget, high\u2011tension dinner\u2011party mindwarp that keeps me pleasantly uneasy.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Timecrimes (2007)",
+        "rating": 3.5,
+        "feeling": "Tight, bleak time\u2011loop spiral where every choice traps tighter\u2014grimly satisfying.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.0,
+        "feeling": "Sleek dueling\u2011obsession thriller with clever turns and a chilly ache underneath.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 3.5,
+        "feeling": "Inventive memory puzzle that engages my head even if I stay a bit removed.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 3.5,
+        "feeling": "Paranoid rollercoaster of control and manipulation that\u2019s gripping if contrived.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Enemy of the State (1998)",
+        "rating": 3.5,
+        "feeling": "Propulsive surveillance thriller whose tech paranoia still gives me the jitters.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 3.5,
+        "feeling": "Light, witty caper with lovable tech misfits\u2014pleasantly smart comfort food.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "RoboCop (1987)",
+        "rating": 4.0,
+        "feeling": "Savage corporate satire wrapped in bruising sci\u2011fi that still hits hard.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Total Recall (1990)",
+        "rating": 3.5,
+        "feeling": "Pulpy identity trip that\u2019s fun and twisty if not especially deep.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "District 9 (2009)",
+        "rating": 4.0,
+        "feeling": "Gritty, urgent allegory with inventive world\u2011building and a surprisingly human core.",
+        "genres": [
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.0,
+        "feeling": "Intimate, melancholic sci\u2011fi about self and isolation that quietly lands.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 3.5,
+        "feeling": "Solar\u2011mission dread with dazzling atmosphere that wobbles but holds me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.0,
+        "feeling": "Ingenious, upbeat survival tale where smarts and humor make the science sing.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Upgrade (2018)",
+        "rating": 3.5,
+        "feeling": "Lean, nasty techno\u2011revenge with a cool man\u2011and\u2011machine hook that goes down easy.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "A.I. Artificial Intelligence (2001)",
+        "rating": 3.5,
+        "feeling": "Melancholy robot fable of longing that moves me in parts, drifts in others.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "Tender, thoughtful tech romance that probes intimacy and isolation with warmth.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Snowpiercer (2013)",
+        "rating": 3.5,
+        "feeling": "Bold, blunt class\u2011war allegory on rails\u2014stylish, a touch heavy\u2011handed.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pleasantville (1998)",
+        "rating": 4.0,
+        "feeling": "Clever, heartfelt color\u2011burst of awakening and control that really clicks for me.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The World\u2019s End (2013)",
+        "rating": 3.5,
+        "feeling": "Melancholy pub\u2011crawl apocalypse with sharp laughs that don\u2019t quite hit Hot Fuzz highs.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Four Weddings and a Funeral (1994)",
+        "rating": 3.5,
+        "feeling": "Dry British charm and bittersweet beats make for reliably amiable romance.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Love Actually (2003)",
+        "rating": 3.0,
+        "feeling": "Messy, cozy ensemble fluff\u2014sweet enough, uneven enough.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sliding Doors (1998)",
+        "rating": 3.5,
+        "feeling": "Parallel\u2011paths romance with a breezy touch and a quietly satisfying conceit.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.0,
+        "feeling": "Warm, funny culture\u2011clash romance with genuine heart and prickly honesty.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Ex Machina (2014)",
+      "Never Let Me Go (2010)",
+      "Primer (2004)",
+      "The Thirteenth Floor (1999)",
+      "Strange Days (1995)",
+      "A Scanner Darkly (2006)",
+      "Ghost in the Shell (1995)",
+      "Dredd (2012)",
+      "Contact (1997)",
+      "Solaris (1972)",
+      "Under the Skin (2013)",
+      "Paprika (2006)",
+      "Akira (1988)",
+      "The City of Lost Children (1995)",
+      "Donnie Darko (2001)",
+      "Triangle (2009)",
+      "Palm Springs (2020)",
+      "Safety Not Guaranteed (2012)",
+      "Deja Vu (2006)",
+      "Frequency (2000)",
+      "Mr. Nobody (2009)",
+      "The Conversation (1974)",
+      "The Lives of Others (2006)",
+      "Shutter Island (2010)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "About a Boy (2002)",
+      "Your Name (2016)",
+      "Sing Street (2016)",
+      "Once (2007)",
+      "2001: A Space Odyssey (1968)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Never Let Me Go (2010)",
+        "rating": 4.0,
+        "feeling": "Melancholy, humane sci\u2011fi about love and fate that lingers more in the heart than the head for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Primer (2004)",
+        "rating": 3.5,
+        "feeling": "Brainy, abrasive time twist that I admire more than I connect with.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thirteenth Floor (1999)",
+        "rating": 3.0,
+        "feeling": "Simulation noir with ideas I like, but it feels derivative and emotionally thin.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Strange Days (1995)",
+        "rating": 4.0,
+        "feeling": "Grimy near\u2011future noir with tech paranoia and moral bite that pulls me in.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Scanner Darkly (2006)",
+        "rating": 3.5,
+        "feeling": "Rotoscoped paranoia trip about identity that intrigues even as it keeps me at a distance.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ghost in the Shell (1995)",
+        "rating": 4.0,
+        "feeling": "Cool, moody cyber\u2011philosophy about self and body that hits my future\u2011noir sweet spot.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dredd (2012)",
+        "rating": 3.5,
+        "feeling": "Lean, brutal dystopian siege that delivers on craft even if it\u2019s mostly surface.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.0,
+        "feeling": "Humanist first\u2011contact story where wonder and skepticism play beautifully off each other.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.0,
+        "feeling": "Slow\u2011burn space meditation on memory and grief that quietly seeps under my skin.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Under the Skin (2013)",
+        "rating": 3.0,
+        "feeling": "Minimal, bodily spoken reunion piece that feels tactile but emotionally remote for me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paprika (2006)",
+        "rating": 3.5,
+        "feeling": "A dazzling dream dive that stimulates the mind more than it moves me.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Akira (1988)",
+        "rating": 4.0,
+        "feeling": "Apocalyptic cyberpunk grandeur with mood and momentum I can sink into.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "The City of Lost Children (1995)",
+        "rating": 4.0,
+        "feeling": "Sumptuous, surreal world\u2011building with a dark fairy\u2011tale pulse I relish.",
+        "genres": [
+          "Fantasy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Donnie Darko (2001)",
+        "rating": 4.0,
+        "feeling": "Brooding teen time knot that mixes existential ache and weirdness in a way that sticks.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Triangle (2009)",
+        "rating": 3.0,
+        "feeling": "Clever looping menace that I appreciate conceptually even as the horror trappings keep me wary.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 4.0,
+        "feeling": "Breezy time\u2011loop romance with real warmth under the wit\u2014easy to enjoy.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 3.5,
+        "feeling": "Quirky, low\u2011key time travel maybe\u2011story whose gentle heart outweighs its slightness.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Deja Vu (2006)",
+        "rating": 3.5,
+        "feeling": "Slick, propulsive time\u2011surveillance thriller that entertains while it overreaches.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Frequency (2000)",
+        "rating": 3.5,
+        "feeling": "Earnest father\u2011son time link that\u2019s touching even when the plotting gets hokey.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mr. Nobody (2009)",
+        "rating": 3.5,
+        "feeling": "Ambitious, kaleidoscopic life\u2011paths puzzle that engages my head more than my heart.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "Quietly suffocating surveillance paranoia that scratches my control\u2011and\u2011conscience itch.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Grave, compassionate spy drama where empathy becomes rebellion and it lands.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Shutter Island (2010)",
+        "rating": 3.5,
+        "feeling": "Gothic mind maze that\u2019s gripping even if I feel the gears turning.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.5,
+        "feeling": "Bittersweet memory\u2011love story that marries heady concept and aching feeling in a way I adore.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About a Boy (2002)",
+        "rating": 3.5,
+        "feeling": "Dry British charm with genuine growth that\u2019s amiable more than affecting for me.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.0,
+        "feeling": "Tender, time\u2011tangled body\u2011swap romance that balances playfulness with real feeling.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Irresistible, scrappy coming\u2011of\u2011age with songs and heart that leave me smiling.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 4.0,
+        "feeling": "Intimate, unvarnished musical romance whose lived\u2011in songs make the emotions glow.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "2001: A Space Odyssey (1968)",
+        "rating": 4.0,
+        "feeling": "Hypnotic cosmic odyssey whose chilly awe captivates me even when I\u2019m at arm\u2019s length.",
+        "genres": [
+          "Science Fiction",
+          "Mystery",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Ex Machina (2014)",
+      "eXistenZ (1999)",
+      "Stalker (1979)",
+      "Interstellar (2014)",
+      "Close Encounters of the Third Kind (1977)",
+      "Mad Max: Fury Road (2015)",
+      "Dune (2021)",
+      "Ad Astra (2019)",
+      "The Fountain (2006)",
+      "Being John Malkovich (1999)",
+      "Adaptation (2002)",
+      "Synecdoche, New York (2008)",
+      "The Machinist (2004)",
+      "Enemy (2013)",
+      "The One I Love (2014)",
+      "Another Earth (2011)",
+      "Run Lola Run (1998)",
+      "The Girl Who Leapt Through Time (2006)",
+      "Millennium Actress (2001)",
+      "Perfect Blue (1997)",
+      "Ghostbusters (1984)",
+      "Groundhog Day (1993)",
+      "WALL-E (2008)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "The Terminator (1984)",
+      "Terminator 2: Judgment Day (1991)",
+      "Blow Out (1981)",
+      "The Parallax View (1974)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Collateral (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "eXistenZ (1999)",
+        "rating": 3.5,
+        "feeling": "Gooey VR mind-game that scratches my tech-paranoia itch even as the bio-eww keeps me at a slight remove.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.0,
+        "feeling": "Hypnotic pilgrimage of faith and yearning where mood and mystery quietly overwhelm me.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 3.5,
+        "feeling": "Grand, earnest space odyssey whose awe moves me even as the sentiment and hand-wavy science feel heavy.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Close Encounters of the Third Kind (1977)",
+        "rating": 4.0,
+        "feeling": "Humanist wonder and quiet dread coalesce into a first-contact glow I can\u2019t shake.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.0,
+        "feeling": "Relentless, immaculate action engine with mythic heft that thrills more than it speaks to me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dune (2021)",
+        "rating": 4.0,
+        "feeling": "Immersive, austere world-building and fate-and-power currents right in my future-noir wheelhouse.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ad Astra (2019)",
+        "rating": 3.5,
+        "feeling": "Elegant, lonely space dirge about fathers and silence that I admire more than I love.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Fountain (2006)",
+        "rating": 3.0,
+        "feeling": "Lush, time-spanning love-and-death meditation whose ambition captivates even as the earnestness overreaches.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Being John Malkovich (1999)",
+        "rating": 4.0,
+        "feeling": "Deliciously weird identity rabbit hole that\u2019s sharp, funny, and strangely affecting.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Adaptation (2002)",
+        "rating": 4.0,
+        "feeling": "Meta spiral of creation and insecurity that lands with wit and surprising warmth.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Synecdoche, New York (2008)",
+        "rating": 3.5,
+        "feeling": "Vast, melancholy life-maze that fascinates me while keeping me at a chilly distance.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Machinist (2004)",
+        "rating": 3.5,
+        "feeling": "Grimy guilt-trip noir with jittery paranoia that grips even if the mechanics show.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Enemy (2013)",
+        "rating": 3.5,
+        "feeling": "Opaque doppelganger dread that burrows under my skin in ideas more than emotion.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The One I Love (2014)",
+        "rating": 3.5,
+        "feeling": "Playful marital mind-bender whose low-key weirdness sweetens the relationship sting.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Another Earth (2011)",
+        "rating": 3.5,
+        "feeling": "Gentle, mournful parallel-planet fable where the emotion lingers more than the science.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Run Lola Run (1998)",
+        "rating": 3.5,
+        "feeling": "Kinetic fate-shuffle that\u2019s clever and propulsive, if more exercise than ache.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Girl Who Leapt Through Time (2006)",
+        "rating": 4.0,
+        "feeling": "Tender, time-tangled coming-of-age that balances playfulness with real feeling.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Millennium Actress (2001)",
+        "rating": 4.0,
+        "feeling": "Memory and cinema swirl into a poignant, dreamlike biography that hits my sentimental side.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 3.5,
+        "feeling": "Breezy supernatural comedy with quotable charm that goes down easy.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.0,
+        "feeling": "Perfectly tuned loop of cynicism to grace that stays warm and wise.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.0,
+        "feeling": "Wordless wonder to gentle cautionary fable - humane sci-fi that quietly glows.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Dazzling, heartfelt multiverse spin that finds fresh emotion inside the pop.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Terminator (1984)",
+        "rating": 4.0,
+        "feeling": "Lean techno-noir chase with fate and machine dread I savor.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 4.0,
+        "feeling": "Bigger, more tender metal-myth that still crackles with momentum.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.0,
+        "feeling": "Pristine paranoia and tragic inevitability - sound and guilt spiral that grips hard.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 3.5,
+        "feeling": "Bleak conspiracy trance whose cool dread I respect more than I feel.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 3.5,
+        "feeling": "Subtle, wintry spy waltz of loyalty and rot that I admire at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.0,
+        "feeling": "Sleek night-ride neo-noir where fatalism and character tension keep me locked in.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

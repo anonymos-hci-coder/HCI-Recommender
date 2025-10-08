@@ -1,0 +1,1340 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Catch Me If You Can (2002)",
+      "Enemy of the State (1998)",
+      "Man on Fire (2004)",
+      "The Nice Guys (2016)",
+      "Kiss Kiss Bang Bang (2005)",
+      "Game Night (2018)",
+      "Midnight Run (1988)",
+      "Ghostbusters (1984)",
+      "Shaun of the Dead (2004)",
+      "What We Do in the Shadows (2014)",
+      "A Quiet Place (2018)",
+      "Knives Out (2019)",
+      "The Lincoln Lawyer (2011)",
+      "Michael Clayton (2007)",
+      "Inside Man (2006)",
+      "Collateral (2004)",
+      "Looper (2012)",
+      "Source Code (2011)",
+      "Edge of Tomorrow (2014)",
+      "Minority Report (2002)",
+      "The Princess Bride (1987)",
+      "The Incredibles (2004)",
+      "Toy Story (1995)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Hell or High Water (2016)",
+      "Sicario (2015)",
+      "Argo (2012)",
+      "The Imitation Game (2014)",
+      "Ocean's Eleven (2001)",
+      "The Imposter (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 3.5,
+        "feeling": "Breezy cat-and-mouse with charm, a fun con ride if a bit light.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Enemy of the State (1998)",
+        "rating": 4.0,
+        "feeling": "Slick surveillance paranoia and momentum I can sink into.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Man on Fire (2004)",
+        "rating": 3.5,
+        "feeling": "Brooding revenge heat works, even if it runs hot and heavy.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.5,
+        "feeling": "Quippy buddy shenanigans and messy conspiracy play to my dark-comedy streak.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 3.5,
+        "feeling": "Snappy, twisty, and sardonic\u2014my kind of offbeat crime fun.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Game Night (2018)",
+        "rating": 3.0,
+        "feeling": "Fun setup and some laughs, but it never fully kills for me.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Midnight Run (1988)",
+        "rating": 4.0,
+        "feeling": "Great 80s buddy bickering with punchy chase energy.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 4.5,
+        "feeling": "Still a blast\u2014deadpan laughs and goofy supernatural antics hit home.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shaun of the Dead (2004)",
+        "rating": 4.0,
+        "feeling": "A sharp horror-comedy mix that balances gags and guts just right.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "What We Do in the Shadows (2014)",
+        "rating": 3.5,
+        "feeling": "Dry, oddball vamp laughs that mostly land.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 3.0,
+        "feeling": "Tense and clever, but the straight horror edge keeps me at arm\u2019s length.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 3.5,
+        "feeling": "A witty whodunit with enough bite to keep me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Lincoln Lawyer (2011)",
+        "rating": 3.5,
+        "feeling": "Slick courtroom-cat-and-mouse that scratches my legal-thriller itch.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 2.5,
+        "feeling": "Too buttoned-up and prestige-serious for my taste.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 3.5,
+        "feeling": "A smart, tidy heist that keeps the gears turning.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 3.5,
+        "feeling": "Lean, nocturnal crime ride with solid tension.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 3.0,
+        "feeling": "Cool concept, decent grit\u2014good, not mind-blowing.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 3.5,
+        "feeling": "Propulsive puzzle-box sci-fi that goes down easy.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 3.5,
+        "feeling": "Time-loop action that\u2019s brisk and satisfying.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 3.0,
+        "feeling": "Slick future-noir that intrigues more than it thrills me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "Charming, quotable adventure that still feels cozy.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 3.5,
+        "feeling": "Snappy family superhero fun with a nice retro punch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 3.5,
+        "feeling": "Warm, clever, and playful\u2014hard not to enjoy.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 3.5,
+        "feeling": "Flashy and inventive, even if I\u2019m not fully swooning.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 2.0,
+        "feeling": "Crime-western vibes aren\u2019t my lane, despite the craft.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 3.0,
+        "feeling": "Grim border-war intensity I respect more than I love.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 3.5,
+        "feeling": "Clean, crowd-pleasing spy caper that clicks.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 2.5,
+        "feeling": "Polished and earnest, but too tidy for me.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 3.5,
+        "feeling": "Slick, breezy heist fun with just enough swagger.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Imposter (2012)",
+        "rating": 3.0,
+        "feeling": "A stranger-than-fiction doc that kept me curious.",
+        "genres": [
+          "Documentary",
+          "Mystery",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Departed (2006)",
+      "Logan Lucky (2017)",
+      "Baby Driver (2017)",
+      "In Bruges (2008)",
+      "Hot Fuzz (2007)",
+      "Zombieland (2009)",
+      "Tucker and Dale vs. Evil (2010)",
+      "The Cabin in the Woods (2012)",
+      "Beetlejuice (1988)",
+      "Men in Black (1997)",
+      "Big Trouble in Little China (1986)",
+      "Beverly Hills Cop (1984)",
+      "Lethal Weapon (1987)",
+      "The Other Guys (2010)",
+      "The Guard (2011)",
+      "My Cousin Vinny (1992)",
+      "The Firm (1993)",
+      "Ronin (1998)",
+      "Sneakers (1992)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "The Bourne Identity (2002)",
+      "Deja Vu (2006)",
+      "Rango (2011)",
+      "Matchstick Men (2003)",
+      "A Fish Called Wanda (1988)",
+      "The Iron Giant (1999)",
+      "Paddington 2 (2017)",
+      "Jojo Rabbit (2019)",
+      "Inglourious Basterds (2009)",
+      "The Sting (1973)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Departed (2006)",
+        "rating": 3.5,
+        "feeling": "Twisty undercover cat-and-mouse that clicks even if the prestige polish keeps me a bit cool.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 3.5,
+        "feeling": "Down-home heist shenanigans\u2014breezy fun with a sly grin.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Baby Driver (2017)",
+        "rating": 3.5,
+        "feeling": "Slick, propulsive getaway groove that goes down easy.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny hitman hangout with barbed banter I can savor.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.0,
+        "feeling": "Hyper-competent cop parody with rapid-fire gags and action that hit my sweet spot.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Zombieland (2009)",
+        "rating": 3.5,
+        "feeling": "Goofy, gory road-trip laughs\u2014fun more than frightening.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Tucker and Dale vs. Evil (2010)",
+        "rating": 3.5,
+        "feeling": "Clever slasher send-up with lovable doofuses\u2014solid chuckles.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Cabin in the Woods (2012)",
+        "rating": 3.0,
+        "feeling": "Smart meta-horror playbook, but the straight horror bite keeps me a bit at bay.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 4.0,
+        "feeling": "Macabre goofball energy and practical weirdness I'm happy to swim in.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 3.5,
+        "feeling": "Breezy sci-fi goof with snappy deadpan that still works.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Big Trouble in Little China (1986)",
+        "rating": 3.5,
+        "feeling": "Lovably bonkers 80s pulp\u2014more grin than grit, and that's fine.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Beverly Hills Cop (1984)",
+        "rating": 4.0,
+        "feeling": "Fast-talking, synthy fun\u2014prime 80s cop caper vibes I dig.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Lethal Weapon (1987)",
+        "rating": 3.5,
+        "feeling": "Classic buddy-cop mix\u2014snappy chemistry with just enough grit.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Other Guys (2010)",
+        "rating": 3.0,
+        "feeling": "Silly cop spoof with enough bits to amuse, not all of it lands.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Guard (2011)",
+        "rating": 3.5,
+        "feeling": "Dry, profane odd-couple crime lark\u2014my kind of offbeat chuckle.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "My Cousin Vinny (1992)",
+        "rating": 4.0,
+        "feeling": "Crowd-pleasing courtroom comedy with punchy banter\u2014hard not to smile.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Firm (1993)",
+        "rating": 3.5,
+        "feeling": "Glossy 90s legal cat-and-mouse that scratches the itch.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 4.0,
+        "feeling": "Lean, no-nonsense mercenary thriller with chases that hum.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 3.5,
+        "feeling": "Cozy, clever caper with a charming crew\u2014easy to enjoy.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 3.5,
+        "feeling": "Brisk, gadgety spy romp\u2014set pieces deliver, story's just gravy.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 3.5,
+        "feeling": "Taut, amnesiac spy run\u2014clean, efficient, satisfying.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Deja Vu (2006)",
+        "rating": 3.0,
+        "feeling": "High-concept time chase that entertains without blowing my mind.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Rango (2011)",
+        "rating": 3.0,
+        "feeling": "Oddball animated oater\u2014quirky charm, genre trappings aren't my fave.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Western",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Matchstick Men (2003)",
+        "rating": 3.5,
+        "feeling": "Neurotic con game with a soft spot\u2014slick and engaging.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Fish Called Wanda (1988)",
+        "rating": 3.5,
+        "feeling": "Saucy, screwball caper\u2014more smirks than belly laughs, still fun.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.0,
+        "feeling": "Warm, heartfelt retro sci-fi fable that hits the cozy spot.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 3.5,
+        "feeling": "Sweet, gently witty family comfort\u2014pleasant through and through.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Jojo Rabbit (2019)",
+        "rating": 3.0,
+        "feeling": "Cutesy satire with some bite\u2014works in parts, the war-story earnestness isn't my thing.",
+        "genres": [
+          "Comedy",
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inglourious Basterds (2009)",
+        "rating": 3.0,
+        "feeling": "Talky, tense Tarantino riffs I enjoy, but the war canvas keeps me at a remove.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 3.5,
+        "feeling": "Classy, clockwork con\u2014breezy craftsmanship I can appreciate.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Die Hard (1988)",
+      "The Fugitive (1993)",
+      "Speed (1994)",
+      "The Thomas Crown Affair (1999)",
+      "The Italian Job (2003)",
+      "Ocean's Thirteen (2007)",
+      "The Usual Suspects (1995)",
+      "The Long Kiss Goodnight (1996)",
+      "The Last Boy Scout (1991)",
+      "48 Hrs. (1982)",
+      "Rush Hour (1998)",
+      "21 Jump Street (2012)",
+      "Tropic Thunder (2008)",
+      "Seven Psychopaths (2012)",
+      "The Big Lebowski (1998)",
+      "Tremors (1990)",
+      "Army of Darkness (1992)",
+      "10 Cloverfield Lane (2016)",
+      "Scream (1996)",
+      "Galaxy Quest (1999)",
+      "Star Trek (2009)",
+      "The Lego Movie (2014)",
+      "Monsters, Inc. (2001)",
+      "Blazing Saddles (1974)",
+      "Romancing the Stone (1984)",
+      "A Few Good Men (1992)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "Scott Pilgrim vs. the World (2010)",
+      "The World's End (2013)",
+      "American Animals (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Die Hard (1988)",
+        "rating": 4.0,
+        "feeling": "Quippy, tight skyscraper siege that keeps the pulse up.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 3.5,
+        "feeling": "Clean, relentless chase with satisfying cat-and-mouse.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 3.5,
+        "feeling": "High-concept momentum that stays fun more than deep.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.0,
+        "feeling": "Suave, flirty caper\u2014pleasant glide, light stakes for me.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 3.5,
+        "feeling": "Breezy, gadgety heist with peppy car-chase kick.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Ocean's Thirteen (2007)",
+        "rating": 3.0,
+        "feeling": "Polished comfort-caper\u2014smooth, slight, still agreeable.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Usual Suspects (1995)",
+        "rating": 3.5,
+        "feeling": "Twisty, talky crime tale I enjoy without fully revering.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Long Kiss Goodnight (1996)",
+        "rating": 3.5,
+        "feeling": "Wisecracking, punchy spy mayhem that hits my buddy-action itch.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Last Boy Scout (1991)",
+        "rating": 3.5,
+        "feeling": "Snarky, grimy buddy action that goes down easy.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "48 Hrs. (1982)",
+        "rating": 3.5,
+        "feeling": "Tough-and-funny buddy grind with solid spark.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Rush Hour (1998)",
+        "rating": 3.0,
+        "feeling": "Light, quippy cop romp\u2014fun if a bit thin for me.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "21 Jump Street (2012)",
+        "rating": 3.0,
+        "feeling": "Self-aware silliness with decent laughs, not a belly-buster.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Tropic Thunder (2008)",
+        "rating": 3.0,
+        "feeling": "Hollywood-skewering chaos\u2014fun bits, war-movie trappings keep me cooler.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "Seven Psychopaths (2012)",
+        "rating": 3.5,
+        "feeling": "Meta, mordant caper with barbed laughs I can savor.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Big Lebowski (1998)",
+        "rating": 4.0,
+        "feeling": "Laid-back, loopy crime hangout that fits my offbeat groove.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Tremors (1990)",
+        "rating": 4.0,
+        "feeling": "Creature-feature goofiness with practical charm I dig.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Army of Darkness (1992)",
+        "rating": 3.5,
+        "feeling": "Campy, quotable splatstick\u2014fun, if not top-tier for me.",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 3.0,
+        "feeling": "Tense, contained puzzle-box",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Scream (1996)",
+        "rating": 3.0,
+        "feeling": "Clever slasher meta that entertains more than it chills me.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.0,
+        "feeling": "Affectionate, sharp sci-fi send-up that clicks.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 3.5,
+        "feeling": "Brisk, glossy space-adventure with enough swagger to please.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 3.5,
+        "feeling": "Hyper-clever, snappy fun\u2014energetic, a touch exhausting.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 3.5,
+        "feeling": "Warm, witty family comfort that stays charming.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Blazing Saddles (1974)",
+        "rating": 3.0,
+        "feeling": "Blunt, anarchic gags land, western trappings keep me cooler.",
+        "genres": [
+          "Western",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 3.0,
+        "feeling": "Pulp adventure-romance that\u2019s amiable if not a favorite.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 4.0,
+        "feeling": "Crackling courtroom sparring that scratches my legal-thriller itch.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 3.5,
+        "feeling": "Sleek spy romps and set pieces deliver nicely.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Scott Pilgrim vs. the World (2010)",
+        "rating": 3.0,
+        "feeling": "Poppy, kinetic rom-com brawl\u2014clever, not fully my vibe.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The World's End (2013)",
+        "rating": 3.5,
+        "feeling": "Bleakly funny lads\u2019 night meets sci-fi chaos\u2014solid Wright groove.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "American Animals (2018)",
+        "rating": 3.0,
+        "feeling": "Stylish doc-heist hybrid I respect more than I love.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Heat (1995)",
+      "The Rock (1996)",
+      "Face/Off (1997)",
+      "The Negotiator (1998)",
+      "The Bank Job (2008)",
+      "The Man from U.N.C.L.E. (2015)",
+      "Kingsman: The Secret Service (2014)",
+      "Quick Change (1990)",
+      "Raising Arizona (1987)",
+      "Charade (1963)",
+      "North by Northwest (1959)",
+      "The Game (1997)",
+      "Memento (2000)",
+      "Runaway Jury (2003)",
+      "Presumed Innocent (1990)",
+      "Witness for the Prosecution (1957)",
+      "Fargo (1996)",
+      "Gremlins 2: The New Batch (1990)",
+      "The Frighteners (1996)",
+      "An American Werewolf in London (1981)",
+      "The 'Burbs (1989)",
+      "Young Frankenstein (1974)",
+      "The Addams Family (1991)",
+      "Ratatouille (2007)",
+      "The Emperor's New Groove (2000)",
+      "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+      "Back to the Future (1985)",
+      "Clue (1985)",
+      "Three Kings (1999)",
+      "Butch Cassidy and the Sundance Kid (1969)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Heat (1995)",
+        "rating": 3.5,
+        "feeling": "Epic cops-and-robbers chess with killer set pieces, a bit too solemn to fully swoon.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Rock (1996)",
+        "rating": 3.5,
+        "feeling": "Quippy, high-octane siege that scratches my 90s-action itch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Face/Off (1997)",
+        "rating": 3.5,
+        "feeling": "Gonzo identity-swapping cat-and-mouse that\u2019s ridiculous in a way I can happily ride.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Negotiator (1998)",
+        "rating": 3.5,
+        "feeling": "Talky, tense hostage chess that keeps the gears turning nicely.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bank Job (2008)",
+        "rating": 3.5,
+        "feeling": "Workmanlike Brit heist with tidy thrills\u2014goes down easy.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Man from U.N.C.L.E. (2015)",
+        "rating": 3.5,
+        "feeling": "Sleek, bantery spy romp with just enough swagger to please.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Quick Change (1990)",
+        "rating": 3.5,
+        "feeling": "Clever heist-gone-sideways shenanigans with grumbly laughs I enjoy.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Raising Arizona (1987)",
+        "rating": 3.5,
+        "feeling": "Loopy Coen caper with big-hearted chaos\u2014fun, if a touch manic for me.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 3.5,
+        "feeling": "Classy, playful mystery-romance that glides more than it thrills me.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 3.5,
+        "feeling": "Clean, cross-country chase craftsmanship I can sink into.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 3.5,
+        "feeling": "Paranoid puzzle-box thrills that hook me even if the prestige chill lingers.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 3.5,
+        "feeling": "Cleverly wound mystery that I respect and enjoy more than I love.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Runaway Jury (2003)",
+        "rating": 3.5,
+        "feeling": "Slick courtroom chess with cat-and-mouse twists that scratch my legal-thriller itch.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Presumed Innocent (1990)",
+        "rating": 3.0,
+        "feeling": "Somber, twisty courtroom tangle that works, if a bit stiff for me.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 3.5,
+        "feeling": "Crackling courtroom theatrics with twists that still play.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 3.5,
+        "feeling": "Darkly funny small-town crime spiral\u2014sharp, if a bit bleak for my sweet spot.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gremlins 2: The New Batch (1990)",
+        "rating": 4.0,
+        "feeling": "Anarchic, cartoonier chaos I\u2019m happy to splash around in, even if it\u2019s messier.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Frighteners (1996)",
+        "rating": 3.0,
+        "feeling": "Macabre, effects-y ghost caper that entertains without fully grabbing me.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "An American Werewolf in London (1981)",
+        "rating": 3.5,
+        "feeling": "Wry, gruesome transformation tale where the humor helps the horror go down.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The 'Burbs (1989)",
+        "rating": 3.5,
+        "feeling": "Paranoid suburban silliness with just the right oddball creep to amuse me.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Young Frankenstein (1974)",
+        "rating": 3.5,
+        "feeling": "Joyously silly monster send-up\u2014charming gags over belly laughs for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Addams Family (1991)",
+        "rating": 3.5,
+        "feeling": "Macabre family goofs with cozy, deadpan charm I can enjoy.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 3.5,
+        "feeling": "Warm, witty comfort with flavorful charm\u2014easy to like.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Emperor's New Groove (2000)",
+        "rating": 3.5,
+        "feeling": "Snappy, goofy romp that zips by with breezy laughs.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+        "rating": 3.5,
+        "feeling": "Cozy, clever stop-motion caper\u2014gentle chuckles and charm.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 4.0,
+        "feeling": "Peppy, time-twisty adventure with quotable zip that still clicks.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 3.5,
+        "feeling": "Rapid-fire farce meets whodunit\u2014more smirks than belly laughs, still fun.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Three Kings (1999)",
+        "rating": 3.0,
+        "feeling": "Cynical, kinetic war caper I respect more than I love given the battlefield trappings.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid (1969)",
+        "rating": 2.5,
+        "feeling": "Breezy outlaw buddy charm undercut by my indifference to western trappings.",
+        "genres": [
+          "Adventure",
+          "Western",
+          "Crime",
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  }
+]

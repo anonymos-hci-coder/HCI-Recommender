@@ -1,0 +1,1284 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Madeline (1998)",
+      "For the Birds (2000)",
+      "Clueless (1995)",
+      "Harriet the Spy (1996)",
+      "Wallace & Gromit: A Close Shave (1995)",
+      "Mr. Peabody & Sherman (2014)",
+      "Nanny McPhee (2005)",
+      "Sing 2 (2021)",
+      "Partly Cloudy (2009)",
+      "Meet the Robinsons (2007)",
+      "Tank Girl (1995)",
+      "Wallace & Gromit: The Wrong Trousers (1993)",
+      "Ghostbusters (2016)",
+      "Meet Dave (2008)",
+      "Grand Day Out with Wallace and Gromit, A (1989)",
+      "Oscar (1991)",
+      "Keeping the Faith (2000)",
+      "Tale of Despereaux, The (2008)",
+      "Hamilton (2020)",
+      "Elf (2003)",
+      "Matilda (1996)",
+      "Parenthood (1989)",
+      "Hoodwinked! (2005)",
+      "Captain Marvel (2018)",
+      "In the Bleak Midwinter (1995)",
+      "Bend It Like Beckham (2002)",
+      "Muppets, The (2011)",
+      "Elections Day (2007)",
+      "Frozen (2013)",
+      "The Phantom of the Opera at the Royal Albert Hall (2011)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Madeline (1998)",
+        "rating": 3.5,
+        "feeling": "Charming, cozy schoolhouse adventure with a plucky heroine\u2014pleasant and cute.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "For the Birds (2000)",
+        "rating": 4.5,
+        "feeling": "Clever, snappy short with a great gag and a kind message that lands perfectly.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Clueless (1995)",
+        "rating": 3.5,
+        "feeling": "Light, witty makeover romcom fun, enjoyable even if I don\u2019t love high-school snark.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Harriet the Spy (1996)",
+        "rating": 3.0,
+        "feeling": "I like the kid-perspective lesson about empathy, but it\u2019s a bit uneven for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Mr. Peabody & Sherman (2014)",
+        "rating": 3.5,
+        "feeling": "Breezy time-hopping fun with smart jokes, if not top-tier.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Nanny McPhee (2005)",
+        "rating": 3.5,
+        "feeling": "Whimsical family magic and warm lessons",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Sing 2 (2021)",
+        "rating": 4.0,
+        "feeling": "Colorful, music-filled crowd-pleaser that scratches my family-animation itch.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Music",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Partly Cloudy (2009)",
+        "rating": 4.0,
+        "feeling": "Sweet concept with tender humor and heart, charming through and through.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Meet the Robinsons (2007)",
+        "rating": 4.0,
+        "feeling": "Inventive, optimistic sci-fi family adventure with a big heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Tank Girl (1995)",
+        "rating": 2.0,
+        "feeling": "Loud and punky post-apoc chaos that just isn\u2019t my flavor.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Science Fiction",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Wrong Trousers (1993)",
+        "rating": 5.0,
+        "feeling": "Hilarious, brilliantly crafted stop-motion perfection\u2014I adored it.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ghostbusters (2016)",
+        "rating": 3.5,
+        "feeling": "Goofy supernatural romp with some fun team energy, if a bit scattershot.",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Meet Dave (2008)",
+        "rating": 2.5,
+        "feeling": "Silly and harmless with a few laughs, but pretty disposable.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Oscar (1991)",
+        "rating": 3.0,
+        "feeling": "Old-fashioned farce that\u2019s mildly amusing without really grabbing me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Keeping the Faith (2000)",
+        "rating": 3.0,
+        "feeling": "Sweet, talky romcom with a nice premise, just middle-of-the-road for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tale of Despereaux, The (2008)",
+        "rating": 3.0,
+        "feeling": "Gentle, noble little quest that\u2019s pleasant if not particularly memorable.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hamilton (2020)",
+        "rating": 3.5,
+        "feeling": "Enjoyable behind-the-scenes conversation that feeds my curiosity and nostalgia.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Elf (2003)",
+        "rating": 4.5,
+        "feeling": "Joyful, funny, and warm\u2014holiday comfort that totally works for me.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Matilda (1996)",
+        "rating": 4.0,
+        "feeling": "Delightfully mischievous and empowering with just the right touch of magic.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Parenthood (1989)",
+        "rating": 3.5,
+        "feeling": "Relatable family ups-and-downs with warmth and a light touch.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hoodwinked! (2005)",
+        "rating": 3.5,
+        "feeling": "Playful, twisty fairy-tale comedy with enough jokes to keep me smiling.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Crime",
+          "Music"
+        ]
+      },
+      {
+        "title": "In the Bleak Midwinter (1995)",
+        "rating": 3.0,
+        "feeling": "Affectionate theater-kid comedy that\u2019s charming but slight.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Bend It Like Beckham (2002)",
+        "rating": 4.0,
+        "feeling": "Uplifting, feel-good sports/coming-of-age blend that hits the right notes.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Muppets, The (2011)",
+        "rating": 4.0,
+        "feeling": "Sweet nostalgia and earnest humor\u2014exactly my kind of family fun.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Elections Day (2007)",
+        "rating": 2.5,
+        "feeling": "Political workplace antics that don\u2019t quite connect with me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Frozen (2013)",
+        "rating": 4.0,
+        "feeling": "Catchy, sister-centric adventure with bright animation and heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Phantom of the Opera at the Royal Albert Hall (2011)",
+        "rating": 3.0,
+        "feeling": "Grand and impressive, though the sweeping romance isn\u2019t fully my thing.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Star Trek: Insurrection (1998)",
+      "Star Trek: Generations (1994)",
+      "Star Trek V: The Final Frontier (1989)",
+      "While You Were Fighting: A Thor Mockumentary (2016)",
+      "Star Wars: Episode II - Attack of the Clones (2002)",
+      "Portrait of a Lady, The (1996)",
+      "Star Trek: Nemesis (2002)",
+      "Star Trek III: The Search for Spock (1984)",
+      "William Shakespeare's Romeo + Juliet (1996)",
+      "Superman IV: The Quest for Peace (1987)",
+      "Star Trek: First Contact (1996)",
+      "Pokemon 4 Ever (a.k.a. Pok\u00e9mon 4: The Movie) (2002)",
+      "Avengers, The (1998)",
+      "Star Trek: The Motion Picture (1979)",
+      "Star Wars: Episode I - The Phantom Menace (1999)",
+      "X-Men: The Last Stand (2006)",
+      "Evita (1996)",
+      "Star Wars: Episode III - Revenge of the Sith (2005)",
+      "Swades: We, the People (Our Country) (2004)",
+      "Ferngully: The Last Rainforest (1992)",
+      "Room, The (2003)",
+      "Life with Father (1947)",
+      "Belle (2013)",
+      "Beloved (1998)",
+      "Jim Jefferies: Contraband (2008)",
+      "Sense and Sensibility (1995)",
+      "William Shakespeare's A Midsummer Night's Dream (1999)",
+      "Big Chill, The (1983)",
+      "Born into Brothels (2004)",
+      "Joe Rogan: Triggered (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Star Trek: Insurrection (1998)",
+        "rating": 3.0,
+        "feeling": "Decent, idealistic Trek adventure, a bit dry for me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Star Trek: Generations (1994)",
+        "rating": 3.0,
+        "feeling": "Galaxy-shaking stakes keep me engaged, even if it's not my sweet spot.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Star Trek V: The Final Frontier (1989)",
+        "rating": 2.5,
+        "feeling": "The mythic quest feels ponderous more than fun for me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "While You Were Fighting: A Thor Mockumentary (2016)",
+        "rating": 4.0,
+        "feeling": "Silly, breezy side-story that hits my goofy-fun button.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode II - Attack of the Clones (2002)",
+        "rating": 3.0,
+        "feeling": "Galactic intrigue and action I enjoy in moderation.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady, The (1996)",
+        "rating": 3.0,
+        "feeling": "Handsome period drama I appreciate more than adore.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Star Trek: Nemesis (2002)",
+        "rating": 3.0,
+        "feeling": "Darker personal twist adds interest, but I\u2019m only mildly invested.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Star Trek III: The Search for Spock (1984)",
+        "rating": 3.5,
+        "feeling": "Loyalty and friendship give this quest a warm heartbeat I like.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "William Shakespeare's Romeo + Juliet (1996)",
+        "rating": 3.0,
+        "feeling": "Flashy and bold, but the tragic romance keeps me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Superman IV: The Quest for Peace (1987)",
+        "rating": 3.0,
+        "feeling": "Old-school superhero earnestness I find pleasantly corny.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek: First Contact (1996)",
+        "rating": 3.5,
+        "feeling": "Time-twisty, high-energy Trek that sounds like a good ride.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Avengers, The (1998)",
+        "rating": 3.0,
+        "feeling": "Light, campy spy-sci-fi fluff\u2014fun enough.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Star Trek: The Motion Picture (1979)",
+        "rating": 2.5,
+        "feeling": "Grand, contemplative mystery that likely plays too slow for me.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode I - The Phantom Menace (1999)",
+        "rating": 3.0,
+        "feeling": "World-building and adventure are fun, if not a favorite lane.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "X-Men: The Last Stand (2006)",
+        "rating": 3.0,
+        "feeling": "Team-superhero turmoil I can enjoy casually.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Evita (1996)",
+        "rating": 3.5,
+        "feeling": "Big, sung-through spectacle I\u2019d appreciate for its music and history.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode III - Revenge of the Sith (2005)",
+        "rating": 3.5,
+        "feeling": "Darker, dramatic turn gives the saga some punch I enjoy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ferngully: The Last Rainforest (1992)",
+        "rating": 4.0,
+        "feeling": "Colorful, eco-fable adventure right in my family-animation wheelhouse.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Room, The (2003)",
+        "rating": 3.0,
+        "feeling": "Locked-room mystery premise sounds mildly fun and clever.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Life with Father (1947)",
+        "rating": 3.5,
+        "feeling": "Wholesome, old-fashioned family comedy comfort.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Belle (2013)",
+        "rating": 4.0,
+        "feeling": "Moving, dignified period story with a social-justice core I value.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Beloved (1998)",
+        "rating": 3.0,
+        "feeling": "Powerful themes but the eerie intensity may be a bit much for me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Jim Jefferies: Contraband (2008)",
+        "rating": 2.0,
+        "feeling": "Brash, confrontational stand-up isn\u2019t my flavor.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 3.5,
+        "feeling": "Warm, witty period romance that lands nicely for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "William Shakespeare's A Midsummer Night's Dream (1999)",
+        "rating": 3.5,
+        "feeling": "Playful, magical tangle of lovers\u2014charming and light.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Big Chill, The (1983)",
+        "rating": 3.5,
+        "feeling": "Comfortable ensemble hangout with bittersweet humor.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Born into Brothels (2004)",
+        "rating": 4.0,
+        "feeling": "Tough but inspiring doc that grabs my empathy.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Joe Rogan: Triggered (2016)",
+        "rating": 2.0,
+        "feeling": "A few laughs, but the bro-y edge turns me off.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Attack of the Killer Tomatoes! (1978)",
+      "Pok\u00e9mon: The First Movie (1998)",
+      "Pok\u00e9mon the Movie 2000 (2000)",
+      "Digimon: The Movie (2000)",
+      "Simple Twist of Fate, A (1994)",
+      "Underworld (2003)",
+      "Sorority Boys (2002)",
+      "Brotherhood of the Wolf (Pacte des loups, Le) (2001)",
+      "The Remains (2016)",
+      "Split Second (1992)",
+      "Millennium Actress (Sennen joy\u00fb) (2001)",
+      "Diabolique (1996)",
+      "Austin Powers: The Spy Who Shagged Me (1999)",
+      "Joe's Apartment (1996)",
+      "AVPR: Aliens vs. Predator - Requiem (2007)",
+      "Psycho (1998)",
+      "Tuvalu (1999)",
+      "Unborn, The (2009)",
+      "Kung Fury (2015)",
+      "Aristocrats, The (2005)",
+      "White Chicks (2004)",
+      "Titan A.E. (2000)",
+      "Skyline (2010)",
+      "The 12 Disasters of Christmas (2012)",
+      "Genocidal Organ (2017)",
+      "Train of Life (Train de vie) (1998)",
+      "Woman on Top (2000)",
+      "Planet Terror (2007)",
+      "Mad Max: Fury Road (2015)",
+      "Saving Grace (2000)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Attack of the Killer Tomatoes! (1978)",
+        "rating": 3.0,
+        "feeling": "Goofy, campy spoof with a few laughs\u2014more silly than satisfying for me.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pok\u00e9mon: The First Movie (1998)",
+        "rating": 3.5,
+        "feeling": "Nostalgic, high-energy creature adventure with heart",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Pok\u00e9mon the Movie 2000 (2000)",
+        "rating": 3.0,
+        "feeling": "Light behind-the-scenes concert fluff that tickles my curiosity but feels minor.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Digimon: The Movie (2000)",
+        "rating": 3.0,
+        "feeling": "Frenetic digital mayhem with some charm, though the patchwork pacing wears me out.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Science Fiction",
+          "Family"
+        ]
+      },
+      {
+        "title": "Simple Twist of Fate, A (1994)",
+        "rating": 3.5,
+        "feeling": "Gentle, sentimental found-family tale that leaves me warm if a bit weepy.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Underworld (2003)",
+        "rating": 2.5,
+        "feeling": "Slick, broody monster war that looks cool but is too dark and gun-heavy for me.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sorority Boys (2002)",
+        "rating": 2.0,
+        "feeling": "A few goofy bits, but the bro-ish, mean-spirited gags aren\u2019t my thing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Brotherhood of the Wolf (Pacte des loups, Le) (2001)",
+        "rating": 3.0,
+        "feeling": "Atmospheric period monster mystery that intrigues, though it\u2019s grimmer than I like.",
+        "genres": [
+          "Adventure",
+          "Horror",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "The Remains (2016)",
+        "rating": 2.0,
+        "feeling": "Standard haunted-house chills with a few eerie moments, but this lane isn\u2019t comfy for me.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Split Second (1992)",
+        "rating": 3.0,
+        "feeling": "Pulpy sci-fi cop chiller\u2014cheesy but diverting enough.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Diabolique (1996)",
+        "rating": 3.0,
+        "feeling": "Twisty and tense, though the nastiness keeps me at a distance.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Austin Powers: The Spy Who Shagged Me (1999)",
+        "rating": 3.5,
+        "feeling": "Goofball, quotable spy spoof that mostly hits my silly-fun button.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Joe's Apartment (1996)",
+        "rating": 2.0,
+        "feeling": "The singing-roach gag gets icky fast for me despite a few cute touches.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "AVPR: Aliens vs. Predator - Requiem (2007)",
+        "rating": 1.5,
+        "feeling": "Too grim and gory\u2014more exhausting than fun.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Psycho (1998)",
+        "rating": 2.5,
+        "feeling": "The iconic creep still works, but this version feels cold and unpleasant to sit with.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tuvalu (1999)",
+        "rating": 2.5,
+        "feeling": "Whimsical and offbeat, yet the quirky tone keeps me at arm\u2019s length.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Science Fiction",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Unborn, The (2009)",
+        "rating": 2.0,
+        "feeling": "Possession scares and jumpy thrills aren\u2019t really my lane, so this left me cold.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Kung Fury (2015)",
+        "rating": 3.5,
+        "feeling": "Energetic, retro-goofy burst of nonsense that made me laugh\u2014pure, crunchy fluff.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Science Fiction",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Aristocrats, The (2005)",
+        "rating": 1.5,
+        "feeling": "Clever premise, but relentless crude shock-humor really isn\u2019t for me.",
+        "genres": [
+          "Comedy",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "White Chicks (2004)",
+        "rating": 2.0,
+        "feeling": "Broad, crass disguise comedy with a few laughs, mostly not my style.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Titan A.E. (2000)",
+        "rating": 3.5,
+        "feeling": "Sleek, adventurous sci-fi animation with heart\u2014fun if a tad edgy for me.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Adventure",
+          "Family",
+          "Action"
+        ]
+      },
+      {
+        "title": "Skyline (2010)",
+        "rating": 2.5,
+        "feeling": "Cool alien visuals, but the grim, thin story doesn\u2019t give me much to hold onto.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The 12 Disasters of Christmas (2012)",
+        "rating": 2.5,
+        "feeling": "I enjoy the goofy holiday angle, but it\u2019s corny and cheap in only a half-charming way.",
+        "genres": [
+          "TV Movie",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Genocidal Organ (2017)",
+        "rating": 2.5,
+        "feeling": "Bleak, heavy sci-fi ideas I respect more than enjoy\u2014too grim for my taste.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Animation",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "Train of Life (Train de vie) (1998)",
+        "rating": 4.0,
+        "feeling": "Poignant, human, and gently funny amidst darkness\u2014moving in a way I value.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Woman on Top (2000)",
+        "rating": 3.0,
+        "feeling": "Light, breezy romance with a foodie-magic vibe\u2014pleasant if slight.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Planet Terror (2007)",
+        "rating": 2.0,
+        "feeling": "Over-the-top splatter isn\u2019t my flavor, even with the tongue-in-cheek fun.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 3.5,
+        "feeling": "Visually jaw-dropping, propulsive action I admire, if a bit intense for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Saving Grace (2000)",
+        "rating": 3.5,
+        "feeling": "Warm, small-town caper with gentle laughs and a likable, scrappy heart.",
+        "genres": [
+          "Crime",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Good Year, A (2006)",
+      "Power Rangers (2017)",
+      "Twin Falls Idaho (1999)",
+      "Moving On (2022)",
+      "Dr. Horrible's Sing-Along Blog (2008)",
+      "Rogue One: A Star Wars Story (2016)",
+      "Jumanji: The Next Level (2019)",
+      "Peanuts Movie, The (2015)",
+      "Hunting Ava Bravo (2022)",
+      "Wreck-It Ralph (2012)",
+      "Ferdinand (2017)",
+      "Rosauro Castro (1950)",
+      "It Came from Hollywood (1982)",
+      "Angus (1995)",
+      "Paulie (1998)",
+      "Jeff Dunham: Arguing with Myself (2006)",
+      "Happy, Texas (1999)",
+      "Paddington 2 (2017)",
+      "Collateral Beauty (2016)",
+      "Bohemian Rhapsody (2018)",
+      "My Little Pony: The Movie (2017)",
+      "The Lego Movie 2: The Second Part (2019)",
+      "The Lego Movie (2014)",
+      "Wings, Legs and Tails (1986)",
+      "The Shape of Water (2017)",
+      "Immortal Beloved (1994)",
+      "The Weekend Away (2022)",
+      "Home for the Holidays (1995)",
+      "Capital Games (2013)",
+      "March of the Penguins (Marche de l'empereur, La) (2005)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Good Year, A (2006)",
+        "rating": 3.0,
+        "feeling": "Sun-dappled vineyard comfort and midlife reset vibes I\u2019d find pleasant but slight.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Power Rangers (2017)",
+        "rating": 3.0,
+        "feeling": "Colorful teamwork and teen drama make for a watchable, if loud, hero romp.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Twin Falls Idaho (1999)",
+        "rating": 2.5,
+        "feeling": "Tender and unusual, but the somber, melancholy tone likely keeps me at a distance.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Moving On (2022)",
+        "rating": 3.0,
+        "feeling": "A gentle, high-concept grief fable I\u2019d appreciate more for its idea than its heaviness.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Dr. Horrible's Sing-Along Blog (2008)",
+        "rating": 4.0,
+        "feeling": "Clever, catchy, tragicomic superhero spoof that hits my geeky-musical sweet spot.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 3.5,
+        "feeling": "A gripping, somber Star Wars mission I\u2019d respect and enjoy in measured doses.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Jumanji: The Next Level (2019)",
+        "rating": 3.5,
+        "feeling": "Breezy, likable ensemble shenanigans\u2014easy, fun popcorn.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Peanuts Movie, The (2015)",
+        "rating": 4.0,
+        "feeling": "Sweet, faithful Peanuts warmth with simple, cozy laughs.",
+        "genres": [
+          "Comedy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hunting Ava Bravo (2022)",
+        "rating": 2.0,
+        "feeling": "The human-hunting premise feels too grim and mean-spirited to be fun for me.",
+        "genres": [
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Wreck-It Ralph (2012)",
+        "rating": 4.5,
+        "feeling": "Inventive, candy-colored adventure with big heart and a lovely friendship.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ferdinand (2017)",
+        "rating": 4.0,
+        "feeling": "Kind-hearted, be-yourself tale with bright laughs and gentle charm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Rosauro Castro (1950)",
+        "rating": 2.5,
+        "feeling": "Serious small-town power drama I\u2019d admire more than actively enjoy.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "It Came from Hollywood (1982)",
+        "rating": 3.0,
+        "feeling": "Goofy clip-show nostalgia with scattered laughs\u2014amusing but slight.",
+        "genres": [
+          "Comedy",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Angus (1995)",
+        "rating": 3.5,
+        "feeling": "Awkward-teen underdog story with a tender heart that leaves me smiling.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paulie (1998)",
+        "rating": 4.0,
+        "feeling": "Warm, animal-friend odyssey with cozy sentiment and a few happy sniffles.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Jeff Dunham: Arguing with Myself (2006)",
+        "rating": 2.0,
+        "feeling": "A couple of chuckles, but the broad, crass puppet shtick isn\u2019t my flavor.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Happy, Texas (1999)",
+        "rating": 3.0,
+        "feeling": "Light, quirky small-town caper that\u2019s pleasant if minor.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Utterly delightful, warm-hearted comfort that makes me glow.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Collateral Beauty (2016)",
+        "rating": 2.5,
+        "feeling": "Well-meaning and glossy, but too contrived and tidy for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bohemian Rhapsody (2018)",
+        "rating": 3.5,
+        "feeling": "Crowd-pleasing musical moments and emotion I can get swept up in.",
+        "genres": [
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "My Little Pony: The Movie (2017)",
+        "rating": 3.0,
+        "feeling": "Colorful friendship quest that\u2019s sweet and peppy, if a bit much.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Lego Movie 2: The Second Part (2019)",
+        "rating": 3.5,
+        "feeling": "Still playful and heartfelt with catchy tunes, just less fresh.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Inventive, hilarious, and big-hearted\u2014exactly my kind of animated fun.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wings, Legs and Tails (1986)",
+        "rating": 3.5,
+        "feeling": "Simple, cartoony fable with cute gags\u2014pleasant little snack.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Shape of Water (2017)",
+        "rating": 3.0,
+        "feeling": "Lush, oddball romance I admire visually, though the sensual darkness isn\u2019t my lane.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Immortal Beloved (1994)",
+        "rating": 3.5,
+        "feeling": "Handsome, emotional music biography I\u2019d find moving and engaging.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Weekend Away (2022)",
+        "rating": 3.0,
+        "feeling": "Twisty vacation nightmare I\u2019d watch with mild interest more than excitement.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Home for the Holidays (1995)",
+        "rating": 3.5,
+        "feeling": "Messy family Thanksgiving with warmth and laughs\u2014cozy enough for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Capital Games (2013)",
+        "rating": 2.5,
+        "feeling": "Earnest but clunky office romance that doesn\u2019t quite click for me.",
+        "genres": [
+          "Romance"
+        ]
+      },
+      {
+        "title": "March of the Penguins (Marche de l'empereur, La) (2005)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, heartfelt nature doc that pushes all my animal-loving buttons.",
+        "genres": [
+          "Documentary",
+          "Family"
+        ]
+      }
+    ]
+  }
+]

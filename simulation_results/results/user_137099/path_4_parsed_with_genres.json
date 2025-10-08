@@ -1,0 +1,1230 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Woman Under the Influence, A (1974)",
+      "Five Easy Pieces (1970)",
+      "Alone in the Wilderness (2004)",
+      "Nashville (1975)",
+      "Annie Hall (1977)",
+      "Lawrence of Arabia (1962)",
+      "Broadcast News (1987)",
+      "Cul-de-sac (1966)",
+      "Connections (1978)",
+      "35 Up (1991)",
+      "Graduate, The (1967)",
+      "Godfather, The (1972)",
+      "Duck Amuck (1953)",
+      "Real Life (1979)",
+      "F for Fake (V\u00e9rit\u00e9s et mensonges) (1973)",
+      "Bonnie and Clyde (1967)",
+      "Coming Home (1978)",
+      "Sansho the Bailiff (Sansh\u00f4 day\u00fb) (1954)",
+      "Manhattan (1979)",
+      "Shane (1953)",
+      "One Froggy Evening (1955)",
+      "Nibelungen: Siegfried, Die (1924)",
+      "Purple Rose of Cairo, The (1985)",
+      "Dog Day Afternoon (1975)",
+      "Greed (1924)",
+      "M*A*S*H (a.k.a. MASH) (1970)",
+      "Duck Soup (1933)",
+      "Citizen Kane (1941)",
+      "Husbands and Wives (1992)",
+      "Godfather: Part II, The (1974)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Woman Under the Influence, A (1974)",
+        "rating": 3.0,
+        "feeling": "Raw and compassionate, but the domestic turmoil wore me out.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Five Easy Pieces (1970)",
+        "rating": 4.0,
+        "feeling": "A prickly, restless character study that lingered with me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Alone in the Wilderness (2004)",
+        "rating": 4.0,
+        "feeling": "Quietly absorbing and admirable in its handcrafted simplicity.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Nashville (1975)",
+        "rating": 4.0,
+        "feeling": "A rambling, rich tapestry with plenty of sharp moments.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Annie Hall (1977)",
+        "rating": 5.0,
+        "feeling": "Witty, tender, and effortlessly charming.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Lawrence of Arabia (1962)",
+        "rating": 4.5,
+        "feeling": "Sweeping spectacle with psychological bite.",
+        "genres": [
+          "Adventure",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Broadcast News (1987)",
+        "rating": 4.5,
+        "feeling": "Smart, funny, and sneakily romantic.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cul-de-sac (1966)",
+        "rating": 4.0,
+        "feeling": "Queasy tension meets bleak humor in a nervy chamber piece.",
+        "genres": [
+          "Thriller",
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Connections (1978)",
+        "rating": 3.0,
+        "feeling": "Serviceable caper beats, nothing transcendent.",
+        "genres": [
+          "Action"
+        ]
+      },
+      {
+        "title": "35 Up (1991)",
+        "rating": 4.5,
+        "feeling": "Time\u2019s passage hits hard\u2014moving and humane.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Graduate, The (1967)",
+        "rating": 5.0,
+        "feeling": "Pitch-perfect portrait of post-grad disillusionment.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Godfather, The (1972)",
+        "rating": 5.0,
+        "feeling": "Operatic, engrossing, and endlessly rewatchable.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Duck Amuck (1953)",
+        "rating": 4.5,
+        "feeling": "Meta mayhem that\u2019s pure cartoon brilliance.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Real Life (1979)",
+        "rating": 4.0,
+        "feeling": "A sharp, prescient satire that lands its jabs.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "F for Fake (V\u00e9rit\u00e9s et mensonges) (1973)",
+        "rating": 4.5,
+        "feeling": "Playful, brainy riffing on truth and trickery.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Bonnie and Clyde (1967)",
+        "rating": 4.5,
+        "feeling": "Electric blend of romance, style, and shock.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Coming Home (1978)",
+        "rating": 4.0,
+        "feeling": "Earnest, affecting, and thoughtfully acted.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Sansho the Bailiff (Sansh\u00f4 day\u00fb) (1954)",
+        "rating": 4.5,
+        "feeling": "Devastatingly compassionate and beautifully restrained.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Manhattan (1979)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, bittersweet, and wryly funny.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Shane (1953)",
+        "rating": 4.0,
+        "feeling": "Classically crafted and morally clear.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "One Froggy Evening (1955)",
+        "rating": 5.0,
+        "feeling": "A perfect little fable\u2014funny and poignant.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Nibelungen: Siegfried, Die (1924)",
+        "rating": 4.0,
+        "feeling": "Mythic grandeur with a deliberate, hypnotic pace.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Purple Rose of Cairo, The (1985)",
+        "rating": 4.5,
+        "feeling": "Movie-magic escapism tinged with heartache.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dog Day Afternoon (1975)",
+        "rating": 4.5,
+        "feeling": "Tense, humane, and unexpectedly tender.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Greed (1924)",
+        "rating": 4.0,
+        "feeling": "Bleak, compelling morality tale.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "M*A*S*H (a.k.a. MASH) (1970)",
+        "rating": 4.0,
+        "feeling": "Irreverent and funny, if a bit scattershot.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Duck Soup (1933)",
+        "rating": 4.5,
+        "feeling": "Anarchic nonsense that still slays me.",
+        "genres": [
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Citizen Kane (1941)",
+        "rating": 5.0,
+        "feeling": "Formally dazzling and emotionally rich.",
+        "genres": [
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Husbands and Wives (1992)",
+        "rating": 4.0,
+        "feeling": "Acerbic, talky, and keenly observed.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Godfather: Part II, The (1974)",
+        "rating": 4.5,
+        "feeling": "Majestic, melancholy, and deeply absorbing.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Mighty Joe Young (1949)",
+      "Fly, The (1958)",
+      "Time Machine, The (1960)",
+      "All the King's Men (1949)",
+      "To Die For (1995)",
+      "Simple Plan, A (1998)",
+      "Day the Earth Stood Still, The (1951)",
+      "Blue in the Face (1995)",
+      "Invisible Man, The (1933)",
+      "Jacknife (1989)",
+      "Pit and the Pendulum (1961)",
+      "Of Mice and Men (1939)",
+      "Bride of Frankenstein, The (Bride of Frankenstein) (1935)",
+      "Bang the Drum Slowly (1973)",
+      "Her Smell (2018)",
+      "Requiem for a Heavyweight (1962)",
+      "Producers, The (1968)",
+      "Wings (1927)",
+      "Bank Dick, The (1940)",
+      "Band Wagon, The (1953)",
+      "Invasion of the Body Snatchers (1956)",
+      "Winchester '73 (1950)",
+      "And Then There Were None (1945)",
+      "Muriel's Wedding (1994)",
+      "Fearless (1993)",
+      "Women Talking (2022)",
+      "Kizumonogatari III: Cold Blood (2017)",
+      "Razor's Edge, The (1946)",
+      "Repo Man (1984)",
+      "Mystery Science Theater 3000: The Movie (1996)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Mighty Joe Young (1949)",
+        "rating": 4.0,
+        "feeling": "Sweet-natured spectacle with old-school charm",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Fly, The (1958)",
+        "rating": 4.0,
+        "feeling": "Creepy, tragic sci\u2011fi morality tale that still hooks me.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Time Machine, The (1960)",
+        "rating": 4.0,
+        "feeling": "Inventive and melancholy",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Fantasy",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "All the King's Men (1949)",
+        "rating": 4.5,
+        "feeling": "Riveting rise-and-rot saga with sharp political bite.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "To Die For (1995)",
+        "rating": 4.0,
+        "feeling": "Acerbic, chilly satire that goes down wickedly smooth.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Simple Plan, A (1998)",
+        "rating": 4.0,
+        "feeling": "Slow-burn dread and moral slippage that kept me tense.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Day the Earth Stood Still, The (1951)",
+        "rating": 4.5,
+        "feeling": "Spare, thoughtful warning shot\u2014earnest in the best way.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blue in the Face (1995)",
+        "rating": 3.0,
+        "feeling": "Loose and likable, but too slight to really stick.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Invisible Man, The (1933)",
+        "rating": 4.5,
+        "feeling": "Lean, darkly funny sci\u2011fi horror",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Jacknife (1989)",
+        "rating": 3.5,
+        "feeling": "Sincere and bruised, though a bit heavy-handed.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Pit and the Pendulum (1961)",
+        "rating": 3.5,
+        "feeling": "Gothic fun\u2014moody atmosphere over real chills, but enjoyable.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Of Mice and Men (1939)",
+        "rating": 4.5,
+        "feeling": "Plainspoken, compassionate tragedy that lands with quiet force.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bride of Frankenstein, The (Bride of Frankenstein) (1935)",
+        "rating": 5.0,
+        "feeling": "Macabre, witty, and moving\u2014a genre high point.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Bang the Drum Slowly (1973)",
+        "rating": 4.0,
+        "feeling": "Earnest and affecting without leaning too hard on sentiment.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Requiem for a Heavyweight (1962)",
+        "rating": 4.0,
+        "feeling": "Dignified heartbreaker with moral weight and bruised humanity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Producers, The (1968)",
+        "rating": 4.5,
+        "feeling": "Joyously tasteless and brilliantly silly\u2014I laughed a lot.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Wings (1927)",
+        "rating": 4.5,
+        "feeling": "Impressive sweep and tender melodrama",
+        "genres": [
+          "Drama",
+          "Action",
+          "War",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Band Wagon, The (1953)",
+        "rating": 4.5,
+        "feeling": "Effervescent showbiz satire with top-shelf song-and-dance.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Invasion of the Body Snatchers (1956)",
+        "rating": 4.5,
+        "feeling": "Tight, chilling paranoia piece that still tingles.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Winchester '73 (1950)",
+        "rating": 4.0,
+        "feeling": "Clean, satisfying western storytelling with moral clarity.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "And Then There Were None (1945)",
+        "rating": 4.5,
+        "feeling": "Clever clockwork suspense",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Muriel's Wedding (1994)",
+        "rating": 3.5,
+        "feeling": "Bittersweet and broad",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Fearless (1993)",
+        "rating": 4.0,
+        "feeling": "Sensitive, probing look at trauma\u2014somber but resonant.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Women Talking (2022)",
+        "rating": 4.0,
+        "feeling": "Talky, compassionate debate that\u2019s serious and compelling.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kizumonogatari III: Cold Blood (2017)",
+        "rating": 2.5,
+        "feeling": "Stylish and frenzied, but emotionally remote for me.",
+        "genres": [
+          "Animation",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Razor's Edge, The (1946)",
+        "rating": 4.0,
+        "feeling": "Lyrical search-for-meaning with romantic sting",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Repo Man (1984)",
+        "rating": 4.0,
+        "feeling": "Deadpan, oddball sci\u2011fi satire with a pleasingly sour bite.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mystery Science Theater 3000: The Movie (1996)",
+        "rating": 3.5,
+        "feeling": "Goofy meta-commentary",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Titanic (1953)",
+      "Bulworth (1998)",
+      "Sausage Party (2016)",
+      "Hamilton (2020)",
+      "Total Eclipse (1995)",
+      "Death Race (2008)",
+      "Deadpool (2016)",
+      "Class, The (Klass) (2007)",
+      "Chinese Box (1997)",
+      "Don Jon (2013)",
+      "Xiu Xiu: The Sent-Down Girl (Tian yu) (1998)",
+      "The Perfect Blue (1997)",
+      "Lost Horizon (1937)",
+      "The Barkley Marathons: The Race That Eats Its Young (2015)",
+      "Action in the North Atlantic (1943)",
+      "A Quiet Passion (2016)",
+      "Train of Life (Train de vie) (1998)",
+      "Serbian Film, A (Srpski film) (2010)",
+      "Sucker Punch (2011)",
+      "Fresh (1994)",
+      "White Chicks (2004)",
+      "Ringing Bell (1978)",
+      "Point Blank (\u00c0 bout portant) (2010)",
+      "Romance (1999)",
+      "Nimona (2023)",
+      "Resident Evil 4D: Executer (2000)",
+      "Baby Boy (2001)",
+      "Better Than Chocolate (1999)",
+      "Drive Me Crazy (1999)",
+      "Coyote's Morning (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Titanic (1953)",
+        "rating": 4.0,
+        "feeling": "Old-school melodrama that hits its marks with sturdy craftsmanship.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bulworth (1998)",
+        "rating": 3.5,
+        "feeling": "Spiky and risky\u2014uneven, but its political bite still nips.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sausage Party (2016)",
+        "rating": 2.5,
+        "feeling": "Clever premise buried under a lot of juvenile shouting.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Hamilton (2020)",
+        "rating": 3.0,
+        "feeling": "Engaging roundtable, but it feels like bonus features, not a meal.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Total Eclipse (1995)",
+        "rating": 3.5,
+        "feeling": "Intense and feverish\u2014compelling if a bit self-immolating.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Death Race (2008)",
+        "rating": 2.5,
+        "feeling": "Loud, efficient mayhem with not much to chew on.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Deadpool (2016)",
+        "rating": 3.5,
+        "feeling": "Smirky, blood-slicked fun that\u2019s better in quips than stakes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Class, The (Klass) (2007)",
+        "rating": 4.0,
+        "feeling": "Bleak and gripping\u2014teen cruelty rendered with bracing clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinese Box (1997)",
+        "rating": 3.5,
+        "feeling": "Moody handover chronicle\u2014uneven, but the atmosphere lingers.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Don Jon (2013)",
+        "rating": 3.0,
+        "feeling": "A breezy sermon with charm\u2014glib, yet likable.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Xiu Xiu: The Sent-Down Girl (Tian yu) (1998)",
+        "rating": 4.0,
+        "feeling": "Tender, tragic, and quietly enraging.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Lost Horizon (1937)",
+        "rating": 4.5,
+        "feeling": "Sumptuous idealism with a wistful, transportive pull.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Action in the North Atlantic (1943)",
+        "rating": 4.0,
+        "feeling": "Sturdy wartime valor\u2014Bogart steers it sure and true.",
+        "genres": [
+          "War"
+        ]
+      },
+      {
+        "title": "A Quiet Passion (2016)",
+        "rating": 4.0,
+        "feeling": "Prickly, precise, and mournfully beautiful.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Train of Life (Train de vie) (1998)",
+        "rating": 3.5,
+        "feeling": "A delicate tightrope\u2014earnest whimsy against horror.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Serbian Film, A (Srpski film) (2010)",
+        "rating": 0.5,
+        "feeling": "Calculated transgression that left me cold and queasy.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sucker Punch (2011)",
+        "rating": 2.0,
+        "feeling": "Style in search of a pulse\u2014pinball plotting, thin feeling.",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Fresh (1994)",
+        "rating": 4.0,
+        "feeling": "Tense, clear-eyed, and devastating.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "White Chicks (2004)",
+        "rating": 1.5,
+        "feeling": "High-concept mugging with a low laugh-to-groan ratio.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Ringing Bell (1978)",
+        "rating": 4.0,
+        "feeling": "A dark, poignant fable that stings and sticks.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Point Blank (\u00c0 bout portant) (2010)",
+        "rating": 4.0,
+        "feeling": "Lean, breathless cat-and-mouse delivered with snap.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Romance (1999)",
+        "rating": 1.5,
+        "feeling": "Raw and confrontational, but more punishing than illuminating for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Nimona (2023)",
+        "rating": 3.5,
+        "feeling": "Zippy, big-hearted adventure with a playful spark.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Action",
+          "Science Fiction",
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Resident Evil 4D: Executer (2000)",
+        "rating": 1.5,
+        "feeling": "Thin tie-in thrills\u2014more demo reel than drama.",
+        "genres": [
+          "Horror",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Baby Boy (2001)",
+        "rating": 3.5,
+        "feeling": "Messy, sincere, and emotionally engaged.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Better Than Chocolate (1999)",
+        "rating": 3.5,
+        "feeling": "Sweet, earnest, and a bit schematic\u2014but warm.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Drive Me Crazy (1999)",
+        "rating": 2.5,
+        "feeling": "Pleasant teen fluff\u2014goes down easy, leaves little behind.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Coyote's Morning (2001)",
+        "rating": 2.5,
+        "feeling": "Cute caper beats, slight and disposable.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Babes in Toyland (1934)",
+      "Homecoming: A Film by Beyonc\u00e9 (2019)",
+      "Babe: Pig in the City (1998)",
+      "Sword of the Beast (Kedamono no ken) (1965)",
+      "Return to Oz (1985)",
+      "Shampoo (1975)",
+      "Muppet Christmas Carol, The (1992)",
+      "Only Old Men Are Going to Battle (V boy idut odni stariki) (1973)",
+      "Muppets Take Manhattan, The (1984)",
+      "Beyond the Valley of the Dolls (1970)",
+      "Moment of Innocence, A (Nun va Goldoon) (1996)",
+      "You Are Not Alone (2016)",
+      "Streetcar Named Desire, A (1951)",
+      "Toy Story 3 (2010)",
+      "Great Muppet Caper, The (1981)",
+      "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",
+      "Heavenly Creatures (1994)",
+      "Here Now (2015)",
+      "Oklahoma! (1955)",
+      "Three Caballeros, The (1945)",
+      "Music Man, The (1962)",
+      "Everyone Says I Love You (1996)",
+      "Little Witch Academia: The Enchanted Parade (2015)",
+      "Ghost Song (2022)",
+      "Shall We Dance? (Shall We Dansu?) (1996)",
+      "Snowman, The (1982)",
+      "Crowd, The (1928)",
+      "56 Up (2012)",
+      "Watership Down (1978)",
+      "The Assassin (2015)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Babes in Toyland (1934)",
+        "rating": 3.5,
+        "feeling": "Storybook whimsy and Laurel & Hardy hijinks\u2014creaky but amiably charming.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Homecoming: A Film by Beyonc\u00e9 (2019)",
+        "rating": 3.5,
+        "feeling": "Rousing craft and cultural heft, even if the spectacle means more to fans than it does to me.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Babe: Pig in the City (1998)",
+        "rating": 4.0,
+        "feeling": "A bold, darkly whimsical fable that deepens Babe\u2019s world with surprising emotional bite.",
+        "genres": [
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sword of the Beast (Kedamono no ken) (1965)",
+        "rating": 4.0,
+        "feeling": "Lean, moody samurai noir with moral sting and muscular pacing.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Return to Oz (1985)",
+        "rating": 3.5,
+        "feeling": "Gloomy, imaginative fantasia whose eerie textures outweigh the uneven storytelling.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shampoo (1975)",
+        "rating": 4.0,
+        "feeling": "Wry, rueful bed-hopping satire with sharp period mood and bittersweet undercurrents.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Muppet Christmas Carol, The (1992)",
+        "rating": 4.0,
+        "feeling": "Warm Dickensian cheer delivered with wit, heart, and plush charm.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Only Old Men Are Going to Battle (V boy idut odni stariki) (1973)",
+        "rating": 4.0,
+        "feeling": "Camaraderie, song, and wartime sorrow blend into a human, gently stirring mix.",
+        "genres": [
+          "War",
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Muppets Take Manhattan, The (1984)",
+        "rating": 3.5,
+        "feeling": "Pleasantly goofy showbiz hustle\u2014light, likable, if minor Muppet mayhem.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Beyond the Valley of the Dolls (1970)",
+        "rating": 3.5,
+        "feeling": "Giddy, gaudy camp whose satirical fizz entertains more than it illuminates.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Moment of Innocence, A (Nun va Goldoon) (1996)",
+        "rating": 4.5,
+        "feeling": "Playful, humane self-reckoning where memory and make\u2011believe tenderly meet.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You Are Not Alone (2016)",
+        "rating": 3.0,
+        "feeling": "Low-key, intimate sci\u2011fi psychodrama whose ache lingers more than its revelations.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Streetcar Named Desire, A (1951)",
+        "rating": 4.5,
+        "feeling": "Raw, operatic emotions and blistering performances that still crackle.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Toy Story 3 (2010)",
+        "rating": 4.5,
+        "feeling": "A deft, funny, and genuinely moving farewell that hits with grown-up poignancy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Great Muppet Caper, The (1981)",
+        "rating": 3.5,
+        "feeling": "Cheery caper antics with tuneful sparkle\u2014fun, if a notch below their best.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Crime",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",
+        "rating": 4.5,
+        "feeling": "Glorious color and sung-through heartache\u2014sumptuous, bittersweet, and transporting.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Heavenly Creatures (1994)",
+        "rating": 4.0,
+        "feeling": "Lush, unsettling coming\u2011of\u2011age fever dream that grips with empathy and dread.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Here Now (2015)",
+        "rating": 2.5,
+        "feeling": "Sleek, fleeting style piece\u2014cute pulse, not much aftertaste.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Oklahoma! (1955)",
+        "rating": 4.0,
+        "feeling": "Sunny, sturdy classicism with rousing numbers and homespun charm.",
+        "genres": [
+          "Western",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Music Man, The (1962)",
+        "rating": 4.5,
+        "feeling": "Brassy showmanship and wit delivered with irresistible small\u2011town warmth.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Everyone Says I Love You (1996)",
+        "rating": 3.5,
+        "feeling": "Airy, charming trifle\u2014amiable tunes and neurotic fizz, light on staying power.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Little Witch Academia: The Enchanted Parade (2015)",
+        "rating": 3.5,
+        "feeling": "Buoyant, bright adventure with earnest teamwork and a zippy spell of fun.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ghost Song (2022)",
+        "rating": 3.5,
+        "feeling": "Moody, humane portraiture that drifts between lyricism and grit.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Shall We Dance? (Shall We Dansu?) (1996)",
+        "rating": 4.0,
+        "feeling": "Gentle, funny midlife awakening that slides gracefully from crush to joy.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crowd, The (1928)",
+        "rating": 4.5,
+        "feeling": "Tender, modern-feeling silent melodrama with quietly devastating sweep.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "56 Up (2012)",
+        "rating": 4.5,
+        "feeling": "Time\u2019s ledger remains absorbing and humane\u2014small changes accumulate into life.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Watership Down (1978)",
+        "rating": 4.5,
+        "feeling": "Beautifully somber adventure whose fable cuts deep.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Assassin (2015)",
+        "rating": 4.0,
+        "feeling": "Exquisite, meditative wuxia\u2014elliptical but hypnotically composed.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History"
+        ]
+      }
+    ]
+  }
+]

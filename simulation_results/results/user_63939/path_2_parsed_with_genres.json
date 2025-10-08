@@ -1,0 +1,1059 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Alien (1979)",
+      "Aliens (1986)",
+      "The Thing (1982)",
+      "The Descent (2005)",
+      "The Orphanage (2007)",
+      "The Devil's Backbone (2001)",
+      "Pan's Labyrinth (2006)",
+      "The Others (2001)",
+      "Hereditary (2018)",
+      "The Witch (2015)",
+      "It Follows (2014)",
+      "The Babadook (2014)",
+      "Annihilation (2018)",
+      "Under the Skin (2013)",
+      "The Wailing (2016)",
+      "A Tale of Two Sisters (2003)",
+      "Ringu (1998)",
+      "Pulse (2001)",
+      "Cure (1997)",
+      "Noroi: The Curse (2005)",
+      "Lake Mungo (2008)",
+      "The Autopsy of Jane Doe (2016)",
+      "The Ritual (2017)",
+      "Under the Shadow (2016)",
+      "Pontypool (2008)",
+      "Coherence (2013)",
+      "Moon (2009)",
+      "Sunshine (2007)",
+      "The Innocents (1961)",
+      "The Endless (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Alien (1979)",
+        "rating": 4.5,
+        "feeling": "Oppressive, methodical space dread that's right up my alley.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 3.5,
+        "feeling": "Tense and propulsive, though the action tilt blunts some of the fear I crave.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.5,
+        "feeling": "Bleak, paranoid shapeshifter terror that gnaws at you.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Descent (2005)",
+        "rating": 3.5,
+        "feeling": "Claustrophobic survival horror that squeezes the nerves.",
+        "genres": [
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 3.5,
+        "feeling": "Tender, sorrowful haunting that trusts mood more than jump scares.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "A wartime ghost story where sorrow and menace quietly intertwine.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "Myth and brutality entwine into something beautiful and bruising.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 3.5,
+        "feeling": "Dark-house suspense built on restraint and maternal fear.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hereditary (2018)",
+        "rating": 3.5,
+        "feeling": "Family trauma curdled into oppressive, inescapable dread.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 2.0,
+        "feeling": "Slick supernatural action with little room for atmosphere.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 2.0,
+        "feeling": "A slight, pulpy chase setup that never quite chills.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Babadook (2014)",
+        "rating": 3.5,
+        "feeling": "Grief-as-monster metaphor that sustains a low, anxious hum.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 4.0,
+        "feeling": "Ideas-driven sci-fi with hypnotic, unsettling imagery.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Under the Skin (2013)",
+        "rating": 2.5,
+        "feeling": "Quiet reunion drama that intrigues more than it grips me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 4.0,
+        "feeling": "Slow-burn small-town terror with a creeping sense of doom.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Tale of Two Sisters (2003)",
+        "rating": 3.5,
+        "feeling": "Elegant psychological unease with a tragic undercurrent.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ringu (1998)",
+        "rating": 4.0,
+        "feeling": "Cold, investigative dread that seeps in rather than jumps out.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pulse (2001)",
+        "rating": 3.5,
+        "feeling": "Lonely, tech-tinged haunting that casts a soft, lingering chill.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.0,
+        "feeling": "A measured, ambiguous nightmare that gets under the skin.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Noroi: The Curse (2005)",
+        "rating": 4.0,
+        "feeling": "Documentary-style unraveling that feels plausibly eerie and expansive.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Autopsy of Jane Doe (2016)",
+        "rating": 3.5,
+        "feeling": "Tight, contained mystery with escalating, eerie revelations.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Ritual (2017)",
+        "rating": 3.5,
+        "feeling": "Grief-tinged woodland dread with steady, mounting unease.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Under the Shadow (2016)",
+        "rating": 3.5,
+        "feeling": "War-torn domestic haunting that feels grounded and tense.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "War"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 3.5,
+        "feeling": "A simple setup spirals into heady, unnerving what-ifs over dinner.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.5,
+        "feeling": "Intimate, humane sci-fi that quietly hit me hard.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 3.5,
+        "feeling": "High-stakes space mission suspense with striking, chilly grandeur.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 3.5,
+        "feeling": "Elegant, suggestive haunting that favors atmosphere over shocks.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Endless (2017)",
+        "rating": 3.5,
+        "feeling": "Lo-fi cult mystery with a patient, cosmic unease.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Lake Mungo (2008)",
+      "Session 9 (2001)",
+      "The Lighthouse (2019)",
+      "Possession (1981)",
+      "The Night House (2020)",
+      "The Blackcoat's Daughter (2015)",
+      "The Changeling (1980)",
+      "Don't Look Now (1973)",
+      "The Haunting (1963)",
+      "Dark Water (2002)",
+      "Audition (1999)",
+      "The Wicker Man (1973)",
+      "Kill List (2011)",
+      "The Borderlands (2013)",
+      "Pontypool (2008)",
+      "The Vast of Night (2019)",
+      "Solaris (1972)",
+      "Triangle (2009)",
+      "A Dark Song (2016)",
+      "The Empty Man (2020)",
+      "The Medium (2021)",
+      "Incantation (2022)",
+      "His House (2020)",
+      "The Dark and the Wicked (2020)",
+      "Apostle (2018)",
+      "The Blair Witch Project (1999)",
+      "The Exorcist III (1990)",
+      "Kuroneko (1968)",
+      "Onibaba (1964)",
+      "The Invitation (2015)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Session 9 (2001)",
+        "rating": 4.0,
+        "feeling": "Patient, oppressive institutional dread that seeps under the skin.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lighthouse (2019)",
+        "rating": 3.0,
+        "feeling": "Claustrophobic and well-crafted, but its manic artfulness keeps me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Possession (1981)",
+        "rating": 4.0,
+        "feeling": "Marital breakdown spiraling into feverish, uncanny terror that hangs in the mind.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Night House (2020)",
+        "rating": 2.0,
+        "feeling": "Goofy mad-science antics smother the unease I\u2019m after.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Changeling (1980)",
+        "rating": 4.0,
+        "feeling": "Elegant, grief-soaked haunting delivered with quiet, mounting chills.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 4.0,
+        "feeling": "Mournful, uncanny grief that builds a persistent, uneasy shiver.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.0,
+        "feeling": "Suggestive, classic house-of-echoes terror that trusts shadows over shocks.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Dark Water (2002)",
+        "rating": 3.5,
+        "feeling": "Muted, damp J-horror melancholy with a steady, lingering chill.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Audition (1999)",
+        "rating": 1.0,
+        "feeling": "An empty erotic clip-reel",
+        "genres": []
+      },
+      {
+        "title": "The Wicker Man (1973)",
+        "rating": 4.0,
+        "feeling": "Folk dread and ritual unease that tightens its grip scene by scene.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Kill List (2011)",
+        "rating": 4.0,
+        "feeling": "A crime spiral that slides into occult nightmare with grim inevitability.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Borderlands (2013)",
+        "rating": 3.0,
+        "feeling": "Hints of the uncanny in the woods, but the pieces never fully cohere for me.",
+        "genres": [
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Vast of Night (2019)",
+        "rating": 4.0,
+        "feeling": "Lo-fi, late-night mystery that hums with eerie possibility.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.5,
+        "feeling": "Somber, contemplative sci-fi that burrows into memory and guilt.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Triangle (2009)",
+        "rating": 3.5,
+        "feeling": "A taut, looping puzzle that maintains a moody, disorienting chill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "A Dark Song (2016)",
+        "rating": 4.0,
+        "feeling": "Ritual horror rendered with patience and grave, accumulating weight.",
+        "genres": [
+          "Horror",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Empty Man (2020)",
+        "rating": 3.5,
+        "feeling": "Urban legend unease expanding into a chilly, cultish cosmic murmur.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Medium (2021)",
+        "rating": 3.5,
+        "feeling": "Shamanic possession framed with grounded, slowly escalating dread.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Incantation (2022)",
+        "rating": 3.5,
+        "feeling": "Curse mythology and found-footage textures that build a credible, creeping fear.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "His House (2020)",
+        "rating": 4.0,
+        "feeling": "Human grief and displacement braided into a tense, haunting domestic nightmare.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Dark and the Wicked (2020)",
+        "rating": 3.5,
+        "feeling": "Bleak family doom steeped in relentless, oppressive atmosphere.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Apostle (2018)",
+        "rating": 3.5,
+        "feeling": "Remote-cult descent that\u2019s grim and engrossing, if uneven.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Blair Witch Project (1999)",
+        "rating": 4.0,
+        "feeling": "Raw, plausibly found terror that lets the woods do the screaming.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Exorcist III (1990)",
+        "rating": 3.5,
+        "feeling": "Procedural dread punctured by a few genuinely hair-raising moments.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Kuroneko (1968)",
+        "rating": 3.5,
+        "feeling": "Elegiac vengeance ghost tale that casts a soft, spectral chill.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Onibaba (1964)",
+        "rating": 3.5,
+        "feeling": "War-torn lust and superstition simmering into a stark, mask-haunted fable.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Invitation (2015)",
+        "rating": 1.0,
+        "feeling": "A straightforward grappling showcase\u2014competent, but miles from the mood I crave.",
+        "genres": []
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Lake Mungo (2008)",
+      "The Blackcoat's Daughter (2015)",
+      "The House of the Devil (2009)",
+      "Prince of Darkness (1987)",
+      "In the Mouth of Madness (1994)",
+      "The Fog (1980)",
+      "The Mist (2007)",
+      "Pontypool (2008)",
+      "The Vanishing (1988)",
+      "Repulsion (1965)",
+      "Rosemary's Baby (1968)",
+      "Jacob's Ladder (1990)",
+      "Angel Heart (1987)",
+      "The Serpent and the Rainbow (1988)",
+      "Kwaidan (1964)",
+      "The Seventh Victim (1943)",
+      "The Eye (2002)",
+      "Shutter (2004)",
+      "Creepy (2016)",
+      "The Canal (2014)",
+      "Resolution (2012)",
+      "Black Mountain Side (2014)",
+      "Possum (2018)",
+      "Relic (2020)",
+      "Goodnight Mommy (2014)",
+      "The Lodge (2019)",
+      "The Legend of Hell House (1973)",
+      "The Tenant (1976)",
+      "Saint Maud (2019)",
+      "Tigers Are Not Afraid (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The House of the Devil (2009)",
+        "rating": 4.0,
+        "feeling": "Patient, retro slow-burn that lets dread pool before snapping the trap.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Prince of Darkness (1987)",
+        "rating": 4.0,
+        "feeling": "Metaphysical siege horror steeped in cold, cosmic unease.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Fog (1980)",
+        "rating": 3.5,
+        "feeling": "A whispery coastal ghost story whose mood outweighs its bumps.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Mist (2007)",
+        "rating": 3.5,
+        "feeling": "Oppressive, small-town paranoia with a mean, lingering aftertaste.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.5,
+        "feeling": "A calm, merciless slide into dread that left me hollow.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Repulsion (1965)",
+        "rating": 4.0,
+        "feeling": "Suffocating apartment psychosis rendered with icy, creeping dread.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Rosemary's Baby (1968)",
+        "rating": 4.5,
+        "feeling": "Paranoia and domestic control tightening into a quietly infernal trap.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jacob's Ladder (1990)",
+        "rating": 4.0,
+        "feeling": "Mourning and guilt warped into nightmarish, claustrophobic hallucination.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Angel Heart (1987)",
+        "rating": 3.5,
+        "feeling": "Moody occult noir that simmers more than it shocks, but it lingers.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Serpent and the Rainbow (1988)",
+        "rating": 3.0,
+        "feeling": "Voodoo-tinted nightmare travelogue\u2014atmospheric, if uneven and pulpy.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Seventh Victim (1943)",
+        "rating": 3.5,
+        "feeling": "Shadowy, melancholic occult mystery that whispers more than it screams.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Eye (2002)",
+        "rating": 3.5,
+        "feeling": "Clean, mournful J-horror chills with a steady, spectral thrum.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Shutter (2004)",
+        "rating": 3.5,
+        "feeling": "Guilt-haunted photo-horror with credible, creeping shivers.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Creepy (2016)",
+        "rating": 4.0,
+        "feeling": "Kiyoshi Kurosawa\u2019s patient malaise curdling into domestic terror.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Canal (2014)",
+        "rating": 3.0,
+        "feeling": "Sour marital hauntings that stir unease even when the pieces wobble.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Resolution (2012)",
+        "rating": 0.5,
+        "feeling": "A wrestling PPV detour\u2014miles from the slow-burn unease I\u2019m after.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Possum (2018)",
+        "rating": 4.0,
+        "feeling": "Bleak, airless trauma-horror that crawls under the skin and stays.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Relic (2020)",
+        "rating": 3.5,
+        "feeling": "Dementia as housebound haunting, tender and quietly suffocating.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Lodge (2019)",
+        "rating": 2.0,
+        "feeling": "A jokey portmanteau that diffuses dread instead of deepening it.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Legend of Hell House (1973)",
+        "rating": 3.5,
+        "feeling": "Pulp science meets haunted-house chill in a brisk, gloomy key.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Tenant (1976)",
+        "rating": 4.0,
+        "feeling": "Paranoia and identity dissolution coiled into a queasy urban nightmare.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tigers Are Not Afraid (2017)",
+        "rating": 4.0,
+        "feeling": "Street-level fairy tale that braids grief and ghostly menace with bruised tenderness.",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Lake Mungo (2008)",
+      "In the Mouth of Madness (1994)",
+      "Halloween (1978)",
+      "The Exorcist (1973)",
+      "The Shining (1980)",
+      "Kwaidan (1964)",
+      "Cat People (1942)",
+      "I Walked with a Zombie (1943)",
+      "Night of the Demon (1957)",
+      "Quatermass and the Pit (1967)",
+      "The Blood on Satan's Claw (1971)",
+      "Witchfinder General (1968)",
+      "The Brood (1979)",
+      "Videodrome (1983)",
+      "The Innkeepers (2011)",
+      "Pontypool (2008)",
+      "The Devil Rides Out (1968)",
+      "Ju-on: The Grudge (2002)",
+      "Retribution (2006)",
+      "The Nameless (1999)",
+      "Terrified (2017)",
+      "Phase IV (1974)",
+      "Stalker (1979)",
+      "Impetigore (2019)",
+      "The Blackcoat's Daughter (2015)",
+      "The Uninvited (1944)",
+      "The Haunting of Julia (1977)",
+      "Eyes Without a Face (1960)",
+      "Messiah of Evil (1973)",
+      "Saint Maud (2019)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Halloween (1978)",
+        "rating": 4.0,
+        "feeling": "Clean, patient slasher craft that lets suburban night air thicken into dread.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Exorcist (1973)",
+        "rating": 4.0,
+        "feeling": "Heavy, sacramental dread that builds from domestic anguish to numinous terror.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "A cold, echoing maze of isolation and menace that works under the skin.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cat People (1942)",
+        "rating": 4.0,
+        "feeling": "Shadow-and-suggestion romance where the threat purrs from the edges.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Romance"
+        ]
+      },
+      {
+        "title": "I Walked with a Zombie (1943)",
+        "rating": 3.5,
+        "feeling": "Somber, wind-blown voodoo trance that whispers instead of jolts.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Night of the Demon (1957)",
+        "rating": 4.0,
+        "feeling": "Skepticism eroded by occult inevitability\u2014quietly tightening unease.",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Quatermass and the Pit (1967)",
+        "rating": 4.0,
+        "feeling": "Cosmic archaeology stoking urban panic with chilly, idea-driven dread.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Blood on Satan's Claw (1971)",
+        "rating": 3.5,
+        "feeling": "Pastoral unease and adolescent corruption steeped in folk chill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Witchfinder General (1968)",
+        "rating": 3.5,
+        "feeling": "Grim, human cruelty framed as historical horror that leaves a sour chill.",
+        "genres": [
+          "Drama",
+          "History",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Brood (1979)",
+        "rating": 4.0,
+        "feeling": "Grief weaponized into flesh\u2014icy and psychologically queasy.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Videodrome (1983)",
+        "rating": 4.0,
+        "feeling": "Media body-horror that mutates paranoia into something lurid and lingering.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Innkeepers (2011)",
+        "rating": 3.5,
+        "feeling": "Affable slow-burn haunting that saves its chill for the last turn.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Devil Rides Out (1968)",
+        "rating": 3.0,
+        "feeling": "Occult adventure more pulpy than uncanny, but its rites still flicker.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Ju-on: The Grudge (2002)",
+        "rating": 3.5,
+        "feeling": "Relentless curse mechanics delivering cold, creeping visitations.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Nameless (1999)",
+        "rating": 3.0,
+        "feeling": "A bleak cult labyrinth whose gloom lingers even as pieces wobble.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Terrified (2017)",
+        "rating": 3.0,
+        "feeling": "Ferocious set-pieces that jolt hard, with less afterglow than atmosphere.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Phase IV (1974)",
+        "rating": 3.5,
+        "feeling": "Clinical, uncanny nature-horror with a hypnotic, insectile calm.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "A hushed pilgrimage into desire and ruin that leaves a metaphysical chill.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Impetigore (2019)",
+        "rating": 3.5,
+        "feeling": "Village curses and ancestral rot rendered with earthy, mounting unease.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Uninvited (1944)",
+        "rating": 3.5,
+        "feeling": "Grief-tinged seaside haunting that trades shocks for steady shivers.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Eyes Without a Face (1960)",
+        "rating": 4.0,
+        "feeling": "Melancholy surgical nightmare\u2014elegant, icy, and quietly brutal.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

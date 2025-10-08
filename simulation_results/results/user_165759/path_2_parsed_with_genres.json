@@ -1,0 +1,1396 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Paddington (2014)",
+      "Paddington 2 (2017)",
+      "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+      "Chicken Run (2000)",
+      "Chicken Run: Dawn of the Nugget (2023)",
+      "A Shaun the Sheep Movie: Farmageddon (2019)",
+      "The Mitchells vs. the Machines (2021)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "How to Train Your Dragon (2010)",
+      "How to Train Your Dragon 2 (2014)",
+      "Kung Fu Panda (2008)",
+      "Coco (2017)",
+      "Luca (2021)",
+      "Moana (2016)",
+      "Ratatouille (2007)",
+      "The Iron Giant (1999)",
+      "The Peanuts Movie (2015)",
+      "Song of the Sea (2014)",
+      "Ernest & Celestine (2012)",
+      "The Princess Bride (1987)",
+      "Stardust (2007)",
+      "Enchanted (2007)",
+      "The Muppets (2011)",
+      "Galaxy Quest (1999)",
+      "Bill & Ted's Excellent Adventure (1989)",
+      "Guardians of the Galaxy (2014)",
+      "The Lego Movie (2014)",
+      "My Octopus Teacher (2020)",
+      "The Biggest Little Farm (2018)",
+      "October Sky (1999)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "Warm, funny, and cuddly in all the best ways.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Pure joy with heart to spare",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+        "rating": 4.5,
+        "feeling": "Clever, cozy, and delightfully punny\u2014right up my alley.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Chicken Run (2000)",
+        "rating": 4.0,
+        "feeling": "Charming and witty, with just the right dash of daring.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Chicken Run: Dawn of the Nugget (2023)",
+        "rating": 3.5,
+        "feeling": "Fun and spirited, though a bit less magical than the original.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Shaun the Sheep Movie: Farmageddon (2019)",
+        "rating": 4.5,
+        "feeling": "Sweet, wordless comedy with a sci-fi twist that left me glowing.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Mitchells vs. the Machines (2021)",
+        "rating": 4.0,
+        "feeling": "Zany but heartfelt, I laughed and cared the whole way.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.5,
+        "feeling": "Vibrant, funny, and full of heart",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Sweeping, tender, and thrilling",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon 2 (2014)",
+        "rating": 4.0,
+        "feeling": "Expands the world nicely, still warm and exciting.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda (2008)",
+        "rating": 4.0,
+        "feeling": "Goofy, heartfelt, and satisfying underdog hero fun.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Beautiful, moving, and musical in a way that felt joyous.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Luca (2021)",
+        "rating": 4.0,
+        "feeling": "Gentle and sunny",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.5,
+        "feeling": "Rousing, funny, and gorgeous with songs I want to hum.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "Warm, imaginative, and deliciously charming.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Heartfelt, brave, and timelessly moving.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Peanuts Movie (2015)",
+        "rating": 3.5,
+        "feeling": "Sweet and innocent, a pleasant comfort.",
+        "genres": [
+          "Comedy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.0,
+        "feeling": "Lyrical and tender with a cozy, folktale glow.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ernest & Celestine (2012)",
+        "rating": 4.0,
+        "feeling": "Soft, funny, and adorably warm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "Witty, swashbuckling comfort food.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.5,
+        "feeling": "Whimsical and fun, if a touch uneven for me.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 3.5,
+        "feeling": "Cute and playful, a bubbly fairy-tale riff.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Muppets (2011)",
+        "rating": 4.0,
+        "feeling": "Joyful nostalgia with earnest laughs.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.0,
+        "feeling": "Clever, affectionate sci-fi spoof that made me grin.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Bill & Ted's Excellent Adventure (1989)",
+        "rating": 3.5,
+        "feeling": "Goofy, good-natured fun with a winning spirit.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.0,
+        "feeling": "Lively, funny, and big-hearted space adventure.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Inventive, hilarious, and surprisingly heartfelt.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Octopus Teacher (2020)",
+        "rating": 4.5,
+        "feeling": "Gentle, intimate, and deeply touching.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "October Sky (1999)",
+        "rating": 4.0,
+        "feeling": "Inspiring and sincere, a feel-good lift.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Toy Story (1995)",
+      "Toy Story 2 (1999)",
+      "Toy Story 3 (2010)",
+      "WALL-E (2008)",
+      "Up (2009)",
+      "Inside Out (2015)",
+      "Monsters, Inc. (2001)",
+      "The Incredibles (2004)",
+      "Incredibles 2 (2018)",
+      "Wreck-It Ralph (2012)",
+      "Zootopia (2016)",
+      "Tangled (2010)",
+      "Lilo & Stitch (2002)",
+      "The Emperor's New Groove (2000)",
+      "Kubo and the Two Strings (2016)",
+      "Wolfwalkers (2020)",
+      "My Neighbor Totoro (1988)",
+      "Kiki's Delivery Service (1989)",
+      "Spirited Away (2001)",
+      "Ponyo (2008)",
+      "Arthur Christmas (2011)",
+      "The Pirates! Band of Misfits (2012)",
+      "The Lego Batman Movie (2017)",
+      "Spider-Man: Across the Spider-Verse (2023)",
+      "Puss in Boots: The Last Wish (2022)",
+      "The Adventures of Tintin (2011)",
+      "Babe (1995)",
+      "The Biggest Little Farm (2018)",
+      "Encanto (2021)",
+      "Finding Dory (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Toy Story (1995)",
+        "rating": 4.5,
+        "feeling": "Clever, warm, and funny with true buddy-heart.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Toy Story 2 (1999)",
+        "rating": 4.0,
+        "feeling": "Spry, heartfelt sequel with zippy laughs.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Toy Story 3 (2010)",
+        "rating": 4.5,
+        "feeling": "Deeply moving and adventurous, with cozy camaraderie.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.5,
+        "feeling": "Tender, imaginative, and quietly funny with a big heart.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "Rousing, tear-touched adventure that still feels cozy.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Inside Out (2015)",
+        "rating": 4.5,
+        "feeling": "Inventive, funny, and sincere about big feelings.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.0,
+        "feeling": "Endearing and goofy with a sweet center.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.0,
+        "feeling": "Snappy, family-forward hero fun with heart.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Incredibles 2 (2018)",
+        "rating": 3.5,
+        "feeling": "Lively and polished, if a touch less magical for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wreck-It Ralph (2012)",
+        "rating": 4.0,
+        "feeling": "Colorful, affectionate nostalgia with genuine warmth.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Zootopia (2016)",
+        "rating": 4.5,
+        "feeling": "Smart, funny, and big-hearted with great buddy energy.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.0,
+        "feeling": "Bright, playful fairy-tale comfort.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Lilo & Stitch (2002)",
+        "rating": 4.5,
+        "feeling": "Messy, cuddly, and ohana-warm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Emperor's New Groove (2000)",
+        "rating": 4.0,
+        "feeling": "Zany, quotable silliness with a friendly pulse.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.0,
+        "feeling": "Gorgeous, tender adventure with a handcrafted feel.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Lyrical, spirited, and brimming with friendship and wonder.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 4.5,
+        "feeling": "Cozy, gentle magic that feels like a hug.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 4.0,
+        "feeling": "Sunny, soft, and quietly empowering.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.5,
+        "feeling": "Enchanting, imaginative, and emotionally rich.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ponyo (2008)",
+        "rating": 4.0,
+        "feeling": "Breezy, whimsical, and sweetly sea-soaked.",
+        "genres": [
+          "Animation",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Arthur Christmas (2011)",
+        "rating": 4.0,
+        "feeling": "Cheery, clever holiday coziness.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Pirates! Band of Misfits (2012)",
+        "rating": 4.0,
+        "feeling": "Daft Aardman fun with playful wit.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lego Batman Movie (2017)",
+        "rating": 4.0,
+        "feeling": "Jokey, energetic, and surprisingly warm beneath the gags.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spider-Man: Across the Spider-Verse (2023)",
+        "rating": 4.5,
+        "feeling": "Dazzling, heartfelt, and thrillingly inventive.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Puss in Boots: The Last Wish (2022)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling, funny, and tender with striking style.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Adventures of Tintin (2011)",
+        "rating": 3.5,
+        "feeling": "Fleet, pulpy romp\u2014fun, if a bit less cuddly for me.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Babe (1995)",
+        "rating": 4.5,
+        "feeling": "Gentle, funny, and irresistibly warm-hearted.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Encanto (2021)",
+        "rating": 4.5,
+        "feeling": "Joyful, musical, and brimming with family heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Finding Dory (2016)",
+        "rating": 4.0,
+        "feeling": "Sweet, funny reunion with plenty of heart.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Early Man (2018)",
+      "Coraline (2009)",
+      "ParaNorman (2012)",
+      "The Boxtrolls (2014)",
+      "Missing Link (2019)",
+      "Toy Story 4 (2019)",
+      "Turning Red (2022)",
+      "Soul (2020)",
+      "Onward (2020)",
+      "Elemental (2023)",
+      "Frozen (2013)",
+      "Frozen II (2019)",
+      "The Princess and the Frog (2009)",
+      "Meet the Robinsons (2007)",
+      "Cloudy with a Chance of Meatballs (2009)",
+      "Rise of the Guardians (2012)",
+      "Kung Fu Panda 2 (2011)",
+      "Abominable (2019)",
+      "The Book of Life (2014)",
+      "The Secret of Kells (2009)",
+      "My Father's Dragon (2022)",
+      "Fantastic Mr. Fox (2009)",
+      "E.T. the Extra-Terrestrial (1982)",
+      "Pete's Dragon (2016)",
+      "Howl's Moving Castle (2004)",
+      "Castle in the Sky (1986)",
+      "Whisper of the Heart (1995)",
+      "The Cat Returns (2002)",
+      "The Biggest Little Farm (2018)",
+      "Klaus (2019)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Early Man (2018)",
+        "rating": 3.5,
+        "feeling": "Cheerily daft Aardman fun with a cozy team-spirit underdog vibe.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Coraline (2009)",
+        "rating": 3.5,
+        "feeling": "Gorgeous and imaginative, a bit too creepy to feel cozy for me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "ParaNorman (2012)",
+        "rating": 4.0,
+        "feeling": "Spooky-silly with real heart and a sweet outsider empathy.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Boxtrolls (2014)",
+        "rating": 3.0,
+        "feeling": "Inventive and oddball, though the grimy quirk kept me at arm\u2019s length.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Missing Link (2019)",
+        "rating": 3.5,
+        "feeling": "Likable, breezy adventure with warm buddy energy.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Toy Story 4 (2019)",
+        "rating": 4.0,
+        "feeling": "Funny, tender road-trip closure that still feels like quality time with friends.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Turning Red (2022)",
+        "rating": 4.0,
+        "feeling": "Bouncy, big-hearted coming-of-age with cuddly, chaotic warmth.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Soul (2020)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, tender, and quietly funny with a life-affirming glow.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Onward (2020)",
+        "rating": 4.0,
+        "feeling": "Earnest, brotherly quest that left me smiling and misty.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Elemental (2023)",
+        "rating": 3.5,
+        "feeling": "Sweet, gentle romance with bright worldbuilding and soft feelings.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Frozen (2013)",
+        "rating": 4.0,
+        "feeling": "Rousing, melodic sisterhood story with cozy wintry charm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Frozen II (2019)",
+        "rating": 3.5,
+        "feeling": "Pretty and sincere, if a touch less magical for me.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Princess and the Frog (2009)",
+        "rating": 4.0,
+        "feeling": "Musical, lively, and warmly romantic with a playful spirit.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Meet the Robinsons (2007)",
+        "rating": 3.5,
+        "feeling": "Zippy, eccentric optimism that lands with amiable warmth.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Cloudy with a Chance of Meatballs (2009)",
+        "rating": 4.0,
+        "feeling": "Zany, inventive laughs anchored by a sweet core.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Rise of the Guardians (2012)",
+        "rating": 3.5,
+        "feeling": "Mythic holiday heroics that are handsome and heartfelt if a bit weighty.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda 2 (2011)",
+        "rating": 4.0,
+        "feeling": "Snappy, emotional sequel with satisfying hero-heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Abominable (2019)",
+        "rating": 3.5,
+        "feeling": "Gentle, scenic adventure with a fuzzy, friendly center.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Book of Life (2014)",
+        "rating": 4.0,
+        "feeling": "Vibrant, musical fable bursting with heart and color.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret of Kells (2009)",
+        "rating": 4.0,
+        "feeling": "Lyrical, artful legendry with a softly adventurous soul.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Father's Dragon (2022)",
+        "rating": 3.5,
+        "feeling": "Kind, comforting quest that feels like a warm bedtime story.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Fantastic Mr. Fox (2009)",
+        "rating": 3.5,
+        "feeling": "Clever and droll, enjoyable if a touch less cuddly for me.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "E.T. the Extra-Terrestrial (1982)",
+        "rating": 4.5,
+        "feeling": "Timeless, tender friendship adventure that feels big-hearted and brave.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Pete's Dragon (2016)",
+        "rating": 4.0,
+        "feeling": "Gentle, woodsy wonder with a strong family hug.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 4.0,
+        "feeling": "Dreamy, whimsical magic with cozy companionship.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Castle in the Sky (1986)",
+        "rating": 4.5,
+        "feeling": "Sweeping, spirited adventure with wonder and warmth.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 4.0,
+        "feeling": "Soft, sincere coming-of-age that feels quietly uplifting.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Cat Returns (2002)",
+        "rating": 4.0,
+        "feeling": "Light, cat-charming romp with breezy fairytale fun.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Klaus (2019)",
+        "rating": 4.5,
+        "feeling": "Warm, generous holiday tale that left me glowing.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Flushed Away (2006)",
+      "Over the Hedge (2006)",
+      "Megamind (2010)",
+      "Kung Fu Panda 3 (2016)",
+      "Monsters University (2013)",
+      "Brave (2012)",
+      "Inside Out 2 (2024)",
+      "Ralph Breaks the Internet (2018)",
+      "Bolt (2008)",
+      "Treasure Planet (2002)",
+      "Atlantis: The Lost Empire (2001)",
+      "Winnie the Pooh (2011)",
+      "The Rescuers Down Under (1990)",
+      "The Secret World of Arrietty (2010)",
+      "From Up on Poppy Hill (2011)",
+      "When Marnie Was There (2014)",
+      "Porco Rosso (1992)",
+      "The Boy and the Heron (2023)",
+      "The Little Prince (2015)",
+      "Wish Dragon (2021)",
+      "Vivo (2021)",
+      "Surf's Up (2007)",
+      "Ernest & Celestine: A Trip to Gibberitia (2022)",
+      "Mirai (2018)",
+      "Spirit: Stallion of the Cimarron (2002)",
+      "Shrek 2 (2004)",
+      "Hunt for the Wilderpeople (2016)",
+      "Marcel the Shell with Shoes On (2021)",
+      "Christopher Robin (2018)",
+      "The Biggest Little Farm (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Flushed Away (2006)",
+        "rating": 3.5,
+        "feeling": "Zippy Aardman wit and bouncy buddy energy, if the sewer setting keeps it a touch less cozy for me.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Over the Hedge (2006)",
+        "rating": 3.5,
+        "feeling": "A bouncy critter caper with snappy laughs and a sweet found-family hug.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Megamind (2010)",
+        "rating": 4.0,
+        "feeling": "Clever, quippy supervillain-with-a-heart tale that left me grinning.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Comedy",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda 3 (2016)",
+        "rating": 3.5,
+        "feeling": "Warm, colorful and funny, though a little less spark than the first two for me.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Monsters University (2013)",
+        "rating": 3.5,
+        "feeling": "An amiable, goofy campus romp that nicely warms the Mike\u2013Sulley bond.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Brave (2012)",
+        "rating": 4.0,
+        "feeling": "Lush, spirited mother\u2013daughter fairy tale with hearty laughs and cozy Highlands charm.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Inside Out 2 (2024)",
+        "rating": 4.0,
+        "feeling": "Funny and empathetic new-emotion chaos that still lands with a warm, affirming glow.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ralph Breaks the Internet (2018)",
+        "rating": 3.5,
+        "feeling": "Lively and affectionate, if the internet gags get a bit busy for my taste.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Bolt (2008)",
+        "rating": 4.0,
+        "feeling": "Cute, loyal-dog road adventure with bright laughs and a tender center.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Treasure Planet (2002)",
+        "rating": 4.0,
+        "feeling": "Swashbuckling, starry-eyed adventure with a warm mentor bond that felt rousing.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Atlantis: The Lost Empire (2001)",
+        "rating": 3.5,
+        "feeling": "Handsome, pulpy expedition fun that entertained even if it felt a bit less cuddly.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Winnie the Pooh (2011)",
+        "rating": 4.0,
+        "feeling": "Soft, silly honey-warm comfort that feels like a gentle hug.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Rescuers Down Under (1990)",
+        "rating": 3.5,
+        "feeling": "A spirited Aussie rescue with classic charm and big-hearted critter bravery.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret World of Arrietty (2010)",
+        "rating": 4.0,
+        "feeling": "Delicate, cozy tiny-world wonder with a soothing, friendly pulse.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "From Up on Poppy Hill (2011)",
+        "rating": 4.0,
+        "feeling": "Gentle, nostalgic coming-of-age that felt soft, sincere, and quietly uplifting.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "When Marnie Was There (2014)",
+        "rating": 4.0,
+        "feeling": "Haunting yet tender, a restorative friendship mystery that left me misty.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Porco Rosso (1992)",
+        "rating": 4.0,
+        "feeling": "Breezy, droll sky adventure with an easy warmth and playful spirit.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Boy and the Heron (2023)",
+        "rating": 4.0,
+        "feeling": "Imaginative and poignant, a wistful, strange journey that glows with feeling.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Little Prince (2015)",
+        "rating": 4.5,
+        "feeling": "Tender, imaginative ode to wonder and friendship that left me glowing.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wish Dragon (2021)",
+        "rating": 3.5,
+        "feeling": "Breezy, bright wish-fulfillment with jokey fun and a friendly heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Vivo (2021)",
+        "rating": 3.5,
+        "feeling": "Sweet, tuneful journey with sunny vibes and cuddly warmth.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Surf's Up (2007)",
+        "rating": 4.0,
+        "feeling": "Laid-back, funny mock-doc that rides an easy, good-natured wave.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ernest & Celestine: A Trip to Gibberitia (2022)",
+        "rating": 4.0,
+        "feeling": "Soft, musical reunion brimming with kind laughs and cozy friendship.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mirai (2018)",
+        "rating": 4.0,
+        "feeling": "Tender, imaginative sibling tale with gentle time-swirl magic and family warmth.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spirit: Stallion of the Cimarron (2002)",
+        "rating": 3.5,
+        "feeling": "Handsome, earnest horse odyssey\u2014stirring, if a touch heavy at times.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Drama",
+          "Western",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Shrek 2 (2004)",
+        "rating": 4.0,
+        "feeling": "Big, goofy fairy-tale romp with sharp gags and a warm center.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Hunt for the Wilderpeople (2016)",
+        "rating": 4.0,
+        "feeling": "Funny, tender odd-couple adventure with a big, bushy heart.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Christopher Robin (2018)",
+        "rating": 4.0,
+        "feeling": "Soft, wistful comfort that rekindled honeyed friendship and childlike warmth.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      }
+    ]
+  }
+]

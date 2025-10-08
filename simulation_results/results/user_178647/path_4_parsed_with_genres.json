@@ -1,0 +1,1192 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Snow Falling on Cedars (1999)",
+      "Legends of the Fall (1994)",
+      "Mis\u00e9rables, Les (1998)",
+      "Living Out Loud (1998)",
+      "Passion of the Christ, The (2004)",
+      "Apocalypto (2006)",
+      "Postman, The (1997)",
+      "Silence (2016)",
+      "Cold Mountain (2003)",
+      "Michael Collins (1996)",
+      "Death and the Maiden (1994)",
+      "Margaret's Museum (1995)",
+      "River Runs Through It, A (1992)",
+      "Pride and Prejudice (1995)",
+      "Out of Africa (1985)",
+      "Love! Valour! Compassion! (1997)",
+      "Importance of Being Earnest, The (2002)",
+      "Cloud Atlas (2012)",
+      "Where To Invade Next (2015)",
+      "The Dig (2021)",
+      "The Outpost (2020)",
+      "Last of the Mohicans, The (1992)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "Dances with Wolves (1990)",
+      "Messenger: The Story of Joan of Arc, The (1999)",
+      "Pride & Prejudice (2005)",
+      "Gravity (2013)",
+      "Jakob the Liar (1999)",
+      "King's Speech, The (2010)",
+      "Big Kahuna, The (2000)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Snow Falling on Cedars (1999)",
+        "rating": 4.5,
+        "feeling": "The mix of prejudice, memory, and a quiet investigation lingered with a melancholy beauty.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Legends of the Fall (1994)",
+        "rating": 4.0,
+        "feeling": "A sweeping, sentimental saga that pulled me in with its family loyalties and frontier grandeur.",
+        "genres": [
+          "Drama",
+          "Western",
+          "Romance",
+          "War",
+          "Action"
+        ]
+      },
+      {
+        "title": "Mis\u00e9rables, Les (1998)",
+        "rating": 4.5,
+        "feeling": "The moral weight of Valjean versus Javert gripped me even without the music.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Living Out Loud (1998)",
+        "rating": 4.0,
+        "feeling": "A warm, offbeat reinvention story that left me smiling and reflective.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Passion of the Christ, The (2004)",
+        "rating": 4.0,
+        "feeling": "Viscerally difficult yet spiritually sobering, it left me hushed.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Apocalypto (2006)",
+        "rating": 4.0,
+        "feeling": "A relentless survival tale whose raw urgency kept me rapt.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Postman, The (1997)",
+        "rating": 3.5,
+        "feeling": "Its hopeful premise is appealing even if the delivery feels a bit earnest and uneven.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Silence (2016)",
+        "rating": 4.5,
+        "feeling": "Faith, doubt, and moral compromise haunted me long after the credits.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Cold Mountain (2003)",
+        "rating": 4.0,
+        "feeling": "An intimate Civil War odyssey with enough grit and longing to move me.",
+        "genres": [
+          "War",
+          "History",
+          "Adventure",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Michael Collins (1996)",
+        "rating": 4.5,
+        "feeling": "Rousing and tragic, it scratches my itch for political history and hard choices.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller",
+          "History"
+        ]
+      },
+      {
+        "title": "Death and the Maiden (1994)",
+        "rating": 4.5,
+        "feeling": "A tense, morally thorny chamber piece that burrowed under my skin.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Margaret's Museum (1995)",
+        "rating": 4.0,
+        "feeling": "A tender, tough portrait of a community living in the shadow of the pit.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "River Runs Through It, A (1992)",
+        "rating": 4.0,
+        "feeling": "Quietly lyrical and bittersweet, like a memory you don\u2019t want to disturb.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Pride and Prejudice (1995)",
+        "rating": 3.5,
+        "feeling": "Informative and pleasant as a making-of, though less emotionally involving than a full feature.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Out of Africa (1985)",
+        "rating": 4.0,
+        "feeling": "Lush and wistful, its romance and sense of place washed over me.",
+        "genres": [
+          "History",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love! Valour! Compassion! (1997)",
+        "rating": 4.0,
+        "feeling": "An honest ensemble piece that balances tenderness, humor, and heartbreak.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Importance of Being Earnest, The (2002)",
+        "rating": 4.0,
+        "feeling": "Witty and light on its feet, a charming palate cleanser.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cloud Atlas (2012)",
+        "rating": 4.0,
+        "feeling": "Ambitious and thematically resonant, its interwoven destinies stirred me even when messy.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Where To Invade Next (2015)",
+        "rating": 4.5,
+        "feeling": "Engaging, provocative, and surprisingly hopeful in its critique.",
+        "genres": [
+          "Documentary",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Dig (2021)",
+        "rating": 4.0,
+        "feeling": "Understated and humane, the excavation mirrors the characters\u2019 buried lives.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Outpost (2020)",
+        "rating": 4.5,
+        "feeling": "Immersive and harrowing, it honors grit and brotherhood without flinching.",
+        "genres": [
+          "War",
+          "Drama",
+          "History",
+          "Action"
+        ]
+      },
+      {
+        "title": "Last of the Mohicans, The (1992)",
+        "rating": 4.5,
+        "feeling": "Sweeping, romantic, and thunderous in its sense of destiny.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.5,
+        "feeling": "Richly textured adventure where duty and friendship feel exquisitely lived-in.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Dances with Wolves (1990)",
+        "rating": 4.5,
+        "feeling": "Expansive and empathetic, it earned my investment in every quiet moment.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Messenger: The Story of Joan of Arc, The (1999)",
+        "rating": 4.0,
+        "feeling": "Vigorous and fervent, if sometimes blunt, but the conviction won me over.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Elegant, spirited, and emotionally satisfying.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.0,
+        "feeling": "A breathless survival hymn that left me floating and tense.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Jakob the Liar (1999)",
+        "rating": 4.0,
+        "feeling": "Bittersweet resilience in the bleakest of times gave it a gentle glow.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "King's Speech, The (2010)",
+        "rating": 4.5,
+        "feeling": "Uplifting craftsmanship anchored by a friendship that truly sings.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Alice Through the Looking Glass (2016)",
+      "Planet Terror (2007)",
+      "Girl on the Bridge, The (Fille sur le pont, La) (1999)",
+      "Big Kahuna, The (2000)",
+      "Ip Man: The Final Fight (2013)",
+      "Black Panther: Wakanda Forever (2022)",
+      "The Life and Passion of Jesus Christ (1903)",
+      "Death Carries a Cane (1973)",
+      "Scenes from the Suburbs (2011)",
+      "North & South (2004)",
+      "Grindhouse (2007)",
+      "La Toma",
+      "Outfoxed: Rupert Murdoch's War on Journalism (2004)",
+      "Listen to Me Marlon (2015)",
+      "Jeff Dunham: Arguing with Myself (2006)",
+      "Trick (1999)",
+      "Primal Fear (1996)",
+      "Breakdown (1997)",
+      "Ghost in the Shell (2017)",
+      "Perfect Candidate, A (1996)",
+      "Room, The (2003)",
+      "In the City of Dawn (2011)",
+      "Dean Martin: King of Cool (2021)",
+      "Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)",
+      "Hugo (2011)",
+      "Manic (2001)",
+      "Left Bank (2008)",
+      "Step Up (2006)",
+      "Uman \u2013 The Perfect Man (2022)",
+      "Tigerland (2000)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Alice Through the Looking Glass (2016)",
+        "rating": 3.5,
+        "feeling": "Whimsical and colorful, it entertained me without ever quite touching something deeper.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Planet Terror (2007)",
+        "rating": 3.5,
+        "feeling": "Rowdy, gory fun in bursts, though the winking excess kept me at arm\u2019s length.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Girl on the Bridge, The (Fille sur le pont, La) (1999)",
+        "rating": 4.5,
+        "feeling": "A bittersweet fable of luck and longing that felt tender, offbeat, and quietly magnetic.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ip Man: The Final Fight (2013)",
+        "rating": 4.0,
+        "feeling": "Steeped in honor and wearied grace, its measured fights carry the weight of a life lived.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Black Panther: Wakanda Forever (2022)",
+        "rating": 4.0,
+        "feeling": "Grief, duty, and legacy are handled with stirring dignity even when the spectacle swells.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Life and Passion of Jesus Christ (1903)",
+        "rating": 4.0,
+        "feeling": "A reverent, early-cinema tableau whose simple devotion moved me more than I expected.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Death Carries a Cane (1973)",
+        "rating": 3.0,
+        "feeling": "Stylish suspense, but the razor-edged voyeurism dulled my engagement.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Scenes from the Suburbs (2011)",
+        "rating": 4.0,
+        "feeling": "A hazy, melodic memory of adolescence where unease and nostalgia blur together.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Grindhouse (2007)",
+        "rating": 3.5,
+        "feeling": "A gleeful throwback ride\u2014energetic, grisly, and fun\u2014if emotionally disposable.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Outfoxed: Rupert Murdoch's War on Journalism (2004)",
+        "rating": 4.5,
+        "feeling": "Clear-eyed and galvanizing, it scratched my itch for media accountability and civic stakes.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Listen to Me Marlon (2015)",
+        "rating": 4.5,
+        "feeling": "Intimate and mesmerizing, hearing Brando narrate his own contradictions felt singular.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Jeff Dunham: Arguing with Myself (2006)",
+        "rating": 3.0,
+        "feeling": "Good-natured crowd-pleasing, though the shtick wears thin and rarely resonates.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Trick (1999)",
+        "rating": 4.0,
+        "feeling": "Light, sincere, and gently joyful, it warmed me with its creative yearning and connection.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Primal Fear (1996)",
+        "rating": 4.5,
+        "feeling": "A taut, morally thorny courtroom knot that kept tightening in all the right ways.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Breakdown (1997)",
+        "rating": 4.0,
+        "feeling": "Lean, relentless suspense that had me clenched and rooting through every close call.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ghost in the Shell (2017)",
+        "rating": 3.5,
+        "feeling": "Sleek and brooding, it intrigued me more intellectually than emotionally.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Perfect Candidate, A (1996)",
+        "rating": 4.0,
+        "feeling": "A bracing look at bare-knuckle campaigning that felt depressingly current and engrossing.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Room, The (2003)",
+        "rating": 3.5,
+        "feeling": "A tidy locked-room puzzle whose classical mechanics entertained more than they surprised.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "In the City of Dawn (2011)",
+        "rating": 4.0,
+        "feeling": "Smoldering and morally shaded, its slow-burn romance unsettled me in a good way.",
+        "genres": [
+          "Romance",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dean Martin: King of Cool (2021)",
+        "rating": 4.0,
+        "feeling": "A smooth, affectionate portrait that balanced showbiz polish with a hint of melancholy.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)",
+        "rating": 3.5,
+        "feeling": "The story is thin, but the bone-crunching commitment of the fights won me over.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Hugo (2011)",
+        "rating": 4.5,
+        "feeling": "A loving clockwork ode to cinema that left me misty with wonder and gratitude.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Manic (2001)",
+        "rating": 4.0,
+        "feeling": "Raw and compassionate, its group therapy bruises felt honest and hard-won.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Left Bank (2008)",
+        "rating": 4.0,
+        "feeling": "An eerie, slow-crawling mystery whose atmosphere seeped under my skin.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Step Up (2006)",
+        "rating": 3.5,
+        "feeling": "Predictable beats, but the movement and earnest heart carried me along.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Uman \u2013 The Perfect Man (2022)",
+        "rating": 3.5,
+        "feeling": "A playful domestic parable whose sci\u2011fi sheen frames real marital stakes with wit.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tigerland (2000)",
+        "rating": 4.5,
+        "feeling": "Sweaty, human, and clear-eyed about brotherhood and fear\u2014it hit my war-story sweet spot.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Dune (1984)",
+      "Phantasm (1979)",
+      "Live Nude Girls (1995)",
+      "Road to Wellville, The (1994)",
+      "Cook the Thief His Wife & Her Lover, The (1989)",
+      "Haunting, The (1963)",
+      "Train of Life (Train de vie) (1998)",
+      "Akira (1988)",
+      "War of the Worlds, The (1953)",
+      "Heavy Metal (1981)",
+      "Fog, The (1980)",
+      "Keoma (1976)",
+      "Threesome (1994)",
+      "Forbidden Planet (1956)",
+      "Boxing Helena (1993)",
+      "Mad Love (Juana la Loca) (2001)",
+      "The Deer King (2021)",
+      "Big Blue, The (Grand bleu, Le) (1988)",
+      "Adventures of Priscilla, Queen of the Desert, The (1994)",
+      "Double Identity (2009)",
+      "Fritz the Cat (1972)",
+      "Barenaked in America (1999)",
+      "Shortbus (2006)",
+      "Princess Mononoke (Mononoke-hime) (1997)",
+      "Junk Head (2021)",
+      "Alita: Battle Angel (2019)",
+      "\u0421\u0440\u0435\u0434\u044c \u0431\u0435\u043b\u0430 \u0434\u043d\u044f... (1982)",
+      "John Mulaney: The Comeback Kid (2015)",
+      "Hairspray (2007)",
+      "Max My Love (1986)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Dune (1984)",
+        "rating": 3.5,
+        "feeling": "Messy but hypnotic, its mythic sweep and spice politics stirred me more in ideas than in emotion.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Phantasm (1979)",
+        "rating": 3.5,
+        "feeling": "Inventive and eerie, its dream-logic menace amused and unsettled me without quite gripping my heart.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Road to Wellville, The (1994)",
+        "rating": 3.5,
+        "feeling": "A tart, overstuffed satire whose oddball vigor entertained me more than it moved me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cook the Thief His Wife & Her Lover, The (1989)",
+        "rating": 4.0,
+        "feeling": "Sumptuously cruel and thematically forceful, I admired the artistry even as the excess kept me at a distance.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Haunting, The (1963)",
+        "rating": 4.5,
+        "feeling": "Elegant, nerve-prickling dread that trusts suggestion over shock\u2014right up my alley.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Train of Life (Train de vie) (1998)",
+        "rating": 4.5,
+        "feeling": "Bittersweet and inventive, its defiant humor within darkness felt humane and quietly rousing.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Akira (1988)",
+        "rating": 4.0,
+        "feeling": "Visually blazing and thematically apocalyptic, it gripped my imagination even when its chaos ran hot.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "War of the Worlds, The (1953)",
+        "rating": 3.5,
+        "feeling": "Lean, primal sci\u2011fi where awe and anxiety hum\u2014dated in places, still effective.",
+        "genres": [
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "Heavy Metal (1981)",
+        "rating": 3.0,
+        "feeling": "A splash of pulpy spectacle and provocation where style outruns soul.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Adventure",
+          "Fantasy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Fog, The (1980)",
+        "rating": 4.0,
+        "feeling": "Moody and maritime, the creeping guilt and ghostly atmosphere worked on me like a chill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Keoma (1976)",
+        "rating": 4.0,
+        "feeling": "Gritty, operatic vengeance with mournful edges\u2014rough-hewn but satisfying.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "Threesome (1994)",
+        "rating": 3.5,
+        "feeling": "Tender, messy, and searching, its youthful ache rings true even if it meanders.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Forbidden Planet (1956)",
+        "rating": 4.0,
+        "feeling": "Sleek, thoughtful pulp with a mythic undercurrent",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Boxing Helena (1993)",
+        "rating": 3.0,
+        "feeling": "Obsessive and queasy, its provocative conceit felt more punishing than illuminating.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mad Love (Juana la Loca) (2001)",
+        "rating": 4.0,
+        "feeling": "Lush and tragic, a portrait of power and passion that won me with its fervor.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Deer King (2021)",
+        "rating": 4.0,
+        "feeling": "Protective love, plague, and duty weave a sturdy, heartfelt adventure that kept me engaged.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Big Blue, The (Grand bleu, Le) (1988)",
+        "rating": 4.0,
+        "feeling": "Languid and immersive, its oceanic longing soothed me even as the romance kept drifting.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Adventures of Priscilla, Queen of the Desert, The (1994)",
+        "rating": 4.0,
+        "feeling": "Warm, witty, and big-hearted",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Double Identity (2009)",
+        "rating": 3.0,
+        "feeling": "Serviceable intrigue in evocative locales, but the stakes felt thin.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Fritz the Cat (1972)",
+        "rating": 3.0,
+        "feeling": "Satirical swagger and lewdness that provoked a smirk more than any lasting feeling.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Barenaked in America (1999)",
+        "rating": 3.5,
+        "feeling": "Affectionate, energetic tour-time snapshot\u2014pleasant company if not revelatory.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Shortbus (2006)",
+        "rating": 3.5,
+        "feeling": "Sex-positive and sincere, its mosaic of yearning felt tender even when the explicitness distracted me.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Princess Mononoke (Mononoke-hime) (1997)",
+        "rating": 4.5,
+        "feeling": "Fierce, compassionate epic where balance, duty, and nature\u2019s soul left me stirred.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Alita: Battle Angel (2019)",
+        "rating": 4.0,
+        "feeling": "A sincere, kinetic fable of identity and compassion that won me despite some clunkiness.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "John Mulaney: The Comeback Kid (2015)",
+        "rating": 3.5,
+        "feeling": "Clever, polished, and amiable\u2014consistently fun if not deeply affecting.",
+        "genres": [
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Hairspray (2007)",
+        "rating": 4.0,
+        "feeling": "Bright, catchy, and good\u2011naturedly righteous",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Max My Love (1986)",
+        "rating": 2.5,
+        "feeling": "Transgressive and deadpan, more curious provocation than emotional experience for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Evening Star, The (1996)",
+      "Zeitgeist: Moving Forward (2011)",
+      "Oppenheimer (2023)",
+      "Big Hangover, The (1950)",
+      "Tiger and the Snow, The (La tigre e la neve) (2005)",
+      "Emperor and the Assassin, The (Jing ke ci qin wang) (1999)",
+      "East-West (Est-ouest) (1999)",
+      "Butterfly (La lengua de las mariposas) (1999)",
+      "Watchmen (2009)",
+      "Kara (2012)",
+      "Somm (2012)",
+      "Stoning of Soraya M., The (2008)",
+      "Cold Comfort Farm (1995)",
+      "Restless Creature: Wendy Whelan (2017)",
+      "Fishing for Love (2021)",
+      "Four Feathers, The (2002)",
+      "Socialist Zombie Massacre (2014)",
+      "Evening (2007)",
+      "Lion King, The (1994)",
+      "Survive and Advance (2013)",
+      "Ghost in the Shell Arise - Border 4: Ghost Stands Alone (2014)",
+      "Apartment Zero (1988)",
+      "Spider-Man: Across the Spider-Verse (2023)",
+      "Oculus (2013)",
+      "The Bureaucracy Monster (2016)",
+      "Interstellar (2014)",
+      "Program (2003)",
+      "You're Not You (2014)",
+      "After the Wedding (Efter brylluppet) (2006)",
+      "Event Horizon (1997)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Evening Star, The (1996)",
+        "rating": 3.5,
+        "feeling": "Bittersweet family perseverance with a warm, lived-in ache, even when the beats feel familiar.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zeitgeist: Moving Forward (2011)",
+        "rating": 4.0,
+        "feeling": "Provocative and galvanizing in its civic scope, even when the grand design overreaches.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Oppenheimer (2023)",
+        "rating": 4.5,
+        "feeling": "A morally searing portrait of genius and consequence that left me hushed and troubled.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Big Hangover, The (1950)",
+        "rating": 3.0,
+        "feeling": "A cute conceit that breezes by amiably without stirring much feeling.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tiger and the Snow, The (La tigre e la neve) (2005)",
+        "rating": 4.0,
+        "feeling": "Tender whimsy colliding with wartime stakes gave me a hopeful, bruised glow.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "East-West (Est-ouest) (1999)",
+        "rating": 4.5,
+        "feeling": "Oppression, love, and survival entwine with gripping, humane urgency.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Butterfly (La lengua de las mariposas) (1999)",
+        "rating": 4.5,
+        "feeling": "Quiet wonder and looming dread braid into a tender, heartbreaking coming-of-age.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Watchmen (2009)",
+        "rating": 4.0,
+        "feeling": "Brooding, ambitious, and morally thorny\u2014more impressive than embracing, but compelling.",
+        "genres": [
+          "Mystery",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Kara (2012)",
+        "rating": 4.0,
+        "feeling": "A brief, affecting plea for personhood that stirred compassion beneath the circuitry.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Somm (2012)",
+        "rating": 3.5,
+        "feeling": "Sweet, anthropomorphic resilience in the cold\u2014touching if a bit conventional.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Cold Comfort Farm (1995)",
+        "rating": 4.0,
+        "feeling": "Witty, plucky charm polishing rough edges left me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Restless Creature: Wendy Whelan (2017)",
+        "rating": 4.0,
+        "feeling": "An intimate, respectful portrait of artistry and grit that moved me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Fishing for Love (2021)",
+        "rating": 2.5,
+        "feeling": "Pleasant, predictable warmth that skimmed rather than sank in.",
+        "genres": [
+          "TV Movie",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Four Feathers, The (2002)",
+        "rating": 4.0,
+        "feeling": "Honor, love, and redemption swept me along with sturdy, old-fashioned pull.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Socialist Zombie Massacre (2014)",
+        "rating": 3.0,
+        "feeling": "Cheeky carnage with a political wink\u2014amusing in spots, thin in feeling.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Evening (2007)",
+        "rating": 4.0,
+        "feeling": "Elegiac memories and lost love washed over me with a gentle, wistful pull.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Lion King, The (1994)",
+        "rating": 2.5,
+        "feeling": "Well-meaning and earnest, but it felt like a lesson more than a life.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Survive and Advance (2013)",
+        "rating": 4.0,
+        "feeling": "Underdog grit and brotherhood made for rousing, heartfelt company.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Ghost in the Shell Arise - Border 4: Ghost Stands Alone (2014)",
+        "rating": 3.5,
+        "feeling": "Dense, sleek intrigue that engaged my head more than my heart.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Science Fiction",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Spider-Man: Across the Spider-Verse (2023)",
+        "rating": 4.5,
+        "feeling": "Dazzling craft and beating-heart stakes left me exhilarated and tender.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Oculus (2013)",
+        "rating": 4.0,
+        "feeling": "A cleverly wound, suggestive haunt that got under my skin without cheap shocks.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Bureaucracy Monster (2016)",
+        "rating": 3.5,
+        "feeling": "A sharp, playful jab at red tape that made me wince and grin.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "Cosmic awe anchored by love and duty left me misty and charged.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Program (2003)",
+        "rating": 4.0,
+        "feeling": "Philosophy and steel clash in a tight, stylish duel that lingered.",
+        "genres": [
+          "Science Fiction",
+          "Animation"
+        ]
+      },
+      {
+        "title": "You're Not You (2014)",
+        "rating": 4.0,
+        "feeling": "A compassionate, hard-won bond that left me grateful and heavy.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "After the Wedding (Efter brylluppet) (2006)",
+        "rating": 4.5,
+        "feeling": "Moral compromise and family upheaval cut deep with humane intensity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Event Horizon (1997)",
+        "rating": 3.5,
+        "feeling": "Operatic dread and grisly spectacle intrigued me even as the excess held me back.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1267 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Sicario (2015)",
+      "Heat (1995)",
+      "Collateral (2004)",
+      "John Wick (2014)",
+      "The Raid: Redemption (2011)",
+      "Drive (2011)",
+      "Prisoners (2013)",
+      "No Country for Old Men (2007)",
+      "Zodiac (2007)",
+      "Nightcrawler (2014)",
+      "Michael Clayton (2007)",
+      "Inside Man (2006)",
+      "L.A. Confidential (1997)",
+      "Reservoir Dogs (1992)",
+      "Eastern Promises (2007)",
+      "A History of Violence (2005)",
+      "Hell or High Water (2016)",
+      "Wind River (2017)",
+      "In Bruges (2008)",
+      "Kiss Kiss Bang Bang (2005)",
+      "The Nice Guys (2016)",
+      "Hot Fuzz (2007)",
+      "Tropic Thunder (2008)",
+      "Team America: World Police (2004)",
+      "Popstar: Never Stop Never Stopping (2016)",
+      "Walk Hard: The Dewey Cox Story (2007)",
+      "The French Connection (1971)",
+      "Thief (1981)",
+      "Logan Lucky (2017)",
+      "The Departed (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Sicario (2015)",
+        "rating": 4.5,
+        "feeling": "Brutal border chess with moral ambiguity that hits hard.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 3.5,
+        "feeling": "I admire the cat-and-mouse craft, but it runs cool for me emotionally.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.0,
+        "feeling": "Tight, nocturnal two-hander with crisp momentum\u2014my kind of urban thriller.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "John Wick (2014)",
+        "rating": 3.0,
+        "feeling": "Slick gun-fu is fun in bursts, but it feels like style over substance.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Drive (2011)",
+        "rating": 4.0,
+        "feeling": "Moody neon noir with spare punch",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.0,
+        "feeling": "Grim, relentless investigation that keeps the screws tight without cheap tricks.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "No Country for Old Men (2007)",
+        "rating": 4.0,
+        "feeling": "Bleak, precise manhunt with fatalism I respect more than I love.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.5,
+        "feeling": "Obsessive, methodical procedural that scratches the journalism itch for me.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Nightcrawler (2014)",
+        "rating": 4.5,
+        "feeling": "Savage media satire with a nasty streak I can\u2019t look away from.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.5,
+        "feeling": "Cold-blooded corporate fixers and quiet explosions\u2014clean, classy tension.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Smart, playful heist mechanics that stay sharp without grandstanding.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.0,
+        "feeling": "Sleek, nasty noir with juicy corruption and satisfying zigzags.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Reservoir Dogs (1992)",
+        "rating": 5.0,
+        "feeling": "Talky, vicious crime pressure cooker\u2014exactly my flavor.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Eastern Promises (2007)",
+        "rating": 4.5,
+        "feeling": "Clinical, brutal underworld tale with a cool pulse and sharp edges.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A History of Violence (2005)",
+        "rating": 4.0,
+        "feeling": "Deceptively simple small-town violence that curdles into something darker.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0,
+        "feeling": "Dusty, desperate crime with bite and a melancholy streak that lands.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 4.5,
+        "feeling": "Sparse, wintry manhunt with grim clarity and a sting I dig.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 4.5,
+        "feeling": "Profane, heartfelt guilt trip with razor humor\u2014hits my dark-comedy lane.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 4.5,
+        "feeling": "Rat-a-tat banter and twisty crime shenanigans done with wicked charm.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0,
+        "feeling": "Shaggy, funny buddy-noir that coasts on chemistry and sardonic bite.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.0,
+        "feeling": "Hyper-precise parody that doubles as a legit action mystery\u2014very satisfying.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tropic Thunder (2008)",
+        "rating": 4.0,
+        "feeling": "Blunt Hollywood skewering with enough chaotic set pieces to keep me grinning.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "Team America: World Police (2004)",
+        "rating": 5.0,
+        "feeling": "Gloriously crass, catchy, and merciless\u2014right up my alley.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Popstar: Never Stop Never Stopping (2016)",
+        "rating": 4.0,
+        "feeling": "Relentless joke density and music-world jabs that mostly land for me.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Walk Hard: The Dewey Cox Story (2007)",
+        "rating": 4.0,
+        "feeling": "Dead-on biopic parody with wall-to-wall gags and a mean streak I enjoy.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 3.5,
+        "feeling": "Gritty and propulsive, but it doesn\u2019t totally light me up.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 4.0,
+        "feeling": "Lean, professional-criminal focus with cool precision and real stakes.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 4.0,
+        "feeling": "Laid-back, clever heist with just enough bite and swagger.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 4.0,
+        "feeling": "Punchy, foul-mouthed double-cross thriller that delivers without overreaching.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Se7en (1995)",
+      "Gone Baby Gone (2007)",
+      "The Insider (1999)",
+      "All the President's Men (1976)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "A Most Violent Year (2014)",
+      "The Drop (2014)",
+      "Blue Ruin (2013)",
+      "Green Room (2015)",
+      "Widows (2018)",
+      "Infernal Affairs (2002)",
+      "Manhunter (1986)",
+      "The Conversation (1974)",
+      "Blow Out (1981)",
+      "Chinatown (1974)",
+      "Brick (2005)",
+      "Bad Times at the El Royale (2018)",
+      "Seven Psychopaths (2012)",
+      "The Guard (2011)",
+      "Burn After Reading (2008)",
+      "Fargo (1996)",
+      "The Big Lebowski (1998)",
+      "In the Loop (2009)",
+      "Black Dynamite (2009)",
+      "The Death of Stalin (2017)",
+      "MacGruber (2010)",
+      "Jackie Brown (1997)",
+      "Out of Sight (1998)",
+      "Sexy Beast (2000)",
+      "Layer Cake (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Se7en (1995)",
+        "rating": 4.5,
+        "feeling": "Filthy, relentless procedural that builds dread with ugly precision\u2014exactly the kind of moral rot I like.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gone Baby Gone (2007)",
+        "rating": 4.0,
+        "feeling": "Blue-collar Boston morality puzzle with guts and a bruising final turn that sticks.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.5,
+        "feeling": "Clinical, high-stakes whistleblower chess with suffocating corporate pressure\u2014right in my wheelhouse.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.5,
+        "feeling": "Meticulous, ink-stained legwork that turns phone calls into nail-biters\u2014catnip for my procedural itch.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 3.5,
+        "feeling": "Impeccably chilly spycraft I respect more than I feel\u2014ice-cold and exacting.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Most Violent Year (2014)",
+        "rating": 3.5,
+        "feeling": "Slow-burn integrity test in a dirty city\u2014good texture, muted heat.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Drop (2014)",
+        "rating": 4.0,
+        "feeling": "Low-key neighborhood crime that tightens quietly and pays off with grim clarity.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Widows (2018)",
+        "rating": 3.0,
+        "feeling": "Sleek, competent heist with some bite, but the gears show a little too much.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Infernal Affairs (2002)",
+        "rating": 4.5,
+        "feeling": "Lean, breathless double-mole tension that wastes zero motion\u2014sharp and satisfying.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Manhunter (1986)",
+        "rating": 4.0,
+        "feeling": "Cool, clinical manhunt with an unnerving pulse and no cheap heroics.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.5,
+        "feeling": "Paranoid, obsessive surveillance spiral that tightens like a vise and lingers.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.0,
+        "feeling": "Paranoia and craft collide in a nasty political tangle\u2014stylish but still tense.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "Sun-baked corruption and fatalism done with razor clarity\u2014classic noir poison.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Brick (2005)",
+        "rating": 4.0,
+        "feeling": "High-school hardboiled riff that commits to its bit and pulls off a tight little mystery.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Bad Times at the El Royale (2018)",
+        "rating": 3.0,
+        "feeling": "Showy, overlong motel shuffle with sparks, but more style than payoff.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Seven Psychopaths (2012)",
+        "rating": 4.0,
+        "feeling": "Meta, profane crime lark with enough twisted charm to keep me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Guard (2011)",
+        "rating": 4.0,
+        "feeling": "Profane, droll buddy-noir that coasts on attitude and lands real laughs.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Burn After Reading (2008)",
+        "rating": 4.0,
+        "feeling": "Petty fools, big mess\u2014acidic farce that spirals into delightful stupidity.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 4.5,
+        "feeling": "Funny, fatalistic snowbound crime with a mean streak and a clean snap.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Big Lebowski (1998)",
+        "rating": 4.0,
+        "feeling": "Shaggy, quotable caper that meanders with purpose and earns the grin.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "In the Loop (2009)",
+        "rating": 4.5,
+        "feeling": "Machine-gun profanity and bureaucratic bloodletting\u2014vicious, hilarious, my tempo.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Black Dynamite (2009)",
+        "rating": 4.0,
+        "feeling": "Pitch-perfect blaxploitation spoof with ruthless gag density and swagger.",
+        "genres": [
+          "Comedy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Death of Stalin (2017)",
+        "rating": 4.0,
+        "feeling": "Backstabbing farce played with a straight face\u2014icy, mean, and very funny.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "MacGruber (2010)",
+        "rating": 4.0,
+        "feeling": "Dumb-as-bricks action parody that commits so hard it wins me over.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Jackie Brown (1997)",
+        "rating": 4.5,
+        "feeling": "Laid-back caper with adult stakes and lived-in cool\u2014dialogue crackles.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Out of Sight (1998)",
+        "rating": 4.0,
+        "feeling": "Sly, sexy cat-and-mouse with slick rhythms and smart reversals.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sexy Beast (2000)",
+        "rating": 4.5,
+        "feeling": "Ferocious character pressure cooker with a volcanic menace I love.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Layer Cake (2004)",
+        "rating": 4.0,
+        "feeling": "Sleek British crime ladder-climb that moves clean and hits crisply.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Long Good Friday (1980)",
+      "The Limey (1999)",
+      "The Friends of Eddie Coyle (1973)",
+      "Dog Day Afternoon (1975)",
+      "Prince of the City (1981)",
+      "The Parallax View (1974)",
+      "Three Days of the Condor (1975)",
+      "Zero Dark Thirty (2012)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "Gone Girl (2014)",
+      "Blood Simple (1984)",
+      "A Simple Plan (1998)",
+      "One False Move (1992)",
+      "To Live and Die in L.A. (1985)",
+      "The Taking of Pelham One Two Three (1974)",
+      "The Killing (1956)",
+      "Rififi (1955)",
+      "Le Samoura\u00ef (1967)",
+      "The Lives of Others (2006)",
+      "Tell No One (2006)",
+      "Memories of Murder (2003)",
+      "The Chaser (2008)",
+      "A Prophet (2009)",
+      "Gomorrah (2008)",
+      "City of God (2002)",
+      "Uncut Gems (2019)",
+      "Good Time (2017)",
+      "You Were Never Really Here (2017)",
+      "The American (2010)",
+      "Donnie Brasco (1997)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Long Good Friday (1980)",
+        "rating": 4.5,
+        "feeling": "Cockney crime empire under siege with sharp paranoia and ruthless momentum\u2014my flavor of urban pressure.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Limey (1999)",
+        "rating": 4.0,
+        "feeling": "Elliptical, cool-blooded revenge with wiry bite and crisp Soderbergh snap.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Friends of Eddie Coyle (1973)",
+        "rating": 4.5,
+        "feeling": "Low-key Boston grind where favors and betrayals tighten quietly into bruising inevitability.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dog Day Afternoon (1975)",
+        "rating": 4.5,
+        "feeling": "Messy, human heist-turned-circus that ratchets tension without losing its mean, sweaty pulse.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prince of the City (1981)",
+        "rating": 4.0,
+        "feeling": "Exhausting, murky corruption gauntlet\u2014procedural heft I respect with a slow, grim burn.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 4.5,
+        "feeling": "Paranoid conspiracy sharpened to an icy point\u2014clean dread that lingers.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Three Days of the Condor (1975)",
+        "rating": 4.0,
+        "feeling": "Paranoia on the run with slick chops and just enough bite to keep me hooked.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Zero Dark Thirty (2012)",
+        "rating": 4.0,
+        "feeling": "Clinical manhunt with hard edges and moral chill\u2014I\u2019m locked in even if it keeps its distance.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 4.5,
+        "feeling": "Fincher\u2019s cold, meticulous gears grind into a nasty procedural rhythm I love.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.5,
+        "feeling": "Acrid, razor-sharp media mind game\u2014sleek, mean, and very satisfying.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blood Simple (1984)",
+        "rating": 4.5,
+        "feeling": "Sweaty, small-time noir spiraling into cruel chaos\u2014pure Coen poison.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Simple Plan (1998)",
+        "rating": 4.0,
+        "feeling": "Snowbound greed curdling into panic\u2014clean, grim escalation that lands.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "To Live and Die in L.A. (1985)",
+        "rating": 4.0,
+        "feeling": "Dirty adrenaline and obsessive pursuit with enough grit to bite.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Taking of Pelham One Two Three (1974)",
+        "rating": 4.0,
+        "feeling": "Brisk, sardonic hostage chess that clicks with street-level snap.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Killing (1956)",
+        "rating": 4.0,
+        "feeling": "Clockwork heist mechanics delivered with lean, unforgiving precision.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 4.5,
+        "feeling": "Master-class caper tension\u2014methodical, silent, and brutally inevitable.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Le Samoura\u00ef (1967)",
+        "rating": 4.0,
+        "feeling": "Ice-cold assassin ritual I admire for its immaculate stillness and control.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Surveillance and conscience in slow collision\u2014precise, sober, and quietly tense.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tell No One (2006)",
+        "rating": 4.0,
+        "feeling": "Twisty, breathless fugitive mystery that moves clean and pays off.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleak, meticulous manhunt with fatalistic sting\u2014right in my wheelhouse.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Chaser (2008)",
+        "rating": 4.0,
+        "feeling": "Relentless, grim cat-and-mouse that bruises without cheap heroics.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.5,
+        "feeling": "Hard, methodical prison ascendancy\u2014clinical, brutal, and absorbing.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Gomorrah (2008)",
+        "rating": 4.0,
+        "feeling": "Detached, ground-level crime sprawl with a cold pulse I respect.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "City of God (2002)",
+        "rating": 4.0,
+        "feeling": "Propulsive, violent rise-and-fall\u2014stylish but still hits with real sting.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Uncut Gems (2019)",
+        "rating": 4.0,
+        "feeling": "Anxiety furnace of bad bets and street hustle\u2014I\u2019m wired the whole time.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Good Time (2017)",
+        "rating": 4.0,
+        "feeling": "Grimy sprint through nocturnal screwups\u2014tense, nasty, and propulsive.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "You Were Never Really Here (2017)",
+        "rating": 4.0,
+        "feeling": "Quiet, brutal trauma spiral\u2014spare, mean, and effective.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The American (2010)",
+        "rating": 3.5,
+        "feeling": "Austere assassin hangout\u2014cool craft, muted heat.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Donnie Brasco (1997)",
+        "rating": 4.0,
+        "feeling": "Slow-burn undercover rot with lived-in texture and a bruising payoff.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Blue Ruin (2013)",
+      "Green Room (2015)",
+      "Calvary (2014)",
+      "Four Lions (2010)",
+      "Lock, Stock and Two Smoking Barrels (1998)",
+      "Snatch (2000)",
+      "Get Carter (1971)",
+      "The Game (1997)",
+      "Traffic (2000)",
+      "State of Play (2009)",
+      "Dark Waters (2019)",
+      "The Report (2019)",
+      "Kill the Messenger (2014)",
+      "Headhunters (2011)",
+      "A Hard Day (2014)",
+      "Drug War (2012)",
+      "Election (2005)",
+      "Election 2 (2006)",
+      "Animal Kingdom (2010)",
+      "'71 (2014)",
+      "The Lookout (2007)",
+      "Charley Varrick (1973)",
+      "The Silent Partner (1978)",
+      "The Asphalt Jungle (1950)",
+      "The Big Heat (1953)",
+      "Sweet Smell of Success (1957)",
+      "Ace in the Hole (1951)",
+      "Sorcerer (1977)",
+      "Burning (2018)",
+      "Mesrine: Killer Instinct (2008)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Calvary (2014)",
+        "rating": 4.0,
+        "feeling": "Bleak, moral reckoning with a dry bite that sticks.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Four Lions (2010)",
+        "rating": 4.5,
+        "feeling": "Viciously funny and uncomfortably sharp\u2014my kind of dark farce.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Lock, Stock and Two Smoking Barrels (1998)",
+        "rating": 4.0,
+        "feeling": "Snappy, scrappy Brit-crime shuffle with enough swagger and punch.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Snatch (2000)",
+        "rating": 4.0,
+        "feeling": "Flashy, fast, and foul-mouthed in a way that keeps the gears whirring.",
+        "genres": [
+          "Crime",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Get Carter (1971)",
+        "rating": 4.5,
+        "feeling": "Cold-blooded revenge with grim British bite\u2014right in my lane.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 4.0,
+        "feeling": "Fincher\u2019s icy paranoia machine clicks along with nasty, satisfying turns.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Traffic (2000)",
+        "rating": 4.0,
+        "feeling": "Multi-thread drug war with smart texture and enough sting to land.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "State of Play (2009)",
+        "rating": 3.5,
+        "feeling": "Solid newsroom-politico tangle that scratches the procedural itch.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 4.5,
+        "feeling": "Sober, suffocating corporate poison case that tightens into real anger.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Report (2019)",
+        "rating": 4.0,
+        "feeling": "Clinical, relentless civics procedural that burns cold and steady.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kill the Messenger (2014)",
+        "rating": 4.0,
+        "feeling": "Dogged, bruising media crusade with a bitter aftertaste I appreciate.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller",
+          "History"
+        ]
+      },
+      {
+        "title": "Headhunters (2011)",
+        "rating": 4.0,
+        "feeling": "Twisty, ruthless caper that moves clean and stays mean.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "A Hard Day (2014)",
+        "rating": 4.0,
+        "feeling": "Relentless, darkly funny pressure cooker that keeps tightening.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "Drug War (2012)",
+        "rating": 4.0,
+        "feeling": "Efficient, icy undercover grind with crisp momentum and hard edges.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Election (2005)",
+        "rating": 4.5,
+        "feeling": "Flinty triad power play\u2014lean, brutal, and inevitable.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Election 2 (2006)",
+        "rating": 4.0,
+        "feeling": "Darker, more cynical escalation that keeps the screws turning.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Animal Kingdom (2010)",
+        "rating": 4.0,
+        "feeling": "Slow-burn family crime rot with a quiet, nasty snap.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "'71 (2014)",
+        "rating": 4.0,
+        "feeling": "Nightmarish urban survival with clean, breathless tension.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Lookout (2007)",
+        "rating": 3.5,
+        "feeling": "Low-key heist fallout with bruised mood and tidy mechanics.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Charley Varrick (1973)",
+        "rating": 4.0,
+        "feeling": "Savvy, patient getaway chess with a sly, mean undercurrent.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Silent Partner (1978)",
+        "rating": 4.0,
+        "feeling": "Clever, cat-and-mouse bank caper with nasty surprises.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Asphalt Jungle (1950)",
+        "rating": 4.0,
+        "feeling": "Classic, methodical jewel job that tightens with grim inevitability.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Big Heat (1953)",
+        "rating": 4.0,
+        "feeling": "Straight-ahead, vicious noir payback that still bites.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sweet Smell of Success (1957)",
+        "rating": 4.5,
+        "feeling": "Acrid, razor dialogue and power games\u2014pure, poisonous pleasure.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ace in the Hole (1951)",
+        "rating": 4.5,
+        "feeling": "Savage media cynicism delivered with ruthless, precise grind.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sorcerer (1977)",
+        "rating": 4.5,
+        "feeling": "Sweat-soaked, nerve-shredding ordeal that never loosens its grip.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 2.0,
+        "feeling": "Muted social lament that drifts more than it digs in for me.",
+        "genres": []
+      },
+      {
+        "title": "Mesrine: Killer Instinct (2008)",
+        "rating": 4.0,
+        "feeling": "Hard, propulsive rise of a criminal with sharp, brutal chops.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      }
+    ]
+  }
+]

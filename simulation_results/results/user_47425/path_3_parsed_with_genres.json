@@ -1,0 +1,1282 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Airplane! (1980)",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+      "This Is Spinal Tap (1984)",
+      "A Fish Called Wanda (1988)",
+      "The Big Lebowski (1998)",
+      "Groundhog Day (1993)",
+      "The Princess Bride (1987)",
+      "Brazil (1985)",
+      "Raising Arizona (1987)",
+      "Withnail & I (1987)",
+      "Tootsie (1982)",
+      "When Harry Met Sally... (1989)",
+      "The Apartment (1960)",
+      "Broadcast News (1987)",
+      "The Royal Tenenbaums (2001)",
+      "Galaxy Quest (1999)",
+      "The Truman Show (1998)",
+      "Being John Malkovich (1999)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "Fargo (1996)",
+      "In Bruges (2008)",
+      "Mulholland Drive (2001)",
+      "The Wicker Man (1973)",
+      "The Others (2001)",
+      "Memento (2000)",
+      "Zodiac (2007)",
+      "Donnie Darko (2001)",
+      "An American Werewolf in London (1981)",
+      "After Hours (1985)",
+      "Kiss Kiss Bang Bang (2005)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Airplane! (1980)",
+        "rating": 5.0,
+        "feeling": "Rapid-fire parody with absurd gags that land like clockwork\u2014my kind of classic comedy.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+        "rating": 5.0,
+        "feeling": "Pitch-black, razor-sharp satire that turns anxiety into hysterical laughter.",
+        "genres": [
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "This Is Spinal Tap (1984)",
+        "rating": 4.5,
+        "feeling": "Deadpan mockumentary brilliance skewering egos with effortless wit.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "A Fish Called Wanda (1988)",
+        "rating": 4.0,
+        "feeling": "Smart, character-driven farce that keeps the heist chaos clever.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Big Lebowski (1998)",
+        "rating": 4.5,
+        "feeling": "Shaggy-dog crime spiral whose offbeat jokes and tone hit my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.5,
+        "feeling": "A witty high-concept loop used to deepen character rather than just repeat gags.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "A nimble fairy-tale comedy that balances charm and snark without getting saccharine.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brazil (1985)",
+        "rating": 4.5,
+        "feeling": "Dystopian absurdism with biting humor and suffocating bureaucracy I perversely enjoy.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Raising Arizona (1987)",
+        "rating": 4.0,
+        "feeling": "Zany crime-with-a-heart energy that stays clever more than cutesy.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Withnail & I (1987)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny, booze-soaked despair sharpened by scathing dialogue.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tootsie (1982)",
+        "rating": 4.0,
+        "feeling": "Sharp, character-first comedy that actually has something to say.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.0,
+        "feeling": "Conversational, witty romance that earns its warmth without pandering.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.5,
+        "feeling": "Bitter-sweet corporate satire with perfectly measured laughs and ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Broadcast News (1987)",
+        "rating": 4.0,
+        "feeling": "Smart, talky triangle that prizes brains over gloss and still entertains.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Royal Tenenbaums (2001)",
+        "rating": 4.0,
+        "feeling": "Arch, melancholy family comedy whose dry wit hides a bruised heart.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 3.5,
+        "feeling": "Affectionate genre spoof with enough cleverness to rise above fan-service fluff.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 4.0,
+        "feeling": "High-concept satire that\u2019s funny, eerie, and surprisingly humane.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Being John Malkovich (1999)",
+        "rating": 4.5,
+        "feeling": "Inventive, surreal comedy that scratches my itch for strange, brainy storytelling.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.5,
+        "feeling": "A heady memory puzzle that blends wit, heartbreak, and sci-fi smarts.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 4.5,
+        "feeling": "Bleakly comic crime where humor and menace sharpen each other.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 4.5,
+        "feeling": "Profane, funny, and bruised\u2014my favorite kind of criminal hangout.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 3.5,
+        "feeling": "Dreamlike Hollywood nightmare I admire more than I connect with.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Wicker Man (1973)",
+        "rating": 4.0,
+        "feeling": "Slow-burn folk horror whose eerie rituals stick in the mind.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 3.5,
+        "feeling": "A moody, restrained ghost story that favors atmosphere over jolts.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 4.5,
+        "feeling": "Clever structure that serves the mystery instead of smothering it.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Methodical, engrossing procedural that lets obsession drive the suspense.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Donnie Darko (2001)",
+        "rating": 4.0,
+        "feeling": "Moody teen fable whose weirdness mostly pays off.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "An American Werewolf in London (1981)",
+        "rating": 4.0,
+        "feeling": "Pitch-black humor and practical horror that complement each other.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "After Hours (1985)",
+        "rating": 4.5,
+        "feeling": "A nightmare odyssey of urban anxiety that\u2019s right in my wheelhouse.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 4.0,
+        "feeling": "Snappy, meta noir caper with barbed humor and playful twists.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Young Frankenstein (1974)",
+      "Parasite (2019)",
+      "The Nice Guys (2016)",
+      "Hot Fuzz (2007)",
+      "Shaun of the Dead (2004)",
+      "Network (1976)",
+      "Best in Show (2000)",
+      "Waiting for Guffman (1996)",
+      "Miller's Crossing (1990)",
+      "Barton Fink (1991)",
+      "Burn After Reading (2008)",
+      "The Man Who Wasn't There (2001)",
+      "Brick (2005)",
+      "The Long Goodbye (1973)",
+      "In the Loop (2009)",
+      "The Death of Stalin (2017)",
+      "Wag the Dog (1997)",
+      "The Player (1992)",
+      "The Last Seduction (1994)",
+      "The Haunting (1963)",
+      "Don't Look Now (1973)",
+      "The Innocents (1961)",
+      "Adaptation. (2002)",
+      "The Lobster (2015)",
+      "Sorry to Bother You (2018)",
+      "Being There (1979)",
+      "His Girl Friday (1940)",
+      "The Philadelphia Story (1940)",
+      "The Guard (2011)",
+      "Her (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Young Frankenstein (1974)",
+        "rating": 5.0,
+        "feeling": "Mel Brooks at his most lovingly precise parody\u2014jokes, performances, and B&W style all click.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Parasite (2019)",
+        "rating": 4.5,
+        "feeling": "A razor-sharp class satire that balances tension, humor, and dread with unnerving precision.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0,
+        "feeling": "Snappy, mismatched-detective noir with breezy chemistry and just enough bite.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.5,
+        "feeling": "A meticulous genre send-up that\u2019s both thrilling and very funny\u2014my sweet spot.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Shaun of the Dead (2004)",
+        "rating": 4.0,
+        "feeling": "Clever horror-comedy that marries gags and genuine stakes without tipping into schmaltz.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Network (1976)",
+        "rating": 4.5,
+        "feeling": "Savage media satire whose fury and laughs still feel disturbingly current.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Best in Show (2000)",
+        "rating": 4.0,
+        "feeling": "Deadpan mockumentary delights\u2014warmly cruel, impeccably cast.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Waiting for Guffman (1996)",
+        "rating": 4.0,
+        "feeling": "Small-town delusion skewered with affectionate, quotable absurdity.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Miller's Crossing (1990)",
+        "rating": 4.0,
+        "feeling": "Elegant, chilly Coen noir\u2014style, moral rot, and bruised wit.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Barton Fink (1991)",
+        "rating": 4.0,
+        "feeling": "Hollywood nightmare comedy that\u2019s funny, queasy, and bleakly incisive.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Burn After Reading (2008)",
+        "rating": 3.5,
+        "feeling": "A mean, goofy farce\u2014smartly constructed but a touch glib.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Man Who Wasn't There (2001)",
+        "rating": 4.0,
+        "feeling": "Somber, polished neo-noir whose fatalism and craft pull me in.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Brick (2005)",
+        "rating": 4.0,
+        "feeling": "High-school hard-boiled that commits to the bit\u2014inventive and satisfying.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Long Goodbye (1973)",
+        "rating": 4.0,
+        "feeling": "Shaggy, subversive Marlowe riff with dry humor and melancholy.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "In the Loop (2009)",
+        "rating": 4.5,
+        "feeling": "Machine-gun insults and bureaucratic chaos\u2014political comedy at its sharpest.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Death of Stalin (2017)",
+        "rating": 4.5,
+        "feeling": "Pitch-black power scramble that makes horror hilariously banal.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Wag the Dog (1997)",
+        "rating": 4.0,
+        "feeling": "Cynical, witty media-politics shell game\u2014uncomfortably plausible.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Player (1992)",
+        "rating": 4.0,
+        "feeling": "Acerbic Hollywood self-own\u2014slick, funny, and cutting.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Last Seduction (1994)",
+        "rating": 4.0,
+        "feeling": "Sly, acid-tongued neo-noir anchored by a knockout femme fatale.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.0,
+        "feeling": "Pure atmosphere and suggestion\u2014eerie craftsmanship over cheap shocks.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 4.0,
+        "feeling": "Grief-soaked, uncanny thriller where mood does the haunting.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.0,
+        "feeling": "Elegant, ambiguous ghost story that trusts silence and suggestion.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Adaptation. (2002)",
+        "rating": 4.5,
+        "feeling": "Dizzy, self-lacerating meta-comedy that\u2019s right in my wheelhouse.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lobster (2015)",
+        "rating": 4.0,
+        "feeling": "Deadpan dystopian absurdism\u2014bleakly funny and oddly moving.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sorry to Bother You (2018)",
+        "rating": 4.0,
+        "feeling": "Wild, gonzo satire whose audacity outweighs its rough edges.",
+        "genres": [
+          "Fantasy",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Being There (1979)",
+        "rating": 4.0,
+        "feeling": "Gentle, pointed satire that turns naivet\u00e9 into a mirror for power.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "His Girl Friday (1940)",
+        "rating": 4.5,
+        "feeling": "Breakneck wit and crackling chemistry\u2014screwball perfection.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.0,
+        "feeling": "Effortlessly witty, emotionally nimble high-society romance.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Guard (2011)",
+        "rating": 4.0,
+        "feeling": "Rude, witty Irish crime lark with unexpectedly tender edges.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "A humane, melancholic sci-fi romance that\u2019s smart without being chilly.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Kind Hearts and Coronets (1949)",
+      "The Ladykillers (1955)",
+      "The Lady Eve (1941)",
+      "Arsenic and Old Lace (1944)",
+      "Some Like It Hot (1959)",
+      "The Thin Man (1934)",
+      "Sullivan's Travels (1941)",
+      "Election (1999)",
+      "Heathers (1988)",
+      "To Die For (1995)",
+      "Four Lions (2010)",
+      "The Favourite (2018)",
+      "The Big Short (2015)",
+      "A Serious Man (2009)",
+      "The Hudsucker Proxy (1994)",
+      "Blood Simple (1984)",
+      "A Simple Plan (1998)",
+      "Chinatown (1974)",
+      "L.A. Confidential (1997)",
+      "The Sting (1973)",
+      "Sexy Beast (2000)",
+      "The Last of Sheila (1973)",
+      "Scream (1996)",
+      "The Cabin in the Woods (2011)",
+      "The Witch (2015)",
+      "The Orphanage (2007)",
+      "Ex Machina (2014)",
+      "Coherence (2013)",
+      "The World's End (2013)",
+      "Little Shop of Horrors (1986)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Kind Hearts and Coronets (1949)",
+        "rating": 4.5,
+        "feeling": "Deliciously dark, impeccably dry class-murder farce right up my alley.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Ladykillers (1955)",
+        "rating": 4.0,
+        "feeling": "Macabre Ealing whimsy with a killer premise and droll payoff.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Lady Eve (1941)",
+        "rating": 4.5,
+        "feeling": "Screwball seduction as sharp as it is romantic, banter bliss.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Arsenic and Old Lace (1944)",
+        "rating": 4.0,
+        "feeling": "Zany murder-farce that keeps the laughs brisk and morbid.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Some Like It Hot (1959)",
+        "rating": 4.5,
+        "feeling": "Effortless, fizzy farce with perfect comic timing and bite.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Thin Man (1934)",
+        "rating": 4.0,
+        "feeling": "Boozy, bantery mystery that charms as much as it intrigues.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sullivan's Travels (1941)",
+        "rating": 4.5,
+        "feeling": "A witty thesis on comedy's purpose that still lands emotionally.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Election (1999)",
+        "rating": 4.5,
+        "feeling": "Acidic, tightly observed satire that is cruel, hilarious, and unnervingly true.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Heathers (1988)",
+        "rating": 4.0,
+        "feeling": "Jet-black teen cynicism that earns its vicious laughs.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "To Die For (1995)",
+        "rating": 4.0,
+        "feeling": "Media ambition skewered with icy humor and unnerving clarity.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Four Lions (2010)",
+        "rating": 4.5,
+        "feeling": "Audacious, empathetic farce that weaponizes stupidity and grief.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Favourite (2018)",
+        "rating": 4.0,
+        "feeling": "Barbed royal scheming, deadpan cruelty with a bruised heart.",
+        "genres": [
+          "History",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Big Short (2015)",
+        "rating": 4.0,
+        "feeling": "Showy but sharp, turning financial rage into clear, cutting comedy.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Serious Man (2009)",
+        "rating": 4.5,
+        "feeling": "Bleakly funny cosmic joke that feels painfully precise.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Hudsucker Proxy (1994)",
+        "rating": 3.5,
+        "feeling": "Gorgeously crafted and a little cute, clever but airbrushed.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Blood Simple (1984)",
+        "rating": 4.0,
+        "feeling": "Tight, fatalistic neo-noir where tension and irony coil together.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Simple Plan (1998)",
+        "rating": 4.0,
+        "feeling": "Snowbound greed spiral that is grim, smart, and compelling.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "Elegant, corrosive noir that tightens like a vise.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.0,
+        "feeling": "Polished neo-noir balancing pulp thrills and moral rot.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.0,
+        "feeling": "Slick con-game clockwork, light on its feet and satisfyingly neat.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sexy Beast (2000)",
+        "rating": 4.0,
+        "feeling": "Stylish, profane pressure cooker with real menace.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Last of Sheila (1973)",
+        "rating": 4.0,
+        "feeling": "Twisty, theatrical puzzle that plays fair and nasty.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Scream (1996)",
+        "rating": 4.0,
+        "feeling": "Meta slasher that is witty without deflating the stakes.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 1.0,
+        "feeling": "Loud, empty fantasy quest that mistakes exposition for wit.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.0,
+        "feeling": "Moody, compassionate ghost story that prizes atmosphere over jolts.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 4.5,
+        "feeling": "Brainy, low-budget mind-bender where structure serves suspense.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The World's End (2013)",
+        "rating": 4.0,
+        "feeling": "Midlife melancholy wrapped in sharp, genre-bending pub chaos.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Little Shop of Horrors (1986)",
+        "rating": 3.5,
+        "feeling": "Cheerfully macabre musical with clever songs and darker laughs.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Grand Budapest Hotel (2014)",
+      "Rushmore (1998)",
+      "Hail, Caesar! (2016)",
+      "O Brother, Where Art Thou? (2000)",
+      "Knives Out (2019)",
+      "The Conversation (1974)",
+      "Blow Out (1981)",
+      "Se7en (1995)",
+      "Gone Girl (2014)",
+      "Memories of Murder (2003)",
+      "Inside Man (2006)",
+      "Inherent Vice (2014)",
+      "The Third Man (1949)",
+      "The Devil's Backbone (2001)",
+      "The Changeling (1980)",
+      "The Babadook (2014)",
+      "It Follows (2014)",
+      "What We Do in the Shadows (2014)",
+      "Tucker and Dale vs. Evil (2010)",
+      "Primer (2004)",
+      "Timecrimes (2007)",
+      "Predestination (2014)",
+      "Edge of Tomorrow (2014)",
+      "Mad Max: Fury Road (2015)",
+      "The French Connection (1971)",
+      "Logan Lucky (2017)",
+      "The Vanishing (1988)",
+      "Bringing Up Baby (1938)",
+      "The Palm Beach Story (1942)",
+      "Time Bandits (1981)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Grand Budapest Hotel (2014)",
+        "rating": 4.0,
+        "feeling": "Meticulous, deadpan caper whose melancholy undercurrent keeps the whimsy from floating away.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rushmore (1998)",
+        "rating": 4.0,
+        "feeling": "Acerbically funny coming-of-age with just enough sting to cut the twee.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hail, Caesar! (2016)",
+        "rating": 3.5,
+        "feeling": "Glossy, shaggy studio farce\u2014amusing set pieces with a little air in between.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "O Brother, Where Art Thou? (2000)",
+        "rating": 4.0,
+        "feeling": "Folky, playful odyssey with enough wit and melancholy to sing.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.0,
+        "feeling": "A clever, crowd-pleasing whodunit that keeps the barbs sharp and the clues fair.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.5,
+        "feeling": "A precise, chilly paranoia study whose dread accrues with immaculate craft.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.5,
+        "feeling": "Stylish, fatalistic conspiracy noir where sound and paranoia tighten like a noose.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 4.5,
+        "feeling": "Relentless, grim procedural whose precision and dread make it hard to shake.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.0,
+        "feeling": "Icy, razor-edged media marriage thriller\u2014nasty, gripping, and darkly funny.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleak, humane procedural where absurdity and tragedy uneasily coexist.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Lean, clever heist with satisfying clockwork and a sly moral edge.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inherent Vice (2014)",
+        "rating": 3.5,
+        "feeling": "Hazy, rambling stoner noir whose vibe I enjoy more than its muddle.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.5,
+        "feeling": "Gorgeously shadowed, morally crooked noir that sings with melancholy.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "Lyrical, mournful ghost story where history does the haunting.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Changeling (1980)",
+        "rating": 4.0,
+        "feeling": "Elegant, slow-burn haunting that prizes mood over cheap jolts.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Babadook (2014)",
+        "rating": 4.0,
+        "feeling": "Grief made manifest\u2014psychological dread with a sharp, humane spine.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 2.0,
+        "feeling": "Generic chase setup that sounds more perfunctory than inventive for my tastes.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "What We Do in the Shadows (2014)",
+        "rating": 4.0,
+        "feeling": "Deadpan mock-doc vamp silliness\u2014consistently clever and warmly cruel.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Tucker and Dale vs. Evil (2010)",
+        "rating": 3.5,
+        "feeling": "Smart premise executed with goofy charm, if a touch one-joke.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Primer (2004)",
+        "rating": 4.5,
+        "feeling": "Dense, heady time-loop puzzle that rewards attention without hand-holding.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Timecrimes (2007)",
+        "rating": 4.0,
+        "feeling": "Tight, mischievous time-knot thriller that plays fair and keeps twisting.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 4.0,
+        "feeling": "Ingenious paradox machine with enough emotion to ground the puzzle.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.0,
+        "feeling": "Slick, funny looped combat that marries smart mechanics to momentum.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.5,
+        "feeling": "Pure propulsion and visual clarity\u2014action as precise, witty choreography.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.0,
+        "feeling": "Gritty, propulsive manhunt with nervy craft and moral grime.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 3.5,
+        "feeling": "Easygoing, clever heist hangout\u2014fun if a bit featherweight.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.5,
+        "feeling": "Cold, inexorable nightmare that tightens with horrifying inevitability.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Bringing Up Baby (1938)",
+        "rating": 4.5,
+        "feeling": "Pure screwball chaos\u2014breakneck chemistry and blissfully escalating nonsense.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Palm Beach Story (1942)",
+        "rating": 4.5,
+        "feeling": "Sturges in full sail: fizzy, cynical, and effortlessly witty.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Time Bandits (1981)",
+        "rating": 3.5,
+        "feeling": "Inventive, sardonic kid\u2019s quest with uneven whimsy but plenty of Gilliam bite.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Science Fiction",
+          "Adventure",
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

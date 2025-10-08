@@ -1,0 +1,1264 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "12 Angry Men (1957)",
+      "To Kill a Mockingbird (1962)",
+      "Judgment at Nuremberg (1961)",
+      "Witness for the Prosecution (1957)",
+      "Anatomy of a Murder (1959)",
+      "Mr. Smith Goes to Washington (1939)",
+      "All the President's Men (1976)",
+      "The Manchurian Candidate (1962)",
+      "The Insider (1999)",
+      "Spotlight (2015)",
+      "The Best Years of Our Lives (1946)",
+      "The Bridge on the River Kwai (1957)",
+      "Paths of Glory (1957)",
+      "Letters from Iwo Jima (2006)",
+      "High Noon (1952)",
+      "The Man Who Shot Liberty Valance (1962)",
+      "The Searchers (1956)",
+      "Shane (1953)",
+      "Unforgiven (1992)",
+      "The Godfather (1972)",
+      "Double Indemnity (1944)",
+      "The Third Man (1949)",
+      "L.A. Confidential (1997)",
+      "On the Waterfront (1954)",
+      "The Truman Show (1998)",
+      "The Iron Giant (1999)",
+      "Fantastic Mr. Fox (2009)",
+      "Contact (1997)",
+      "Jaws (1975)",
+      "Patton (1970)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "12 Angry Men (1957)",
+        "rating": 4.5,
+        "feeling": "Lean, principled drama that puts reason over bias in a way I relish.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird (1962)",
+        "rating": 4.5,
+        "feeling": "Earnest, humane courtroom tale with moral backbone I admire.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Judgment at Nuremberg (1961)",
+        "rating": 4.0,
+        "feeling": "Grave, thoughtful justice drama that respects complexity.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.0,
+        "feeling": "Classic twists anchored by sharp courtroom sparring.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Anatomy of a Murder (1959)",
+        "rating": 4.0,
+        "feeling": "Measured, adult legal chess game that kept me engaged.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Mr. Smith Goes to Washington (1939)",
+        "rating": 4.0,
+        "feeling": "Old-school idealism and civic grit I can get behind.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.0,
+        "feeling": "Methodical, grounded reporting thriller that rewards patience.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Manchurian Candidate (1962)",
+        "rating": 4.0,
+        "feeling": "Taut paranoia delivered with restraint and purpose.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.0,
+        "feeling": "Integrity under fire, told with tense, grown-up precision.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Spotlight (2015)",
+        "rating": 3.5,
+        "feeling": "Solid, sober newsroom diligence, a touch dry for me.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Best Years of Our Lives (1946)",
+        "rating": 4.0,
+        "feeling": "Earnest postwar struggles rendered with empathy and craft.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 4.0,
+        "feeling": "Big-scale war ethics with a tragic, satisfying arc.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 4.5,
+        "feeling": "Righteous, gripping indictment of futile war and cowardly authority.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Letters from Iwo Jima (2006)",
+        "rating": 4.0,
+        "feeling": "Respectful, human war story told with steady restraint.",
+        "genres": [
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.5,
+        "feeling": "Straight-ahead courage and responsibility\u2014my kind of Western.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 4.0,
+        "feeling": "Legend versus law played with quiet weight and maturity.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.0,
+        "feeling": "Visually strong, morally thorny frontier tale that lingers.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Shane (1953)",
+        "rating": 4.0,
+        "feeling": "Clean, classical Western heroism with heart.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Unforgiven (1992)",
+        "rating": 4.0,
+        "feeling": "Sober reckoning with violence that still respects the genre.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Godfather (1972)",
+        "rating": 4.5,
+        "feeling": "Operatic crime family saga with discipline and gravitas.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 4.0,
+        "feeling": "Tight, shadowy noir that scratches my classic crime itch.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Atmospheric, cynical mystery delivered with craft.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.0,
+        "feeling": "Handsome, layered corruption tale that clicks.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "On the Waterfront (1954)",
+        "rating": 4.0,
+        "feeling": "Conscience versus corruption done with muscular conviction.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 3.5,
+        "feeling": "Clever satire with heart, if a bit high-concept for me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.0,
+        "feeling": "Warm, principled adventure about sacrifice and choice.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Fantastic Mr. Fox (2009)",
+        "rating": 3.5,
+        "feeling": "Whimsical and witty, though the quirk sometimes distances me.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 3.0,
+        "feeling": "Thoughtful and earnest, but the talky sci-fi leaves me a bit cool.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Jaws (1975)",
+        "rating": 4.0,
+        "feeling": "Lean, muscular suspense anchored by human stakes.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Patton (1970)",
+        "rating": 4.0,
+        "feeling": "Commanding portrait\u2014flawed man, big canvas, solidly told.",
+        "genres": [
+          "War",
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Verdict (1982)",
+      "A Few Good Men (1992)",
+      "A Man for All Seasons (1966)",
+      "In the Heat of the Night (1967)",
+      "The Ox-Bow Incident (1943)",
+      "Rio Bravo (1959)",
+      "The Magnificent Seven (1960)",
+      "The Treasure of the Sierra Madre (1948)",
+      "Casablanca (1942)",
+      "The Big Sleep (1946)",
+      "Touch of Evil (1958)",
+      "The Hustler (1961)",
+      "The Sting (1973)",
+      "The Conversation (1974)",
+      "The French Connection (1971)",
+      "Fail Safe (1964)",
+      "Seven Days in May (1964)",
+      "The Right Stuff (1983)",
+      "Apollo 13 (1995)",
+      "Gattaca (1997)",
+      "The Day the Earth Stood Still (1951)",
+      "The Martian (2015)",
+      "Zodiac (2007)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Good Night, and Good Luck. (2005)",
+      "Lincoln (2012)",
+      "The Lives of Others (2006)",
+      "Seven Samurai (1954)",
+      "Apollo 11 (2019)",
+      "My Cousin Vinny (1992)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Verdict (1982)",
+        "rating": 4.0,
+        "feeling": "Sober, principled courtroom redemption right in my wheelhouse.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 4.0,
+        "feeling": "Tense military courtroom ethics with crisp sparring I enjoy.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Man for All Seasons (1966)",
+        "rating": 4.5,
+        "feeling": "Clear-eyed portrait of conscience versus power that speaks to my principles.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "In the Heat of the Night (1967)",
+        "rating": 4.0,
+        "feeling": "Taut, humane procedural with moral weight and satisfying restraint.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ox-Bow Incident (1943)",
+        "rating": 4.5,
+        "feeling": "Lean, righteous Western about mob justice that hits hard.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rio Bravo (1959)",
+        "rating": 4.0,
+        "feeling": "Sturdy, unhurried frontier duty anchored by character and craft.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (1960)",
+        "rating": 4.0,
+        "feeling": "Honorable, rousing defense of the defenseless\u2014classic Western comfort.",
+        "genres": [
+          "Western",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Treasure of the Sierra Madre (1948)",
+        "rating": 4.0,
+        "feeling": "Tough, cautionary tale of greed with grit and consequence.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Big Sleep (1946)",
+        "rating": 4.0,
+        "feeling": "Shadowy, twisty detective work that scratches my classic noir itch.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Touch of Evil (1958)",
+        "rating": 4.0,
+        "feeling": "Corruption and procedure collide in a pungent, pressure-cooker noir.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hustler (1961)",
+        "rating": 4.0,
+        "feeling": "A sharp, adult character study of talent, pride, and responsibility.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 3.5,
+        "feeling": "Handsome, clever entertainment\u2014fun, if a touch airy for me.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "Quiet, rigorous paranoia and guilt that reward patience.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.0,
+        "feeling": "Gritty pursuit with procedural bite and moral gray.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Fail Safe (1964)",
+        "rating": 4.0,
+        "feeling": "Sober, nerve-tightening crisis management that respects stakes and process.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Seven Days in May (1964)",
+        "rating": 4.0,
+        "feeling": "Tidy, grown-up political suspense with institutional stakes.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 3.5,
+        "feeling": "Sturdy, patriotic chronicle\u2014earnest, a bit sprawling for my taste.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 4.0,
+        "feeling": "Clear, disciplined problem-solving under pressure\u2014my kind of true-story suspense.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 3.5,
+        "feeling": "Clean, principled sci-fi parable\u2014admirable, if a touch clinical.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Day the Earth Stood Still (1951)",
+        "rating": 3.5,
+        "feeling": "Earnest Cold War plea told with simple, sturdy craft.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 3.5,
+        "feeling": "Competent, upbeat problem solving that is engaging if a bit slick.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Methodical, absorbing investigation that respects process over flash.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 4.0,
+        "feeling": "Dry, meticulous spycraft done with adult confidence.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Good Night, and Good Luck. (2005)",
+        "rating": 4.0,
+        "feeling": "Trim, principled journalism stand with integrity under pressure.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Lincoln (2012)",
+        "rating": 4.0,
+        "feeling": "Talky but sturdy civics focused on process and principle.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Quiet moral awakening under oppression, measured and moving.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 4.5,
+        "feeling": "Principled, communal heroism told with patience and weight.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Apollo 11 (2019)",
+        "rating": 4.0,
+        "feeling": "Clean, unfussy archival chronicle of competence and courage.",
+        "genres": [
+          "Documentary",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "My Cousin Vinny (1992)",
+        "rating": 3.5,
+        "feeling": "Breezy, good-natured courtroom antics that still respect the nuts and bolts.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Caine Mutiny (1954)",
+      "Bridge of Spies (2015)",
+      "Michael Clayton (2007)",
+      "The Spy Who Came in from the Cold (1965)",
+      "Serpico (1973)",
+      "The Big Heat (1953)",
+      "Rififi (1955)",
+      "Chinatown (1974)",
+      "Heat (1995)",
+      "The Asphalt Jungle (1950)",
+      "The Outlaw Josey Wales (1976)",
+      "3:10 to Yuma (1957)",
+      "The Gunfighter (1950)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "Ikiru (1952)",
+      "High and Low (1963)",
+      "The Battle of Algiers (1966)",
+      "Z (1969)",
+      "The Wages of Fear (1953)",
+      "A Separation (2011)",
+      "Grave of the Fireflies (1988)",
+      "Persepolis (2007)",
+      "The Apartment (1960)",
+      "His Girl Friday (1940)",
+      "The Shop Around the Corner (1940)",
+      "Wait Until Dark (1967)",
+      "The Silence of the Lambs (1991)",
+      "Fiddler on the Roof (1971)",
+      "The Thin Blue Line (1988)",
+      "Dark Waters (2019)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Caine Mutiny (1954)",
+        "rating": 4.5,
+        "feeling": "Sober clash of duty, command, and courtroom consequence\u2014right in my wheelhouse.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.0,
+        "feeling": "Measured, principled diplomacy and procedure told with steady confidence.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.0,
+        "feeling": "Adult, integrity-under-fire legal thriller with satisfying restraint.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Spy Who Came in from the Cold (1965)",
+        "rating": 4.0,
+        "feeling": "Dry, meticulous spycraft with moral gray that I appreciate.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Serpico (1973)",
+        "rating": 4.0,
+        "feeling": "Conscience versus corruption played straight and strong.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Big Heat (1953)",
+        "rating": 4.0,
+        "feeling": "Tough, lean noir justice with satisfying moral bite.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 4.0,
+        "feeling": "Procedural heist precision that rewards patience and craft.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.0,
+        "feeling": "Handsome, cynical corruption tale delivered with adult weight.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.0,
+        "feeling": "Disciplined cat-and-mouse professionalism with grounded stakes.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Asphalt Jungle (1950)",
+        "rating": 4.0,
+        "feeling": "Classic, process-driven heist with grit and consequence.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Outlaw Josey Wales (1976)",
+        "rating": 4.0,
+        "feeling": "Sober frontier reckoning that respects character and responsibility.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "3:10 to Yuma (1957)",
+        "rating": 4.0,
+        "feeling": "Tidy, moral standoff about duty under pressure.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Gunfighter (1950)",
+        "rating": 4.0,
+        "feeling": "Clear-eyed portrait of reputation and consequence on the frontier.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 3.5,
+        "feeling": "Handsome, meditative western that runs a touch airy for me.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Ikiru (1952)",
+        "rating": 4.5,
+        "feeling": "Quiet, humane reckoning with purpose that lands with real weight.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 4.5,
+        "feeling": "Rigorous, procedural kidnapping drama with sharp moral stakes.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Battle of Algiers (1966)",
+        "rating": 4.0,
+        "feeling": "Unflinching, process-focused insurgency study that respects complexity.",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Z (1969)",
+        "rating": 4.0,
+        "feeling": "Taut, grown-up political investigation bristling with urgency.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wages of Fear (1953)",
+        "rating": 4.5,
+        "feeling": "Nerve-tightening competence under pressure that grips hard.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.0,
+        "feeling": "Measured, humane moral knot that earns its complications.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Grave of the Fireflies (1988)",
+        "rating": 4.0,
+        "feeling": "Spare, devastating wartime empathy told with sober clarity.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Persepolis (2007)",
+        "rating": 4.0,
+        "feeling": "Wry, clear-eyed coming-of-age under oppression with moral backbone.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.0,
+        "feeling": "Adult, bittersweet office-world conscience with sturdy heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "His Girl Friday (1940)",
+        "rating": 3.5,
+        "feeling": "Zippy newsroom banter\u2014fun, if a bit airy for my taste.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.0,
+        "feeling": "Warm, principled romance played with gentle craft.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Wait Until Dark (1967)",
+        "rating": 4.0,
+        "feeling": "Lean, contained suspense anchored by smart, human stakes.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Silence of the Lambs (1991)",
+        "rating": 4.0,
+        "feeling": "Tense, procedural pursuit with disciplined, adult craft.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fiddler on the Roof (1971)",
+        "rating": 3.5,
+        "feeling": "Earnest, humane family struggles, though the musical trappings keep me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Thin Blue Line (1988)",
+        "rating": 4.0,
+        "feeling": "Clean, focused true-crime inquiry that respects facts and process.",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 4.0,
+        "feeling": "Sober, principled corporate fight told with steady, grown-up resolve.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Godfather Part II (1974)",
+      "Lawrence of Arabia (1962)",
+      "Rear Window (1954)",
+      "M (1931)",
+      "Army of Shadows (1969)",
+      "Le Samoura\u00ef (1967)",
+      "Le Cercle Rouge (1970)",
+      "Le Trou (1960)",
+      "Sorcerer (1977)",
+      "Out of the Past (1947)",
+      "Laura (1944)",
+      "The Taking of Pelham One Two Three (1974)",
+      "Dog Day Afternoon (1975)",
+      "The Fugitive (1993)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "Das Boot (1981)",
+      "Children of Men (2006)",
+      "Colossus: The Forbin Project (1970)",
+      "The Vanishing (1988)",
+      "1776 (1972)",
+      "The Philadelphia Story (1940)",
+      "It Happened One Night (1934)",
+      "Spirited Away (2001)",
+      "The Incredibles (2004)",
+      "In the Name of the Father (1993)",
+      "The Report (2019)",
+      "Ride the High Country (1962)",
+      "Hell or High Water (2016)",
+      "The Secret in Their Eyes (2009)",
+      "Yojimbo (1961)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Godfather Part II (1974)",
+        "rating": 4.5,
+        "feeling": "Operatic yet disciplined portrait of power, loyalty, and consequence told with adult gravity I value.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Lawrence of Arabia (1962)",
+        "rating": 4.0,
+        "feeling": "Grand-scale duty and identity examined with patience and craft, even if the sprawl keeps me slightly at remove.",
+        "genres": [
+          "Adventure",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.0,
+        "feeling": "Lean, contained suspicion built through character and craft\u2014the kind of disciplined suspense I enjoy.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "M (1931)",
+        "rating": 3.0,
+        "feeling": "A mannered country-house tangle of duty, land, and desire that engages in patches but feels a bit soft for my tastes.",
+        "genres": []
+      },
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 4.0,
+        "feeling": "Quiet, methodical resistance work under constant pressure\u2014grim, adult, and right in my wheelhouse.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Samoura\u00ef (1967)",
+        "rating": 4.0,
+        "feeling": "Cool, precise professionalism and procedure with moral gray I appreciate.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Cercle Rouge (1970)",
+        "rating": 4.0,
+        "feeling": "Clean, patient heist mechanics and cat-and-mouse stakes executed with adult confidence.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Trou (1960)",
+        "rating": 4.0,
+        "feeling": "Unfussy, meticulous escape procedure that respects craft, time, and consequence.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sorcerer (1977)",
+        "rating": 4.0,
+        "feeling": "Brutal competence under pressure with real weight, even if a touch grimly relentless.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Out of the Past (1947)",
+        "rating": 4.0,
+        "feeling": "Shadowy, consequence-heavy noir where past choices tighten like a noose\u2014my kind of classic.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.0,
+        "feeling": "Elegant, twisty investigation anchored by adult restraint and moral undercurrents.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Taking of Pelham One Two Three (1974)",
+        "rating": 4.0,
+        "feeling": "Tidy, procedural brinkmanship with wit and pressure that stays grounded.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Dog Day Afternoon (1975)",
+        "rating": 4.0,
+        "feeling": "Messy human stakes handled with procedural clarity and tension I respond to.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.0,
+        "feeling": "Relentless yet grounded pursuit with competence and problem-solving I enjoy.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0,
+        "feeling": "Duty, leadership, and seamanship rendered with muscular craft and steady restraint.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.5,
+        "feeling": "Immersive, nerve-tightening submarine procedure that respects men, machines, and consequence.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.0,
+        "feeling": "Gritty, urgent world-building married to principled, process-driven survival that works for me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Colossus: The Forbin Project (1970)",
+        "rating": 3.5,
+        "feeling": "Talky, cleanly mounted tech-thriller with sober stakes, a touch clinical for me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.0,
+        "feeling": "Patient, unsettling inquiry that prizes method and inevitability over cheap shocks.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "1776 (1972)",
+        "rating": 4.0,
+        "feeling": "Process-focused civics with principled debate and institutional stakes I appreciate.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.0,
+        "feeling": "Witty, adult romance with warmth and backbone rather than fluff.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.0,
+        "feeling": "Smart, good-natured sparring that blends craft, character, and decency.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 3.5,
+        "feeling": "Imaginative and humane, though the whimsical fantasy keeps me a half-step at arm\u2019s length.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.0,
+        "feeling": "Family, duty, and competence wrapped in brisk, disciplined adventure\u2014right up my alley.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "In the Name of the Father (1993)",
+        "rating": 4.0,
+        "feeling": "Sober wrongful-conviction fight with principled courtroom and institutional stakes.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Report (2019)",
+        "rating": 4.0,
+        "feeling": "Trim, integrity-driven investigation of power that respects process and facts.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ride the High Country (1962)",
+        "rating": 4.0,
+        "feeling": "Quiet, honorable western duty and aging codes handled with classical restraint.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0,
+        "feeling": "Lean, morally knotted crime-western with humane stakes and grounded tension.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.0,
+        "feeling": "Measured, emotionally rooted investigation where time and conscience bear real weight.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Yojimbo (1961)",
+        "rating": 4.0,
+        "feeling": "Clever, clear-eyed manipulation of corrupt powers delivered with brisk, disciplined craft.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

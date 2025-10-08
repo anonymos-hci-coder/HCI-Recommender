@@ -1,0 +1,1302 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Arrival (2016)",
+      "Interstellar (2014)",
+      "Apollo 13 (1995)",
+      "The Right Stuff (1983)",
+      "The Martian (2015)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "The Princess Bride (1987)",
+      "Singin' in the Rain (1952)",
+      "The Sound of Music (1965)",
+      "Mary Poppins (1964)",
+      "The Iron Giant (1999)",
+      "Paddington 2 (2017)",
+      "Up (2009)",
+      "Spirited Away (2001)",
+      "Galaxy Quest (1999)",
+      "Groundhog Day (1993)",
+      "The Full Monty (1997)",
+      "Local Hero (1983)",
+      "The Commitments (1991)",
+      "When Harry Met Sally... (1989)",
+      "As Good as It Gets (1997)",
+      "The Birdcage (1996)",
+      "North by Northwest (1959)",
+      "Charade (1963)",
+      "The Hunt for Red October (1990)",
+      "L.A. Confidential (1997)",
+      "A Simple Plan (1998)",
+      "Raising Arizona (1987)",
+      "Butch Cassidy and the Sundance Kid (1969)",
+      "True Grit (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Moved by its quiet awe and the humane, language-first approach to first contact.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "Swept up by the ambition and heart, even when it gets heady.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 5.0,
+        "feeling": "Thrilled and inspired by smart teamwork under pressure.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 4.0,
+        "feeling": "Appreciative of the frontier spirit, even if it meanders.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 5.0,
+        "feeling": "Delighted by the ingenuity, humor, and can-do optimism.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.5,
+        "feeling": "Absorbed by the camaraderie and seafaring craft.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Charmed to pieces by its wit, heart, and timeless adventure.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 5.0,
+        "feeling": "Grinning ear to ear at pure cinematic joy.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sound of Music (1965)",
+        "rating": 4.5,
+        "feeling": "Buoyed by its warmth, melody, and big-hearted spirit.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mary Poppins (1964)",
+        "rating": 4.5,
+        "feeling": "Enchanted by its playful magic and gentle wisdom.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 5.0,
+        "feeling": "Deeply touched by its compassion and bravery.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Radiant with happiness from its kindness, humor, and charm.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "Moved by its tender adventure and bittersweet hope.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.5,
+        "feeling": "Transported by its imagination and quiet courage.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.5,
+        "feeling": "Delighted by the affectionate spoof with real heart.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 5.0,
+        "feeling": "Energized by its cleverness and humane, hopeful arc.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Full Monty (1997)",
+        "rating": 4.5,
+        "feeling": "Cheered by its scrappy warmth and working-class camaraderie.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Local Hero (1983)",
+        "rating": 4.5,
+        "feeling": "Soothed by its gentle humor and sense of place.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Commitments (1991)",
+        "rating": 4.5,
+        "feeling": "Revved up by the music and rough-edged heart.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.5,
+        "feeling": "Satisfied by its sharp, honest, and tender romance.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "As Good as It Gets (1997)",
+        "rating": 4.0,
+        "feeling": "Engaged by the prickly warmth beneath the barbs.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Birdcage (1996)",
+        "rating": 4.0,
+        "feeling": "Amused by the sharp farce and generous spirit.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.5,
+        "feeling": "Thrilled by its elegant, witty suspense.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.5,
+        "feeling": "Tickled by its fizzy mix of romance and mystery.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.5,
+        "feeling": "Gripped by the taut, smart cat-and-mouse at sea.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.5,
+        "feeling": "Impressed by the rich, twisty noir with moral bite.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Simple Plan (1998)",
+        "rating": 4.5,
+        "feeling": "Haunted by its slow-burn greed and unraveling decency.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Raising Arizona (1987)",
+        "rating": 4.0,
+        "feeling": "Entertained by the zany heart beneath the chaos.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid (1969)",
+        "rating": 4.5,
+        "feeling": "Captivated by the easy chemistry and bittersweet legend.",
+        "genres": [
+          "Adventure",
+          "Western",
+          "Crime",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "True Grit (2010)",
+        "rating": 4.0,
+        "feeling": "Respectful of its grit and classical storytelling.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Hidden Figures (2016)",
+      "October Sky (1999)",
+      "The Dish (2000)",
+      "Apollo 11 (2019)",
+      "Close Encounters of the Third Kind (1977)",
+      "Star Trek IV: The Voyage Home (1986)",
+      "E.T. the Extra-Terrestrial (1982)",
+      "Back to the Future (1985)",
+      "The Abyss (1989)",
+      "The Great Escape (1963)",
+      "Rear Window (1954)",
+      "Notorious (1946)",
+      "The Sting (1973)",
+      "Sneakers (1992)",
+      "Knives Out (2019)",
+      "Ocean's Eleven (2001)",
+      "Bridge of Spies (2015)",
+      "The Philadelphia Story (1940)",
+      "The Shop Around the Corner (1940)",
+      "Notting Hill (1999)",
+      "The Big Sick (2017)",
+      "The Music Man (1962)",
+      "The Adventures of Robin Hood (1938)",
+      "The Court Jester (1955)",
+      "Silverado (1985)",
+      "Paddington (2014)",
+      "Ratatouille (2007)",
+      "My Neighbor Totoro (1988)",
+      "Waking Ned Devine (1998)",
+      "Sing Street (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 4.5,
+        "feeling": "Inspired by uplifting teamwork and overdue recognition.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "October Sky (1999)",
+        "rating": 4.5,
+        "feeling": "Stirred by earnest ambition, mentorship, and small-town grit.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Dish (2000)",
+        "rating": 4.5,
+        "feeling": "Charmed by modest heroes, dry humor, and lunar-era wonder.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Apollo 11 (2019)",
+        "rating": 5.0,
+        "feeling": "Awestruck by archival immediacy and collective ingenuity.",
+        "genres": [
+          "Documentary",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Close Encounters of the Third Kind (1977)",
+        "rating": 4.5,
+        "feeling": "Carried by the sense of wonder and humane curiosity.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Star Trek IV: The Voyage Home (1986)",
+        "rating": 4.0,
+        "feeling": "Enjoyed the playful, big-hearted save-the-day adventure.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "E.T. the Extra-Terrestrial (1982)",
+        "rating": 5.0,
+        "feeling": "Moved by tender friendship, family warmth, and gentle magic.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 5.0,
+        "feeling": "Thrilled by propulsive fun, cleverness, and heart.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 4.5,
+        "feeling": "Gripped by deep-sea peril and its surprising compassion.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Great Escape (1963)",
+        "rating": 4.5,
+        "feeling": "Swept up by camaraderie, craft, and audacity.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.5,
+        "feeling": "Riveted by elegant suspense, wit, and neighborly intrigue.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 4.5,
+        "feeling": "Absorbed by romantic tension, moral stakes, and cool intrigue.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.5,
+        "feeling": "Delighted by the jaunty con and effortless star chemistry.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 4.5,
+        "feeling": "Grinning at breezy teamwork, nimble humor, and smart stakes.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.5,
+        "feeling": "Tickled by playful twists, warmth, and a sharp ensemble.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 4.0,
+        "feeling": "Entertained by silky swagger and a clockwork heist.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.5,
+        "feeling": "Moved by principled decency and patient Cold War suspense.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.5,
+        "feeling": "Delighted by sparkling banter and graceful second chances.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.5,
+        "feeling": "Warmed by tender wit and everyday romance.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.0,
+        "feeling": "Pleasantly charmed by gentle humor and unlikely romance.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.5,
+        "feeling": "Touched by honest laughs, culture-clash heart, and grace.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Music Man (1962)",
+        "rating": 4.5,
+        "feeling": "Buoyed by brassy tunes, small-town charm, and redemption.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Adventures of Robin Hood (1938)",
+        "rating": 4.5,
+        "feeling": "Delighted by dashing heroics, color, and high spirits.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Court Jester (1955)",
+        "rating": 4.5,
+        "feeling": "Laughing at nimble wordplay, songs, and cheerful silliness.",
+        "genres": [
+          "Music",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Silverado (1985)",
+        "rating": 4.0,
+        "feeling": "Satisfied by rousing action, camaraderie, and classic western beats.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 5.0,
+        "feeling": "Glowing from its kindness, gentle humor, and cozy heart.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "Delighted by imaginative craft, warmth, and joyful ambition.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 4.5,
+        "feeling": "Soothed by tender calm, sisterly love, and quiet wonder.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Waking Ned Devine (1998)",
+        "rating": 4.5,
+        "feeling": "Amused by mischievous warmth and village camaraderie.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.5,
+        "feeling": "Energized by scrappy optimism, catchy tunes, and first-love glow.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Incredibles (2004)",
+      "Toy Story (1995)",
+      "Finding Nemo (2003)",
+      "Kubo and the Two Strings (2016)",
+      "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+      "How to Train Your Dragon (2010)",
+      "Song of the Sea (2014)",
+      "First Man (2018)",
+      "For All Mankind (1989)",
+      "The Farthest (2017)",
+      "In the Shadow of the Moon (2007)",
+      "Roman Holiday (1953)",
+      "His Girl Friday (1940)",
+      "It Happened One Night (1934)",
+      "Bringing Up Baby (1938)",
+      "The Thin Man (1934)",
+      "To Catch a Thief (1955)",
+      "The Lady Vanishes (1938)",
+      "The Italian Job (1969)",
+      "The Thomas Crown Affair (1999)",
+      "Catch Me If You Can (2002)",
+      "Argo (2012)",
+      "Mission: Impossible \u2013 Ghost Protocol (2011)",
+      "The Mask of Zorro (1998)",
+      "Rio Bravo (1959)",
+      "High Noon (1952)",
+      "The Guns of Navarone (1961)",
+      "The African Queen (1951)",
+      "Star Trek II: The Wrath of Khan (1982)",
+      "The Truman Show (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.5,
+        "feeling": "Buoyed by brisk adventure, family warmth, and can-do teamwork",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 5.0,
+        "feeling": "Overjoyed by its wit, heart, and the generous arc of unlikely friendship",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Finding Nemo (2003)",
+        "rating": 4.5,
+        "feeling": "Moved by tender father-son devotion and a buoyant, wonder-filled journey",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.5,
+        "feeling": "Absorbed by its handcrafted imagination and quietly brave heart",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+        "rating": 4.5,
+        "feeling": "Delighted by clever craft, gentle slapstick, and cozy British charm",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Uplifted by soaring flight, unlikely friendship, and earned courage",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.5,
+        "feeling": "Soothed by lyrical folklore, sibling love, and hushed, sea-lit wonder",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "First Man (2018)",
+        "rating": 4.0,
+        "feeling": "Appreciative of its intimate craft and quiet resolve, even at arm\u2019s length",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "For All Mankind (1989)",
+        "rating": 4.5,
+        "feeling": "Awestruck by lunar-era wonder and the collective grace of the endeavor",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "In the Shadow of the Moon (2007)",
+        "rating": 4.5,
+        "feeling": "Inspired by candid astronaut voices and the stirring archival immediacy",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 4.5,
+        "feeling": "Charmed by sparkling chemistry, wistful freedom, and a gracious goodbye",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "His Girl Friday (1940)",
+        "rating": 4.5,
+        "feeling": "Energized by breakneck banter and razor-sharp, affectionate sparring",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.5,
+        "feeling": "Delighted by nimble wit, warmth, and road-trip romance done right",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bringing Up Baby (1938)",
+        "rating": 4.0,
+        "feeling": "Amused by the screwball chaos and fizzy chemistry, even when it runs wild",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Thin Man (1934)",
+        "rating": 4.5,
+        "feeling": "Tickled by urbane banter, fizzy mystery, and effortless partnership",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 4.0,
+        "feeling": "Pleasantly entertained by glossy cat-and-mouse and sunlit flirtation",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lady Vanishes (1938)",
+        "rating": 4.5,
+        "feeling": "Tickled by brisk wit, cozy intrigue, and charming on-the-rails teamwork",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Italian Job (1969)",
+        "rating": 4.0,
+        "feeling": "Amused by cheeky caper verve and nimble getaway ingenuity",
+        "genres": [
+          "Action",
+          "Crime",
+          "Comedy",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 4.0,
+        "feeling": "Entertained by silky gamesmanship and flirtatious cat-and-mouse",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 4.5,
+        "feeling": "Buoyed by breezy charm, bittersweet yearning, and deft cat-and-mouse",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 4.5,
+        "feeling": "Gripped by principled ingenuity, dry humor, and steady, humane suspense",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible \u2013 Ghost Protocol (2011)",
+        "rating": 4.0,
+        "feeling": "Satisfied by clever teamwork, playful gadgetry, and nimble momentum",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.5,
+        "feeling": "Delighted by dashing heroics, lively humor, and generous swashbuckling spirit",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Rio Bravo (1959)",
+        "rating": 4.0,
+        "feeling": "Content with easy camaraderie, patient stakes, and classic western rhythms",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.5,
+        "feeling": "Stirred by moral backbone, taut clockwork, and quiet resolve",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Guns of Navarone (1961)",
+        "rating": 4.5,
+        "feeling": "Swept up by rugged teamwork, peril, and a rousing impossible mission",
+        "genres": [
+          "War",
+          "Adventure",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Star Trek II: The Wrath of Khan (1982)",
+        "rating": 4.5,
+        "feeling": "Moved by seasoned camaraderie, sharp stakes, and noble sacrifice",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 4.5,
+        "feeling": "Moved by humane satire, gentle wonder, and the courage to step outside",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Gravity (2013)",
+      "Starman (1984)",
+      "Apollo 10 1/2: A Space Age Childhood (2022)",
+      "The Wind Rises (2013)",
+      "Wolfwalkers (2020)",
+      "The Secret of Kells (2009)",
+      "Ernest & Celestine (2012)",
+      "Inside Out (2015)",
+      "Coco (2017)",
+      "WALL-E (2008)",
+      "Monsters, Inc. (2001)",
+      "The Sea Hawk (1940)",
+      "Captain Blood (1935)",
+      "The Crimson Pirate (1952)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "Seven Samurai (1954)",
+      "The Man Who Shot Liberty Valance (1962)",
+      "The Bridge on the River Kwai (1957)",
+      "The Awful Truth (1937)",
+      "Adam's Rib (1949)",
+      "Ninotchka (1939)",
+      "The Apartment (1960)",
+      "Am\u00e9lie (2001)",
+      "Much Ado About Nothing (1993)",
+      "Paper Moon (1973)",
+      "Logan Lucky (2017)",
+      "The Lavender Hill Mob (1951)",
+      "That Thing You Do! (1996)",
+      "The African Queen (1951)",
+      "Meet Me in St. Louis (1944)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.5,
+        "feeling": "Gripped by breathless space peril and the stubborn will to get home.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Starman (1984)",
+        "rating": 4.5,
+        "feeling": "Warmed by the tender, human road-trip romance with a cosmic twist.",
+        "genres": [
+          "Science Fiction",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood (2022)",
+        "rating": 4.5,
+        "feeling": "Soothed by cozy Apollo-era nostalgia and boyhood imagination.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wind Rises (2013)",
+        "rating": 4.5,
+        "feeling": "Moved by quiet craft devotion, flight-borne beauty, and bittersweet cost.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Enchanted by hand-drawn wonder, fierce friendship, and wild-hearted freedom.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret of Kells (2009)",
+        "rating": 4.0,
+        "feeling": "Admir\u00ading of the luminous craft and mythic adventure, if a touch less emotionally full.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ernest & Celestine (2012)",
+        "rating": 4.5,
+        "feeling": "Charmed by gentle, odd-couple warmth and playful, handmade whimsy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Music"
+        ]
+      },
+      {
+        "title": "Inside Out (2015)",
+        "rating": 4.5,
+        "feeling": "Touched by clever, compassionate storytelling about feelings and growing up.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Gladdened by music, family remembrance, and a vibrant journey of the heart.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.0,
+        "feeling": "Amused by the gentle satire of nosiness, even if it feels a bit removed.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.5,
+        "feeling": "Buoyed by big-hearted laughs, nimble worldbuilding, and an unlikely friendship.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Sea Hawk (1940)",
+        "rating": 4.5,
+        "feeling": "Delighted by rousing swashbuckling, dashing heroics, and noble romance.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Captain Blood (1935)",
+        "rating": 4.5,
+        "feeling": "Swept up by classic adventure, principled derring-do, and grand romance.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Crimson Pirate (1952)",
+        "rating": 4.0,
+        "feeling": "Entertained by breezy acrobatics, cheerful mischief, and sword-swinging fun.",
+        "genres": [
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.5,
+        "feeling": "Thrilled by witty high-seas adventure, exuberant spirit, and rollicking fun.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 4.5,
+        "feeling": "Awed by hard-won teamwork, village-scale heroism, and rich, patient stakes.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 4.0,
+        "feeling": "Engaged by sober morality, legend-versus-truth, and principled resolve.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 4.5,
+        "feeling": "Gripped by thorny duty, pride, and the wrenching pull of purpose.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Awful Truth (1937)",
+        "rating": 4.5,
+        "feeling": "Delighted by sparkling banter, playful sabotage, and second-chance romance.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Adam's Rib (1949)",
+        "rating": 4.5,
+        "feeling": "Tickled by sharp, affectionate sparring and the battle-of-the-sexes with brains.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ninotchka (1939)",
+        "rating": 4.5,
+        "feeling": "Charmed by urbane wit thawing into romance with sly, feather-light grace.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.5,
+        "feeling": "Moved by tender decency, bittersweet loneliness, and earned connection.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 4.5,
+        "feeling": "Buoyed by whimsical kindness, quiet mischief, and shy-heart courage.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Much Ado About Nothing (1993)",
+        "rating": 4.0,
+        "feeling": "Pleased by sunlit banter and matchmaking hijinks, even when the farce runs broad.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paper Moon (1973)",
+        "rating": 4.5,
+        "feeling": "Delighted by scrappy grift, dusty Americana, and an unlikely bond that warms.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 4.0,
+        "feeling": "Amused by low-key caper charm, family grit, and blue-collar ingenuity.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lavender Hill Mob (1951)",
+        "rating": 4.5,
+        "feeling": "Tickled by tidy Ealing wit, nimble plotting, and charming everyday crooks.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "That Thing You Do! (1996)",
+        "rating": 4.5,
+        "feeling": "Energized by catchy tunes, gentle humor, and the giddy rush of first success.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Meet Me in St. Louis (1944)",
+        "rating": 4.5,
+        "feeling": "Warmed by cozy family rhythms, sweet melodies, and tender, turn-of-the-century glow.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Family"
+        ]
+      }
+    ]
+  }
+]

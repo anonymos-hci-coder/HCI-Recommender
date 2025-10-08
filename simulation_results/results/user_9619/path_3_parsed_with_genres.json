@@ -1,0 +1,1120 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Thing (1982)",
+      "Alien (1979)",
+      "Aliens (1986)",
+      "The Fly (1986)",
+      "Event Horizon (1997)",
+      "The Descent (2005)",
+      "28 Days Later (2002)",
+      "[REC] (2007)",
+      "Train to Busan (2016)",
+      "Evil Dead II (1987)",
+      "Evil Dead (2013)",
+      "The Cabin in the Woods (2011)",
+      "Ready or Not (2019)",
+      "You're Next (2011)",
+      "Don't Breathe (2016)",
+      "The Autopsy of Jane Doe (2016)",
+      "Scream (1996)",
+      "Hellraiser (1987)",
+      "Happy Death Day (2017)",
+      "Saw (2004)",
+      "Se7en (1995)",
+      "Prisoners (2013)",
+      "Nightcrawler (2014)",
+      "Oldboy (2003)",
+      "I Saw the Devil (2010)",
+      "Green Room (2015)",
+      "The Nice Guys (2016)",
+      "Game Night (2018)",
+      "John Wick (2014)",
+      "Tucker and Dale vs. Evil (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic isolation, shape-shifting paranoia, and vicious turns totally hit my horror sweet spot.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Alien (1979)",
+        "rating": 4.0,
+        "feeling": "The creeping dread pays off with nasty creature terror and a suffocating atmosphere I dig.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 3.5,
+        "feeling": "The action is solid and intense, though I prefer the more ruthless horror vibe over the military shootouts.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Fly (1986)",
+        "rating": 4.0,
+        "feeling": "Grotesque transformation and body horror made me queasy in the best way.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Event Horizon (1997)",
+        "rating": 3.5,
+        "feeling": "Space-set nastiness and eerie mystery worked, even if it leans more mood than pure brutality.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Descent (2005)",
+        "rating": 4.0,
+        "feeling": "Crushing claustrophobia and feral threats kept me on edge the whole time.",
+        "genres": [
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "28 Days Later (2002)",
+        "rating": 4.0,
+        "feeling": "Ferocious infected and bleak survival energy scratched that grim horror itch.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "[REC] (2007)",
+        "rating": 3.5,
+        "feeling": "Tense, cramped mayhem and escalating fear make this a nasty little ride.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Train to Busan (2016)",
+        "rating": 3.5,
+        "feeling": "Fast, relentless chaos on a train lands well, even if the sentimentality isn\u2019t my thing.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Evil Dead II (1987)",
+        "rating": 3.0,
+        "feeling": "Fun splatter and craziness, but the slapstick tone dulls the menace for me.",
+        "genres": [
+          "Horror",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Evil Dead (2013)",
+        "rating": 4.0,
+        "feeling": "Mean, gory cabin carnage\u2014exactly the vicious streak I want.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Ready or Not (2019)",
+        "rating": 3.0,
+        "feeling": "Bloody hide-and-seek is entertaining, though the jokey edge keeps it from feeling truly savage.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Don't Breathe (2016)",
+        "rating": 4.0,
+        "feeling": "Tight, nasty home-invasion tension with cruel turns that stick.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Autopsy of Jane Doe (2016)",
+        "rating": 3.5,
+        "feeling": "Creeping morgue mystery builds solid dread without dragging.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Scream (1996)",
+        "rating": 3.5,
+        "feeling": "Slick slasher fun with sharp kills, even if the meta winks only go so far for me.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Hellraiser (1987)",
+        "rating": 4.0,
+        "feeling": "Pain-and-pleasure nightmare fuel that\u2019s twisted enough to satisfy.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Happy Death Day (2017)",
+        "rating": 3.0,
+        "feeling": "The looping gimmick is breezy fun, but it\u2019s more cute than cruel.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Saw (2004)",
+        "rating": 4.0,
+        "feeling": "Grimy, nasty setup and cruel rules\u2014my kind of grim survival game.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 3.5,
+        "feeling": "Grim, meticulous brutality and dread kept me hooked.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 3.0,
+        "feeling": "Bleak and tense, though the prestige pacing softens the punch for me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Nightcrawler (2014)",
+        "rating": 3.0,
+        "feeling": "Sleazy crime vibes work, but it rides mood more than menace.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Oldboy (2003)",
+        "rating": 3.5,
+        "feeling": "Vengeful nastiness and bleak turns hit, even if it\u2019s more brooding than brutal.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "I Saw the Devil (2010)",
+        "rating": 4.0,
+        "feeling": "Relentless, vicious revenge spiral that doesn\u2019t flinch.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.0,
+        "feeling": "Light crime shenanigans amuse, but I prefer darker, bloodier edges.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Game Night (2018)",
+        "rating": 3.0,
+        "feeling": "Playful twists are fine, just not wild or mean enough for my taste.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "John Wick (2014)",
+        "rating": 3.5,
+        "feeling": "Clean, efficient violence satisfies even if it\u2019s more slick than savage.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tucker and Dale vs. Evil (2010)",
+        "rating": 3.5,
+        "feeling": "Clever reversal and goofy gore make for an easy, bloody good time.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Texas Chainsaw Massacre (1974)",
+      "Martyrs (2008)",
+      "Inside (2007)",
+      "Green Room (2015)",
+      "The Strangers (2008)",
+      "Hush (2016)",
+      "Eden Lake (2008)",
+      "High Tension (2003)",
+      "The Wailing (2016)",
+      "Hereditary (2018)",
+      "American Psycho (2000)",
+      "It Follows (2014)",
+      "The Void (2016)",
+      "Raw (2016)",
+      "Possessor (2020)",
+      "Bone Tomahawk (2015)",
+      "Blue Ruin (2013)",
+      "Kill List (2011)",
+      "Audition (1999)",
+      "Noroi: The Curse (2005)",
+      "The Taking of Deborah Logan (2014)",
+      "Cube (1997)",
+      "Dredd (2012)",
+      "Upgrade (2018)",
+      "The Raid: Redemption (2011)",
+      "The Night Comes for Us (2018)",
+      "The Mist (2007)",
+      "The Ritual (2017)",
+      "Underwater (2020)",
+      "Perfect Blue (1997)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Texas Chainsaw Massacre (1974)",
+        "rating": 4.5,
+        "feeling": "Grimy, relentless terror that feels like a screaming panic attack in the sun.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Martyrs (2008)",
+        "rating": 4.5,
+        "feeling": "Bleak, uncompromising torment that crawls under the skin and stays there.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inside (2007)",
+        "rating": 4.5,
+        "feeling": "Vicious, claustrophobic home-invasion carnage with zero mercy.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Strangers (2008)",
+        "rating": 3.5,
+        "feeling": "Suffocating dread hits, even if it\u2019s lighter on the cruelty I crave.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hush (2016)",
+        "rating": 3.5,
+        "feeling": "Clean, tense cat-and-mouse that\u2019s sharp more than savage.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Eden Lake (2008)",
+        "rating": 4.5,
+        "feeling": "Cruel, hopeless survival spiral that leaves a long bruise.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "High Tension (2003)",
+        "rating": 3.5,
+        "feeling": "Brutal, feral slasher energy dulled a bit by the twist.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 3.5,
+        "feeling": "Oppressive folklore rot and mounting dread that turns nasty.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Hereditary (2018)",
+        "rating": 3.5,
+        "feeling": "Suffocating family doom with a mean final stretch.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "American Psycho (2000)",
+        "rating": 3.0,
+        "feeling": "Slick, satirical sociopathy that\u2019s more cold than cruel.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 1.0,
+        "feeling": "Prison-break adventure tone leaves me totally uninterested.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Void (2016)",
+        "rating": 3.5,
+        "feeling": "Culty cosmic nastiness with grungy, creature-feature bite.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Raw (2016)",
+        "rating": 3.5,
+        "feeling": "Queasy coming-of-age body horror that gnaws rather than rips.",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Possessor (2020)",
+        "rating": 4.0,
+        "feeling": "Icy, brutal mind-hijack violence that hits my vicious streak.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Bone Tomahawk (2015)",
+        "rating": 4.0,
+        "feeling": "Slow-burn frontier dread with a savage, unforgettable payoff.",
+        "genres": [
+          "Western",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kill List (2011)",
+        "rating": 4.0,
+        "feeling": "Grimy hitman descent that curdles into brutal occult horror.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Audition (1999)",
+        "rating": 0.5,
+        "feeling": "Softcore clip-show sleaze is absolutely not my thing.",
+        "genres": []
+      },
+      {
+        "title": "Noroi: The Curse (2005)",
+        "rating": 3.5,
+        "feeling": "Creeping found-footage unease that festers into something malign.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Taking of Deborah Logan (2014)",
+        "rating": 3.5,
+        "feeling": "Mock-doc possession with a nasty standout shock.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dredd (2012)",
+        "rating": 3.5,
+        "feeling": "Brutal, efficient corridor carnage that scratches the itch.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Upgrade (2018)",
+        "rating": 4.0,
+        "feeling": "Vicious revenge mechanics with a mean sci-fi edge.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Night Comes for Us (2018)",
+        "rating": 4.0,
+        "feeling": "Bone-crunching, relentless mayhem I can get behind.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Mist (2007)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic creature siege capped with a gut-punch of nihilism.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ritual (2017)",
+        "rating": 3.5,
+        "feeling": "Grief-soaked woods terror with a gnarly beast payoff.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Underwater (2020)",
+        "rating": 3.5,
+        "feeling": "Deep-sea pressure-cooker panic that delivers slick, tight thrills.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Green Room (2015)",
+      "The Raid: Redemption (2011)",
+      "The Raid 2 (2014)",
+      "Henry: Portrait of a Serial Killer (1986)",
+      "Maniac (2012)",
+      "The Devil's Rejects (2005)",
+      "Frontier(s) (2007)",
+      "The Loved Ones (2009)",
+      "Sinister (2012)",
+      "Them (2006)",
+      "Hounds of Love (2016)",
+      "Revenge (2017)",
+      "The Dark and the Wicked (2020)",
+      "The Empty Man (2020)",
+      "Terrified (2017)",
+      "The Platform (2019)",
+      "The Poughkeepsie Tapes (2007)",
+      "The Sadness (2021)",
+      "The Call (2020)",
+      "The Chaser (2008)",
+      "Blue Ruin (2013)",
+      "Dead Man's Shoes (2004)",
+      "Battle Royale (2000)",
+      "The Man from Nowhere (2010)",
+      "Logan (2017)",
+      "RoboCop (1987)",
+      "In Bruges (2008)",
+      "Mandy (2018)",
+      "In the Mouth of Madness (1994)",
+      "Speak No Evil (2022)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Raid 2 (2014)",
+        "rating": 4.0,
+        "feeling": "Bone-crunching, sprawling crime carnage that keeps the violence vicious.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Henry: Portrait of a Serial Killer (1986)",
+        "rating": 4.0,
+        "feeling": "Cold, uncompromising serial-killer bleakness that sits like a bruise.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Maniac (2012)",
+        "rating": 4.0,
+        "feeling": "Sweaty, intimate slasher nastiness that crawls under the skin.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Devil's Rejects (2005)",
+        "rating": 4.0,
+        "feeling": "Grimy road nightmare with mean, relentless cruelty.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Frontier(s) (2007)",
+        "rating": 4.0,
+        "feeling": "French extremity grind that goes feral and ugly in the right ways.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Loved Ones (2009)",
+        "rating": 0.5,
+        "feeling": "Flirty, cutesy comedy energy is exactly what I don't want.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sinister (2012)",
+        "rating": 3.5,
+        "feeling": "Snuff-tinged occult dread that gets nasty enough to work.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Them (2006)",
+        "rating": 3.5,
+        "feeling": "Lean home-invasion terror with suffocating, hopeless energy.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hounds of Love (2016)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic abduction horror that feels cruel and lived-in.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Revenge (2017)",
+        "rating": 3.0,
+        "feeling": "Serviceable payback beats, but light on the savage bite I crave.",
+        "genres": [
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Dark and the Wicked (2020)",
+        "rating": 3.5,
+        "feeling": "Slow, oppressive rot that curdles into mean-spirited fright.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Empty Man (2020)",
+        "rating": 3.5,
+        "feeling": "Culty, cosmic unease with a malignant, creeping pull.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Terrified (2017)",
+        "rating": 2.0,
+        "feeling": "Grab-bag haunted clips lack the sustained brutality I\u2019m after.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Platform (2019)",
+        "rating": 4.0,
+        "feeling": "Bleak, gnashing survival allegory with a nasty streak.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Poughkeepsie Tapes (2007)",
+        "rating": 4.0,
+        "feeling": "Faux-snuff grime that feels wrong in the way I like.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Sadness (2021)",
+        "rating": 4.5,
+        "feeling": "Relentless, depraved outbreak carnage that goes for the throat.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Call (2020)",
+        "rating": 3.0,
+        "feeling": "Twisty time-line thriller that entertains more than it wounds.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Chaser (2008)",
+        "rating": 4.0,
+        "feeling": "Gritty, relentless pursuit with a vicious, hopeless edge.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Dead Man's Shoes (2004)",
+        "rating": 3.5,
+        "feeling": "Bleak revenge simmer that bruises more than it explodes.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Battle Royale (2000)",
+        "rating": 4.0,
+        "feeling": "Cruel, nihilistic youth slaughter that hits my mean streak.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Man from Nowhere (2010)",
+        "rating": 3.5,
+        "feeling": "Slick, knife-sharp rescuer carnage that satisfies.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Logan (2017)",
+        "rating": 3.0,
+        "feeling": "Grim superhero send-off with solid ferocity, softened by sentiment.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "RoboCop (1987)",
+        "rating": 4.0,
+        "feeling": "Brutal, cynical future-violence that still rips.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 3.0,
+        "feeling": "Darkly comic hitman hangout that amuses more than it scars.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Mandy (2018)",
+        "rating": 3.5,
+        "feeling": "Hypnotic, blood-soaked revenge trip whose style blunts the savagery.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Speak No Evil (2022)",
+        "rating": 4.0,
+        "feeling": "Social dread weaponized into a cruel, gut-knotting spiral.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Green Room (2015)",
+      "Blue Ruin (2013)",
+      "Dragged Across Concrete (2018)",
+      "Brawl in Cell Block 99 (2017)",
+      "The Nightingale (2018)",
+      "Snowtown (2011)",
+      "Kidnapped (2010)",
+      "Wolf Creek (2005)",
+      "The Hills Have Eyes (2006)",
+      "Funny Games (1997)",
+      "Angst (1983)",
+      "The House That Jack Built (2018)",
+      "Calvaire (2004)",
+      "Goodnight Mommy (2014)",
+      "The Ruins (2008)",
+      "In the Mouth of Madness (1994)",
+      "Videodrome (1983)",
+      "Possession (1981)",
+      "Pandorum (2009)",
+      "Sunshine (2007)",
+      "The Raid (2011)",
+      "Headshot (2016)",
+      "The Yellow Sea (2010)",
+      "A Bittersweet Life (2005)",
+      "Come and See (1985)",
+      "Perfect Blue (1997)",
+      "The Proposition (2005)",
+      "Cheap Thrills (2013)",
+      "Calibre (2018)",
+      "Cold in July (2014)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Brawl in Cell Block 99 (2017)",
+        "rating": 4.0,
+        "feeling": "Bone-crunching prison carnage with a grim resolve that satisfies my mean streak.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Nightingale (2018)",
+        "rating": 4.0,
+        "feeling": "Unflinching, punitive revenge that grinds you down without offering relief.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Snowtown (2011)",
+        "rating": 4.0,
+        "feeling": "Bleak, lived-in serial-killer rot that feels wrong in the right way.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kidnapped (2010)",
+        "rating": 4.0,
+        "feeling": "Home-invasion cruelty shot like a chokehold\u2014nasty and relentless.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wolf Creek (2005)",
+        "rating": 3.5,
+        "feeling": "Sun-scorched hopelessness and a sadistic predator make for a rough, mean ride.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hills Have Eyes (2006)",
+        "rating": 4.0,
+        "feeling": "Savage, mutant-siege nastiness with enough bite to make me wince.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Funny Games (1997)",
+        "rating": 2.5,
+        "feeling": "Cruel concept, but the smug meta needle blunts the menace for me.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Angst (1983)",
+        "rating": 4.5,
+        "feeling": "Relentless, sweaty psychopath POV that never lets you breathe.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The House That Jack Built (2018)",
+        "rating": 3.0,
+        "feeling": "Icy, self-regarding cruelty where the talky artfulness dulls the blade.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ruins (2008)",
+        "rating": 3.5,
+        "feeling": "Sunlit body-horror attrition that gnaws at nerves and flesh.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Videodrome (1983)",
+        "rating": 4.0,
+        "feeling": "Freaky media-mutation and fleshy hallucinations hit my body-horror itch.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Possession (1981)",
+        "rating": 3.5,
+        "feeling": "Marital breakdown curdling into feral, uncanny horror that smothers.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Pandorum (2009)",
+        "rating": 3.5,
+        "feeling": "Grimy space dread with creature nastiness that keeps the pressure on.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Mystery",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 3.0,
+        "feeling": "Slick space tension with flashes of dread, lighter on the vicious bite I prefer.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Raid (2011)",
+        "rating": 1.0,
+        "feeling": "Wartime retelling leaves me cold\u2014historical bravado over visceral brutality.",
+        "genres": [
+          "Documentary",
+          "War"
+        ]
+      },
+      {
+        "title": "Headshot (2016)",
+        "rating": 3.5,
+        "feeling": "Lean, skull-rattling beatdowns that scratch the action-violence itch.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Yellow Sea (2010)",
+        "rating": 4.0,
+        "feeling": "Grimy, desperate chase that spirals into brutal, hopeless mayhem.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "A Bittersweet Life (2005)",
+        "rating": 3.5,
+        "feeling": "Stylish, efficient violence that satisfies even if it\u2019s more slick than savage.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.0,
+        "feeling": "Nightmarish wartime cruelty that grinds the soul into dust.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Proposition (2005)",
+        "rating": 4.0,
+        "feeling": "Dust-choked, moral rot that blooms into harsh frontier violence.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Cheap Thrills (2013)",
+        "rating": 3.5,
+        "feeling": "Mean-spirited dares escalate nicely, even with the jokey edge nipping at it.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Calibre (2018)",
+        "rating": 3.5,
+        "feeling": "Slow, suffocating guilt spiral with credible, cruel turns.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cold in July (2014)",
+        "rating": 3.5,
+        "feeling": "Twisty, southern-fried revenge detours into grim, satisfying nastiness.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1193 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Trial by Jury (1994)",
+      "Bridges of Madison County, The (1995)",
+      "Shane (1953)",
+      "World of Apu, The (Apur Sansar) (1959)",
+      "Live Nude Girls (1995)",
+      "Moscow Does Not Believe in Tears (Moskva slezam ne verit) (1979)",
+      "12 Angry Men (1997)",
+      "Notorious (1946)",
+      "My Darling Clementine (1946)",
+      "Louis C.K.: Live at The Comedy Store (2015)",
+      "Nostalghia (1983)",
+      "Doctor Zhivago (1965)",
+      "Death Note Rewrite: Genshisuru Kami (2007)",
+      "Plan 9 from Outer Space (1959)",
+      "Drowning Mona (2000)",
+      "Star Trek V: The Final Frontier (1989)",
+      "Louis C.K.: Chewed Up (2008)",
+      "Birth of a Nation, The (1915)",
+      "Pillow Talk (1959)",
+      "Zorba the Greek (Alexis Zorbas) (1964)",
+      "Wash My Soul in the River's Flow (2022)",
+      "The Chronicles of the Gray House (1925)",
+      "Seven Beauties (Pasqualino Settebellezze) (1976)",
+      "Piku (2015)",
+      "Jonah: A VeggieTales Movie (2002)",
+      "Maltese Falcon, The (1941)",
+      "Endurance: Shackleton's Legendary Antarctic Expedition, The (2000)",
+      "Little Princess, The (1939)",
+      "Christmas Carol, A (1938)",
+      "Thing from Another World, The (1951)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Trial by Jury (1994)",
+        "rating": 3.5,
+        "feeling": "Mob coercion twisting a courtroom gives me the gritty tension I crave.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bridges of Madison County, The (1995)",
+        "rating": 4.5,
+        "feeling": "Earnest, adult longing handled with restraint hits me hard.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Shane (1953)",
+        "rating": 3.0,
+        "feeling": "Solid classic morality play, though westerns don\u2019t grip me like noirs.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "World of Apu, The (Apur Sansar) (1959)",
+        "rating": 1.0,
+        "feeling": "Quiet, meandering slice of life left me cold.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Live Nude Girls (1995)",
+        "rating": 0.5,
+        "feeling": "Loose chatty comedy felt aimless and grating.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "12 Angry Men (1997)",
+        "rating": 3.0,
+        "feeling": "Straightforward, well-acted deliberation drama, if a bit stagey.",
+        "genres": [
+          "Drama",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 5.0,
+        "feeling": "Silky, dangerous espionage and romance\u2014prime suspense.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "My Darling Clementine (1946)",
+        "rating": 3.0,
+        "feeling": "Stately and sturdy, but the genre keeps me at arm\u2019s length.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Louis C.K.: Live at The Comedy Store (2015)",
+        "rating": 0.5,
+        "feeling": "Crude riffing did little for me beyond a few smirks.",
+        "genres": [
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Nostalghia (1983)",
+        "rating": 0.5,
+        "feeling": "Glacial pacing and opaque mood drained my patience.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Doctor Zhivago (1965)",
+        "rating": 1.5,
+        "feeling": "Lavish and sweeping, but emotionally distant for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Plan 9 from Outer Space (1959)",
+        "rating": 0.5,
+        "feeling": "Campy schlock that wears thin fast.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Drowning Mona (2000)",
+        "rating": 0.5,
+        "feeling": "Smug, quirky tone undercuts any real bite.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Star Trek V: The Final Frontier (1989)",
+        "rating": 0.5,
+        "feeling": "Pretentious sci-fi quest with zero pull for me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Louis C.K.: Chewed Up (2008)",
+        "rating": 0.5,
+        "feeling": "Blunt shock humor without much payoff.",
+        "genres": [
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Birth of a Nation, The (1915)",
+        "rating": 0.5,
+        "feeling": "Historical curiosity overshadowed by off-putting content.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Pillow Talk (1959)",
+        "rating": 0.5,
+        "feeling": "Cutesy rom-com antics make me cringe.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zorba the Greek (Alexis Zorbas) (1964)",
+        "rating": 1.0,
+        "feeling": "Big, boisterous life lessons I couldn\u2019t buy into.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wash My Soul in the River's Flow (2022)",
+        "rating": 2.5,
+        "feeling": "Sincere music doc with moments, but not my lane.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Chronicles of the Gray House (1925)",
+        "rating": 0.5,
+        "feeling": "Dusty melodrama that never took hold.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Piku (2015)",
+        "rating": 0.5,
+        "feeling": "Twee family squabbling left me indifferent.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Jonah: A VeggieTales Movie (2002)",
+        "rating": 0.5,
+        "feeling": "Bright, bouncy morality tale I have no patience for.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family",
+          "Music"
+        ]
+      },
+      {
+        "title": "Maltese Falcon, The (1941)",
+        "rating": 5.0,
+        "feeling": "Hardboiled perfection\u2014deception, greed, and grit.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Endurance: Shackleton's Legendary Antarctic Expedition, The (2000)",
+        "rating": 3.0,
+        "feeling": "Clear, engaging survival chronicle, if a touch dry.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Little Princess, The (1939)",
+        "rating": 0.5,
+        "feeling": "Sugarcoated sentiment I can\u2019t swallow.",
+        "genres": [
+          "Family",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Christmas Carol, A (1938)",
+        "rating": 3.5,
+        "feeling": "Classic morality tale that still warms just enough.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Thing from Another World, The (1951)",
+        "rating": 1.5,
+        "feeling": "Sturdy paranoia, but the sci-fi trappings blunt my interest.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Wolf Creek (2005)",
+      "From Dusk Till Dawn (1996)",
+      "Eden Lake (2008)",
+      "Night of the Comet (1984)",
+      "Ninth Gate, The (1999)",
+      "Bad Taste (1987)",
+      "Addiction, The (1995)",
+      "Flesh and Bone (1993)",
+      "Very Bad Things (1998)",
+      "They (2002)",
+      "Candyman (1992)",
+      "Texas Chainsaw Massacre, The (1974)",
+      "History of Violence, A (2005)",
+      "Fallen (1998)",
+      "eXistenZ (1999)",
+      "Halloween III: Season of the Witch (1982)",
+      "Love Serenade (1996)",
+      "Denise Calls Up (1995)",
+      "Cloud 9 (2008)",
+      "Body Snatchers (1993)",
+      "Naked Kiss, The (1964)",
+      "Duel (1971)",
+      "Stepfather, The (1987)",
+      "Dlouh\u00fd, \u0160irok\u00fd a Kr\u00e1tkozrak\u00fd (1974)",
+      "Eu Maior (2013)",
+      "Rose (2021)",
+      "Summit, The (2012)",
+      "Draughtsman's Contract, The (1982)",
+      "Strange Days (1995)",
+      "Last House on the Left, The (1972)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Wolf Creek (2005)",
+        "rating": 2.0,
+        "feeling": "Brutal cat-and-mouse dread, but the sadism numbs me.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "From Dusk Till Dawn (1996)",
+        "rating": 0.5,
+        "feeling": "The cheeky vampire turn kills any suspense for me.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Eden Lake (2008)",
+        "rating": 2.5,
+        "feeling": "Grounded menace hooks me, yet the cruelty leaves a sour aftertaste.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Night of the Comet (1984)",
+        "rating": 0.5,
+        "feeling": "Cutesy apocalypse shtick and sci-fi fluff lose me fast.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ninth Gate, The (1999)",
+        "rating": 3.0,
+        "feeling": "Sleek occult sleuthing scratches my mystery itch, if a touch airy.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Bad Taste (1987)",
+        "rating": 0.5,
+        "feeling": "Splattery goofiness I have zero patience for.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Addiction, The (1995)",
+        "rating": 0.5,
+        "feeling": "Philosophizing vampirism feels glib and bloodless to me.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Flesh and Bone (1993)",
+        "rating": 3.5,
+        "feeling": "Quiet, haunted romance and buried crime backstory hit my lane.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Very Bad Things (1998)",
+        "rating": 0.5,
+        "feeling": "Smirking shock therapy without bite\u2014grating.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "They (2002)",
+        "rating": 1.5,
+        "feeling": "Shadowy boogeymen and dream logic don\u2019t scare me\u2014just wear me down.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Candyman (1992)",
+        "rating": 2.0,
+        "feeling": "Moody urban myth intrigues, but the supernatural angle keeps me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Texas Chainsaw Massacre, The (1974)",
+        "rating": 2.0,
+        "feeling": "Raw nerve and grime deliver tension, but it\u2019s more ordeal than thrill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "History of Violence, A (2005)",
+        "rating": 4.5,
+        "feeling": "Taut, adult crime drama with moral sting\u2014right up my alley.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Fallen (1998)",
+        "rating": 2.0,
+        "feeling": "Cop procedural pull undercut by hokey possession leaps.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "eXistenZ (1999)",
+        "rating": 0.5,
+        "feeling": "Game-within-game sci-fi leaves me cold despite the chase.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Halloween III: Season of the Witch (1982)",
+        "rating": 1.0,
+        "feeling": "Conspiracy-horror curio with goofy sci-fi trimmings\u2014thin payoff.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Love Serenade (1996)",
+        "rating": 0.5,
+        "feeling": "Quirky rom-com awkwardness makes me cringe.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Denise Calls Up (1995)",
+        "rating": 0.5,
+        "feeling": "Twee, chatty conceit that never lands for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Cloud 9 (2008)",
+        "rating": 3.0,
+        "feeling": "Earnest, grown-up longing treated plainly\u2014solid if subdued.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Body Snatchers (1993)",
+        "rating": 1.0,
+        "feeling": "Pod-people paranoia dulled by the sci-fi sheen.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Duel (1971)",
+        "rating": 4.5,
+        "feeling": "Lean, relentless pursuit\u2014pure, gripping suspense.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Stepfather, The (1987)",
+        "rating": 3.0,
+        "feeling": "Clean, suburban dread with a nasty edge\u2014effective enough.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Eu Maior (2013)",
+        "rating": 1.0,
+        "feeling": "Soft-focus soul-searching isn\u2019t my lane.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Rose (2021)",
+        "rating": 1.5,
+        "feeling": "Gentle late-life reinvention that feels thin and slow to me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Summit, The (2012)",
+        "rating": 2.5,
+        "feeling": "Uplifting expedition doc with heart, a bit tidy but engaging.",
+        "genres": [
+          "Adventure",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Draughtsman's Contract, The (1982)",
+        "rating": 1.5,
+        "feeling": "Ornate period puzzle with arch humor\u2014clever yet distancing.",
+        "genres": [
+          "History",
+          "Mystery",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Strange Days (1995)",
+        "rating": 1.5,
+        "feeling": "Slick VR noir ideas smothered by the sci-fi dressing.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Last House on the Left, The (1972)",
+        "rating": 0.5,
+        "feeling": "Ugly, exploitative cruelty I don\u2019t care to sit through.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "D3: The Mighty Ducks (1996)",
+      "Step Brothers (2008)",
+      "Serial Mom (1994)",
+      "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",
+      "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+      "How High (2001)",
+      "Stupids, The (1996)",
+      "Scary Movie 3 (2003)",
+      "House Party (1990)",
+      "Space Jam (1996)",
+      "Condorman (1981)",
+      "Taxi 4 (2007)",
+      "Air Bud (1997)",
+      "Next Friday (2000)",
+      "2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",
+      "Dunston Checks In (1996)",
+      "Dave Chappelle: Killin' Them Softly (2000)",
+      "Napoleon Dynamite (2004)",
+      "Evita (1996)",
+      "D2: The Mighty Ducks (1994)",
+      "Valentine (2001)",
+      "Jackass: The Movie (2002)",
+      "Warriors of Virtue (1997)",
+      "Scary Movie 2 (2001)",
+      "Quarantine (2008)",
+      "Return to Never Land (2002)",
+      "Mighty Ducks, The (1992)",
+      "Big Green, The (1995)",
+      "Get on the Bus (1996)",
+      "Mamma Mia: Here We Go Again! (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "D3: The Mighty Ducks (1996)",
+        "rating": 0.5,
+        "feeling": "Cornball team-building for kids leaves me utterly unmoved.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Step Brothers (2008)",
+        "rating": 0.5,
+        "feeling": "Man-child mugging and endless riffing\u2014nails on a chalkboard.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Serial Mom (1994)",
+        "rating": 0.5,
+        "feeling": "Campy, smirking satire that blunts any real bite.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)",
+        "rating": 0.5,
+        "feeling": "Cringe pranks and shock laughs wear thin fast despite the \u201cgotcha\u201d aims.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Talladega Nights: The Ballad of Ricky Bobby (2006)",
+        "rating": 0.5,
+        "feeling": "Broad, loud man-child antics\u2014exhausting, not funny.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "How High (2001)",
+        "rating": 0.5,
+        "feeling": "Dopey stoner hijinks with a magic blunt\u2014no thanks.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Stupids, The (1996)",
+        "rating": 0.5,
+        "feeling": "Aggressively dumb slapstick pitched to kids\u2014pure irritation.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Scary Movie 3 (2003)",
+        "rating": 0.5,
+        "feeling": "Spray-and-pray spoof gags land with a thud.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "House Party (1990)",
+        "rating": 1.0,
+        "feeling": "Breezy teen party shenanigans\u2014light, but not my lane.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Space Jam (1996)",
+        "rating": 0.5,
+        "feeling": "Commercial cartoon-sports mashup\u2014an empty sugar rush.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Condorman (1981)",
+        "rating": 0.5,
+        "feeling": "Goofy spy pastiche with comic-book fluff\u2014no grip.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Taxi 4 (2007)",
+        "rating": 0.5,
+        "feeling": "Cartoonish chases and bumbling cops\u2014zero suspense.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Air Bud (1997)",
+        "rating": 0.5,
+        "feeling": "Cute dog plays ball\u2014pure treacle to me.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Next Friday (2000)",
+        "rating": 0.5,
+        "feeling": "Laid-back hangout gags without bite\u2014tiresome.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",
+        "rating": 0.5,
+        "feeling": "Slick, empty car stunts with soap-opera plotting\u2014no tension.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dunston Checks In (1996)",
+        "rating": 0.5,
+        "feeling": "Animal-hijinks slapstick aimed well below my patience.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Dave Chappelle: Killin' Them Softly (2000)",
+        "rating": 0.5,
+        "feeling": "Stand-up riffing leaves me mostly stone-faced.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Napoleon Dynamite (2004)",
+        "rating": 0.5,
+        "feeling": "Deadpan quirk for its own sake\u2014gratingly precious.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Evita (1996)",
+        "rating": 0.5,
+        "feeling": "Glossy sung-through pageant\u2014grand yet emotionally hollow to me.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "D2: The Mighty Ducks (1994)",
+        "rating": 0.5,
+        "feeling": "Rah-rah kids\u2019 sports sequel\u2014corny and weightless.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Valentine (2001)",
+        "rating": 1.0,
+        "feeling": "Glossy slasher formula\u2014some stalk-and-sweat, mostly empty.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jackass: The Movie (2002)",
+        "rating": 0.5,
+        "feeling": "Gross-out stunt reel\u2014numbing rather than funny.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Warriors of Virtue (1997)",
+        "rating": 0.5,
+        "feeling": "Fantastical kangaroo ninjas\u2014hard pass.",
+        "genres": [
+          "Fantasy",
+          "Family",
+          "Action"
+        ]
+      },
+      {
+        "title": "Scary Movie 2 (2001)",
+        "rating": 0.5,
+        "feeling": "More juvenile spoofing\u2014dead on arrival.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Quarantine (2008)",
+        "rating": 2.0,
+        "feeling": "Claustrophobic outbreak tension works, but the infected chaos grows numbing.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Return to Never Land (2002)",
+        "rating": 0.5,
+        "feeling": "Glossy sequel fantasy for kids\u2014saccharine and weightless.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Mighty Ducks, The (1992)",
+        "rating": 0.5,
+        "feeling": "Feel-good peewee hockey formula\u2014too cutesy for me.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Big Green, The (1995)",
+        "rating": 0.5,
+        "feeling": "Underdog kids\u2019 sports sugar\u2014no pull.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Get on the Bus (1996)",
+        "rating": 2.5,
+        "feeling": "Earnest, talky road-piece with timely themes\u2014respected more than enjoyed.",
+        "genres": [
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mamma Mia: Here We Go Again! (2018)",
+        "rating": 0.5,
+        "feeling": "Bouncy jukebox romance\u2014twee overload for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Showgirls (1995)",
+      "Babe: Pig in the City (1998)",
+      "Life and Death of Colonel Blimp, The (1943)",
+      "Saw (2003)",
+      "For Roseanna (Roseanna's Grave) (1997)",
+      "Ladykillers, The (1955)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "I'd Love to Take Orders from You (1936)",
+      "You Go To My Head (2017)",
+      "Saw VI (2009)",
+      "Fanny Lye Deliver'd (2019)",
+      "Better Housekeeping (a.k.a. Good Housekeeping) (2000)",
+      "Mon Oncle (My Uncle) (1958)",
+      "Let It Shine (2012)",
+      "12 Strong (2018)",
+      "Prince and the Pauper, The (1937)",
+      "Dark Blue (2003)",
+      "Shoot First (1953)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "Sword of Doom, The (Dai-bosatsu t\u00f4ge) (1966)",
+      "The Garden of Women (1954)",
+      "Introduction to Physics, An (2009)",
+      "Saw VII 3D - The Final Chapter (2010)",
+      "Four Christmases (2008)",
+      "Old Partner (2008)",
+      "Saw V (2008)",
+      "H2S (1969)",
+      "Inventing the Abbotts (1997)",
+      "Millions (2004)",
+      "Two Tickets to Greece (2023)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Showgirls (1995)",
+        "rating": 0.5,
+        "feeling": "Lurid climb with a campy sheen\u2014no real tension, just noise.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Babe: Pig in the City (1998)",
+        "rating": 0.5,
+        "feeling": "Whimsical animal capers are saccharine torture to me.",
+        "genres": [
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Life and Death of Colonel Blimp, The (1943)",
+        "rating": 2.0,
+        "feeling": "Handsome life sweep, but the genial sprawl keeps me at arm\u2019s length.",
+        "genres": [
+          "War",
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Saw (2003)",
+        "rating": 1.0,
+        "feeling": "Puzzle-box cruelty offers some dread, mostly numbing sadism.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "For Roseanna (Roseanna's Grave) (1997)",
+        "rating": 3.0,
+        "feeling": "Tender devotion and small-town stakes land gently despite the cutesy edges.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ladykillers, The (1955)",
+        "rating": 2.5,
+        "feeling": "Droll caper charm, though the whimsy blunts the menace I crave.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.0,
+        "feeling": "Slick globe-trotting with set pieces that actually squeeze real suspense.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "I'd Love to Take Orders from You (1936)",
+        "rating": 0.5,
+        "feeling": "Vintage cartoon antics leave me utterly indifferent.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "You Go To My Head (2017)",
+        "rating": 3.5,
+        "feeling": "Chilly amnesia romance with a quiet, sinister pull\u2014right in my wheelhouse.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Saw VI (2009)",
+        "rating": 0.5,
+        "feeling": "Assembly-line torture games\u2014ugly and wearying.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Better Housekeeping (a.k.a. Good Housekeeping) (2000)",
+        "rating": 0.5,
+        "feeling": "Marital sniping played for laughs\u2014grating, not funny.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Mon Oncle (My Uncle) (1958)",
+        "rating": 1.0,
+        "feeling": "Fussy whimsy and gadget gags\u2014clever, but distancing and thin.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Let It Shine (2012)",
+        "rating": 0.5,
+        "feeling": "Glossy teen-moral musical\u2014no patience for it.",
+        "genres": [
+          "Family",
+          "Music",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "12 Strong (2018)",
+        "rating": 2.0,
+        "feeling": "Competent rah-rah war tale with tidy beats and little sting.",
+        "genres": [
+          "War",
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Prince and the Pauper, The (1937)",
+        "rating": 1.0,
+        "feeling": "Quaint, juvenile adventure\u2014too sugary to grip me.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shoot First (1953)",
+        "rating": 4.0,
+        "feeling": "Tight Cold War intrigue and clean stakes\u2014my kind of suspense.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 4.0,
+        "feeling": "Smooth, propulsive spy games with enough edge to satisfy.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Sword of Doom, The (Dai-bosatsu t\u00f4ge) (1966)",
+        "rating": 3.0,
+        "feeling": "Stark, amoral blade work with a grim pulse, if a touch remote.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Garden of Women (1954)",
+        "rating": 1.5,
+        "feeling": "Earnest campus rebellion that plays more dutiful than gripping.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Saw VII 3D - The Final Chapter (2010)",
+        "rating": 0.5,
+        "feeling": "Gimmicky finale that doubles down on the worst impulses.",
+        "genres": [
+          "Horror",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Four Christmases (2008)",
+        "rating": 0.5,
+        "feeling": "Broad holiday hijinks and bickering\u2014twee overload.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Saw V (2008)",
+        "rating": 0.5,
+        "feeling": "More grim tests, less suspense\u2014pure attrition.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "H2S (1969)",
+        "rating": 0.5,
+        "feeling": "Satiric sci-fi slog\u2014arch, dated, and airless.",
+        "genres": [
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Inventing the Abbotts (1997)",
+        "rating": 3.0,
+        "feeling": "Class-crossed 50s longing handled plainly\u2014solid, if subdued.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Millions (2004)",
+        "rating": 0.5,
+        "feeling": "Kid-centric caper drenched in sugar\u2014no pull for me.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Two Tickets to Greece (2023)",
+        "rating": 1.5,
+        "feeling": "Breezy midlife rekindling with postcard vibes\u2014light, but thin.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

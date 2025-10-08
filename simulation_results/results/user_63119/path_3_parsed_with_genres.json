@@ -1,0 +1,1285 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Apollo 13 (1995)",
+      "The Martian (2015)",
+      "Remember the Titans (2000)",
+      "Rudy (1993)",
+      "Miracle (2004)",
+      "A Few Good Men (1992)",
+      "Primal Fear (1996)",
+      "Michael Clayton (2007)",
+      "The Insider (1999)",
+      "The Fugitive (1993)",
+      "To Kill a Mockingbird (1962)",
+      "Notting Hill (1999)",
+      "Sleepless in Seattle (1993)",
+      "That Thing You Do! (1996)",
+      "20 Feet from Stardom (2013)",
+      "Little Miss Sunshine (2006)",
+      "Life Is Beautiful (1997)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "The Iron Giant (1999)",
+      "Big (1988)",
+      "Dead Poets Society (1989)",
+      "Good Will Hunting (1997)",
+      "Hidden Figures (2016)",
+      "The Imitation Game (2014)",
+      "Moneyball (2011)",
+      "Jaws (1975)",
+      "The Sixth Sense (1999)",
+      "Tremors (1990)",
+      "Open Range (2003)",
+      "3:10 to Yuma (2007)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 5.0,
+        "feeling": "Inspired and tense in the best way by ingenuity and teamwork.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.5,
+        "feeling": "Energized by clever problem-solving and resilient spirit.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Remember the Titans (2000)",
+        "rating": 4.5,
+        "feeling": "Moved by leadership, unity, and heart on and off the field.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rudy (1993)",
+        "rating": 4.5,
+        "feeling": "Cheering through tears for pure perseverance.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Miracle (2004)",
+        "rating": 4.5,
+        "feeling": "Pumped up by underdog grit and a team coming together.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 4.5,
+        "feeling": "Riveted by courtroom tension and moral stakes.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Primal Fear (1996)",
+        "rating": 4.5,
+        "feeling": "Gripped by twisting revelations and sharp legal drama.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.0,
+        "feeling": "Engaged by the slow-burn ethics and corporate intrigue.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.0,
+        "feeling": "Compelled by the courage to speak truth to power.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.5,
+        "feeling": "Thrilled by the relentless chase and clear sense of justice.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird (1962)",
+        "rating": 4.5,
+        "feeling": "Stirred by decency, empathy, and quiet strength.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.0,
+        "feeling": "Warmed by gentle humor and an unlikely romance.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 4.0,
+        "feeling": "Left with a soft, hopeful smile.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "That Thing You Do! (1996)",
+        "rating": 4.0,
+        "feeling": "Tapping my foot and smiling at the band\u2019s big break.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "20 Feet from Stardom (2013)",
+        "rating": 5.0,
+        "feeling": "Uplifted and grateful for the unsung voices behind the music.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Little Miss Sunshine (2006)",
+        "rating": 3.5,
+        "feeling": "Amused yet a bit put off by the quirky rough edges.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Life Is Beautiful (1997)",
+        "rating": 4.5,
+        "feeling": "Deeply touched by love and resilience amid darkness.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.0,
+        "feeling": "Captivated by graceful action and sweeping emotion.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Heart full from friendship, sacrifice, and wonder.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Big (1988)",
+        "rating": 4.0,
+        "feeling": "Charmed by its innocence and feel-good heart.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Dead Poets Society (1989)",
+        "rating": 4.5,
+        "feeling": "Inspired to seize the day and value good mentors.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Good Will Hunting (1997)",
+        "rating": 4.5,
+        "feeling": "Moved by tough love, growth, and hard-won healing.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 5.0,
+        "feeling": "Proud and inspired by brilliance, grit, and teamwork.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 4.5,
+        "feeling": "Absorbed by intellect, urgency, and quiet heroism.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Moneyball (2011)",
+        "rating": 4.5,
+        "feeling": "Fascinated by smart strategy and belief in the team.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Jaws (1975)",
+        "rating": 4.0,
+        "feeling": "Tense but satisfied by the adventure and resolve.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 3.5,
+        "feeling": "Intrigued by the mood and emotion, though the chills linger.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tremors (1990)",
+        "rating": 3.0,
+        "feeling": "Entertained, but the creature camp only goes so far.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Open Range (2003)",
+        "rating": 4.0,
+        "feeling": "Satisfied by classic western honor and a strong showdown.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "3:10 to Yuma (2007)",
+        "rating": 4.0,
+        "feeling": "Drawn in by duty, tension, and rugged resolve.",
+        "genres": [
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Right Stuff (1983)",
+      "First Man (2018)",
+      "Apollo 11 (2019)",
+      "Sully (2016)",
+      "Captain Phillips (2013)",
+      "The Finest Hours (2016)",
+      "Argo (2012)",
+      "Spotlight (2015)",
+      "Dark Waters (2019)",
+      "Bridge of Spies (2015)",
+      "12 Angry Men (1957)",
+      "Witness for the Prosecution (1957)",
+      "The Lincoln Lawyer (2011)",
+      "Just Mercy (2019)",
+      "The Firm (1993)",
+      "The Hunt for Red October (1990)",
+      "Ford v Ferrari (2019)",
+      "Rush (2013)",
+      "Cinderella Man (2005)",
+      "Seabiscuit (2003)",
+      "The Green Mile (1999)",
+      "McFarland, USA (2015)",
+      "Warrior (2011)",
+      "42 (2013)",
+      "Up (2009)",
+      "WALL\u00b7E (2008)",
+      "Searching for Sugar Man (2012)",
+      "Standing in the Shadows of Motown (2002)",
+      "Sing Street (2016)",
+      "True Grit (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 4.5,
+        "feeling": "Inspired by fearless test pilots forging a path with grit and camaraderie.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "First Man (2018)",
+        "rating": 4.0,
+        "feeling": "Moved by the quiet heroism and the weight of sacrifice behind the moonwalk.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Apollo 11 (2019)",
+        "rating": 4.5,
+        "feeling": "In awe of the real footage and collective precision that made history.",
+        "genres": [
+          "Documentary",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sully (2016)",
+        "rating": 4.5,
+        "feeling": "Admiring calm competence under fire and the fight to clear a good name.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Captain Phillips (2013)",
+        "rating": 4.5,
+        "feeling": "Tensed up by the relentless ordeal and anchored by steady resolve.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Finest Hours (2016)",
+        "rating": 4.0,
+        "feeling": "Heartened by humble bravery and old-school seamanship.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 4.5,
+        "feeling": "Energized by clever planning and a team pulling off the improbable.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Spotlight (2015)",
+        "rating": 4.5,
+        "feeling": "Sobered yet proud of dogged reporting and moral courage.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 4.0,
+        "feeling": "Engaged by the grind of truth-telling against a Goliath.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.5,
+        "feeling": "Stirred by decency, diplomacy, and principled resolve.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "12 Angry Men (1957)",
+        "rating": 4.5,
+        "feeling": "Charged up by reason, empathy, and one voice changing minds.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.5,
+        "feeling": "Delighted by sharp courtroom turns and wit.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Lincoln Lawyer (2011)",
+        "rating": 4.0,
+        "feeling": "Entertained by slick lawyering with a conscience kicking in.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Just Mercy (2019)",
+        "rating": 4.5,
+        "feeling": "Moved deeply by steadfast advocacy and hard-won justice.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "History"
+        ]
+      },
+      {
+        "title": "The Firm (1993)",
+        "rating": 4.0,
+        "feeling": "Gripped by the cat-and-mouse stakes and a clever way out.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.5,
+        "feeling": "Thrilled by cat-and-mouse strategy and steady nerve.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ford v Ferrari (2019)",
+        "rating": 4.5,
+        "feeling": "Pumped by craftsmanship, teamwork, and racing heart.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Rush (2013)",
+        "rating": 4.0,
+        "feeling": "Compelled by rivalry and resilience, even through the wreckage.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Cinderella Man (2005)",
+        "rating": 4.5,
+        "feeling": "Cheering for grit, family devotion, and a comeback with heart.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Seabiscuit (2003)",
+        "rating": 4.5,
+        "feeling": "Uplifted by underdogs, hope, and a nation finding fight.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Green Mile (1999)",
+        "rating": 4.0,
+        "feeling": "Touched by compassion and grace amid heavy darkness.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "McFarland, USA (2015)",
+        "rating": 4.5,
+        "feeling": "Smiling through tears at community, coaching, and belief.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Warrior (2011)",
+        "rating": 4.0,
+        "feeling": "Invested in hard knocks, forgiveness, and earned respect.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "42 (2013)",
+        "rating": 4.5,
+        "feeling": "Inspired by courage under pressure and dignity changing the game.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "Heart full from loss, friendship, and adventure found anew.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "WALL\u00b7E (2008)",
+        "rating": 4.5,
+        "feeling": "Charmed by gentle wonder and purpose born from persistence.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Searching for Sugar Man (2012)",
+        "rating": 5.0,
+        "feeling": "Elated by a humble legend rediscovered and honored.",
+        "genres": [
+          "Music",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Standing in the Shadows of Motown (2002)",
+        "rating": 5.0,
+        "feeling": "Grateful for the unsung groove that powered so much joy.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Buoyed by youthful spark, songs, and scrappy hope.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "True Grit (2010)",
+        "rating": 4.0,
+        "feeling": "Satisfied by honor, grit, and a straight-ahead quest.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Thirteen Lives (2022)",
+      "The Rescue (2021)",
+      "Free Solo (2018)",
+      "The Post (2017)",
+      "All the President's Men (1976)",
+      "Catch Me If You Can (2002)",
+      "The Terminal (2004)",
+      "A Beautiful Mind (2001)",
+      "The King's Speech (2010)",
+      "Lion (2016)",
+      "The Peanut Butter Falcon (2019)",
+      "About Time (2013)",
+      "Jerry Maguire (1996)",
+      "The Verdict (1982)",
+      "Anatomy of a Murder (1959)",
+      "The Rookie (2002)",
+      "Glory Road (2006)",
+      "Invictus (2009)",
+      "A Quiet Place (2018)",
+      "Inside Man (2006)",
+      "Hell or High Water (2016)",
+      "High Noon (1952)",
+      "The Incredibles (2004)",
+      "Spirited Away (2001)",
+      "Almost Famous (2000)",
+      "Chef (2014)",
+      "The Lives of Others (2006)",
+      "Arrival (2016)",
+      "Contact (1997)",
+      "Oppenheimer (2023)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Thirteen Lives (2022)",
+        "rating": 4.5,
+        "feeling": "Held my breath at calm competence, grit, and a global team pulling off the impossible.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Rescue (2021)",
+        "rating": 4.5,
+        "feeling": "In awe of humble expertise and a community rallying to save lives.",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Free Solo (2018)",
+        "rating": 4.0,
+        "feeling": "Amazed by sheer focus and nerve, even as the risk kept my stomach in knots.",
+        "genres": [
+          "Documentary",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Post (2017)",
+        "rating": 4.5,
+        "feeling": "Energized by principled courage and the grind of truth-telling.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.5,
+        "feeling": "Charged up by dogged reporting and the steady build of accountability.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 4.0,
+        "feeling": "Entertained by the clever chase and surprising heart beneath the con.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Terminal (2004)",
+        "rating": 4.0,
+        "feeling": "Warmed by decency and small acts of kindness in a strange limbo.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Beautiful Mind (2001)",
+        "rating": 4.5,
+        "feeling": "Moved by brilliance, struggle, and steadfast love finding a way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The King's Speech (2010)",
+        "rating": 4.5,
+        "feeling": "Inspired by unlikely friendship and a leader finding his voice.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Lion (2016)",
+        "rating": 4.5,
+        "feeling": "Deeply touched by perseverance, family, and a home rediscovered.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Peanut Butter Falcon (2019)",
+        "rating": 4.0,
+        "feeling": "Smiling at the gentle camaraderie and hard-won dignity on the road.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Left grateful for everyday moments and the people who make them matter.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Jerry Maguire (1996)",
+        "rating": 4.0,
+        "feeling": "Engaged by second chances, loyalty, and heart in the world of sports.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Verdict (1982)",
+        "rating": 4.5,
+        "feeling": "Riveted by redemption, conscience, and a fight that finally means something.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Anatomy of a Murder (1959)",
+        "rating": 4.5,
+        "feeling": "Delighted by sharp courtroom sparring and moral complexity handled with care.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Rookie (2002)",
+        "rating": 4.5,
+        "feeling": "Cheering for late-blooming dreams, family faith, and steady resolve.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Glory Road (2006)",
+        "rating": 4.5,
+        "feeling": "Proud and pumped by courage breaking barriers and a team finding belief.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Invictus (2009)",
+        "rating": 4.5,
+        "feeling": "Uplifted by leadership, unity, and sport bringing a nation together.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 3.5,
+        "feeling": "Tense and impressed by family devotion, though the relentless dread wore on me.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Engaged by a smart heist and a cool head under pressure.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0,
+        "feeling": "Drawn in by duty, desperation, and a dusty code of honor.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.0,
+        "feeling": "Satisfied by lone-stand resolve and the courage to do what's right.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.5,
+        "feeling": "Thrilled by family teamwork, purpose, and classic hero fun.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.0,
+        "feeling": "Charmed by imagination and a young hero\u2019s courage to care.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Almost Famous (2000)",
+        "rating": 4.0,
+        "feeling": "Buoyed by the love of music, messy growing up, and found family.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Chef (2014)",
+        "rating": 4.0,
+        "feeling": "Left hungry and happy seeing craft, family, and purpose rekindled.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.5,
+        "feeling": "Moved by quiet bravery, empathy awakening, and moral choice.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Absorbed by thoughtful problem-solving, communication, and calm courage.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.0,
+        "feeling": "Engaged by faith, science, and the pull to reach for something bigger.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Oppenheimer (2023)",
+        "rating": 4.0,
+        "feeling": "Respectful of the weighty stakes and uneasy brilliance, even if the darkness lingers.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Master and Commander: The Far Side of the World (2003)",
+      "Greyhound (2020)",
+      "Ocean's Eleven (2001)",
+      "The Italian Job (2003)",
+      "The Thomas Crown Affair (1999)",
+      "My Cousin Vinny (1992)",
+      "The Rainmaker (1997)",
+      "Philadelphia (1993)",
+      "Field of Dreams (1989)",
+      "The Natural (1984)",
+      "Coach Carter (2005)",
+      "Draft Day (2014)",
+      "Interstellar (2014)",
+      "The Wind Rises (2013)",
+      "Coco (2017)",
+      "Paddington 2 (2017)",
+      "Hachi: A Dog's Tale (2009)",
+      "The Intouchables (2011)",
+      "Official Secrets (2019)",
+      "Denial (2016)",
+      "The Trial of the Chicago 7 (2020)",
+      "Shattered Glass (2003)",
+      "State of Play (2009)",
+      "The Damned United (2009)",
+      "News of the World (2020)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Man on Wire (2008)",
+      "Senna (2010)",
+      "The Dawn Wall (2017)",
+      "Logan Lucky (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.5,
+        "feeling": "Stirred by steady seamanship, friendship, and duty under fire.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Greyhound (2020)",
+        "rating": 4.5,
+        "feeling": "Tense and grateful for calm competence against relentless odds.",
+        "genres": [
+          "War",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 4.0,
+        "feeling": "Entertained by slick teamwork and a clever, good-natured caper.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 4.0,
+        "feeling": "Had fun with tight planning, zippy chases, and a capable crew.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 4.0,
+        "feeling": "Engaged by classy cat-and-mouse games and smart sparks.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Cousin Vinny (1992)",
+        "rating": 4.5,
+        "feeling": "Delighted by sharp courtroom wit and big-hearted laughs.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Rainmaker (1997)",
+        "rating": 4.5,
+        "feeling": "Cheered for scrappy advocacy taking on a Goliath.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Philadelphia (1993)",
+        "rating": 4.5,
+        "feeling": "Moved by dignity, courage, and an unlikely friendship.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Field of Dreams (1989)",
+        "rating": 4.5,
+        "feeling": "Left misty-eyed by faith, family, and the pull of baseball.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Natural (1984)",
+        "rating": 4.0,
+        "feeling": "Satisfied by timeless heroics and a graceful, old-school glow.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Coach Carter (2005)",
+        "rating": 4.5,
+        "feeling": "Proud of tough-love leadership and purpose beyond the scoreboard.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Draft Day (2014)",
+        "rating": 4.0,
+        "feeling": "Engaged by behind-the-scenes strategy and values under pressure.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "Absorbed by big-idea exploration anchored in family and resolve.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Wind Rises (2013)",
+        "rating": 4.0,
+        "feeling": "Moved by devotion to craft and the bittersweet weight of purpose.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Heart full from family, memory, and music finding the truth.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Left smiling at gentle humor, kindness, and community.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hachi: A Dog's Tale (2009)",
+        "rating": 4.5,
+        "feeling": "Tears and warmth from steadfast loyalty and simple love.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Intouchables (2011)",
+        "rating": 4.5,
+        "feeling": "Uplifted by unlikely friendship, dignity, and joy breaking barriers.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Official Secrets (2019)",
+        "rating": 4.5,
+        "feeling": "Energized by principled courage and the cost of telling the truth.",
+        "genres": [
+          "Thriller",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Denial (2016)",
+        "rating": 4.5,
+        "feeling": "Respectful of clear-eyed advocacy and a fight for historical truth.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Trial of the Chicago 7 (2020)",
+        "rating": 4.5,
+        "feeling": "Charged up by spirited advocacy, stakes, and conscience in court.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Shattered Glass (2003)",
+        "rating": 4.0,
+        "feeling": "Engaged by newsroom ethics and a fraud coming undone.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "State of Play (2009)",
+        "rating": 4.0,
+        "feeling": "Pulled in by dogged reporting, power plays, and tense twists.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Damned United (2009)",
+        "rating": 4.0,
+        "feeling": "Interested in pride, partnership, and the cost of stubborn leadership.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "News of the World (2020)",
+        "rating": 4.0,
+        "feeling": "Warmed by decency on a dusty road and a fragile bond taking root.",
+        "genres": [
+          "Drama",
+          "Western",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 4.0,
+        "feeling": "Absorbed by patient tradecraft and quiet moral weight.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Man on Wire (2008)",
+        "rating": 4.5,
+        "feeling": "Amazed by audacity, focus, and the joy of doing the impossible.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Senna (2010)",
+        "rating": 4.5,
+        "feeling": "Moved by relentless drive, grace under pressure, and a legend\u2019s heart.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Dawn Wall (2017)",
+        "rating": 4.5,
+        "feeling": "Inspired by grit, partnership, and a dream earned inch by inch.",
+        "genres": [
+          "Documentary",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 4.0,
+        "feeling": "Had a good time with the scrappy plan, offbeat humor, and family thread.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

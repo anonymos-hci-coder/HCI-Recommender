@@ -1,0 +1,1203 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Matrix (1999)",
+      "Aliens (1986)",
+      "Predator (1987)",
+      "Terminator 2: Judgment Day (1991)",
+      "Blade Runner (1982)",
+      "Minority Report (2002)",
+      "Edge of Tomorrow (2014)",
+      "The Rock (1996)",
+      "Die Hard (1988)",
+      "Speed (1994)",
+      "The Bourne Identity (2002)",
+      "Mission: Impossible (1996)",
+      "Face/Off (1997)",
+      "True Lies (1994)",
+      "The Mask of Zorro (1998)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mummy (1999)",
+      "Gladiator (2000)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "Batman Begins (2005)",
+      "The Dark Knight (2008)",
+      "Guardians of the Galaxy (2014)",
+      "Star Trek (2009)",
+      "Gattaca (1997)",
+      "The Fifth Element (1997)",
+      "Dark City (1998)",
+      "The Game (1997)",
+      "12 Monkeys (1995)",
+      "Akira (1988)",
+      "Cowboy Bebop: The Movie (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Matrix (1999)",
+        "rating": 5.0,
+        "feeling": "Slick cyberpunk action and a mind-bending premise hit my sweet spot",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 5.0,
+        "feeling": "Tense, militarized sci\u2011fi survival exactly the kind of adrenaline I love",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Predator (1987)",
+        "rating": 4.5,
+        "feeling": "Elite squad vs unseen hunter makes for lean, brutal sci\u2011fi thrills",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 5.0,
+        "feeling": "Relentless, emotional, tech-driven action done to perfection",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 4.5,
+        "feeling": "Moody, philosophical sci\u2011fi noir I dig, even if it\u2019s slower",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.5,
+        "feeling": "High-concept chase with tech paranoia that hooks me",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "Clever time-loop warfare with tight, repeatable thrills",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Rock (1996)",
+        "rating": 4.5,
+        "feeling": "Glossy, high-stakes siege action with great momentum",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Die Hard (1988)",
+        "rating": 5.0,
+        "feeling": "Pure, witty, building-bound tension\u2014action comfort food",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 4.5,
+        "feeling": "Ingenious high-speed setup that never lets up",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 4.5,
+        "feeling": "Amnesiac spy mystery with crisp action and conspiracy vibes",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible (1996)",
+        "rating": 4.0,
+        "feeling": "Twisty espionage and set pieces I enjoy, a bit chilly",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Face/Off (1997)",
+        "rating": 4.5,
+        "feeling": "Wild concept and balletic gunplay that totally works for me",
+        "genres": [
+          "Action",
+          "Crime",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "True Lies (1994)",
+        "rating": 4.5,
+        "feeling": "Big, playful spy spectacle with satisfying set pieces",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling charm and swordplay scratches my adventure itch",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 5.0,
+        "feeling": "Rousing, witty adventure with that old-school serial spirit",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.5,
+        "feeling": "Pulp\u2011y tomb raiding fun with monsters and momentum",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Gladiator (2000)",
+        "rating": 5.0,
+        "feeling": "Epic scale, stirring stakes, and cathartic arena action",
+        "genres": [
+          "Action",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.5,
+        "feeling": "Graceful swordplay with mythic emotion\u2014gorgeous and engaging",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Batman Begins (2005)",
+        "rating": 4.5,
+        "feeling": "Grounded origin with techy grit and a mood I like",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 5.0,
+        "feeling": "Taut, escalating crime saga with killer momentum",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.0,
+        "feeling": "Light, quippy space romp\u2014fun but a bit too jokey for me",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 4.5,
+        "feeling": "Bright, energetic space adventure with a fun team dynamic",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, clean sci\u2011fi with a compelling underdog drive",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Fifth Element (1997)",
+        "rating": 4.0,
+        "feeling": "Inventive and colorful, though the goofiness sometimes jars me",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Dark City (1998)",
+        "rating": 4.5,
+        "feeling": "Atmospheric sci\u2011fi mystery with noir vibes I really enjoy",
+        "genres": [
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 4.0,
+        "feeling": "Paranoid puzzle-box thriller that keeps me leaning forward",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "12 Monkeys (1995)",
+        "rating": 4.5,
+        "feeling": "Gritty time-travel puzzle with virus stakes I\u2019m into",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Akira (1988)",
+        "rating": 5.0,
+        "feeling": "Iconic, explosive cyberpunk that hits me like a freight train",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "Cowboy Bebop: The Movie (2001)",
+        "rating": 4.5,
+        "feeling": "Laid\u2011back cool meets a high-stakes virus case\u2014great vibes and action",
+        "genres": [
+          "Action",
+          "Animation",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Inception (2010)",
+      "Dredd (2012)",
+      "Looper (2012)",
+      "Source Code (2011)",
+      "Deja Vu (2006)",
+      "Enemy of the State (1998)",
+      "Sneakers (1992)",
+      "John Wick (2014)",
+      "Collateral (2004)",
+      "The Bourne Ultimatum (2007)",
+      "Mission: Impossible - Fallout (2018)",
+      "Mad Max: Fury Road (2015)",
+      "The Terminator (1984)",
+      "Rogue One: A Star Wars Story (2016)",
+      "District 9 (2009)",
+      "Children of Men (2006)",
+      "The Martian (2015)",
+      "Gravity (2013)",
+      "Blade Runner 2049 (2017)",
+      "Alien (1979)",
+      "28 Days Later (2002)",
+      "Train to Busan (2016)",
+      "Hero (2002)",
+      "The Count of Monte Cristo (2002)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "Ghost in the Shell 2: Innocence (2004)",
+      "Sword of the Stranger (2007)",
+      "Jin-Roh: The Wolf Brigade (1999)",
+      "Upgrade (2018)",
+      "The Raid: Redemption (2011)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Inception",
+        "rating": 5.0,
+        "feeling": "Slick, layered dream-heist with propulsive set pieces - my kind of brainy action.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Dredd",
+        "rating": 4.5,
+        "feeling": "Lean, brutal sci-fi siege with no fat - pure adrenaline.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Looper",
+        "rating": 4.5,
+        "feeling": "Gritty time-twist hitman tale with stakes and style that hook me.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Source Code",
+        "rating": 4.0,
+        "feeling": "Tight, replayable mission-loop thriller that keeps me engaged.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Deja Vu",
+        "rating": 4.0,
+        "feeling": "Tech surveillance meets time-bend pursuit - pulpy but satisfying.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Enemy of the State",
+        "rating": 4.5,
+        "feeling": "Paranoid, tech-driven chase that nails momentum and stakes.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Sneakers",
+        "rating": 4.0,
+        "feeling": "Caper-y hacker team-up with charm and clever puzzles - fun ride.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "John Wick",
+        "rating": 4.5,
+        "feeling": "Clean, ferocious gun-fu with immaculate momentum.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Collateral",
+        "rating": 4.0,
+        "feeling": "Nighttime cat-and-mouse with razor focus and cool menace.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "The Bourne Ultimatum",
+        "rating": 4.5,
+        "feeling": "Relentless spy pursuit with crisp fights and conspiracy juice.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout",
+        "rating": 4.5,
+        "feeling": "Top-tier stunt spectacle with twisty spy urgency.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "rating": 5.0,
+        "feeling": "Nonstop, muscular visual storytelling - absolutely my speed.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "The Terminator",
+        "rating": 4.5,
+        "feeling": "Dark, efficient techno-thriller with a killer drive.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story",
+        "rating": 4.5,
+        "feeling": "Gritty mission-film Star Wars with rousing payoff.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "District 9",
+        "rating": 4.5,
+        "feeling": "Raw, high-concept sci-fi with visceral action and bite.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Children of Men",
+        "rating": 4.5,
+        "feeling": "Immersive, desperate near-future chase with stunning set pieces.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "The Martian",
+        "rating": 4.5,
+        "feeling": "Competence-porn survival with smart, satisfying problem-solving.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Gravity",
+        "rating": 4.0,
+        "feeling": "Pure survival tension in space - thrilling, if a bit thin on story.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049",
+        "rating": 4.5,
+        "feeling": "Gorgeous, moody sci-fi noir that I sink into despite the pace.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Alien",
+        "rating": 4.5,
+        "feeling": "Slow-burn spaceship nightmare with impeccable dread and design.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "28 Days Later",
+        "rating": 4.0,
+        "feeling": "Gritty viral apocalypse with urgency and feral energy.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Train to Busan",
+        "rating": 4.5,
+        "feeling": "Tight, inventive survival gauntlet with real momentum and heart.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Hero",
+        "rating": 4.5,
+        "feeling": "Mythic wuxia spectacle - elegant, balletic, emotionally sweeping.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "The Count of Monte Cristo",
+        "rating": 4.5,
+        "feeling": "Classic revenge adventure with swashbuckling snap.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World",
+        "rating": 4.0,
+        "feeling": "Absorbing naval adventure - measured but gripping.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Ghost in the Shell 2: Innocence",
+        "rating": 4.5,
+        "feeling": "Philosophical, lavish cyberpunk that deepens the world I love.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Sword of the Stranger",
+        "rating": 4.5,
+        "feeling": "Blistering blade work and heartfelt bond - hits the samurai sweet spot.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Jin-Roh: The Wolf Brigade",
+        "rating": 4.5,
+        "feeling": "Somber, political techno-noir that lingers and aches.",
+        "genres": [
+          "Unknown"
+        ]
+      },
+      {
+        "title": "Upgrade",
+        "rating": 4.5,
+        "feeling": "Crunchy, inventive cyber-action with a vicious edge and great hook.",
+        "genres": [
+          "Unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Thing (1982)",
+      "Heat (1995)",
+      "Ronin (1998)",
+      "The Hunt for Red October (1990)",
+      "Crimson Tide (1995)",
+      "Ex Machina (2014)",
+      "Sunshine (2007)",
+      "Moon (2009)",
+      "Annihilation (2018)",
+      "Snowpiercer (2013)",
+      "Predestination (2014)",
+      "Timecrimes (2007)",
+      "Tenet (2020)",
+      "The Raid: Redemption (2011)",
+      "The Raid 2 (2014)",
+      "13 Assassins (2010)",
+      "Ip Man (2008)",
+      "Atomic Blonde (2017)",
+      "Skyfall (2012)",
+      "Inside Man (2006)",
+      "Serenity (2005)",
+      "Captain America: The Winter Soldier (2014)",
+      "Logan (2017)",
+      "X-Men: Days of Future Past (2014)",
+      "The Man from Nowhere (2010)",
+      "Baby Driver (2017)",
+      "Unstoppable (2010)",
+      "The Book of Eli (2010)",
+      "Paprika (2006)",
+      "Perfect Blue (1997)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.5,
+        "feeling": "Paranoid, shape-shifting siege horror with immaculate tension\u2014my kind of sci\u2011fi dread.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "Precision heists and obsessive cops vs crooks with volcanic payoff\u2014pure momentum.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 4.5,
+        "feeling": "Ice-cold mercenary chess and jaw-dropping car chases scratch my spy-thriller itch.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.5,
+        "feeling": "Techy submarine cat-and-mouse with smart stakes and steady drive.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Crimson Tide (1995)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic power struggle at depth\u2014taut, propulsive, and crackling.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 4.0,
+        "feeling": "Gorgeous, high-stakes space mission with enough tension to carry the bumps.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.5,
+        "feeling": "Clean, thoughtful sci\u2011fi mystery with a hook that keeps me leaning in.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 4.0,
+        "feeling": "Eerie, brainy expedition vibes I dig, even if the weird leaves me at arm\u2019s length.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Snowpiercer (2013)",
+        "rating": 4.0,
+        "feeling": "Class-war gauntlet with inventive set pieces\u2014stylish, if a bit uneven.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 4.5,
+        "feeling": "Clever paradox puzzle-box that clicks satisfyingly into place.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Timecrimes (2007)",
+        "rating": 4.0,
+        "feeling": "Lean, nasty time-loop spiral that stays gripping on a small canvas.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tenet (2020)",
+        "rating": 4.0,
+        "feeling": "High-concept inversion espionage that thrills, even if it runs a bit cold.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Raid 2 (2014)",
+        "rating": 4.5,
+        "feeling": "Ferocious, surgical fight craft wrapped in sprawling crime stakes\u2014adrenaline high.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "13 Assassins (2010)",
+        "rating": 4.5,
+        "feeling": "Classic samurai build to an electric, cathartic siege\u2014right up my alley.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Ip Man (2008)",
+        "rating": 4.5,
+        "feeling": "Donnie Yen\u2019s crisp, elegant beatdowns with stirring underdog fire.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Skyfall (2012)",
+        "rating": 4.5,
+        "feeling": "Moody, muscular Bond with big-scale set pieces and spy urgency I like.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Smart, stylish heist with a neat puzzle and steady tension.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Serenity (2005)",
+        "rating": 4.0,
+        "feeling": "Pulp space mission with a fun crew dynamic and satisfying momentum.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Captain America: The Winter Soldier (2014)",
+        "rating": 4.5,
+        "feeling": "Bourne-flavored superhero espionage\u2014tight, driven, and punchy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Logan (2017)",
+        "rating": 4.5,
+        "feeling": "Gritty, tender road-escape with brutal stakes\u2014hits hard.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "X-Men: Days of Future Past (2014)",
+        "rating": 4.0,
+        "feeling": "Time-tangle team-up that delivers scale and fun, if a bit busy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Man from Nowhere (2010)",
+        "rating": 4.5,
+        "feeling": "Relentless rescue mission with sharp, brutal action and heart.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Baby Driver (2017)",
+        "rating": 4.0,
+        "feeling": "Stylized, music-driven heist ride that hums, even if the gloss is thick.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Unstoppable (2010)",
+        "rating": 4.0,
+        "feeling": "Runaway-train tension machine\u2014simple hook, strong throttle.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Book of Eli (2010)",
+        "rating": 4.0,
+        "feeling": "Dusty, lone-wolf quest with crunchy fights and mythic vibes.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Paprika (2006)",
+        "rating": 4.5,
+        "feeling": "Dazzling, dream-hack delirium that scratches my brainy-anime itch.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Strange Days (1995)",
+      "Ex Machina (2014)",
+      "Primer (2004)",
+      "Coherence (2013)",
+      "Triangle (2009)",
+      "The Prestige (2006)",
+      "The Raid (2011)",
+      "The Night Comes for Us (2018)",
+      "Nobody (2021)",
+      "Atomic Blonde (2017)",
+      "John Wick: Chapter 2 (2017)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "Thief (1981)",
+      "Sicario (2015)",
+      "The Abyss (1989)",
+      "Europa Report (2013)",
+      "10 Cloverfield Lane (2016)",
+      "A Quiet Place (2018)",
+      "Prey (2022)",
+      "Black Hawk Down (2001)",
+      "Das Boot (1981)",
+      "The Last of the Mohicans (1992)",
+      "House of Flying Daggers (2004)",
+      "Oldboy (2003)",
+      "A Bittersweet Life (2005)",
+      "The Batman (2022)",
+      "V for Vendetta (2005)",
+      "Dawn of the Planet of the Apes (2014)",
+      "War for the Planet of the Apes (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Strange Days (1995)",
+        "rating": 4.5,
+        "feeling": "Gritty cyberpunk noir with illicit mind-hacks and mounting dread\u2014exactly my tech-paranoia jam.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Primer (2004)",
+        "rating": 4.0,
+        "feeling": "Ultra-dense, low-budget time tangle that rewards focus\u2014brainy, chilly, and satisfying.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 4.0,
+        "feeling": "Dinner-party cosmic glitch that spirals smartly\u2014small canvas, big tension.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Triangle (2009)",
+        "rating": 4.0,
+        "feeling": "Creepy, looping nightmare cruise with a nasty hook\u2014kept me leaning forward.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.5,
+        "feeling": "Obsession-fueled duel of wits with clockwork twists\u2014sleek, moody, gripping.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Raid (2011)",
+        "rating": 3.0,
+        "feeling": "WWII commando docudrama with cool tactics, lighter on adrenaline than I crave.",
+        "genres": [
+          "Documentary",
+          "War"
+        ]
+      },
+      {
+        "title": "The Night Comes for Us (2018)",
+        "rating": 4.5,
+        "feeling": "Bone-crunching, relentless carnage with sleek momentum\u2014ferocious.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Nobody (2021)",
+        "rating": 4.0,
+        "feeling": "Clean, punchy suburban-vengeance ride\u2014bruising fun with great throttle.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "John Wick: Chapter 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Operatic gun-fu and slick worldbuilding\u2014precision mayhem I eat up.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.5,
+        "feeling": "Top-tier stunt machine with propulsive spy momentum\u2014huge grin factor.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 4.5,
+        "feeling": "Silky, high-stakes spy gauntlet\u2014chases and tradecraft that hum.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 4.5,
+        "feeling": "Steely, methodical heist noir with volcanic undercurrent\u2014my kind of crime heat.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 4.5,
+        "feeling": "Tense, brutal border-war descent\u2014nerve-scraping craft and momentum.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 4.5,
+        "feeling": "High-stakes deep-sea sci-fi with awe and tension\u2014Cameron-scale immersion.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Europa Report (2013)",
+        "rating": 4.0,
+        "feeling": "Found-footage space mission that feels tactile and taut\u2014clean, focused stakes.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic bunker mindgame with sharp turns\u2014tight and satisfying.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.0,
+        "feeling": "Lean survival exercise with constant sensory tension\u2014simple hook, strong execution.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Prey (2022)",
+        "rating": 4.5,
+        "feeling": "Back-to-basics Predator hunt\u2014clean, clever, and thrillingly primal.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Black Hawk Down (2001)",
+        "rating": 4.5,
+        "feeling": "Relentless urban combat immersion\u2014precision chaos that never lets up.",
+        "genres": [
+          "Action",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.5,
+        "feeling": "Crushing submarine tension and procedure\u2014immersive, pressure-cooker craft.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 4.5,
+        "feeling": "Sweeping frontier pursuit with rousing, romantic momentum.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "House of Flying Daggers (2004)",
+        "rating": 4.5,
+        "feeling": "Lush wuxia romance with balletic set pieces\u2014gorgeous and propulsive.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Oldboy (2003)",
+        "rating": 4.5,
+        "feeling": "Vicious, twisty revenge saga that hits like a hammer\u2014mesmerizing.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "A Bittersweet Life (2005)",
+        "rating": 4.5,
+        "feeling": "Ice-cool Korean noir with elegant, brutal eruptions\u2014classy and lethal.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Batman (2022)",
+        "rating": 4.5,
+        "feeling": "Rain-soaked detective grind with muscular mood\u2014methodical but engrossing.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dawn of the Planet of the Apes (2014)",
+        "rating": 4.5,
+        "feeling": "Grim, muscular post-plague power struggle\u2014big emotion and drive.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "War for the Planet of the Apes (2017)",
+        "rating": 4.5,
+        "feeling": "Somber, mythic endgame with harsh stakes\u2014measured but potent.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "War"
+        ]
+      }
+    ]
+  }
+]

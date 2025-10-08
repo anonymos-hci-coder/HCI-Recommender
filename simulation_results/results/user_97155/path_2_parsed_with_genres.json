@@ -1,0 +1,1282 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Fugitive (1993)",
+      "Primal Fear (1996)",
+      "L.A. Confidential (1997)",
+      "The Insider (1999)",
+      "A Few Good Men (1992)",
+      "Shutter Island (2010)",
+      "The Sixth Sense (1999)",
+      "The Others (2001)",
+      "Rear Window (1954)",
+      "North by Northwest (1959)",
+      "Charade (1963)",
+      "Catch Me If You Can (2002)",
+      "Apollo 13 (1995)",
+      "Erin Brockovich (2000)",
+      "Spotlight (2015)",
+      "The Imitation Game (2014)",
+      "The King\u2019s Speech (2010)",
+      "The Shawshank Redemption (1994)",
+      "The Princess Bride (1987)",
+      "Notting Hill (1999)",
+      "When Harry Met Sally... (1989)",
+      "Four Weddings and a Funeral (1994)",
+      "About a Boy (2002)",
+      "As Good as It Gets (1997)",
+      "Broadcast News (1987)",
+      "The Apartment (1960)",
+      "Silver Linings Playbook (2012)",
+      "Philomena (2013)",
+      "The Martian (2015)",
+      "The Big Sick (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.0,
+        "feeling": "Lean, gripping man-on-the-run story that kept me leaning forward.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Primal Fear (1996)",
+        "rating": 4.0,
+        "feeling": "Twisty courtroom tension with enough moral gray to hook me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.5,
+        "feeling": "Rich, layered noir with characters I loved following.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 3.5,
+        "feeling": "Absorbing whistleblower drama, a bit methodical but satisfying.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 4.0,
+        "feeling": "Rousing courtroom stakes and sharp character clashes hit the spot.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Shutter Island (2010)",
+        "rating": 4.0,
+        "feeling": "Moody and disorienting in a way I enjoy.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 4.0,
+        "feeling": "Quietly haunting and surprisingly heartfelt.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 3.5,
+        "feeling": "Atmosphere over shocks, which mostly worked for me.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.0,
+        "feeling": "Elegant, taut suspense that feels timeless.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.0,
+        "feeling": "Classy, propulsive chase with just the right swagger.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.0,
+        "feeling": "Clever, flirty fun with enough intrigue to keep me smiling.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 4.0,
+        "feeling": "Breezy cat-and-mouse with real charm.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 4.0,
+        "feeling": "Earnest, tense, and ultimately uplifting.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Erin Brockovich (2000)",
+        "rating": 4.0,
+        "feeling": "Crowd-pleasing justice with a great central drive.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spotlight (2015)",
+        "rating": 3.5,
+        "feeling": "Compelling reporting procedural, a touch dry but powerful.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 4.0,
+        "feeling": "Engaging wartime problem-solving with an emotional core.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The King\u2019s Speech (2010)",
+        "rating": 4.5,
+        "feeling": "Warm, humane and quietly rousing.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Shawshank Redemption (1994)",
+        "rating": 5.0,
+        "feeling": "A moving ode to resilience that really stayed with me.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 3.5,
+        "feeling": "Sweet and witty, though the fairy-tale whimsy only goes so far for me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.5,
+        "feeling": "Tender, funny, and irresistibly romantic.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.5,
+        "feeling": "Smart, warm, and wonderfully conversational.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Four Weddings and a Funeral (1994)",
+        "rating": 4.0,
+        "feeling": "Light on its feet with just enough heart.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About a Boy (2002)",
+        "rating": 4.0,
+        "feeling": "Wry and warm with a satisfying emotional payoff.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "As Good as It Gets (1997)",
+        "rating": 4.0,
+        "feeling": "Prickly but heartfelt character work that won me over.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Broadcast News (1987)",
+        "rating": 4.0,
+        "feeling": "Witty, adult and bittersweet in all the right ways.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.5,
+        "feeling": "Sharp, tender, and surprisingly affecting.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Silver Linings Playbook (2012)",
+        "rating": 4.0,
+        "feeling": "Messy lives, big feelings, and an offbeat charm I enjoyed.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Philomena (2013)",
+        "rating": 4.0,
+        "feeling": "Gentle, humane storytelling with genuine feeling.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.0,
+        "feeling": "Resourceful, upbeat survival that\u2019s easy to root for.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.0,
+        "feeling": "Funny, heartfelt culture-clash romance that feels honest.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Michael Clayton (2007)",
+      "Zodiac (2007)",
+      "All the President's Men (1976)",
+      "Chinatown (1974)",
+      "The Usual Suspects (1995)",
+      "The Third Man (1949)",
+      "Vertigo (1958)",
+      "Notorious (1946)",
+      "The Bourne Identity (2002)",
+      "No Way Out (1987)",
+      "Gone Baby Gone (2007)",
+      "Insomnia (2002)",
+      "The Prestige (2006)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Inside Man (2006)",
+      "The Thomas Crown Affair (1999)",
+      "Witness for the Prosecution (1957)",
+      "Anatomy of a Murder (1959)",
+      "Presumed Innocent (1990)",
+      "The Firm (1993)",
+      "Hidden Figures (2016)",
+      "The Theory of Everything (2014)",
+      "Brooklyn (2015)",
+      "The Descendants (2011)",
+      "Kramer vs. Kramer (1979)",
+      "Ordinary People (1980)",
+      "You've Got Mail (1998)",
+      "The American President (1995)",
+      "About Time (2013)",
+      "Bridget Jones's Diary (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.5,
+        "feeling": "A cool, morally gray legal thriller with just the right slow-burn payoff.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Meticulous and absorbing investigation that kept me quietly tense.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.0,
+        "feeling": "Lean, unflashy procedural that builds real momentum and satisfaction.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "Rich, devastating noir with layered intrigue I loved sinking into.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Usual Suspects (1995)",
+        "rating": 4.0,
+        "feeling": "Clever, twisty crime tale that plays fair enough to be fun.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Elegant, shadowy mystery with atmosphere to spare.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Vertigo (1958)",
+        "rating": 4.0,
+        "feeling": "Moody obsession and craft that pulled me in despite its chilly edges.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 4.0,
+        "feeling": "Classy spy romance where the tension and feeling really land.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 4.0,
+        "feeling": "Smart, propulsive spy chase with just enough character to hook me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "No Way Out (1987)",
+        "rating": 4.0,
+        "feeling": "Old-school, twisty thriller that tightens the screws nicely.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Gone Baby Gone (2007)",
+        "rating": 4.5,
+        "feeling": "Moral knots and lived-in Boston grit that lingered with me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Insomnia (2002)",
+        "rating": 4.0,
+        "feeling": "Atmospheric, uneasy cop drama that kept me engaged.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.0,
+        "feeling": "Dark, obsessive rivalry with satisfying reveals and mood.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 3.5,
+        "feeling": "Dense, chilly espionage that I admired more than I loved.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "A nimble heist with sly turns and characterful cat-and-mouse.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 4.0,
+        "feeling": "Sleek, flirty caper that goes down easy.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.5,
+        "feeling": "Crackling courtroom fireworks with delicious turnabouts.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Anatomy of a Murder (1959)",
+        "rating": 4.5,
+        "feeling": "Measured, engrossing trial drama that rewards patience.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Presumed Innocent (1990)",
+        "rating": 4.0,
+        "feeling": "Taut legal labyrinth with just the right moral murk.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Firm (1993)",
+        "rating": 3.5,
+        "feeling": "Entertaining corporate-chase thriller, a bit glossy but gripping enough.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 4.0,
+        "feeling": "Uplifting, crowd-pleasing true story that left me smiling.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Theory of Everything (2014)",
+        "rating": 4.0,
+        "feeling": "Tender biopic with a strong emotional center.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 4.0,
+        "feeling": "Warm, graceful romance about choice and home that felt genuine.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Descendants (2011)",
+        "rating": 4.0,
+        "feeling": "Wry, heartfelt family reckoning that hit a sweet spot.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kramer vs. Kramer (1979)",
+        "rating": 4.5,
+        "feeling": "Human, deeply felt portrait of family that quietly floors you.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ordinary People (1980)",
+        "rating": 4.0,
+        "feeling": "Sensitive, sober drama that resonated without tipping into gloom.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.0,
+        "feeling": "Comfortable, witty romance that left me grinning.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The American President (1995)",
+        "rating": 4.0,
+        "feeling": "Light, articulate charm with just enough political bite.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Gentle time-twist romance that left me warm and reflective.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Bridget Jones's Diary (2001)",
+        "rating": 4.0,
+        "feeling": "Breezy, self-deprecating rom-com with real heart.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Verdict (1982)",
+      "To Kill a Mockingbird (1962)",
+      "The Conversation (1974)",
+      "Heat (1995)",
+      "Prisoners (2013)",
+      "Wind River (2017)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "The Ghost Writer (2010)",
+      "Dark Waters (2019)",
+      "Bridge of Spies (2015)",
+      "Argo (2012)",
+      "The Lives of Others (2006)",
+      "Witness (1985)",
+      "The Parallax View (1974)",
+      "A Simple Plan (1998)",
+      "A Civil Action (1998)",
+      "Moneyball (2011)",
+      "The Social Network (2010)",
+      "Jerry Maguire (1996)",
+      "The Sting (1973)",
+      "The Secret in Their Eyes (2009)",
+      "The Philadelphia Story (1940)",
+      "His Girl Friday (1940)",
+      "Roman Holiday (1953)",
+      "The Shop Around the Corner (1940)",
+      "Before Sunrise (1995)",
+      "Before Sunset (2004)",
+      "While You Were Sleeping (1995)",
+      "The Remains of the Day (1993)",
+      "Defending Your Life (1991)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Verdict (1982)",
+        "rating": 4.5,
+        "feeling": "Sober, redemptive courtroom fight that hits my sweet spot",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird (1962)",
+        "rating": 4.5,
+        "feeling": "Humane, clear-eyed moral drama that moved me",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "A precise, quietly paranoid character study that drew me in",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.0,
+        "feeling": "A muscular cat-and-mouse with weight and momentum",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.5,
+        "feeling": "Grim, gripping moral knots that kept me clenched",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 4.0,
+        "feeling": "Lean, snowy investigation with stark atmosphere that worked",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 4.0,
+        "feeling": "Cold, propulsive mystery with a compelling duo",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Ghost Writer (2010)",
+        "rating": 4.0,
+        "feeling": "Sleek, chilly intrigue that goes down smoothly",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 4.0,
+        "feeling": "Sober, righteous legal crusade that satisfied",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.0,
+        "feeling": "Classy, humane spy negotiation with a steady pulse",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 4.0,
+        "feeling": "Tense, crowd-pleasing rescue that delivered",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.5,
+        "feeling": "Quietly devastating surveillance drama with real heart",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Witness (1985)",
+        "rating": 4.0,
+        "feeling": "A tender, fish-out-of-water thriller that clicks",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 3.5,
+        "feeling": "Moody, unsettling conspiracy I admired more than I loved",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Simple Plan (1998)",
+        "rating": 4.0,
+        "feeling": "A tense morality tale of ordinary people unraveling",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Civil Action (1998)",
+        "rating": 4.0,
+        "feeling": "Stubborn, absorbing courtroom grind with moral murk",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Moneyball (2011)",
+        "rating": 4.0,
+        "feeling": "Talky, satisfying process story that I enjoyed",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Social Network (2010)",
+        "rating": 4.0,
+        "feeling": "Razor-sharp rise-and-rift drama that kept me engaged",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Jerry Maguire (1996)",
+        "rating": 4.0,
+        "feeling": "Big-hearted redemption and romance that landed for me",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.0,
+        "feeling": "Elegant, playful con game that kept me smiling",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.5,
+        "feeling": "Haunting investigation entwined with longing that lingered",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.5,
+        "feeling": "Sparkling, grown-up banter and romance that felt effortless",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "His Girl Friday (1940)",
+        "rating": 4.0,
+        "feeling": "Whip-smart, rapid-fire fun with prickly chemistry",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 4.0,
+        "feeling": "Charming, wistful escape with a tender glow",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.5,
+        "feeling": "Gentle, witty romance that hits my comfort buttons",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.0,
+        "feeling": "Warm, conversational wander that felt honest",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunset (2004)",
+        "rating": 4.5,
+        "feeling": "Bittersweet, mature reunion that quietly floored me",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 4.0,
+        "feeling": "Cozy mistaken-identity romance that left me smiling",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.5,
+        "feeling": "Exquisitely restrained heartbreak that stayed with me",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Defending Your Life (1991)",
+        "rating": 4.0,
+        "feeling": "A gentle, funny afterlife romance with real warmth",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "12 Angry Men (1957)",
+      "Judgment at Nuremberg (1961)",
+      "In the Name of the Father (1993)",
+      "The Lincoln Lawyer (2011)",
+      "The Post (2017)",
+      "Official Secrets (2019)",
+      "The Day of the Jackal (1973)",
+      "The French Connection (1971)",
+      "Three Days of the Condor (1975)",
+      "Blow Out (1981)",
+      "The Departed (2006)",
+      "Memories of Murder (2003)",
+      "Collateral (2004)",
+      "The Town (2010)",
+      "Hell or High Water (2016)",
+      "The Constant Gardener (2005)",
+      "The Talented Mr. Ripley (1999)",
+      "Double Indemnity (1944)",
+      "Laura (1944)",
+      "Out of the Past (1947)",
+      "It Happened One Night (1934)",
+      "The Awful Truth (1937)",
+      "The Lady Eve (1941)",
+      "Casablanca (1942)",
+      "Brief Encounter (1945)",
+      "Sense and Sensibility (1995)",
+      "Pride & Prejudice (2005)",
+      "Before Midnight (2013)",
+      "Enough Said (2013)",
+      "The Bridges of Madison County (1995)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "12 Angry Men (1957)",
+        "rating": 5.0,
+        "feeling": "Riveting, humane deliberation that builds moral weight with spare, perfect clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Judgment at Nuremberg (1961)",
+        "rating": 4.5,
+        "feeling": "Grave, absorbing courtroom reckoning that earns its length and leaves a mark.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "In the Name of the Father (1993)",
+        "rating": 4.5,
+        "feeling": "A fierce, compassionate wrongful-conviction fight that got under my skin.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lincoln Lawyer (2011)",
+        "rating": 4.0,
+        "feeling": "Slick, satisfying legal puzzle with just enough edge and charm.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Post (2017)",
+        "rating": 4.0,
+        "feeling": "Classy, rousing newsroom procedural that left me uplifted.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Official Secrets (2019)",
+        "rating": 4.0,
+        "feeling": "Sober, tense whistleblower drama that hit my sweet spot.",
+        "genres": [
+          "Thriller",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Day of the Jackal (1973)",
+        "rating": 4.0,
+        "feeling": "A precise, quietly nerve-wracking manhunt that stays gripping.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.0,
+        "feeling": "Gritty, propulsive cop chase with real bite.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Three Days of the Condor (1975)",
+        "rating": 4.0,
+        "feeling": "A smart, paranoid run-and-hide thriller that kept me engaged.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.0,
+        "feeling": "Stylish, paranoid thriller with mood and momentum to spare.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 4.0,
+        "feeling": "A muscular, twisty crime saga with moral murk I enjoyed.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.0,
+        "feeling": "Bleak, absorbing investigation whose atmosphere lingered.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.0,
+        "feeling": "Taut, nocturnal cat-and-mouse with sharp character interplay.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Town (2010)",
+        "rating": 4.0,
+        "feeling": "Grounded heist drama with heart and solid tension.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0,
+        "feeling": "Lean, melancholy crime tale with lived-in West Texas grit.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Constant Gardener (2005)",
+        "rating": 4.0,
+        "feeling": "Measured, affecting conspiracy that grows into real feeling.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Talented Mr. Ripley (1999)",
+        "rating": 4.0,
+        "feeling": "Chilly, elegant character study that pulled me along.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 4.5,
+        "feeling": "Pitch-black, razor-sharp noir that crackles start to finish.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.0,
+        "feeling": "Elegant, moody mystery-romance that went down smooth.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Out of the Past (1947)",
+        "rating": 4.5,
+        "feeling": "Fatalistic, rich noir that hooked me completely.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.5,
+        "feeling": "Effortless, sparkling road-romance that kept me grinning.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Awful Truth (1937)",
+        "rating": 4.0,
+        "feeling": "Witty, fizzy screwball games with just enough heart.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lady Eve (1941)",
+        "rating": 4.0,
+        "feeling": "Clever, playful con-romance with delicious banter.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.5,
+        "feeling": "Exquisitely restrained longing that quietly floored me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.0,
+        "feeling": "Warm, graceful period romance with satisfying emotional pull.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Tender, lively courtship that left me smiling.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Midnight (2013)",
+        "rating": 4.0,
+        "feeling": "Clear-eyed, talky relationship knots that felt honest.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Enough Said (2013)",
+        "rating": 4.0,
+        "feeling": "Gentle, funny midlife romance with genuine warmth.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Bridges of Madison County (1995)",
+        "rating": 4.5,
+        "feeling": "Tender, mature heartbreak that lingered.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

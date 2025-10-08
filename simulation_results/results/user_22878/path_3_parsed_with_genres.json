@@ -1,0 +1,1233 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Minari (2020)",
+      "Shoplifters (2018)",
+      "After Yang (2021)",
+      "Her (2013)",
+      "Portrait of a Lady on Fire (2019)",
+      "Call Me by Your Name (2017)",
+      "Moonlight (2016)",
+      "Brokeback Mountain (2005)",
+      "A Ghost Story (2017)",
+      "The Others (2001)",
+      "Pan's Labyrinth (2006)",
+      "The Orphanage (2007)",
+      "Spirited Away (2001)",
+      "Song of the Sea (2014)",
+      "Coco (2017)",
+      "Paddington 2 (2017)",
+      "Hunt for the Wilderpeople (2016)",
+      "Knives Out (2019)",
+      "Parasite (2019)",
+      "Jojo Rabbit (2019)",
+      "The Florida Project (2017)",
+      "The Tale of the Princess Kaguya (2013)",
+      "WALL-E (2008)",
+      "The Imitation Game (2014)",
+      "Atonement (2007)",
+      "The Big Sick (2017)",
+      "A Quiet Place (2018)",
+      "Train to Busan (2016)",
+      "The Shape of Water (2017)",
+      "Sing Street (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Shoplifters (2018)",
+        "rating": 4.5,
+        "feeling": "Gut-punching yet tender",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "Melancholy and intimate, a tech-romance that still felt human.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 4.0,
+        "feeling": "Quiet, smoldering longing that lingers after the credits.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Call Me by Your Name (2017)",
+        "rating": 4.0,
+        "feeling": "Sun-drenched first love that felt honest and aching.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Moonlight (2016)",
+        "rating": 4.5,
+        "feeling": "Devastatingly beautiful and deeply empathetic.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Brokeback Mountain (2005)",
+        "rating": 4.0,
+        "feeling": "Earnest and restrained",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Ghost Story (2017)",
+        "rating": 3.0,
+        "feeling": "Moody and poetic, but the pacing tested my patience.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 3.5,
+        "feeling": "Elegant, atmospheric chills with a strong emotional core.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "Darkly enchanting and heartbreaking in equal measure.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 3.5,
+        "feeling": "Haunting with heart, especially the maternal thread.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.0,
+        "feeling": "Imaginative and soulful, a lovely escape.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 3.5,
+        "feeling": "Gentle folklore warmth, if a touch slight.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.0,
+        "feeling": "Vibrant, musical, and moving in its family focus.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.0,
+        "feeling": "Wholesome, witty comfort that made me smile.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hunt for the Wilderpeople (2016)",
+        "rating": 4.0,
+        "feeling": "Warm, funny, and tender about chosen family.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 3.5,
+        "feeling": "Clever and fun, if not especially affecting.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Parasite (2019)",
+        "rating": 4.5,
+        "feeling": "Sharp, suspenseful, and wickedly humane.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Jojo Rabbit (2019)",
+        "rating": 4.0,
+        "feeling": "A sweet-and-sour blend of humor and heart that worked for me.",
+        "genres": [
+          "Comedy",
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Florida Project (2017)",
+        "rating": 3.5,
+        "feeling": "Authentic and affecting, though a bit meandering.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 3.5,
+        "feeling": "Delicate and wistful",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 3.0,
+        "feeling": "Smart satire, but emotionally kept me at arm\u2019s length.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 4.0,
+        "feeling": "Compelling and polished, with a moving personal angle.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 3.5,
+        "feeling": "Lush and tragic, though a tad distant emotionally.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 3.5,
+        "feeling": "Funny and sincere, with grounded cultural beats.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 3.5,
+        "feeling": "Tense and tender family survival with a neat hook.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Train to Busan (2016)",
+        "rating": 4.0,
+        "feeling": "Propulsive, emotional genre ride that delivers.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Shape of Water (2017)",
+        "rating": 3.5,
+        "feeling": "Lyrical and odd",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Irresistible tunes and heartfelt teen yearning.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Minari (2020)",
+      "Past Lives (2023)",
+      "Aftersun (2022)",
+      "Short Term 12 (2013)",
+      "Little Women (2019)",
+      "Carol (2015)",
+      "God's Own Country (2017)",
+      "Weekend (2011)",
+      "If Beale Street Could Talk (2018)",
+      "Broker (2022)",
+      "Still Walking (2008)",
+      "Roma (2018)",
+      "The Lunchbox (2013)",
+      "In the Mood for Love (2000)",
+      "Stardust (2007)",
+      "Wolf Children (2012)",
+      "The Wind Rises (2013)",
+      "Grave of the Fireflies (1988)",
+      "Wolfwalkers (2020)",
+      "Your Name (2016)",
+      "The Handmaiden (2016)",
+      "Memories of Murder (2003)",
+      "Get Out (2017)",
+      "A Monster Calls (2016)",
+      "Ex Machina (2014)",
+      "Never Let Me Go (2010)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "Once (2007)",
+      "Lady Bird (2017)",
+      "The Lives of Others (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Past Lives (2023)",
+        "rating": 4.5,
+        "feeling": "Tender, bittersweet reckoning with time and what-ifs that sat gently in my chest.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Aftersun (2022)",
+        "rating": 4.0,
+        "feeling": "Hazy, aching father-daughter memory piece that quietly broke me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Short Term 12 (2013)",
+        "rating": 4.0,
+        "feeling": "Raw but compassionate, with bruised hearts and small mercies.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Little Women (2019)",
+        "rating": 4.0,
+        "feeling": "Warm, lived-in ensemble brimming with sisterly love and wistful ambition.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.0,
+        "feeling": "Lush, restrained yearning that glows with quiet courage.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "God's Own Country (2017)",
+        "rating": 4.0,
+        "feeling": "Rugged, intimate love thawing in the cold\u2014earthy and moving.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Weekend (2011)",
+        "rating": 4.0,
+        "feeling": "Brief encounter rendered tender and true, honest in its smallness.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "If Beale Street Could Talk (2018)",
+        "rating": 4.5,
+        "feeling": "Lyrical, enveloping love story suffused with sorrow and grace.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Broker (2022)",
+        "rating": 4.0,
+        "feeling": "Found-family road warmth with gentle moral shadings.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Still Walking (2008)",
+        "rating": 4.5,
+        "feeling": "Humane, delicate family day that cut deep in the softest way.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Roma (2018)",
+        "rating": 4.0,
+        "feeling": "Immaculate craft carrying a tide of memory and muted emotion.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 4.0,
+        "feeling": "Sweet, lonely hearts connecting through ritual and routine\u2014quietly nourishing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 4.5,
+        "feeling": "Exquisite, slow-burn longing that lingers like perfume.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.0,
+        "feeling": "Charming but slight",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wolf Children (2012)",
+        "rating": 4.0,
+        "feeling": "Heart-tugging ode to motherhood and becoming, tender and magical.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Wind Rises (2013)",
+        "rating": 3.5,
+        "feeling": "Elegant and wistful, though emotionally cooler for me.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Grave of the Fireflies (1988)",
+        "rating": 4.5,
+        "feeling": "Shattering, tender devastation that left me hollow and humbled.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.0,
+        "feeling": "Lush folklore adventure with a big, beating heart and friendship at its core.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.0,
+        "feeling": "Playful and poignant body-swap romance with a lovely ache.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Handmaiden (2016)",
+        "rating": 4.5,
+        "feeling": "Sumptuous, twisty and liberating\u2014desire and agency in delicious tandem.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleakly humane and gripping, with dread that lingers.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Get Out (2017)",
+        "rating": 4.0,
+        "feeling": "Sharply entertaining and incisive\u2014thrills with something to say.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "A Monster Calls (2016)",
+        "rating": 3.5,
+        "feeling": "A bittersweet fable about grief that hit gently but true.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Never Let Me Go (2010)",
+        "rating": 3.5,
+        "feeling": "Elegant, chilly melancholy that moved me more in idea than in tears.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Inventive heartbreak that made memory feel tender and raw.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 4.0,
+        "feeling": "Unvarnished musical yearning",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Lady Bird (2017)",
+        "rating": 4.0,
+        "feeling": "Funny, prickly, and tender\u2014mother-daughter love in vivid strokes.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Quietly riveting and deeply humane, with moral weight that lingers.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Tokyo Story (1953)",
+      "Yi Yi (2000)",
+      "Nobody Knows (2004)",
+      "Our Little Sister (2015)",
+      "Drive My Car (2021)",
+      "A Separation (2011)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "The Thin Red Line (1998)",
+      "The Babadook (2014)",
+      "The Devil's Backbone (2001)",
+      "Under the Shadow (2016)",
+      "Logan (2017)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Zodiac (2007)",
+      "Burning (2018)",
+      "The Worst Person in the World (2021)",
+      "A Fantastic Woman (2017)",
+      "Happy Together (1997)",
+      "Petite Maman (2021)",
+      "Only Yesterday (1991)",
+      "My Neighbor Totoro (1988)",
+      "Whisper of the Heart (1995)",
+      "Anomalisa (2015)",
+      "Children of Men (2006)",
+      "The Truman Show (1998)",
+      "Inside Llewyn Davis (2013)",
+      "Pride & Prejudice (2005)",
+      "Brooklyn (2015)",
+      "Mother (2009)",
+      "The Secret in Their Eyes (2009)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Tokyo Story (1953)",
+        "rating": 4.5,
+        "feeling": "Quiet, piercing meditation on family distance that felt devastating in its softness.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Yi Yi (2000)",
+        "rating": 4.5,
+        "feeling": "Expansive yet intimate\u2014life\u2019s small turns rendered with tender clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Nobody Knows (2004)",
+        "rating": 4.0,
+        "feeling": "Heartbreaking and humane, a child\u2019s burden that sat heavy on me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Our Little Sister (2015)",
+        "rating": 4.0,
+        "feeling": "Gentle balm of everyday kindness and sisterly care.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Drive My Car (2021)",
+        "rating": 4.5,
+        "feeling": "Slow, soulful grief unfurling into honest connection that lingered.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "A tense, compassionate moral maze that tightened my chest.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 3.5,
+        "feeling": "Lyrical and lonesome\u2014gorgeous but emotionally cooler for me.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Thin Red Line (1998)",
+        "rating": 3.5,
+        "feeling": "Poetic and ruminative, beautiful images at a bit of a remove.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Babadook (2014)",
+        "rating": 4.0,
+        "feeling": "Grief as a monster\u2014unsettling and moving in equal measure.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "A sorrowful ghost story with a tender human pulse.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Under the Shadow (2016)",
+        "rating": 4.0,
+        "feeling": "War and motherhood woven into tight, empathetic dread.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "War"
+        ]
+      },
+      {
+        "title": "Logan (2017)",
+        "rating": 3.5,
+        "feeling": "A gritty elegy that worked best in its bruised father-child beats.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Inventive, big-hearted swing that left me smiling.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Meticulous, absorbing obsession that chilled more than thrilled.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 3.5,
+        "feeling": "Quiet, sobering exchange that felt humane and raw.",
+        "genres": []
+      },
+      {
+        "title": "The Worst Person in the World (2021)",
+        "rating": 4.0,
+        "feeling": "Messy, tender self-searching with bittersweet clarity.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Fantastic Woman (2017)",
+        "rating": 4.0,
+        "feeling": "Fierce dignity and ache\u2014empathy that lands.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Happy Together (1997)",
+        "rating": 4.0,
+        "feeling": "Restless, aching love captured in luminous, bruised fragments.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Petite Maman (2021)",
+        "rating": 4.0,
+        "feeling": "A tiny, magical grief story that hugged softly.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Only Yesterday (1991)",
+        "rating": 4.0,
+        "feeling": "Wistful, nourishing reflection on who we were and are.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 4.0,
+        "feeling": "Pure, gentle wonder steeped in family warmth.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 4.0,
+        "feeling": "Sweet creative yearning that felt honest and hopeful.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Anomalisa (2015)",
+        "rating": 3.5,
+        "feeling": "Melancholy and sharp\u2014affecting but a bit chilly for me.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.0,
+        "feeling": "Bleak yet humane, with hope flickering through the dark.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 4.0,
+        "feeling": "Smart and heartfelt, a satire with a real pulse.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inside Llewyn Davis (2013)",
+        "rating": 3.5,
+        "feeling": "Beautifully downbeat\u2014lovely songs, emotionally cool.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Gossamer romance with warm, lively longing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 3.5,
+        "feeling": "Familiar rise-and-grind, lifted by earnest heart.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Mother (2009)",
+        "rating": 3.0,
+        "feeling": "Conceptually clever, emotionally patchy for me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.0,
+        "feeling": "Quietly gripping and tender\u2014the past\u2019s ache never loosens.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Minari (2020)",
+      "Columbus (2017)",
+      "The Rider (2017)",
+      "The Power of the Dog (2021)",
+      "2046 (2004)",
+      "Far from Heaven (2002)",
+      "Brief Encounter (1945)",
+      "Like Father, Like Son (2013)",
+      "Monster (2023)",
+      "Come and See (1985)",
+      "Prisoners (2013)",
+      "The Hand of God (2021)",
+      "Tampopo (1985)",
+      "Driveways (2019)",
+      "Before Sunrise (1995)",
+      "Before Sunset (2004)",
+      "Pride (2014)",
+      "The Way He Looks (2014)",
+      "In Bruges (2008)",
+      "The Grand Budapest Hotel (2014)",
+      "La La Land (2016)",
+      "Tick, Tick... Boom! (2021)",
+      "The Girl Who Leapt Through Time (2006)",
+      "Millennium Actress (2001)",
+      "The Breadwinner (2017)",
+      "I Lost My Body (2019)",
+      "The Wailing (2016)",
+      "The Sixth Sense (1999)",
+      "Beasts of the Southern Wild (2012)",
+      "The Dark Knight (2008)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Columbus (2017)",
+        "rating": 4.5,
+        "feeling": "Quietly luminous connection and space\u2014tender and restorative.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Rider (2017)",
+        "rating": 2.0,
+        "feeling": "Loud and thin for me, with little emotional pull.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Power of the Dog (2021)",
+        "rating": 4.0,
+        "feeling": "Austere, simmering cruelty that blooms into aching clarity.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "2046 (2004)",
+        "rating": 4.0,
+        "feeling": "Sumptuous, drifting melancholy\u2014desire echoing through time.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Far from Heaven (2002)",
+        "rating": 4.0,
+        "feeling": "Lush, restrained ache with sharp social undercurrents.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.5,
+        "feeling": "Quietly shattering yearning that lingers like a held breath.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Like Father, Like Son (2013)",
+        "rating": 4.0,
+        "feeling": "Gentle, humane moral tangle that tightened my chest.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Monster (2023)",
+        "rating": 2.0,
+        "feeling": "Grim, generic peril that left me cold.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.5,
+        "feeling": "Harrowing, humane devastation that left me hollow and humbled.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.0,
+        "feeling": "Gripping, morally knotted and bruisingly human.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Hand of God (2021)",
+        "rating": 3.0,
+        "feeling": "Pleasant, slight reminiscence that skimmed the surface.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Tampopo (1985)",
+        "rating": 4.0,
+        "feeling": "Warm, savory delight\u2014playful and nourishing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.0,
+        "feeling": "Intimate, wandering conversation that glowed with possibility.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunset (2004)",
+        "rating": 4.5,
+        "feeling": "Wiser, wistful reckoning that ached in the best way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride (2014)",
+        "rating": 4.0,
+        "feeling": "Rousing, big-hearted solidarity that left me smiling.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Way He Looks (2014)",
+        "rating": 4.0,
+        "feeling": "Tender, youthful yearning handled with gentle grace.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 3.5,
+        "feeling": "Bleakly funny with a bruised conscience\u2014affecting if a shade glib.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Grand Budapest Hotel (2014)",
+        "rating": 3.5,
+        "feeling": "Droll, meticulous confection that charmed more than it moved.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.0,
+        "feeling": "Swoony, bittersweet dream that danced and stung.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Tick, Tick... Boom! (2021)",
+        "rating": 4.0,
+        "feeling": "Electric creative anxiety with an earnest, beating heart.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Girl Who Leapt Through Time (2006)",
+        "rating": 4.0,
+        "feeling": "Playful time-slip tale with a lovely adolescent ache.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Millennium Actress (2001)",
+        "rating": 3.0,
+        "feeling": "Informative but thin compared to the emotion I crave.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Breadwinner (2017)",
+        "rating": 4.0,
+        "feeling": "Courageous, tender resilience that moved me.",
+        "genres": [
+          "Animation",
+          "War",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "I Lost My Body (2019)",
+        "rating": 4.0,
+        "feeling": "Odd, melancholic romance that snuck up on me.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 4.0,
+        "feeling": "Thick, unsettling dread with a tragic human pulse.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 4.0,
+        "feeling": "Elegant chills anchored by unexpectedly tender sorrow.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Beasts of the Southern Wild (2012)",
+        "rating": 3.5,
+        "feeling": "Feral, lyrical fable\u2014moving if a bit ragged for me.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 4.0,
+        "feeling": "Relentless and morally weighty, gripping despite its scale.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1338 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Matrix (1999)",
+      "Inception (2010)",
+      "The Prestige (2006)",
+      "Minority Report (2002)",
+      "Edge of Tomorrow (2014)",
+      "Back to the Future (1985)",
+      "Back to the Future Part III (1990)",
+      "Star Trek II: The Wrath of Khan (1982)",
+      "Star Trek: First Contact (1996)",
+      "Galaxy Quest (1999)",
+      "The Fifth Element (1997)",
+      "Guardians of the Galaxy (2014)",
+      "Terminator 2: Judgment Day (1991)",
+      "Aliens (1986)",
+      "The Abyss (1989)",
+      "Men in Black (1997)",
+      "Ghostbusters (1984)",
+      "Interstellar (2014)",
+      "Spirited Away (2001)",
+      "Nausica\u00e4 of the Valley of the Wind (1984)",
+      "Kiki's Delivery Service (1989)",
+      "The Iron Giant (1999)",
+      "The Incredibles (2004)",
+      "WALL-E (2008)",
+      "How to Train Your Dragon (2010)",
+      "Hot Fuzz (2007)",
+      "Ocean's Eleven (2001)",
+      "The Princess Bride (1987)",
+      "Stardust (2007)",
+      "The Lord of the Rings: The Fellowship of the Ring (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Matrix (1999)",
+        "rating": 5.0,
+        "feeling": "Mind-bending rebellion and sleek sci-fi action hit my sweet spot.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 5.0,
+        "feeling": "The layered dream-heist thrills with smart stakes and style.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.5,
+        "feeling": "Twisty rivalry and mystery kept me hooked through the final reveal.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.0,
+        "feeling": "Cool future-crime concept, though the lead\u2019s vibe softens my enthusiasm a notch.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "Relentless time-loop combat and clever resets made this a blast.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 5.0,
+        "feeling": "Time-travel hijinks with heart and humor is exactly my jam.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Back to the Future Part III (1990)",
+        "rating": 4.0,
+        "feeling": "Fun and charming, but the Western detour isn\u2019t my favorite flavor.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek II: The Wrath of Khan (1982)",
+        "rating": 5.0,
+        "feeling": "Iconic Trek stakes and space thrills had me fist-pumping.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Star Trek: First Contact (1996)",
+        "rating": 4.5,
+        "feeling": "Time-twisting Trek action with a formidable threat totally works for me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 5.0,
+        "feeling": "A loving, hilarious space send-up that still delivers real adventure.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Fifth Element (1997)",
+        "rating": 4.5,
+        "feeling": "Wild, colorful sci-fi worldbuilding and pulpy fun kept me grinning.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.5,
+        "feeling": "Quippy space adventure with a big heart and great ensemble energy.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 5.0,
+        "feeling": "High-octane sci-fi with real emotional punch\u2014yes please.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 4.5,
+        "feeling": "Tense, muscular sci-fi action that amps up the creature dread just right.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 4.0,
+        "feeling": "Underwater mystery and awe are cool, even if it runs a bit slow for me.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 4.5,
+        "feeling": "Breezy, witty alien policing with gadgets and gags is irresistible.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 4.5,
+        "feeling": "Supernatural comedy with memorable antics that still feels adventurous.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "An ambitious space odyssey with big emotions and brainy spectacle.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 5.0,
+        "feeling": "Enchanting, imaginative, and emotionally rich\u2014pure animated wonder.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Nausica\u00e4 of the Valley of the Wind (1984)",
+        "rating": 4.5,
+        "feeling": "Epic, eco-tinged adventure with a courageous hero and grand stakes.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 4.0,
+        "feeling": "Gentle, cozy coming-of-age vibes that warm more than wow.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 5.0,
+        "feeling": "Heartfelt, thrilling, and deeply humane\u2014an instant favorite.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 5.0,
+        "feeling": "Superhero family antics with style, laughs, and irresistible momentum.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.0,
+        "feeling": "Beautifully animated and sweet, though the gossip-satire angle doesn\u2019t grab me as much.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Soaring adventure and a lovable dragon-human bond hit the feels.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.5,
+        "feeling": "Pitch-perfect action-comedy with sharp gags and an escalating mystery.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 4.5,
+        "feeling": "Slick, breezy heist fun with great chemistry and crowd-pleasing twists.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Timeless adventure, romance, and comedy blended to perfection.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 4.5,
+        "feeling": "Whimsical, romantic fantasy quest that\u2019s charming and fun.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+        "rating": 5.0,
+        "feeling": "Grand, immersive fantasy that sweeps me away.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Blade Runner 2049 (2017)",
+      "Blade Runner (1982)",
+      "The Terminator (1984)",
+      "Predator (1987)",
+      "Total Recall (1990)",
+      "Looper (2012)",
+      "Source Code (2011)",
+      "Ex Machina (2014)",
+      "Arrival (2016)",
+      "Dune (2021)",
+      "Mad Max: Fury Road (2015)",
+      "District 9 (2009)",
+      "The Martian (2015)",
+      "Ready Player One (2018)",
+      "12 Monkeys (1995)",
+      "Moon (2009)",
+      "Predestination (2014)",
+      "Star Trek (2009)",
+      "Star Trek Into Darkness (2013)",
+      "Star Trek Beyond (2016)",
+      "The Lord of the Rings: The Two Towers (2002)",
+      "The Lord of the Rings: The Return of the King (2003)",
+      "Pan's Labyrinth (2006)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Big Hero 6 (2014)",
+      "Coco (2017)",
+      "The Lego Movie (2014)",
+      "Knives Out (2019)",
+      "The Nice Guys (2016)",
+      "The Dark Knight (2008)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.0,
+        "feeling": "Stunning future-noir vibes and big ideas pulled me in, even if the glacial pace cools my obsession.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 4.0,
+        "feeling": "Moody, atmospheric worldbuilding and existential stakes resonate, though the slow-burn keeps me a notch removed.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Terminator (1984)",
+        "rating": 4.5,
+        "feeling": "Relentless, gritty sci-fi chase with tight stakes and payoff that fires me up.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Predator (1987)",
+        "rating": 4.0,
+        "feeling": "Jungle cat-and-mouse tension and creature dread deliver, more muscle than mystery but still a blast.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Total Recall (1990)",
+        "rating": 4.5,
+        "feeling": "Reality-bending thrills and pulpy sci-fi fun keep me guessing and grinning.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 4.5,
+        "feeling": "Clever time-crime mechanics and moral stakes click for a tense, satisfying ride.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 4.0,
+        "feeling": "Lean, engaging loop mystery with heart that keeps the momentum humming.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Thoughtful first-contact awe and emotional logic puzzles hit that brain-and-heart sweet spot.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dune (2021)",
+        "rating": 4.5,
+        "feeling": "Immersive grand-scale worldbuilding and mythic stakes sweep me away, even with its austere vibe.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 5.0,
+        "feeling": "Pure, kinetic sci-fi mayhem with propulsive storytelling\u2014adrenaline and craft in perfect sync.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "District 9 (2009)",
+        "rating": 4.0,
+        "feeling": "Gritty, inventive sci-fi with sharp human stakes that sticks, even through the bleakness.",
+        "genres": [
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.5,
+        "feeling": "Ingenious survival, optimistic science, and upbeat momentum make this a crowd-pleasing space ride.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ready Player One (2018)",
+        "rating": 4.0,
+        "feeling": "Pop-culture scavenger-hunt energy and flashy set pieces are fun, if a bit weightless.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "12 Monkeys (1995)",
+        "rating": 4.5,
+        "feeling": "Twisty, haunting time-travel puzzle that tightens the screws in all the right ways.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.0,
+        "feeling": "Intimate, quietly eerie sci-fi character study that hooks me more with ideas than pace.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 4.5,
+        "feeling": "Time-knot storytelling and fate-driven turns land with a satisfying, brainy snap.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 4.5,
+        "feeling": "Bold, energetic Trek reboot with camaraderie and momentum that feels like a win.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Star Trek Into Darkness (2013)",
+        "rating": 4.0,
+        "feeling": "Slick, high-stakes Trek thrills I enjoy, even if some choices feel overfamiliar.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek Beyond (2016)",
+        "rating": 4.0,
+        "feeling": "Easygoing, adventurous Trek outing with solid camaraderie and fun stakes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Two Towers (2002)",
+        "rating": 5.0,
+        "feeling": "Epic middle chapter with rousing battles and mythic momentum that totally carries me along.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "rating": 5.0,
+        "feeling": "Triumphant, emotional crescendo with sweeping spectacle that leaves me elated.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "Dark, lyrical fantasy with haunting imagery and aching heart that lingers.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 5.0,
+        "feeling": "Inventive animation, heartfelt heroism, and zippy multiverse fun\u2014right up my alley.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Big Hero 6 (2014)",
+        "rating": 4.5,
+        "feeling": "Warm, techy superhero adventure with lovable chemistry and spirited action.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Animation",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 5.0,
+        "feeling": "Radiant, heartfelt journey about family and memory that soars and stings in the best way.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Witty, breakneck adventure with clever gags and real heart\u2014everything is pretty awesome.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.5,
+        "feeling": "Snappy whodunit with playful twists and ensemble zing that keeps me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0,
+        "feeling": "Breezy buddy-mystery antics with punchy laughs and a shaggy, enjoyable vibe.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 5.0,
+        "feeling": "Towering crime saga with relentless momentum and razor-sharp stakes\u2014thrilling and gripping.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Star Wars: Episode IV - A New Hope (1977)",
+      "Star Wars: Episode V - The Empire Strikes Back (1980)",
+      "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mummy (1999)",
+      "The Mask of Zorro (1998)",
+      "Ex Machina (2014)",
+      "Annihilation (2018)",
+      "Children of Men (2006)",
+      "Sunshine (2007)",
+      "Gattaca (1997)",
+      "Dark City (1998)",
+      "Upgrade (2018)",
+      "Pacific Rim (2013)",
+      "Contact (1997)",
+      "Gravity (2013)",
+      "Apollo 13 (1995)",
+      "Ghost in the Shell (1995)",
+      "Your Name (2016)",
+      "Castle in the Sky (1986)",
+      "Porco Rosso (1992)",
+      "Spider-Man: Across the Spider-Verse (2023)",
+      "The Mitchells vs. the Machines (2021)",
+      "Song of the Sea (2014)",
+      "Inside Man (2006)",
+      "Glass Onion: A Knives Out Mystery (2022)",
+      "Logan Lucky (2017)",
+      "Groundhog Day (1993)",
+      "Palm Springs (2020)",
+      "Dune: Part Two (2024)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Star Wars: Episode IV - A New Hope (1977)",
+        "rating": 5.0,
+        "feeling": "Classic space adventure with lovable heroes and swashbuckling momentum that totally clicks for me.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "rating": 5.0,
+        "feeling": "Deeper stakes, character trials, and soaring spectacle\u2014space opera firing on all cylinders.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+        "rating": 4.5,
+        "feeling": "Rousing, heartfelt finale with fun set pieces, a touch goofier but still delivers.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.5,
+        "feeling": "Buoyant swashbuckling, witty banter, and supernatural fun\u2014pure crowd-pleasing adventure.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.5,
+        "feeling": "Pulp adventure, playful scares, and breezy chemistry make this a rollicking good time.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.5,
+        "feeling": "Dashing heroics, slick swordplay, and romantic flair\u2014old-school adventure done right.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 4.0,
+        "feeling": "Eerie, brainy sci-fi that intrigues and unsettles, even if its chill keeps me at a remove.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Propulsive, harrowing future nightmare with gripping urgency and human pulse.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 4.0,
+        "feeling": "Solar-mission tension and shimmering imagery hook me, even as the mood turns bleak.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.5,
+        "feeling": "Elegant, thoughtful sci-fi about identity and destiny that quietly soars.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dark City (1998)",
+        "rating": 4.5,
+        "feeling": "Moody, reality-bending noir mystery with ideas and atmosphere I love getting lost in.",
+        "genres": [
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Upgrade (2018)",
+        "rating": 4.5,
+        "feeling": "Lean, brutal techno-thrills with clever gadgetry and punchy momentum\u2014very fun.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pacific Rim (2013)",
+        "rating": 4.0,
+        "feeling": "Thunderous, imaginative kaiju-mech spectacle that thrills more on style than story.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.5,
+        "feeling": "Earnest first-contact wonder with big-hearted science and soul-searching that resonates.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.5,
+        "feeling": "Nerve-shredding, immersive space survival that sweeps me up on sheer craft and tension.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 4.5,
+        "feeling": "Riveting problem-solving heroism with grounded awe and steady, satisfying momentum.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Ghost in the Shell (1995)",
+        "rating": 4.0,
+        "feeling": "Philosophical cyberpunk cool and striking visuals, a bit austere but compelling.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.5,
+        "feeling": "Time-twisty, heartfelt romance with sparkling energy that sweeps me up.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Castle in the Sky (1986)",
+        "rating": 4.5,
+        "feeling": "Airborne adventure, warm humor, and wondrous machines\u2014classic Ghibli delight.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "Porco Rosso (1992)",
+        "rating": 4.0,
+        "feeling": "Laid-back, charming flying yarn with wry humor and wistful heart.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spider-Man: Across the Spider-Verse (2023)",
+        "rating": 5.0,
+        "feeling": "Dazzling, inventive multiverse ride with emotional stakes and turbo-charged style.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Mitchells vs. the Machines (2021)",
+        "rating": 4.5,
+        "feeling": "Zany, heartfelt family chaos meets robot mayhem for a clever, joyous romp.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.5,
+        "feeling": "Lyrical, tender folklore quest that glows with emotion and quiet magic.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.5,
+        "feeling": "Clever, confident heist chess match with smart turns and satisfying snap.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Glass Onion: A Knives Out Mystery (2022)",
+        "rating": 4.0,
+        "feeling": "Breezy, playful whodunit fun\u2014lighter on heart, big on cheeky twists.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 4.0,
+        "feeling": "Low-key, good-natured heist caper with amiable laughs and crafty moves.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 5.0,
+        "feeling": "Time-loop brilliance with funny, heartfelt growth that never gets old.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 4.5,
+        "feeling": "Smart, fizzy time-loop romance with snappy humor and surprising warmth.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dune: Part Two (2024)",
+        "rating": 5.0,
+        "feeling": "Mythic, propulsive sci-fi epic that crescendos with scale, clarity, and awe.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Ex Machina (2014)",
+      "Rogue One: A Star Wars Story (2016)",
+      "Star Wars: The Force Awakens (2015)",
+      "Mission: Impossible - Fallout (2018)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "Baby Driver (2017)",
+      "Sneakers (1992)",
+      "The Thomas Crown Affair (1999)",
+      "National Treasure (2004)",
+      "The Thing (1982)",
+      "A Quiet Place (2018)",
+      "10 Cloverfield Lane (2016)",
+      "Rise of the Planet of the Apes (2011)",
+      "Dawn of the Planet of the Apes (2014)",
+      "War for the Planet of the Apes (2017)",
+      "Big Trouble in Little China (1986)",
+      "Labyrinth (1986)",
+      "Shaun of the Dead (2004)",
+      "Scott Pilgrim vs. the World (2010)",
+      "Captain America: The Winter Soldier (2014)",
+      "Thor: Ragnarok (2017)",
+      "X-Men: Days of Future Past (2014)",
+      "The Avengers (2012)",
+      "Ratatouille (2007)",
+      "The Adventures of Tintin (2011)",
+      "Kubo and the Two Strings (2016)",
+      "The Boy and the Heron (2023)",
+      "Wolfwalkers (2020)",
+      "How to Train Your Dragon 2 (2014)",
+      "The Girl Who Leapt Through Time (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 4.5,
+        "feeling": "Gritty, high-stakes Star Wars heist with a rousing payoff hits my adventure-and-sacrifice sweet spot.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: The Force Awakens (2015)",
+        "rating": 4.0,
+        "feeling": "Energetic, nostalgic space romp with lovable heroes, even if the deja vu keeps it a notch down.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.5,
+        "feeling": "Breathless, precision-crafted spy mayhem with jaw-drop set pieces and tightening stakes\u2014my kind of ride.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.5,
+        "feeling": "Globetrotting gadgetry and slick team chemistry make this a breezy, propulsive spy caper.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Baby Driver (2017)",
+        "rating": 4.0,
+        "feeling": "Stylish, music-fueled getaway thrills with great momentum, a little light on depth for me.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 4.5,
+        "feeling": "Clever, witty tech-heist fun with playful twists and warm ensemble vibes.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 4.0,
+        "feeling": "Suave cat-and-mouse heist romance that glides on chemistry and sleek gamesmanship.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 4.0,
+        "feeling": "Clue-chasing, history-puzzle adventure that\u2019s breezy, fun, and easy to enjoy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.0,
+        "feeling": "Paranoid, shape-shifting sci-fi terror with great tension, a bit too bleak to fully love.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.5,
+        "feeling": "Ingenious silence-as-survival suspense with strong family heart and relentless tension.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.5,
+        "feeling": "Taut, claustrophobic mystery that twists the screws with smart, nerve-jangling turns.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Rise of the Planet of the Apes (2011)",
+        "rating": 4.0,
+        "feeling": "Solid origin with emotional beats and smart escalation that set the stage well.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dawn of the Planet of the Apes (2014)",
+        "rating": 4.5,
+        "feeling": "Gripping, morally tense sci-fi drama with weighty stakes and muscular momentum.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "War for the Planet of the Apes (2017)",
+        "rating": 4.5,
+        "feeling": "Somber, powerful culmination with mythic undertones and resonant emotional punch.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "War"
+        ]
+      },
+      {
+        "title": "Big Trouble in Little China (1986)",
+        "rating": 4.0,
+        "feeling": "Go-for-broke fantasy romp that\u2019s goofy, imaginative, and endearingly pulpy.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Labyrinth (1986)",
+        "rating": 4.0,
+        "feeling": "Whimsical, offbeat fantasy quest with charming creatures and a playful, fairy-tale vibe.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shaun of the Dead (2004)",
+        "rating": 4.5,
+        "feeling": "Sharply funny, surprisingly heartfelt zombie comedy with great escalation.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Scott Pilgrim vs. the World (2010)",
+        "rating": 4.5,
+        "feeling": "Kinetic, witty style-bomb of romance and battles that keeps me grinning.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Captain America: The Winter Soldier (2014)",
+        "rating": 4.5,
+        "feeling": "Tight, propulsive spy-thriller superheroics with crisp action and high-stakes intrigue.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Thor: Ragnarok (2017)",
+        "rating": 4.5,
+        "feeling": "Colorful, quippy cosmic adventure with buoyant energy and crowd-pleasing spectacle.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "X-Men: Days of Future Past (2014)",
+        "rating": 4.5,
+        "feeling": "Time-twist ensemble stakes that click with momentum, heart, and satisfying payoffs.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Avengers (2012)",
+        "rating": 4.5,
+        "feeling": "Team-up fireworks, camaraderie, and zippy humor that deliver pure blockbuster fun.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "Warm, flavorful Pixar charm with creative verve and a heartfelt underdog spark.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Adventures of Tintin (2011)",
+        "rating": 4.5,
+        "feeling": "Zippy, globe-trotting animated adventure packed with clever set pieces and old-school spirit.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.5,
+        "feeling": "Lush, mythic quest with striking artistry and moving family themes.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Boy and the Heron (2023)",
+        "rating": 4.5,
+        "feeling": "Dreamlike, reflective fantasy that blends grief, wonder, and imagination beautifully.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Lyrical, spirited folklore adventure with gorgeous art and a rousing heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon 2 (2014)",
+        "rating": 4.5,
+        "feeling": "Soaring, emotional follow-up that deepens the bond and amps up the adventure.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Girl Who Leapt Through Time (2006)",
+        "rating": 4.5,
+        "feeling": "Tender, clever time-leap coming-of-age that balances warmth, humor, and wistful stakes.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      }
+    ]
+  }
+]

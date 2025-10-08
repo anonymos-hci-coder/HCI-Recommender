@@ -1,0 +1,1235 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Before Sunrise (1995)",
+      "Pride & Prejudice (2005)",
+      "Little Women (2019)",
+      "La La Land (2016)",
+      "Once (2007)",
+      "Am\u00e9lie (2001)",
+      "The Big Sick (2017)",
+      "Crazy Rich Asians (2018)",
+      "The Hundred-Foot Journey (2014)",
+      "Coco (2017)",
+      "Kubo and the Two Strings (2016)",
+      "Spider-Man: Homecoming (2017)",
+      "Wonder Woman (2017)",
+      "Knives Out (2019)",
+      "Ocean's Eleven (2001)",
+      "Sherlock Holmes (2009)",
+      "About Time (2013)",
+      "Her (2013)",
+      "Arrival (2016)",
+      "Singin' in the Rain (1952)",
+      "Roman Holiday (1953)",
+      "Notting Hill (1999)",
+      "The Princess Bride (1987)",
+      "The Devil Wears Prada (2006)",
+      "Julie & Julia (2009)",
+      "Chef (2014)",
+      "Sense and Sensibility (1995)",
+      "Dilwale Dulhania Le Jayenge (1995)",
+      "Jab We Met (2007)",
+      "The Intouchables (2011)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.0,
+        "feeling": "The intimate, talky night in Vienna left me swooning and reflective.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.5,
+        "feeling": "Swept up by the wit, longing, and tender restraint.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Little Women (2019)",
+        "rating": 4.0,
+        "feeling": "Warm, sisterly, and heartfelt in all the right ways.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.0,
+        "feeling": "The music and bittersweet romance lingered pleasantly.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 3.5,
+        "feeling": "The quiet songs and unforced chemistry felt honest and moving.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 4.5,
+        "feeling": "Whimsical, tender, and irresistibly heartwarming.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 3.5,
+        "feeling": "Funny, sensitive, and reassuringly sincere.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 3.5,
+        "feeling": "Glitzy fun with a sweet heart, if a bit over-the-top.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Hundred-Foot Journey (2014)",
+        "rating": 4.0,
+        "feeling": "Comforted by the food, family, and cross-cultural warmth.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 3.5,
+        "feeling": "Colorful and touching, though animation still keeps me a step back.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 3.0,
+        "feeling": "Beautiful craft, but I felt more admiration than attachment.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spider-Man: Homecoming (2017)",
+        "rating": 4.0,
+        "feeling": "Light, charming, and rooted in youthful heart.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Wonder Woman (2017)",
+        "rating": 3.5,
+        "feeling": "Inspiring and earnest, even if the action left me indifferent.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 3.5,
+        "feeling": "Clever and brisk, fun more than affecting.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 3.0,
+        "feeling": "Slick and breezy, but emotionally distant for me.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sherlock Holmes (2009)",
+        "rating": 3.0,
+        "feeling": "Entertaining enough, yet I didn\u2019t feel much stake in the mystery.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.5,
+        "feeling": "A gentle, life-affirming love story that stayed with me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 3.5,
+        "feeling": "Intriguing and tender, though the tech angle kept me slightly detached.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 3.5,
+        "feeling": "Thoughtful and moody, appreciated more than loved.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 4.0,
+        "feeling": "Pure musical joy with a romantic glow.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 3.5,
+        "feeling": "Charming, wistful, and sweetly old-fashioned.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 3.5,
+        "feeling": "Witty, cozy, and quietly romantic.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.5,
+        "feeling": "A perfectly playful fairy-tale with true-love sparkle.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Devil Wears Prada (2006)",
+        "rating": 3.5,
+        "feeling": "Sharp, stylish, and pleasantly heartfelt.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Julie & Julia (2009)",
+        "rating": 3.5,
+        "feeling": "Comfort-food cinema that left me smiling and hungry.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chef (2014)",
+        "rating": 3.5,
+        "feeling": "Warm, flavorful, and feel-good.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.5,
+        "feeling": "Elegant, aching, and deeply satisfying.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dilwale Dulhania Le Jayenge (1995)",
+        "rating": 4.5,
+        "feeling": "Classic romance, family warmth, and sweeping emotion\u2014my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jab We Met (2007)",
+        "rating": 4.0,
+        "feeling": "Lively, charming, and reliably uplifting.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Intouchables (2011)",
+        "rating": 4.5,
+        "feeling": "Heartwarming, funny, and quietly transformative.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Brooklyn (2015)",
+      "Emma. (2020)",
+      "The Age of Adaline (2015)",
+      "The Guernsey Literary and Potato Peel Pie Society (2018)",
+      "The Apartment (1960)",
+      "The Philadelphia Story (1940)",
+      "Carol (2015)",
+      "Portrait of a Lady on Fire (2019)",
+      "The Holiday (2006)",
+      "You've Got Mail (1998)",
+      "While You Were Sleeping (1995)",
+      "Sing Street (2016)",
+      "Begin Again (2013)",
+      "Hearts Beat Loud (2018)",
+      "The Lunchbox (2013)",
+      "Big Night (1996)",
+      "Eat Drink Man Woman (1994)",
+      "Paddington 2 (2017)",
+      "The Farewell (2019)",
+      "Minari (2020)",
+      "Charade (1963)",
+      "Rear Window (1954)",
+      "The Thomas Crown Affair (1999)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "The Adjustment Bureau (2011)",
+      "In the Mood for Love (2000)",
+      "Before Sunset (2004)",
+      "Zindagi Na Milegi Dobara (2011)",
+      "Veer-Zaara (2004)",
+      "Queen (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 3.5,
+        "feeling": "The Parisian hip-hop chase felt gritty yet warm, with a tender spark that quietly got to me.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Emma. (2020)",
+        "rating": 4.0,
+        "feeling": "A witty, lush confection of manners and matchmaking that left me grinning and a little gooey.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Age of Adaline (2015)",
+        "rating": 3.5,
+        "feeling": "An elegant, wistful romance whose timeless conceit charmed me even as it kept me slightly at a distance.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Guernsey Literary and Potato Peel Pie Society (2018)",
+        "rating": 4.0,
+        "feeling": "Bookish community, gentle healing, and an old-fashioned romance wrapped me in cozy comfort.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.0,
+        "feeling": "Bittersweet and humane, its tenderness peeking through the cynicism won me over.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 3.5,
+        "feeling": "Sparkling and clever, more playful fun than deeply affecting for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.0,
+        "feeling": "Aching, delicate longing that lingered like a sigh.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 4.5,
+        "feeling": "Luminous restraint and smoldering yearning had me hushed and swept away.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 3.5,
+        "feeling": "Cozy, snow-globe comfort with sweet chemistry, a tad fluffy but pleasing.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 3.5,
+        "feeling": "Witty, cozy charm with a soft romantic glow, even if the premise dated it a touch.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 4.0,
+        "feeling": "Big-hearted, family-warm and adorably fated in all the right ways.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Buoyant and heartfelt, the songs and puppy-love hope left me smiling.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Hearts Beat Loud (2018)",
+        "rating": 3.5,
+        "feeling": "Gentle father-daughter warmth and easygoing tunes made for a tender, feel-good sway.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 4.5,
+        "feeling": "Quietly exquisite\u2014intimate, fragrant with longing, and profoundly comforting.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Big Night (1996)",
+        "rating": 4.0,
+        "feeling": "A savory, soulful feast of family, pride, and love that left me full and happy.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Eat Drink Man Woman (1994)",
+        "rating": 4.5,
+        "feeling": "Deliciously tender family shifts and romance, served with warmth and grace.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.0,
+        "feeling": "Wholesome, witty, and irresistibly kind\u2014a warm hug of a movie.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Farewell (2019)",
+        "rating": 4.5,
+        "feeling": "Funny, tender, and deeply humane, it held my heart with gentle honesty.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 3.5,
+        "feeling": "Sprightly and stylish, more charming caper than emotional swoon for me.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 3.5,
+        "feeling": "Ingenious and tense, admired more with my head than my heart.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.0,
+        "feeling": "Sleek and flirtatious, entertaining yet a bit emotionally distant for my taste.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Inventive and bittersweet, its messy love ache moved me beyond the high-concept.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Adjustment Bureau (2011)",
+        "rating": 3.0,
+        "feeling": "Romance sparks, but the fate-and-chase mechanics kept me somewhat detached.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 4.5,
+        "feeling": "A masterclass in restraint and yearning that left me aching in the loveliest way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunset (2004)",
+        "rating": 4.5,
+        "feeling": "Intimate, alive, and piercingly honest\u2014left me floating and contemplative.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zindagi Na Milegi Dobara (2011)",
+        "rating": 4.0,
+        "feeling": "Sunny camaraderie, personal growth, and romance made for an uplifting, feel-good escape.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Veer-Zaara (2004)",
+        "rating": 4.5,
+        "feeling": "Sweeping, selfless love and soaring emotion hit my absolute sweet spot.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Queen (2013)",
+        "rating": 3.0,
+        "feeling": "Sweet-hearted and scrappy, with working-class warmth that charmed more than it dazzled.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Past Lives (2023)",
+      "Brief Encounter (1945)",
+      "The Shop Around the Corner (1940)",
+      "A Room with a View (1985)",
+      "Far from the Madding Crowd (2015)",
+      "Jane Eyre (2011)",
+      "Bright Star (2009)",
+      "Atonement (2007)",
+      "The Umbrellas of Cherbourg (1964)",
+      "Ever After (1998)",
+      "Stardust (2007)",
+      "Sabrina (1954)",
+      "Call Me by Your Name (2017)",
+      "Cold War (2018)",
+      "Weekend (2011)",
+      "God\u2019s Own Country (2017)",
+      "Like Water for Chocolate (1992)",
+      "The Taste of Things (2023)",
+      "Babette\u2019s Feast (1987)",
+      "Tampopo (1985)",
+      "English Vinglish (2012)",
+      "Barfi! (2012)",
+      "Lootera (2013)",
+      "Kapoor & Sons (2016)",
+      "Kal Ho Naa Ho (2003)",
+      "Your Name (2016)",
+      "WALL-E (2008)",
+      "The Lake House (2006)",
+      "The Namesake (2006)",
+      "Monsoon Wedding (2001)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Past Lives (2023)",
+        "rating": 4.5,
+        "feeling": "Hushed, aching questions of destiny and choice left me wistful and full.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.0,
+        "feeling": "Restrained, tender longing moved me with its quiet heartbreak.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.0,
+        "feeling": "Pen-pal yearning and witty sparring felt cozy and romantic.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Far from the Madding Crowd (2015)",
+        "rating": 4.0,
+        "feeling": "Lush devotion and hard choices satisfied my period-romance sweet tooth.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jane Eyre (2011)",
+        "rating": 4.0,
+        "feeling": "Gothic restraint and smoldering connection left me warmly stirred.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bright Star (2009)",
+        "rating": 4.0,
+        "feeling": "Delicate, poetic longing fluttered through me, tender and sad.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 4.0,
+        "feeling": "Sweeping tragedy and remorse left a lingering ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Umbrellas of Cherbourg (1964)",
+        "rating": 4.0,
+        "feeling": "Lush color and sung-through melancholy washed over me tenderly.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ever After (1998)",
+        "rating": 4.0,
+        "feeling": "A Cinderella glow\u2014spirited, romantic, and happily comforting.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.5,
+        "feeling": "Whimsical adventure charmed me more than it moved me.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Sabrina (1954)",
+        "rating": 4.0,
+        "feeling": "Elegant, fizzy class-crossed romance left me softly smiling.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Call Me by Your Name (2017)",
+        "rating": 4.5,
+        "feeling": "Sun-drenched yearning and tender self-discovery had me quietly swooning.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cold War (2018)",
+        "rating": 4.0,
+        "feeling": "Spare, stormy passion\u2014beautifully restrained and bittersweet.",
+        "genres": [
+          "Romance",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Weekend (2011)",
+        "rating": 4.0,
+        "feeling": "Intimate, talky connection that felt honest and affecting.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "God\u2019s Own Country (2017)",
+        "rating": 4.0,
+        "feeling": "Rugged tenderness and hard-won openness warmed me deeply.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Like Water for Chocolate (1992)",
+        "rating": 4.5,
+        "feeling": "Sensual, food-laced longing stirred me in the loveliest way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Taste of Things (2023)",
+        "rating": 4.5,
+        "feeling": "A sumptuous, tender feast of love and cuisine that left me glowing.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Babette\u2019s Feast (1987)",
+        "rating": 4.5,
+        "feeling": "Quiet grace and one transcendent meal nourished my heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tampopo (1985)",
+        "rating": 4.0,
+        "feeling": "Playful, food-loving vignettes left me grinning and hungry.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "English Vinglish (2012)",
+        "rating": 4.5,
+        "feeling": "Gentle empowerment, family warmth, and kindness made my heart swell.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Barfi! (2012)",
+        "rating": 4.0,
+        "feeling": "Sweet, Chaplinesque charm and sincerity left me smiling.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Lootera (2013)",
+        "rating": 4.5,
+        "feeling": "Elegant restraint and aching romance lingered like a sigh.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Kapoor & Sons (2016)",
+        "rating": 4.0,
+        "feeling": "Messy family love and reconciliation felt warm and true.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Kal Ho Naa Ho (2003)",
+        "rating": 4.5,
+        "feeling": "Big-hearted, swoony melodrama with family warmth hit my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.0,
+        "feeling": "Time-crossed yearning swept me up even as animation keeps me a touch apart.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 3.5,
+        "feeling": "Clever and tender, though animation leaves me slightly at a distance.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Lake House (2006)",
+        "rating": 3.5,
+        "feeling": "Time-tossed letters felt cozy and wistful, if a bit contrived.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Namesake (2006)",
+        "rating": 4.5,
+        "feeling": "Quiet, humane family journeys and identity left me deeply moved.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Monsoon Wedding (2001)",
+        "rating": 4.0,
+        "feeling": "Lively, affectionate ensemble warmth with romance in the air.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Before Midnight (2013)",
+      "When Harry Met Sally... (1989)",
+      "A Room with a View (1985)",
+      "The Remains of the Day (1993)",
+      "The Age of Innocence (1993)",
+      "Rebecca (1940)",
+      "The Heiress (1949)",
+      "An Affair to Remember (1957)",
+      "Il Postino (The Postman) (1994)",
+      "Cinema Paradiso (1988)",
+      "The Bridges of Madison County (1995)",
+      "The English Patient (1996)",
+      "A Very Long Engagement (2004)",
+      "Begin Again (2013)",
+      "Belle (2013)",
+      "Maurice (1987)",
+      "Brokeback Mountain (2005)",
+      "A Single Man (2009)",
+      "Moonlight (2016)",
+      "Piku (2015)",
+      "Dear Zindagi (2016)",
+      "Swades (2004)",
+      "Ek Ladki Ko Dekha Toh Aisa Laga (2019)",
+      "Yeh Jawaani Hai Deewani (2013)",
+      "Mostly Martha (2001)",
+      "Sweet Bean (2015)",
+      "The Cakemaker (2017)",
+      "The Mummy (1999)",
+      "The Mask of Zorro (1998)",
+      "Wolf Children (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Before Midnight (2013)",
+        "rating": 4.0,
+        "feeling": "Bracingly honest and weary yet tender, it left me contemplative and a little heartsore.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.0,
+        "feeling": "Witty, cozy banter and slow-bloom romance left me smiling and softly warmed.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.5,
+        "feeling": "Its devastating restraint and unspoken longing ached beautifully and stayed with me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Age of Innocence (1993)",
+        "rating": 4.0,
+        "feeling": "Lush repression and impossible desire swept me up in a bittersweet hush.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Rebecca (1940)",
+        "rating": 3.5,
+        "feeling": "Moody, gothic intrigue and chilly romance intrigued me more than it moved me.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Heiress (1949)",
+        "rating": 4.5,
+        "feeling": "Quietly shattering heartbreak and precise restraint left me breathless and aching.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "An Affair to Remember (1957)",
+        "rating": 4.0,
+        "feeling": "Grand, old-fashioned swoon with a tender ache left me glowing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Il Postino (The Postman) (1994)",
+        "rating": 4.5,
+        "feeling": "Gentle poetry and simple-hearted yearning warmed me through and through.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cinema Paradiso (1988)",
+        "rating": 4.0,
+        "feeling": "Nostalgic love of cinema and tender mentorship left me misty-eyed and cozy.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Bridges of Madison County (1995)",
+        "rating": 4.5,
+        "feeling": "A hushed, aching blaze of fleeting love left me wrecked in the loveliest way.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The English Patient (1996)",
+        "rating": 4.0,
+        "feeling": "Sweeping desert romance and wartime melancholy washed over me with lingering sorrow.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "A Very Long Engagement (2004)",
+        "rating": 4.0,
+        "feeling": "Stubborn, hopeful love amid the scars of war felt tender and satisfying.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Belle (2013)",
+        "rating": 4.0,
+        "feeling": "Graceful, humane storytelling with a romantic undercurrent left me stirred and heartened.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Maurice (1987)",
+        "rating": 4.0,
+        "feeling": "Tender, restrained yearning within rigid society moved me with quiet warmth.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brokeback Mountain (2005)",
+        "rating": 4.5,
+        "feeling": "Spare, aching love and the weight of time left me heartsick and full.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Single Man (2009)",
+        "rating": 4.0,
+        "feeling": "Elegant grief and fleeting connection cast a mournful, tender spell.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Moonlight (2016)",
+        "rating": 4.5,
+        "feeling": "Tender, humane, and luminous, it held my heart in a quiet, aching grip.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Piku (2015)",
+        "rating": 4.0,
+        "feeling": "Wry, affectionate road-trip squabbles and father-daughter warmth left me smiling through a lump in my throat.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dear Zindagi (2016)",
+        "rating": 4.0,
+        "feeling": "Kind, thoughtful guidance and gentle self-discovery felt soothing and hopeful.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Swades (2004)",
+        "rating": 4.5,
+        "feeling": "Big-hearted homecoming and purpose-filled warmth left me inspired and full.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ek Ladki Ko Dekha Toh Aisa Laga (2019)",
+        "rating": 4.0,
+        "feeling": "Family warmth and tender courage in love left me softly moved.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Yeh Jawaani Hai Deewani (2013)",
+        "rating": 3.5,
+        "feeling": "Glossy, lively romance and life-choices charmed me more than they stirred me.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Mostly Martha (2001)",
+        "rating": 4.0,
+        "feeling": "A savory blend of guarded hearts, found family, and kitchen warmth left me content.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sweet Bean (2015)",
+        "rating": 4.5,
+        "feeling": "Delicate kindness and small, sweet joys left me quietly glowing.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Cakemaker (2017)",
+        "rating": 4.5,
+        "feeling": "Gentle grief, forbidden connection, and shared pastries moved me deeply.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 3.0,
+        "feeling": "Breezy, pulpy adventure entertained me, though I felt little emotional pull.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 3.5,
+        "feeling": "Swashbuckling charm and flirtatious spark made for a fun, lightly romantic escape.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Wolf Children (2012)",
+        "rating": 4.0,
+        "feeling": "Tender motherhood and bittersweet growing-up warmed me even as animation keeps me a hair apart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    ]
+  }
+]

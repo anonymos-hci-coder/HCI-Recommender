@@ -1,0 +1,1220 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Napoleon Dynamite (2004)",
+      "Wallace & Gromit: The Wrong Trousers (1993)",
+      "Wallace & Gromit: The Best of Aardman Animation (1996)",
+      "Opposite of Sex, The (1998)",
+      "The Dawns Here are Quiet (1972)",
+      "Wallace & Gromit in The Curse of the Were-Rabbit (2005)",
+      "Wallace & Gromit: A Close Shave (1995)",
+      "Christmas Story, A (1983)",
+      "1984 (1956)",
+      "Tora! Tora! Tora! (1970)",
+      "Buffalo '66 (a.k.a. Buffalo 66) (1998)",
+      "The War (2007)",
+      "56 Up (2012)",
+      "Barbarella (1968)",
+      "Claymation Christmas Celebration, A (1987)",
+      "Pledge, The (2001)",
+      "Igby Goes Down (2002)",
+      "Little Witch Academia (2013)",
+      "Goldfinger (1964)",
+      "Decline of Western Civilization Part II: The Metal Years, The (1988)",
+      "Thirteen Conversations About One Thing (a.k.a. 13 Conversations) (2001)",
+      "Glengarry Glen Ross (1992)",
+      "Doubt (2008)",
+      "One Day in September (1999)",
+      "Chicken Run (2000)",
+      "Happiness (1998)",
+      "Holiday Affair (1949)",
+      "Barcelona (1994)",
+      "Baseball (1994)",
+      "Dr. No (1962)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Napoleon Dynamite (2004)",
+        "rating": 4.0,
+        "feeling": "Awkward, deadpan humor and small-town weirdness I find endearing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Wrong Trousers (1993)",
+        "rating": 4.5,
+        "feeling": "Smart, inventive slapstick with dry British wit is right up my alley.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Best of Aardman Animation (1996)",
+        "rating": 4.0,
+        "feeling": "Consistently clever shorts with warmth and wit, with only minor dips.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Opposite of Sex, The (1998)",
+        "rating": 3.5,
+        "feeling": "Acerbic, messy characters and barbed humor mostly work for me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Dawns Here are Quiet (1972)",
+        "rating": 4.0,
+        "feeling": "Somber, character-focused war story that feels humane and gripping.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit in The Curse of the Were-Rabbit (2005)",
+        "rating": 4.0,
+        "feeling": "Buoyant, witty and playful without getting cloying.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Christmas Story, A (1983)",
+        "rating": 4.0,
+        "feeling": "Sardonic nostalgia and low-key laughs beat holiday schmaltz.",
+        "genres": [
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "1984 (1956)",
+        "rating": 3.5,
+        "feeling": "The themes resonate, though the older staging blunts some impact.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tora! Tora! Tora! (1970)",
+        "rating": 3.5,
+        "feeling": "Procedural war history is absorbing if a bit stiff.",
+        "genres": [
+          "War",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Buffalo '66 (a.k.a. Buffalo 66) (1998)",
+        "rating": 4.0,
+        "feeling": "Offbeat, prickly and oddly tender hits my indie sweet spot.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "The War (2007)",
+        "rating": 1.5,
+        "feeling": "Broad, churchy sitcom vibes and canned humor leave me cold.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "56 Up (2012)",
+        "rating": 4.5,
+        "feeling": "Decades-spanning, humane observation that fascinates start to finish.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Barbarella (1968)",
+        "rating": 2.0,
+        "feeling": "Campy sci-fi fluff that amuses briefly but wears thin fast.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Claymation Christmas Celebration, A (1987)",
+        "rating": 3.0,
+        "feeling": "Cute and occasionally witty, but mostly disposable holiday fluff.",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Pledge, The (2001)",
+        "rating": 4.0,
+        "feeling": "Moody, patient crime drama with moral weight I appreciate.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Igby Goes Down (2002)",
+        "rating": 3.5,
+        "feeling": "Caustic, witty teen malaise that mostly lands despite some smugness.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Little Witch Academia (2013)",
+        "rating": 2.5,
+        "feeling": "Energetic and sweet, but the fantasy trappings don\u2019t grab me.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Goldfinger (1964)",
+        "rating": 3.5,
+        "feeling": "Iconic fun with style, though I\u2019m not fully swept up by Bond.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Decline of Western Civilization Part II: The Metal Years, The (1988)",
+        "rating": 3.5,
+        "feeling": "Entertaining snapshot with some bite, even if the scene isn\u2019t my thing.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Thirteen Conversations About One Thing (a.k.a. 13 Conversations) (2001)",
+        "rating": 4.0,
+        "feeling": "Thoughtful, interwoven melancholy that I find quietly compelling.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Glengarry Glen Ross (1992)",
+        "rating": 4.5,
+        "feeling": "Scalpel-sharp dialogue and desperation\u2014my kind of pressure cooker.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Doubt (2008)",
+        "rating": 4.0,
+        "feeling": "Taut performances and moral ambiguity keep me engaged.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "One Day in September (1999)",
+        "rating": 4.5,
+        "feeling": "Riveting, clear-eyed and deeply unsettling\u2014excellent doc work.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Chicken Run (2000)",
+        "rating": 4.0,
+        "feeling": "Clever, spirited escape caper with Aardman charm to spare.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Happiness (1998)",
+        "rating": 3.5,
+        "feeling": "Bold, dark and queasy",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Holiday Affair (1949)",
+        "rating": 2.0,
+        "feeling": "Gentle and pleasant, but the old-fashioned romance feels thin to me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Barcelona (1994)",
+        "rating": 3.5,
+        "feeling": "Dry, talky wit and cultural prickliness that I enjoy.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Baseball (1994)",
+        "rating": 2.5,
+        "feeling": "Light blooper fare that\u2019s fine background but little more.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Dr. No (1962)",
+        "rating": 3.5,
+        "feeling": "Solid, breezy starter Bond",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Moulin Rouge (2001)",
+      "Rent (2005)",
+      "Cheech & Chong's Nice Dreams (1981)",
+      "Walk on the Moon, A (1999)",
+      "Southern Comfort (2001)",
+      "Family, The (2013)",
+      "Haunted World of Edward D. Wood Jr., The (1996)",
+      "Chicago (2002)",
+      "Love & Human Remains (1993)",
+      "Love! Valour! Compassion! (1997)",
+      "God Said 'Ha!' (1998)",
+      "Sicarivs: The Night and the Silence (2015)",
+      "Cure for Love, A (Lekarstwo na milosc) (1966)",
+      "Women, The (1939)",
+      "Sisters in Law (2005)",
+      "Good Day to Die Hard, A (2013)",
+      "Marc Maron: From Bleak to Dark (2023)",
+      "Scream 2 (1997)",
+      "Girl, Positive (2007)",
+      "Without Limits (1998)",
+      "Man Facing Southeast (1986)",
+      "Trailer Park Boys: Say Goodnight to the Bad Guys (2008)",
+      "Man on a Tightrope (1953)",
+      "Hamlet (1996)",
+      "Bangkok Dangerous (2008)",
+      "Cruise, The (1998)",
+      "Crash (1996)",
+      "The Kids Are Alright (1979)",
+      "Tom Jones (1963)",
+      "Jackass 3D (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Moulin Rouge (2001)",
+        "rating": 2.0,
+        "feeling": "Flashy musical romance leaves me cold despite the craft.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Rent (2005)",
+        "rating": 2.0,
+        "feeling": "Earnest bohemian melodrama feels strident and not my tempo.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cheech & Chong's Nice Dreams (1981)",
+        "rating": 1.5,
+        "feeling": "Loose stoner antics wear thin fast for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Walk on the Moon, A (1999)",
+        "rating": 2.0,
+        "feeling": "Sincere but the adultery romance doesn't hook me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Southern Comfort (2001)",
+        "rating": 4.5,
+        "feeling": "Humane, intimate doc that moved me deeply.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Family, The (2013)",
+        "rating": 2.5,
+        "feeling": "Mafia-in-hiding shenanigans are intermittently amusing but thin.",
+        "genres": [
+          "Crime",
+          "Comedy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Haunted World of Edward D. Wood Jr., The (1996)",
+        "rating": 3.5,
+        "feeling": "Affectionate, lively overview that satisfies my pop-culture curiosity.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Chicago (2002)",
+        "rating": 2.5,
+        "feeling": "Clever razzle-dazzle, but the musical gloss keeps me at arm's length.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love! Valour! Compassion! (1997)",
+        "rating": 3.5,
+        "feeling": "Talky, tender ensemble drama with some bite - mostly works.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "God Said 'Ha!' (1998)",
+        "rating": 4.0,
+        "feeling": "Wry, candid and quietly affecting.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Sicarivs: The Night and the Silence (2015)",
+        "rating": 3.5,
+        "feeling": "Moody hitman morality play that keeps me engaged.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cure for Love, A (Lekarstwo na milosc) (1966)",
+        "rating": 3.5,
+        "feeling": "Light caper charm and dry wit hit a pleasant groove.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Women, The (1939)",
+        "rating": 2.5,
+        "feeling": "Catty wit is there, but the dated attitudes sap it.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sisters in Law (2005)",
+        "rating": 4.5,
+        "feeling": "Clear-eyed, compelling justice stories that stick with me.",
+        "genres": [
+          "Documentary",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Good Day to Die Hard, A (2013)",
+        "rating": 2.0,
+        "feeling": "Noisy, weightless spectacle that I quickly forget.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Marc Maron: From Bleak to Dark (2023)",
+        "rating": 4.0,
+        "feeling": "Acerbic, personal and smartly observed - my kind of hour.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Scream 2 (1997)",
+        "rating": 2.5,
+        "feeling": "Self-aware slashing has its moments but little tension for me.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Girl, Positive (2007)",
+        "rating": 2.5,
+        "feeling": "Earnest message piece that feels a bit TV-flat.",
+        "genres": [
+          "TV Movie",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Without Limits (1998)",
+        "rating": 3.0,
+        "feeling": "Solid biopic craft with enough character drive to hold me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Trailer Park Boys: Say Goodnight to the Bad Guys (2008)",
+        "rating": 2.5,
+        "feeling": "Scruffy hijinks land sporadic laughs, mostly shrug-worthy.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Man on a Tightrope (1953)",
+        "rating": 3.5,
+        "feeling": "Sturdy, tense escape drama with human stakes.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hamlet (1996)",
+        "rating": 3.0,
+        "feeling": "Impressive but the classical delivery keeps me at a remove.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bangkok Dangerous (2008)",
+        "rating": 2.5,
+        "feeling": "Generic assassin beats with occasional mood, little resonance.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Cruise, The (1998)",
+        "rating": 4.0,
+        "feeling": "Quirky, humane character study that fascinates.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Crash (1996)",
+        "rating": 3.0,
+        "feeling": "Cool, unsettling kink piece that intrigues more than it moves me.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Kids Are Alright (1979)",
+        "rating": 3.5,
+        "feeling": "Energetic, engaging rock doc even if the scene isn't my thing.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Tom Jones (1963)",
+        "rating": 3.0,
+        "feeling": "Roguish frolic is amiable, if a bit overlong and arch.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jackass 3D (2010)",
+        "rating": 1.0,
+        "feeling": "Gross-out stunts exhaust me almost immediately.",
+        "genres": [
+          "Comedy",
+          "Documentary",
+          "Action"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Twilight Saga: Breaking Dawn - Part 2, The (2012)",
+      "Twilight Saga: Eclipse, The (2010)",
+      "Twilight Saga: Breaking Dawn - Part 1, The (2011)",
+      "Twilight (2008)",
+      "Twilight Saga: New Moon, The (2009)",
+      "Paulie (1998)",
+      "The Last Mountain (2021)",
+      "Pok\u00e9mon: The First Movie (1998)",
+      "Speed Zone! (a.k.a. Cannonball Run III) (1989)",
+      "Sicko (2007)",
+      "West Side Story (1961)",
+      "Beaches (1988)",
+      "Operation Dunaj (2009)",
+      "Reindeer Games (2000)",
+      "Jesus Christ Superstar (1973)",
+      "Lemon (1969)",
+      "Mad City (1997)",
+      "Toxic Avenger, The (1985)",
+      "Stop! Or My Mom Will Shoot (1992)",
+      "Month by the Lake, A (1995)",
+      "Michael Jackson's This Is It (2009)",
+      "Saint of Fort Washington, The (1993)",
+      "Throw Momma from the Train (1987)",
+      "Noah (2014)",
+      "8 Heads in a Duffel Bag (1997)",
+      "DreamWorks Home: For the Holidays (2017)",
+      "Christmas Carol, A (1938)",
+      "Jane Austen's Mafia! (1998)",
+      "Old Yeller (1957)",
+      "My Name is Khan (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Twilight Saga: Breaking Dawn - Part 2, The (2012)",
+        "rating": 1.5,
+        "feeling": "CGI vampire clan politics can\u2019t overcome the swoony YA melodrama that turns me off.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Twilight Saga: Eclipse, The (2010)",
+        "rating": 2.0,
+        "feeling": "Slightly more momentum, but the love triangle soapiness still keeps me at arm\u2019s length.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Twilight Saga: Breaking Dawn - Part 1, The (2011)",
+        "rating": 1.5,
+        "feeling": "Glossy honeymoon angst and supernatural pregnancy melodrama just isn\u2019t my tempo.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Twilight (2008)",
+        "rating": 1.5,
+        "feeling": "Brooding teen romance with fantasy trappings leaves me cold despite the mood.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Twilight Saga: New Moon, The (2009)",
+        "rating": 1.5,
+        "feeling": "Prolonged heartbreak and werewolf detours feel like empty teen angst to me.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paulie (1998)",
+        "rating": 3.0,
+        "feeling": "Sweet and earnest",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Last Mountain (2021)",
+        "rating": 4.0,
+        "feeling": "Absorbing, clear mountain doc with human stakes and nerve.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Pok\u00e9mon: The First Movie (1998)",
+        "rating": 2.0,
+        "feeling": "Franchise bombast and fantasy battles aren\u2019t my scene, though it\u2019s brisk.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Speed Zone! (a.k.a. Cannonball Run III) (1989)",
+        "rating": 1.0,
+        "feeling": "Broad, noisy stunt comedy that exhausts me almost immediately.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Sicko (2007)",
+        "rating": 4.0,
+        "feeling": "Punchy, persuasive healthcare critique that keeps me engaged despite the polemics.",
+        "genres": [
+          "Documentary",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "West Side Story (1961)",
+        "rating": 2.5,
+        "feeling": "Accomplished, but musical romance and arch staging keep me at a remove.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Beaches (1988)",
+        "rating": 2.0,
+        "feeling": "Sentimental friendship melodrama that feels canned to me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Operation Dunaj (2009)",
+        "rating": 3.0,
+        "feeling": "Pleasant, lightly satirical period caper with a dry touch.",
+        "genres": [
+          "Comedy",
+          "History"
+        ]
+      },
+      {
+        "title": "Reindeer Games (2000)",
+        "rating": 2.5,
+        "feeling": "Pulpy heist-thriller beats pass the time without much weight.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Jesus Christ Superstar (1973)",
+        "rating": 2.5,
+        "feeling": "Inventive in spots, but the rock-opera delivery keeps me detached.",
+        "genres": [
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Lemon (1969)",
+        "rating": 2.0,
+        "feeling": "Minimalist conceptual exercise that feels thin for me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Mad City (1997)",
+        "rating": 3.0,
+        "feeling": "Media circus morality play that\u2019s engaging if a bit blunt.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Stop! Or My Mom Will Shoot (1992)",
+        "rating": 1.0,
+        "feeling": "Strained, broad shtick that lands with a thud.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Month by the Lake, A (1995)",
+        "rating": 2.0,
+        "feeling": "Genteel, old-fashioned romance that I find too slight.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Michael Jackson's This Is It (2009)",
+        "rating": 3.0,
+        "feeling": "Respectful and occasionally stirring, but I\u2019m only mildly invested.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Saint of Fort Washington, The (1993)",
+        "rating": 4.0,
+        "feeling": "Humane, affecting drama with compassion that resonates.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Throw Momma from the Train (1987)",
+        "rating": 3.5,
+        "feeling": "Dark, quirky farce with enough bite to keep me amused.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Noah (2014)",
+        "rating": 2.5,
+        "feeling": "Mythic spectacle with ambition, but the biblical bombast distances me.",
+        "genres": [
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "8 Heads in a Duffel Bag (1997)",
+        "rating": 2.0,
+        "feeling": "Goofy macabre caper that leans too broad for my taste.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Adventure",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "DreamWorks Home: For the Holidays (2017)",
+        "rating": 2.0,
+        "feeling": "Shiny, well-meaning holiday fluff that feels disposable.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Science Fiction",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Christmas Carol, A (1938)",
+        "rating": 2.5,
+        "feeling": "Classic moral tale played earnestly",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Jane Austen's Mafia! (1998)",
+        "rating": 1.5,
+        "feeling": "Scattershot spoofing that mostly misses my dry-wit sweet spot.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Old Yeller (1957)",
+        "rating": 3.0,
+        "feeling": "Simple, heartfelt family drama that lands decently despite the age.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family",
+          "Western"
+        ]
+      },
+      {
+        "title": "My Name is Khan (2010)",
+        "rating": 3.5,
+        "feeling": "Sincere, humane story whose earnestness mostly works for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Homework (1989)",
+      "Hugo (2011)",
+      "Them! (1954)",
+      "The Forgotten Faces (1961)",
+      "Why We Fight (2005)",
+      "Batman Beyond Darwyn Cooke's Batman 75th Anniversary Short (2014)",
+      "John Mulaney: Kid Gorgeous at Radio City (2018)",
+      "Two Hands (1999)",
+      "On the Trail of the Bremen Town Musicians (1973)",
+      "Daria: Is It Fall Yet? (2000)",
+      "Perks of Being a Wallflower, The (2012)",
+      "Flowers (2014)",
+      "Talented Mr. Ripley, The (1999)",
+      "Murder-Set-Pieces (2004)",
+      "Birdsong (2012)",
+      "House of Yes, The (1997)",
+      "Family Thing, A (1996)",
+      "Revenge of the Pink Panther (1978)",
+      "Blueprint for Murder, A (1953)",
+      "Deconstructing Harry (1997)",
+      "Without Family (1984)",
+      "The Young Karl Marx (2017)",
+      "Blob, The (1958)",
+      "Fly Away Solo (2015)",
+      "Bawdy Tales (1973)",
+      "Serra Pelada - A Lenda da Montanha De Ouro (2013)",
+      "Silver Linings Playbook (2012)",
+      "Fishing with John (1991)",
+      "Godzilla (Gojira) (1954)",
+      "Edward Scissorhands (1990)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Homework (1989)",
+        "rating": 4.0,
+        "feeling": "Quiet, candid kids\u2019 perspectives and social insight hit my documentary sweet spot.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Hugo (2011)",
+        "rating": 3.0,
+        "feeling": "A loving ode to cinema with a tender heart, a bit too glossy and sentimental for me.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Them! (1954)",
+        "rating": 3.0,
+        "feeling": "Sturdy 50s sci-fi procedural fun, enjoyable but not especially gripping.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Forgotten Faces (1961)",
+        "rating": 3.5,
+        "feeling": "Lean, urgent reconstruction with human stakes that I respect more than I love.",
+        "genres": [
+          "History",
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Why We Fight (2005)",
+        "rating": 4.5,
+        "feeling": "Clear, probing critique of militarism that aligns with the incisive docs I gravitate to.",
+        "genres": [
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Batman Beyond Darwyn Cooke's Batman 75th Anniversary Short (2014)",
+        "rating": 3.5,
+        "feeling": "Stylish, punchy nostalgia that scratches the Batman itch without much depth.",
+        "genres": [
+          "Action",
+          "Animation",
+          "Science Fiction",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "John Mulaney: Kid Gorgeous at Radio City (2018)",
+        "rating": 4.0,
+        "feeling": "Tight, well-crafted hour with smart, acerbic bits that land for me.",
+        "genres": [
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Two Hands (1999)",
+        "rating": 3.5,
+        "feeling": "Moody, scrappy crime caper with dark humor that keeps me engaged.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "On the Trail of the Bremen Town Musicians (1973)",
+        "rating": 2.5,
+        "feeling": "Cute, brisk adventure with songs, pleasant but not really my lane.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Daria: Is It Fall Yet? (2000)",
+        "rating": 4.0,
+        "feeling": "Dry, sardonic teen wit and low-key melancholy are right in my wheelhouse.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Perks of Being a Wallflower, The (2012)",
+        "rating": 3.5,
+        "feeling": "Sincere coming-of-age with compassion, a touch earnest but it works.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Flowers (2014)",
+        "rating": 4.0,
+        "feeling": "Quiet, humane interweaving of lives that I find gently absorbing.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Talented Mr. Ripley, The (1999)",
+        "rating": 4.0,
+        "feeling": "Elegant, unsettling character thriller with moral rot that pulls me in.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Murder-Set-Pieces (2004)",
+        "rating": 1.0,
+        "feeling": "Exploitative nastiness with little insight that\u2019s well beyond my appetite.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "House of Yes, The (1997)",
+        "rating": 3.5,
+        "feeling": "Tart, claustrophobic dysfunction with barbed humor that mostly works for me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Family Thing, A (1996)",
+        "rating": 3.5,
+        "feeling": "Sincere, humane reconciliation drama that hits enough honest notes.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Revenge of the Pink Panther (1978)",
+        "rating": 3.5,
+        "feeling": "Sellers\u2019 antics still amuse, even if the series\u2019 spark is dimmer here.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blueprint for Murder, A (1953)",
+        "rating": 3.5,
+        "feeling": "Tidy, suspicion-driven noir-thriller that scratches the mystery itch.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Deconstructing Harry (1997)",
+        "rating": 4.0,
+        "feeling": "Acerbic, self-lacerating and briskly inventive that\u2019s my kind of prickly.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Without Family (1984)",
+        "rating": 3.0,
+        "feeling": "Warm, wandering orphan tale that\u2019s sweet if a bit thin for me.",
+        "genres": [
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Young Karl Marx (2017)",
+        "rating": 3.5,
+        "feeling": "Talky, engaged history with ideas I\u2019m interested in, if a bit didactic.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blob, The (1958)",
+        "rating": 3.0,
+        "feeling": "Iconic B-movie fun that\u2019s charmingly pulpy more than truly tense for me.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Fly Away Solo (2015)",
+        "rating": 4.0,
+        "feeling": "Human, compassionate intersecting stories that resonate.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bawdy Tales (1973)",
+        "rating": 1.5,
+        "feeling": "Ribald anthology that leans broad and crass, far from my dry-wit sweet spot.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Serra Pelada - A Lenda da Montanha De Ouro (2013)",
+        "rating": 4.0,
+        "feeling": "Absorbing snapshot of a gold rush with striking images and human stakes.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Silver Linings Playbook (2012)",
+        "rating": 3.5,
+        "feeling": "Energetic, messy dramedy with sharp performances where the rom-com beats mostly work.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Godzilla (Gojira) (1954)",
+        "rating": 4.0,
+        "feeling": "Somber, elemental monster parable with weight I appreciate.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Edward Scissorhands (1990)",
+        "rating": 3.5,
+        "feeling": "Tender outsider fairy tale with charm that\u2019s a bit too whimsical for my taste.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

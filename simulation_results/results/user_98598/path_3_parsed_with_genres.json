@@ -1,0 +1,1219 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Favourite (2018)",
+      "Mulholland Drive (2001)",
+      "Drive (2011)",
+      "Let the Right One In (2008)",
+      "Only Lovers Left Alive (2013)",
+      "Crimson Peak (2015)",
+      "Pan's Labyrinth (2006)",
+      "The City of Lost Children (1995)",
+      "Delicatessen (1991)",
+      "The Grand Budapest Hotel (2014)",
+      "The Royal Tenenbaums (2001)",
+      "In Bruges (2008)",
+      "Fargo (1996)",
+      "A Serious Man (2009)",
+      "Her (2013)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "The Handmaiden (2016)",
+      "Carol (2015)",
+      "Portrait of a Lady on Fire (2019)",
+      "Moonlight (2016)",
+      "Grey Gardens (1975)",
+      "Kiki (2016)",
+      "Memories of Murder (2003)",
+      "Burning (2018)",
+      "Three Colors: Blue (1993)",
+      "A Separation (2011)",
+      "Shoplifters (2018)",
+      "The Witch (2015)",
+      "Coraline (2009)",
+      "Edward Scissorhands (1990)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Favourite (2018)",
+        "rating": 4.5,
+        "feeling": "Acidic, absurdist court intrigue with a wicked bite hits my sweet spot.",
+        "genres": [
+          "History",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 4.5,
+        "feeling": "Dream-logic, queer undercurrents, and dread coalesce into something I relish.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Drive (2011)",
+        "rating": 4.0,
+        "feeling": "Coolly stylized melancholy and sudden violence kept me entranced, if a touch detached.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Let the Right One In (2008)",
+        "rating": 4.0,
+        "feeling": "A moody, tender horror-romance that seeps under the skin.",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Only Lovers Left Alive (2013)",
+        "rating": 4.0,
+        "feeling": "Languid, sardonic vampire romance with impeccable mood.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Crimson Peak (2015)",
+        "rating": 3.5,
+        "feeling": "A gorgeous gothic confection I enjoyed more for its atmosphere than its story.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "A dark fairy tale that marries wonder and brutality beautifully.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The City of Lost Children (1995)",
+        "rating": 4.0,
+        "feeling": "Baroque, dreamlike world-building I'm happy to drown in.",
+        "genres": [
+          "Fantasy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Delicatessen (1991)",
+        "rating": 4.0,
+        "feeling": "Macabre whimsy with bite -- right up my alley.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Grand Budapest Hotel (2014)",
+        "rating": 4.0,
+        "feeling": "A precise, melancholy caper whose sweetness carries a bittersweet aftertaste.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Royal Tenenbaums (2001)",
+        "rating": 3.5,
+        "feeling": "Deadpan dysfunction I like in moments more than as a whole.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 3.5,
+        "feeling": "Profane, bruised humor with unexpected tenderness lands well.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny and razor sharp without losing its human core.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Serious Man (2009)",
+        "rating": 4.0,
+        "feeling": "An existential comedy of cosmic shrugs that resonates with me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "Intimate, tech-tinged melancholy that feels affecting without turning saccharine.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Inventive, aching look at memory and love that mostly disarms my cynicism.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Handmaiden (2016)",
+        "rating": 4.5,
+        "feeling": "A sumptuous, twisty desire-machine that thrilled me.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.0,
+        "feeling": "Elegant, restrained longing that quietly wrecked me.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 4.5,
+        "feeling": "Immersive, painterly heartbreak that lingers.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Moonlight (2016)",
+        "rating": 4.5,
+        "feeling": "Tender, lucid storytelling with a pulse I deeply responded to.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kiki (2016)",
+        "rating": 4.5,
+        "feeling": "A vibrant, vital return to ballroom culture that moved me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 3.5,
+        "feeling": "A haunting procedural with texture, though the genre grabs me less.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 4.0,
+        "feeling": "Slow-burn ambiguity and class tension I savor.",
+        "genres": []
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.0,
+        "feeling": "Cool, crystalline grief that keeps me rapt.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.0,
+        "feeling": "Piercing, humane drama that grips without grandstanding.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Shoplifters (2018)",
+        "rating": 4.0,
+        "feeling": "Gentle, clear-eyed empathy that snuck up on me.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 0.5,
+        "feeling": "Bombastic, boilerplate fantasy that leaves me cold.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Coraline (2009)",
+        "rating": 4.0,
+        "feeling": "Dark, tactile wonder with just the right shiver.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Edward Scissorhands (1990)",
+        "rating": 4.0,
+        "feeling": "Gothic tenderness and outsider ache that still charms me.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Spirited Away (2001)",
+      "The Green Knight (2021)",
+      "The Devil's Backbone (2001)",
+      "The Orphanage (2007)",
+      "The Others (2001)",
+      "The Lighthouse (2019)",
+      "The Innocents (1961)",
+      "Stoker (2013)",
+      "Decision to Leave (2022)",
+      "Under the Skin (2013)",
+      "Ex Machina (2014)",
+      "Arrival (2016)",
+      "Annihilation (2018)",
+      "Upstream Color (2013)",
+      "The Duke of Burgundy (2014)",
+      "In the Mood for Love (2000)",
+      "Happy Together (1997)",
+      "Weekend (2011)",
+      "God's Own Country (2017)",
+      "Call Me by Your Name (2017)",
+      "Parasite (2019)",
+      "Drive My Car (2021)",
+      "Inside Llewyn Davis (2013)",
+      "The Banshees of Inisherin (2022)",
+      "The Death of Stalin (2017)",
+      "Force Majeure (2014)",
+      "Toni Erdmann (2016)",
+      "Cabaret (1972)",
+      "The Queen (1968)",
+      "Disclosure (2020)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.5,
+        "feeling": "Darkly luminous wonder and gentle dread hit my fairy\u2011tale sweet spot",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Green Knight (2021)",
+        "rating": 3.5,
+        "feeling": "Mythic mood and pagan fog seduced me, though its chivalric quest kept me at a remove",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "A tender ghost story braided with war\u2011time sorrow\u2014my kind of melancholy",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 3.5,
+        "feeling": "Elegiac chills and maternal longing landed, even when the mechanics creaked",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.0,
+        "feeling": "Candlelit paranoia and moral rigidity make for hushed, satisfying dread",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lighthouse (2019)",
+        "rating": 4.0,
+        "feeling": "Briny madness and mythic spite\u2014beautifully noxious in a way I savor",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.0,
+        "feeling": "Ambiguity and repression curdle into exquisite unease I relish",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Stoker (2013)",
+        "rating": 4.0,
+        "feeling": "Silken perversity and controlled menace\u2014Park\u2019s desire machine purrs",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Decision to Leave (2022)",
+        "rating": 4.5,
+        "feeling": "Sultry, sly cat\u2011and\u2011mouse where longing and investigation entwine\u2014thrilling to me",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Under the Skin (2013)",
+        "rating": 3.5,
+        "feeling": "Sparse reunion and wordless yearning touched me more in texture than in plot",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Quiet awe and linguistic empathy\u2014intellect wedded to feeling just right",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 4.0,
+        "feeling": "Shimmering dread and self\u2011annihilating grief\u2014gorgeously unsettling",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Upstream Color (2013)",
+        "rating": 4.0,
+        "feeling": "Hypnotic, elliptical romance that I\u2019m happy to drown in",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Duke of Burgundy (2014)",
+        "rating": 4.0,
+        "feeling": "Perfumed kink and negotiated intimacy\u2014tender, wry, and intoxicating",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 4.5,
+        "feeling": "Chaste ache rendered in silk and shadow\u2014devastating in restraint",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Happy Together (1997)",
+        "rating": 4.0,
+        "feeling": "Restless, bruised longing with flashes of grace\u2014I felt it",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Weekend (2011)",
+        "rating": 4.0,
+        "feeling": "Casual intimacy blooming into something fragile and real\u2014quietly affecting",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "God's Own Country (2017)",
+        "rating": 4.0,
+        "feeling": "Weathered tenderness cuts through the muck\u2014earned and moving",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Call Me by Your Name (2017)",
+        "rating": 4.0,
+        "feeling": "Sun\u2011drunk desire and bittersweet awakening\u2014affecting if a tad airy",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Parasite (2019)",
+        "rating": 4.5,
+        "feeling": "A wicked class ballet\u2014funny, pitiless, and piercing",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Drive My Car (2021)",
+        "rating": 4.0,
+        "feeling": "Patient excavation of grief and connection that rewards my attention",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inside Llewyn Davis (2013)",
+        "rating": 4.0,
+        "feeling": "Circular melancholy and mordant humor that fits my wavelength",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Banshees of Inisherin (2022)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny friendship rupture with a mournful aftertaste I appreciate",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Death of Stalin (2017)",
+        "rating": 4.0,
+        "feeling": "Acid farce sharpened to a shiv\u2014my kind of political comedy",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Force Majeure (2014)",
+        "rating": 4.0,
+        "feeling": "Cringe\u2011bright autopsy of masculinity that left a chilly sting",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Toni Erdmann (2016)",
+        "rating": 4.0,
+        "feeling": "Awkward absurdity cracking a corporate shell\u2014slowly, warmly disarming",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cabaret (1972)",
+        "rating": 4.0,
+        "feeling": "Decadent glitter fraying at the edges of encroaching horror\u2014potent",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Queen (1968)",
+        "rating": 4.5,
+        "feeling": "A vital, catty time capsule of pageant poise and queer lineage\u2014I ate it up",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Disclosure (2020)",
+        "rating": 4.5,
+        "feeling": "Clear\u2011eyed, necessary reckoning that moved and enraged me in equal measure",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Killing of a Sacred Deer (2017)",
+      "Dogtooth (2009)",
+      "Oldboy (2003)",
+      "The Wailing (2016)",
+      "Cure (1997)",
+      "Suspiria (2018)",
+      "It Follows (2014)",
+      "The Haunting (1963)",
+      "The Night of the Hunter (1955)",
+      "The Fall (2006)",
+      "Perfect Blue (1997)",
+      "Paprika (2006)",
+      "Children of Men (2006)",
+      "Ex Machina (2015)",
+      "Blade Runner 2049 (2017)",
+      "Holy Motors (2012)",
+      "The Double Life of V\u00e9ronique (1991)",
+      "2046 (2004)",
+      "Phoenix (2014)",
+      "The Talented Mr. Ripley (1999)",
+      "A History of Violence (2005)",
+      "The Lives of Others (2006)",
+      "The Conversation (1974)",
+      "Velvet Goldmine (1998)",
+      "Hedwig and the Angry Inch (2001)",
+      "Flee (2021)",
+      "The Square (2017)",
+      "Aftersun (2022)",
+      "The Piano (1993)",
+      "Come and See (1985)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Killing of a Sacred Deer (2017)",
+        "rating": 4.5,
+        "feeling": "Glacial, deadpan dread and moral curse-work that tightens around the throat just how I like.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dogtooth (2009)",
+        "rating": 4.5,
+        "feeling": "A feral fable of control and language that unsettles me in the best, most absurdist way.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Oldboy (2003)",
+        "rating": 4.0,
+        "feeling": "Operatic vengeance and moral rot enthrall me even as the brutality keeps me slightly at a remove.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 4.0,
+        "feeling": "Folkloric corruption and creeping cosmic dread seep in until I\u2019m clammy with it.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.0,
+        "feeling": "Hypnotic malaise and blank-eyed evil\u2014anxious, airless, deeply my wavelength.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Suspiria (2018)",
+        "rating": 4.0,
+        "feeling": "Blood-and-ballet ritual with political rot\u2014messy, intoxicating, and deliciously dour.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 1.5,
+        "feeling": "A thin jailbreak-and-bonding chase that skims my nerves without leaving a mark.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.0,
+        "feeling": "Whispered dread and suggestive shadows\u2014elegant chills that linger.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Night of the Hunter (1955)",
+        "rating": 4.0,
+        "feeling": "A fairy-tale nightmare of innocence hunted that glows with sinister poetry.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fall (2006)",
+        "rating": 3.5,
+        "feeling": "Gorgeous, operatic fantasia I luxuriate in even when the story\u2019s pulse falters.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paprika (2006)",
+        "rating": 4.5,
+        "feeling": "Dream-logic delirium that pirouettes from awe to anxiety\u2014catnip for me.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Tender dystopia where grit and grace cohere into bracing, humane urgency.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ex Machina (2015)",
+        "rating": 4.0,
+        "feeling": "Icy seduction and power-play philosophy that prickle more than they pontificate.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.0,
+        "feeling": "Neon melancholy and identity drift I sink into, grand yet hushed.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Holy Motors (2012)",
+        "rating": 4.5,
+        "feeling": "A shapeshifting elegy for performance that thrills me with its freakish tenderness.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Double Life of V\u00e9ronique (1991)",
+        "rating": 4.5,
+        "feeling": "Luminous doubleness and fragile longing\u2014like being held in a quiet spell.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "2046 (2004)",
+        "rating": 4.0,
+        "feeling": "Perfumed regret and time-loops of desire that intoxicate even in their haze.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Phoenix (2014)",
+        "rating": 4.0,
+        "feeling": "Coolly smoldering identity game where betrayal tastes like ash and longing.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Talented Mr. Ripley (1999)",
+        "rating": 4.0,
+        "feeling": "Sunlit deceit and queasy yearning\u2014elegant, poisonous, compelling.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A History of Violence (2005)",
+        "rating": 3.5,
+        "feeling": "Clean, clinical eruptions of brutality that fascinate more than devastate me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Watchful paranoia thawing into bruised empathy\u2014precise and affecting.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.0,
+        "feeling": "Wiretapped guilt and ambient dread\u2014paranoia rendered with monk-like rigor.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Velvet Goldmine (1998)",
+        "rating": 4.0,
+        "feeling": "Glitter, myth, and queer reinvention\u2014messy, decadent, and very much my jam.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Hedwig and the Angry Inch (2001)",
+        "rating": 4.0,
+        "feeling": "A jagged, funny howl of self-making that leaves me buzzing and tender.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Flee (2021)",
+        "rating": 4.5,
+        "feeling": "Intimate, animated testimony where memory, flight, and identity braid into something vital.",
+        "genres": [
+          "Documentary",
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Square (2017)",
+        "rating": 4.0,
+        "feeling": "Acid art-world farce that needles hypocrisy with gleeful discomfort.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Aftersun (2022)",
+        "rating": 4.0,
+        "feeling": "Sun-faded memory and quiet ache that gathers like a bruise.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Piano (1993)",
+        "rating": 4.5,
+        "feeling": "Windswept desire and iron-clad restraint\u2014tactile, taboo, and overwhelming.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.5,
+        "feeling": "A harrowing, hallucinatory scream of war that leaves me stunned and hollow.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Poor Things (2023)",
+      "The Northman (2022)",
+      "Lost Highway (1997)",
+      "Stalker (1979)",
+      "Persona (1966)",
+      "The Vanishing (1988)",
+      "Cach\u00e9 (2005)",
+      "Don't Look Now (1973)",
+      "Picnic at Hanging Rock (1975)",
+      "The Changeling (1980)",
+      "Lake Mungo (2008)",
+      "Black Swan (2010)",
+      "The Skin I Live In (2011)",
+      "Thirst (2009)",
+      "The Assassin (2015)",
+      "Mad Max: Fury Road (2015)",
+      "Sicario (2015)",
+      "A Touch of Sin (2013)",
+      "Stranger by the Lake (2013)",
+      "Brokeback Mountain (2005)",
+      "The Watermelon Woman (1996)",
+      "Withnail & I (1987)",
+      "In the Loop (2009)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Perfect Blue (1997)",
+      "The Red Turtle (2016)",
+      "The Souvenir (2019)",
+      "Cold War (2018)",
+      "Possession (1981)",
+      "The Act of Killing (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Poor Things (2023)",
+        "rating": 4.5,
+        "feeling": "Baroque, bawdy liberation fable\u2014absurdist, sensual, and emotionally alive in ways I savor.",
+        "genres": [
+          "Science Fiction",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Northman (2022)",
+        "rating": 3.5,
+        "feeling": "Mythic mud and vengeance brood beautifully, though the bellowing masculinity keeps me at arm\u2019s length.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Lost Highway (1997)",
+        "rating": 4.5,
+        "feeling": "Black\u2011velvet dread and identity slippage\u2014Lynch\u2019s poisoned lullaby I sink into.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "A hypnotic pilgrimage where rust and rain make philosophy tactile\u2014my flavor of spiritual sci\u2011fi.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Persona (1966)",
+        "rating": 4.5,
+        "feeling": "Mirrored selves and silences flay intimacy with surgical calm\u2014I\u2019m rapt.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.0,
+        "feeling": "Everyday evil paced like a noose\u2014clinical dread that tightens exquisitely.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Cach\u00e9 (2005)",
+        "rating": 4.5,
+        "feeling": "Domestic unease and colonial ghosts surveilled into a chill I can\u2019t shake.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 4.0,
+        "feeling": "Grief\u2019s red thread weaves Venice into a hushed nightmare I savor.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Picnic at Hanging Rock (1975)",
+        "rating": 4.0,
+        "feeling": "Gauzy sunlight curdles into mystery\u2014mesmeric, deliciously unresolved.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Changeling (1980)",
+        "rating": 3.5,
+        "feeling": "Elegant, mournful knocks in the dark\u2014classic chills that comfort and unsettle.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Black Swan (2010)",
+        "rating": 4.0,
+        "feeling": "Glossy psychosis and body\u2011horror ambition\u2014swan\u2011fever I\u2019m happy to catch.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Skin I Live In (2011)",
+        "rating": 4.0,
+        "feeling": "Silken perversity and identity games\u2014cruel, intoxicating design.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Thirst (2009)",
+        "rating": 4.0,
+        "feeling": "Horny sacrilege and blood\u2011soaked melodrama\u2014Park\u2019s kink with a pulsing heart.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Assassin (2015)",
+        "rating": 4.0,
+        "feeling": "Blade\u2011quiet minimalism and drifting fog\u2014assassination as fragrant reverie.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.0,
+        "feeling": "Feral momentum and tactile metal\u2011opera\u2014thrilling even at a cool remove.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 3.5,
+        "feeling": "Clinical dread and border\u2011morality chill me, though the procedural grip loosens.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Touch of Sin (2013)",
+        "rating": 4.0,
+        "feeling": "Splintered rage and social rot\u2014bruising vignettes that land.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Stranger by the Lake (2013)",
+        "rating": 4.0,
+        "feeling": "Sun\u2011dazed cruising curdles into sleek, erotic dread\u2014very my speed.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Brokeback Mountain (2005)",
+        "rating": 4.0,
+        "feeling": "Lonely vastness and tender ache\u2014classic tragedy that quietly guts me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Withnail & I (1987)",
+        "rating": 4.0,
+        "feeling": "Pickled wit and shabby despair\u2014bleakly hilarious and unexpectedly tender.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In the Loop (2009)",
+        "rating": 4.0,
+        "feeling": "Acid volleys and bureaucratic farce\u2014knife\u2011sharp and gratifyingly mean.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.5,
+        "feeling": "Ink\u2011wash wonder and ephemeral heartbreak\u2014delicate and devastating.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Red Turtle (2016)",
+        "rating": 4.0,
+        "feeling": "Wordless tides of life and loss\u2014simple, luminous, quietly overwhelming.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Souvenir (2019)",
+        "rating": 4.0,
+        "feeling": "Soft\u2011focus self\u2011delusion and first\u2011love bruise\u2014subtle, piercingly honest.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cold War (2018)",
+        "rating": 4.0,
+        "feeling": "Smoky tempos and doomed yearning\u2014compact, intoxicating melancholy.",
+        "genres": [
+          "Romance",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Possession (1981)",
+        "rating": 4.5,
+        "feeling": "Marital apocalypse and bodily delirium\u2014deranged operatic ecstasy I relish.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Act of Killing (2012)",
+        "rating": 4.5,
+        "feeling": "Performative evil laid bare\u2014staggering, nauseating, and necessary.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  }
+]

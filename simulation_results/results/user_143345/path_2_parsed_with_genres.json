@@ -1,0 +1,1399 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Star Wars: The Last Jedi (2017)",
+      "Rogue One: A Star Wars Story (2016)",
+      "Star Wars: The Rise of Skywalker (2019)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mummy (1999)",
+      "National Treasure (2004)",
+      "Jumanji: Welcome to the Jungle (2017)",
+      "Guardians of the Galaxy (2014)",
+      "Thor: Ragnarok (2017)",
+      "Edge of Tomorrow (2014)",
+      "Source Code (2011)",
+      "Looper (2012)",
+      "Minority Report (2002)",
+      "The Martian (2015)",
+      "Star Trek (2009)",
+      "Ready Player One (2018)",
+      "The Lego Movie (2014)",
+      "How to Train Your Dragon (2010)",
+      "Tangled (2010)",
+      "Moana (2016)",
+      "Zootopia (2016)",
+      "Kung Fu Panda (2008)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "The Mitchells vs. the Machines (2021)",
+      "Paddington 2 (2017)",
+      "The Princess Bride (1987)",
+      "Enchanted (2007)",
+      "The Proposal (2009)",
+      "10 Things I Hate About You (1999)",
+      "Kingsman: The Secret Service (2014)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Star Wars: The Last Jedi (2017)",
+        "rating": 4.0,
+        "feeling": "Gorgeous and bold, with enough epic moments and character beats to keep me happily immersed.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 4.5,
+        "feeling": "A gritty, high-stakes Star Wars heist that scratches my sci-fi adventure itch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: The Rise of Skywalker (2019)",
+        "rating": 3.5,
+        "feeling": "Flashy and fun with big heart, even if it feels a bit overstuffed to me.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 5.0,
+        "feeling": "Pure swashbuckling joy with unforgettable characters\u2014exactly my kind of adventure.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.5,
+        "feeling": "Classic pulpy fun with humor, romance, and rousing action I love.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 4.5,
+        "feeling": "Clever clue-chasing and breezy thrills make this treasure hunt a blast.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Jumanji: Welcome to the Jungle (2017)",
+        "rating": 4.0,
+        "feeling": "Light, funny, and adventurous enough to give me a good time.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.5,
+        "feeling": "Hilarious, big-hearted space adventure with a soundtrack and team I instantly vibe with.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Thor: Ragnarok (2017)",
+        "rating": 4.5,
+        "feeling": "Colorful, witty, and action-packed in a way that hits my sweet spot.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "A slick time-loop thrill ride that blends smart sci-fi with punchy action.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 4.0,
+        "feeling": "Tense, clever, and satisfying sci-fi mystery that keeps me engaged.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 4.0,
+        "feeling": "Inventive time-travel crime story with enough grit and twists to hook me.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.5,
+        "feeling": "Propulsive sci-fi with cool tech and moral stakes that pull me in.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.5,
+        "feeling": "Survival, humor, and ingenuity in space\u2014totally my jam.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 4.5,
+        "feeling": "Fast, fun, and character-driven space adventure I can happily dive into.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ready Player One (2018)",
+        "rating": 4.0,
+        "feeling": "Big, playful spectacle with a quest vibe I enjoy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Smart, funny, and wildly creative\u2014exactly the family animation I adore.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Soaring adventure with heart and friendship that really clicks for me.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.0,
+        "feeling": "Charming, sweet, and lively with laughs and songs I enjoy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.5,
+        "feeling": "Vibrant, musical voyage with heroism and heart that leaves me smiling.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Zootopia (2016)",
+        "rating": 4.5,
+        "feeling": "Clever, funny, and adventurous with lovable leads and a sharp mystery.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda (2008)",
+        "rating": 4.0,
+        "feeling": "Feel-good martial-arts fun with humor and heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.5,
+        "feeling": "Inventive, energetic, and heartfelt superhero adventure that thrills me.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Mitchells vs. the Machines (2021)",
+        "rating": 4.0,
+        "feeling": "Quirky, colorful family mayhem with enough warmth and laughs to win me over.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.0,
+        "feeling": "Sweet, charming, and gently funny in a way that brightens my mood.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.5,
+        "feeling": "A delightful mix of adventure, romance, and comedy that feels tailor-made for me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 4.0,
+        "feeling": "Whimsical, cute, and romantic with a playful twist I enjoy.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 4.0,
+        "feeling": "Light, funny rom-com comfort that leaves me grinning.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "10 Things I Hate About You (1999)",
+        "rating": 4.5,
+        "feeling": "Sharp, charming teen romance with humor and heart I really like.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Pirates of the Caribbean: Dead Man's Chest (2006)",
+      "Pirates of the Caribbean: At World's End (2007)",
+      "National Treasure: Book of Secrets (2007)",
+      "Jungle Cruise (2021)",
+      "Uncharted (2022)",
+      "Jumanji: The Next Level (2019)",
+      "The Adventures of Tintin (2011)",
+      "The Goonies (1985)",
+      "Stardust (2007)",
+      "The Mask of Zorro (1998)",
+      "Galaxy Quest (1999)",
+      "Guardians of the Galaxy Vol. 2 (2017)",
+      "Guardians of the Galaxy Vol. 3 (2023)",
+      "Star Trek Into Darkness (2013)",
+      "Star Trek Beyond (2016)",
+      "Back to the Future (1985)",
+      "Terminator 2: Judgment Day (1991)",
+      "Interstellar (2014)",
+      "Arrival (2016)",
+      "Palm Springs (2020)",
+      "About Time (2013)",
+      "10 Cloverfield Lane (2016)",
+      "Ghostbusters (1984)",
+      "Shazam! (2019)",
+      "The Incredibles (2004)",
+      "Puss in Boots: The Last Wish (2022)",
+      "Wreck-It Ralph (2012)",
+      "How to Train Your Dragon 2 (2014)",
+      "Rango (2011)",
+      "Solo: A Star Wars Story (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest (2006)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling, funny, and mythic enough to keep me grinning.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: At World's End (2007)",
+        "rating": 4.0,
+        "feeling": "Epic, weird, and messy, but the spectacle keeps me happy.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "National Treasure: Book of Secrets (2007)",
+        "rating": 4.0,
+        "feeling": "Breezy clue-chasing fun that scratches my treasure-hunt itch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jungle Cruise (2021)",
+        "rating": 4.0,
+        "feeling": "Pulp adventure vibes with humor and heart right in my comfort zone.",
+        "genres": [
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Uncharted (2022)",
+        "rating": 3.5,
+        "feeling": "Slick globe-trotting with some laughs, even if it feels a bit lightweight.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Jumanji: The Next Level (2019)",
+        "rating": 3.5,
+        "feeling": "Still a fun, goofy adventure, just less fresh than the last round.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Adventures of Tintin (2011)",
+        "rating": 4.5,
+        "feeling": "Nonstop pulpy thrills and clever mystery that hit my adventure sweet spot.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Goonies (1985)",
+        "rating": 4.5,
+        "feeling": "Classic kid-quest energy with booby traps and heart I adore.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 4.5,
+        "feeling": "Whimsical, romantic quest with charm and imagination I love.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling heroics, humor, and romance that are totally my jam.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.5,
+        "feeling": "Hilarious, big-hearted sci-fi send-up that still delivers real adventure.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Bigger laughs and heart with cosmic action I enjoy.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy Vol. 3 (2023)",
+        "rating": 4.5,
+        "feeling": "Emotional, funny, and rousing\u2014great team-space adventure.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Star Trek Into Darkness (2013)",
+        "rating": 4.0,
+        "feeling": "Fast, slick Trek with big stakes that keeps me entertained.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek Beyond (2016)",
+        "rating": 4.0,
+        "feeling": "A fun, character-driven mission with adventurous spirit I like.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 5.0,
+        "feeling": "Pitch-perfect time-travel adventure with humor and heart that clicks for me.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 4.5,
+        "feeling": "Relentless sci-fi action with emotional drive that pulls me in.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "Grand, heartfelt space epic that leaves me awed and engaged.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, tense, and moving sci-fi that really grabs me.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 4.5,
+        "feeling": "Clever time-loop rom-com with warmth and laughs I vibe with.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.5,
+        "feeling": "Sweet, life-affirming time-travel romance that hits my soft spot.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.0,
+        "feeling": "Taut, claustrophobic sci-fi thriller that keeps me on edge.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 4.5,
+        "feeling": "Goofy supernatural fun with quotable laughs and adventure.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shazam! (2019)",
+        "rating": 4.0,
+        "feeling": "Light, funny superhero romp with family heart I appreciate.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.5,
+        "feeling": "Smart, playful superhero family adventure that I love.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Puss in Boots: The Last Wish (2022)",
+        "rating": 4.5,
+        "feeling": "Colorful, funny, and surprisingly heartfelt swashbuckling animation.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Wreck-It Ralph (2012)",
+        "rating": 4.5,
+        "feeling": "Inventive, sweet arcade adventure with humor that clicks for me.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon 2 (2014)",
+        "rating": 4.5,
+        "feeling": "Soaring, emotional sequel with gorgeous adventure and heart.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Rango (2011)",
+        "rating": 4.0,
+        "feeling": "Quirky animated western with style and laughs that keep me amused.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Western",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Solo: A Star Wars Story (2018)",
+        "rating": 4.0,
+        "feeling": "Breezy Star Wars heist vibes with enough charm and adventure to satisfy me.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Raiders of the Lost Ark (1981)",
+      "Indiana Jones and the Last Crusade (1989)",
+      "Romancing the Stone (1984)",
+      "The Rocketeer (1991)",
+      "Dungeons & Dragons: Honor Among Thieves (2023)",
+      "The Lost City (2022)",
+      "The Kid Who Would Be King (2019)",
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+      "The Three Musketeers (1993)",
+      "Pirates of the Caribbean: On Stranger Tides (2011)",
+      "Treasure Planet (2002)",
+      "Atlantis: The Lost Empire (2001)",
+      "The Road to El Dorado (2000)",
+      "Kubo and the Two Strings (2016)",
+      "Raya and the Last Dragon (2021)",
+      "The Sea Beast (2022)",
+      "How to Train Your Dragon: The Hidden World (2019)",
+      "Kung Fu Panda 2 (2011)",
+      "Kung Fu Panda 3 (2016)",
+      "Spider-Man: Across the Spider-Verse (2023)",
+      "The Iron Giant (1999)",
+      "The Pirates! Band of Misfits (2012)",
+      "Night at the Museum (2006)",
+      "Men in Black (1997)",
+      "Ant-Man (2015)",
+      "The Fifth Element (1997)",
+      "Enola Holmes (2020)",
+      "Sherlock Holmes (2009)",
+      "Mission: Impossible - Fallout (2018)",
+      "Bill & Ted's Excellent Adventure (1989)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Raiders of the Lost Ark (1981)",
+        "rating": 5.0,
+        "feeling": "Pure treasure-hunt thrills, humor, and iconic set pieces right in my adventure sweet spot.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Indiana Jones and the Last Crusade (1989)",
+        "rating": 5.0,
+        "feeling": "Swashbuckling fun with great father-son banter and clue-chasing I adore.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 4.5,
+        "feeling": "A breezy jungle romp mixing romance, laughs, and danger the way I like.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Rocketeer (1991)",
+        "rating": 4.0,
+        "feeling": "Old-school pulp heroics and jetpack spectacle that keep me grinning.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Family"
+        ]
+      },
+      {
+        "title": "Dungeons & Dragons: Honor Among Thieves (2023)",
+        "rating": 4.5,
+        "feeling": "Quippy, big-hearted fantasy heist with a lovable crew that hits my fun-zone.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lost City (2022)",
+        "rating": 4.0,
+        "feeling": "Light, goofy rom-com adventure that\u2019s easy, breezy entertainment.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Kid Who Would Be King (2019)",
+        "rating": 4.0,
+        "feeling": "Earnest, kid-driven quest with magic, friendship, and upbeat adventure.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+        "rating": 4.0,
+        "feeling": "Classic, cozy fantasy quest with heart and wonder that works for me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Three Musketeers (1993)",
+        "rating": 4.0,
+        "feeling": "Swashbuckling camaraderie, humor, and derring-do I\u2019m happy to ride with.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: On Stranger Tides (2011)",
+        "rating": 4.0,
+        "feeling": "More Jack Sparrow hijinks and mythic pursuit that still scratches my pirate itch.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Treasure Planet (2002)",
+        "rating": 4.5,
+        "feeling": "A dazzling space-swashbuckler with warmth, wonder, and adventurous soul.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Atlantis: The Lost Empire (2001)",
+        "rating": 4.0,
+        "feeling": "Pulp exploration vibes and crew-driven adventure I enjoy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Road to El Dorado (2000)",
+        "rating": 4.0,
+        "feeling": "Buddy banter, catchy fun, and golden-quest antics that make me smile.",
+        "genres": [
+          "Family",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Crime",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, heartfelt mythic journey with imagination and emotional punch.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Raya and the Last Dragon (2021)",
+        "rating": 4.0,
+        "feeling": "A vibrant, actiony quest with trust-and-team themes I appreciate.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Sea Beast (2022)",
+        "rating": 4.0,
+        "feeling": "Seafaring spectacle and found-family warmth that sail right for me.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Action",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon: The Hidden World (2019)",
+        "rating": 4.0,
+        "feeling": "Soaring visuals and sweet sendoff with enough heart and adventure to satisfy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda 2 (2011)",
+        "rating": 4.0,
+        "feeling": "Zippy martial-arts fun with humor and some touching backstory.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda 3 (2016)",
+        "rating": 3.5,
+        "feeling": "Still charming and colorful, just a lighter, cozier outing for Po.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spider-Man: Across the Spider-Verse (2023)",
+        "rating": 4.5,
+        "feeling": "Jaw-dropping style, humor, and emotional stakes that swing me along.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Big heart, boy-and-bot friendship, and heroic feels that really land.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Pirates! Band of Misfits (2012)",
+        "rating": 4.0,
+        "feeling": "Aardman silliness, piratey gags, and jaunty adventure that amuses me.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Night at the Museum (2006)",
+        "rating": 4.0,
+        "feeling": "Playful museum mayhem with family-friendly laughs and adventure.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 4.5,
+        "feeling": "Slick, funny sci-fi with great buddy chemistry and imaginative creatures.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ant-Man (2015)",
+        "rating": 4.0,
+        "feeling": "Small-scale heist hijinks with breezy humor and likable characters.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Fifth Element (1997)",
+        "rating": 4.5,
+        "feeling": "Colorful, kinetic sci-fi romp with wild style and big adventure energy.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Enola Holmes (2020)",
+        "rating": 4.0,
+        "feeling": "Sprightly mystery adventure with a charming lead and clever sleuthing.",
+        "genres": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sherlock Holmes (2009)",
+        "rating": 4.0,
+        "feeling": "Punchy, witty detective adventure with energetic set pieces.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.5,
+        "feeling": "Relentless, slick stunt-fueled thrills that keep me gripped and grinning.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Bill & Ted's Excellent Adventure (1989)",
+        "rating": 4.0,
+        "feeling": "Goofy time-travel hijinks with endearing charm and easy laughs.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Indiana Jones and the Temple of Doom (1984)",
+      "Indiana Jones and the Dial of Destiny (2023)",
+      "The Count of Monte Cristo (2002)",
+      "Sahara (2005)",
+      "The Jewel of the Nile (1985)",
+      "Journey to the Center of the Earth (2008)",
+      "Journey 2: The Mysterious Island (2012)",
+      "Muppet Treasure Island (1996)",
+      "Hook (1991)",
+      "The NeverEnding Story (1984)",
+      "Willow (1988)",
+      "Labyrinth (1986)",
+      "Castle in the Sky (1986)",
+      "John Carter (2012)",
+      "Valerian and the City of a Thousand Planets (2017)",
+      "Serenity (2005)",
+      "Stargate (1994)",
+      "The Last Starfighter (1984)",
+      "TRON: Legacy (2010)",
+      "Free Guy (2021)",
+      "Real Steel (2011)",
+      "Zathura: A Space Adventure (2005)",
+      "Sky Captain and the World of Tomorrow (2004)",
+      "Big Trouble in Little China (1986)",
+      "The Secret Life of Walter Mitty (2013)",
+      "Onward (2020)",
+      "Coco (2017)",
+      "Meet the Robinsons (2007)",
+      "Chicken Run (2000)",
+      "The Bad Guys (2022)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Indiana Jones and the Temple of Doom (1984)",
+        "rating": 4.0,
+        "feeling": "Dark, pulpy detours aside, the traps, chases, and Indy swagger still deliver a fun romp.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Indiana Jones and the Dial of Destiny (2023)",
+        "rating": 3.5,
+        "feeling": "Nostalgic globe-trotting with some rousing set pieces, even if the weariness shows.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Count of Monte Cristo (2002)",
+        "rating": 4.5,
+        "feeling": "A rousing, clever revenge adventure with swashbuckling charm and payoff.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sahara (2005)",
+        "rating": 4.0,
+        "feeling": "Breezy, quippy treasure-hunt energy that scratches my pulpy adventure itch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Jewel of the Nile (1985)",
+        "rating": 3.5,
+        "feeling": "Goofier and messier than the first, but the banter and chases keep it fun.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Journey to the Center of the Earth (2008)",
+        "rating": 3.5,
+        "feeling": "Light, effects-y family quest that gives me comfy, theme-park adventure vibes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Journey 2: The Mysterious Island (2012)",
+        "rating": 3.5,
+        "feeling": "Colorful, goofy island romp with likable team dynamics and big creatures.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Muppet Treasure Island (1996)",
+        "rating": 4.0,
+        "feeling": "Joyful pirate hijinks, catchy songs, and playful adventure that make me grin.",
+        "genres": [
+          "Family",
+          "Music"
+        ]
+      },
+      {
+        "title": "Hook (1991)",
+        "rating": 4.0,
+        "feeling": "Whimsical, big-hearted return to Neverland with earnest family feels and swashbuckling.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The NeverEnding Story (1984)",
+        "rating": 4.5,
+        "feeling": "Imaginative, soulful fantasy quest bursting with wonder that hits my sweet spot.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Willow (1988)",
+        "rating": 4.0,
+        "feeling": "Charming, scrappy quest with magic, humor, and lovable misfits.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Labyrinth (1986)",
+        "rating": 4.0,
+        "feeling": "A quirky, imaginative maze adventure with memorable creatures and offbeat charm.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Castle in the Sky (1986)",
+        "rating": 4.5,
+        "feeling": "Soaring, heartfelt sky-quest with pirates, wonder, and adventurous spirit I love.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "John Carter (2012)",
+        "rating": 4.0,
+        "feeling": "Old-school pulp spectacle with earnest heroics and sweeping adventure I enjoy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Valerian and the City of a Thousand Planets (2017)",
+        "rating": 3.5,
+        "feeling": "Visually dazzling, playful sci-fi world with enough set pieces to keep me entertained.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "Serenity (2005)",
+        "rating": 4.5,
+        "feeling": "Tight, witty, high-stakes crew adventure that fires on my space-quest cylinders.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stargate (1994)",
+        "rating": 4.0,
+        "feeling": "Ancient-mystery sci-fi with cool worldbuilding and pulpy exploration vibes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Last Starfighter (1984)",
+        "rating": 4.0,
+        "feeling": "Earnest 80s wish-fulfillment space romp with charming adventure spirit.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "TRON: Legacy (2010)",
+        "rating": 4.0,
+        "feeling": "Sleek neon spectacle with a solid father-son thread and propulsive adventure.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Free Guy (2021)",
+        "rating": 4.0,
+        "feeling": "Playful, good-hearted gamer romp with laughs and bright, breezy adventure.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Real Steel (2011)",
+        "rating": 4.0,
+        "feeling": "Crowd-pleasing, father-son underdog tale with satisfying robo-sports thrills.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Zathura: A Space Adventure (2005)",
+        "rating": 4.0,
+        "feeling": "Cozy kid-space adventure with fun set pieces and sibling heart.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Sky Captain and the World of Tomorrow (2004)",
+        "rating": 4.0,
+        "feeling": "Retro-pulp spectacle and globe-trotting mystery that keep me smiling.",
+        "genres": [
+          "Mystery",
+          "Action",
+          "Thriller",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Big Trouble in Little China (1986)",
+        "rating": 4.5,
+        "feeling": "Bonkers, quippy supernatural romp that delivers nonstop genre-blending fun.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Secret Life of Walter Mitty (2013)",
+        "rating": 4.0,
+        "feeling": "Inspiring, scenic daydream-to-adventure journey with feel-good momentum.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Onward (2020)",
+        "rating": 4.0,
+        "feeling": "Brotherly quest, warm humor, and accessible fantasy that land for me.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Vibrant, musical journey with big heart and family themes that resonate.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Meet the Robinsons (2007)",
+        "rating": 4.0,
+        "feeling": "Zippy, quirky time-travel family fun with a sweet, optimistic message.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Chicken Run (2000)",
+        "rating": 4.0,
+        "feeling": "Clever, funny Aardman jailbreak with plucky spirit and adventure.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Bad Guys (2022)",
+        "rating": 4.0,
+        "feeling": "Snappy, stylish caper with a lovable crew and energetic fun.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Crime",
+          "Adventure",
+          "Animation"
+        ]
+      }
+    ]
+  }
+]

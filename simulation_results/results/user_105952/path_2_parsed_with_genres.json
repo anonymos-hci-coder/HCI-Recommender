@@ -1,0 +1,1233 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Arrival (2016)",
+      "Ex Machina (2014)",
+      "Children of Men (2006)",
+      "Gattaca (1997)",
+      "Moon (2009)",
+      "Blade Runner 2049 (2017)",
+      "Twelve Monkeys (1995)",
+      "Coherence (2013)",
+      "Prisoners (2013)",
+      "Zodiac (2007)",
+      "Se7en (1995)",
+      "Memories of Murder (2003)",
+      "The Secret in Their Eyes (2009)",
+      "No Country for Old Men (2007)",
+      "Hell or High Water (2016)",
+      "Fargo (1996)",
+      "Wind River (2017)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Unforgiven (1992)",
+      "The Good, the Bad and the Ugly (1966)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "The Witch (2015)",
+      "The Shining (1980)",
+      "The Thing (1982)",
+      "The Wailing (2016)",
+      "A Separation (2011)",
+      "Incendies (2010)",
+      "Pan's Labyrinth (2006)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "The Iron Giant (1999)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Left me awestruck by its quiet intelligence and emotional resonance.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 5.0,
+        "feeling": "Gripped me with its bleak urgency and human hope to the very last frame.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.5,
+        "feeling": "Loved the elegant, idea-driven tension and quietly defiant spirit.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.5,
+        "feeling": "Its lonely, cerebral mystery got under my skin in the best way.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.5,
+        "feeling": "Immersed me in its moody, meditative sci-fi and moral ambiguity.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Twelve Monkeys (1995)",
+        "rating": 4.5,
+        "feeling": "The time-twisting paranoia and tragic undertones hit a sweet spot for me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 4.5,
+        "feeling": "Clever, small-scale mind-bender that had me buzzing afterward.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.5,
+        "feeling": "A relentless moral knot that left me tense and unsettled.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.5,
+        "feeling": "Loved the obsessive, procedural slow burn and lingering unease.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 4.5,
+        "feeling": "Dark, meticulous, and haunting in a way that stuck with me.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleak, humane, and gripping",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.5,
+        "feeling": "Elegant, aching, and suspenseful with lasting aftershocks.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "No Country for Old Men (2007)",
+        "rating": 5.0,
+        "feeling": "A masterfully spare, merciless chase that floored me.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.5,
+        "feeling": "A lean, heartfelt modern western that hit hard.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 4.5,
+        "feeling": "Pitch-black, oddly funny, and quietly devastating.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 4.0,
+        "feeling": "Stark and sobering",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 4.0,
+        "feeling": "Cold, patient, and rewarding once the pieces clicked.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Unforgiven (1992)",
+        "rating": 4.5,
+        "feeling": "A stark, unsentimental reckoning that resonated deeply.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "rating": 4.5,
+        "feeling": "Epic, stylish, and endlessly satisfying as a western odyssey.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 4.5,
+        "feeling": "Hypnotic, mournful, and beautifully restrained.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 3.5,
+        "feeling": "Pulpy fantasy action that entertained but left me emotionally detached.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "Atmospheric dread and psychological rot that I savored.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.5,
+        "feeling": "Primal paranoia and creature terror done to perfection.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 4.5,
+        "feeling": "Creeping dread and cultural mystery that lingered long after.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "Intimate, morally thorny drama that hit me hard.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Incendies (2010)",
+        "rating": 4.5,
+        "feeling": "A harrowing, intricate journey that left me shaken.",
+        "genres": [
+          "Drama",
+          "War",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "Darkly enchanting and emotionally wrenching in equal measure.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Inventive and fun, though the superhero stakes kept me a bit at arm's length.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Warm, funny, and heartfelt with a sci-fi soul I loved.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Sicario (2015)",
+      "Enemy (2013)",
+      "Heat (1995)",
+      "Collateral (2004)",
+      "Nightcrawler (2014)",
+      "Drive (2011)",
+      "The Conversation (1974)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "The Handmaiden (2016)",
+      "Mother (2009)",
+      "Oldboy (2003)",
+      "Cure (1997)",
+      "Burning (2018)",
+      "The Chaser (2008)",
+      "I Saw the Devil (2010)",
+      "A Prophet (2009)",
+      "City of God (2002)",
+      "The Hunt (2012)",
+      "Once Upon a Time in the West (1968)",
+      "The Proposition (2005)",
+      "Dead Man (1995)",
+      "The Great Silence (1968)",
+      "Let the Right One In (2008)",
+      "The Babadook (2014)",
+      "It Follows (2014)",
+      "The Orphanage (2007)",
+      "Ex Machina (2014)",
+      "Under the Skin (2013)",
+      "Primer (2004)",
+      "Stalker (1979)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Sicario (2015)",
+        "rating": 4.5,
+        "feeling": "Taut, morally murky border war that left me clenched and uneasy.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Enemy (2013)",
+        "rating": 4.0,
+        "feeling": "A nuanced moral maze of vigilantism that left me unsettled.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "Operatic cops-and-robbers obsession that had me riveted.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.5,
+        "feeling": "Sleek, nocturnal tension with a ruthless pulse I loved.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Nightcrawler (2014)",
+        "rating": 4.5,
+        "feeling": "A chilling character study whose predatory drive left me queasy and fascinated.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Drive (2011)",
+        "rating": 4.5,
+        "feeling": "Coolly romantic neo-noir where quiet menace and sudden violence hit just right.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.5,
+        "feeling": "Meticulous paranoia and guilt that tightened around me scene by scene.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 4.5,
+        "feeling": "Ice-cold, absorbing investigation with a bruised heart.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Handmaiden (2016)",
+        "rating": 4.5,
+        "feeling": "Sumptuous, twisty and emotionally sly in ways that delighted me.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mother (2009)",
+        "rating": 4.5,
+        "feeling": "Bleak, compassionate and gripping in its desperate certainty.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Oldboy (2003)",
+        "rating": 4.5,
+        "feeling": "Ferocious, tragic revenge with a lingering gut-punch.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.5,
+        "feeling": "Hypnotic dread and unraveling minds that crawled under my skin.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 4.5,
+        "feeling": "Slow-burn ambiguity that smoldered into a haunting ache.",
+        "genres": []
+      },
+      {
+        "title": "The Chaser (2008)",
+        "rating": 4.5,
+        "feeling": "Relentless, grim pursuit that had me breathless.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "I Saw the Devil (2010)",
+        "rating": 4.0,
+        "feeling": "Brutal, nihilistic vengeance that compelled me even as it repelled.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.5,
+        "feeling": "Immersive, hard-won ascent that felt brutally authentic.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "City of God (2002)",
+        "rating": 4.5,
+        "feeling": "Vivid, propulsive and devastating in equal measure.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Hunt (2012)",
+        "rating": 4.5,
+        "feeling": "A humane, suffocating moral nightmare that stuck with me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Once Upon a Time in the West (1968)",
+        "rating": 4.5,
+        "feeling": "Grand, elegiac western mythmaking that swept me away.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Proposition (2005)",
+        "rating": 4.5,
+        "feeling": "Dusty, brutal poetry with a moral sting.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Dead Man (1995)",
+        "rating": 4.0,
+        "feeling": "Dreamlike, deadpan western trance that I admired more than I loved.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Great Silence (1968)",
+        "rating": 4.5,
+        "feeling": "Icy, fatalistic western that hit like a quiet hammer.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Let the Right One In (2008)",
+        "rating": 4.5,
+        "feeling": "Tender, eerie melancholy that lingered like winter air.",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Babadook (2014)",
+        "rating": 4.0,
+        "feeling": "Psychological grief-horror that crawled under my skin without quite breaking me.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 3.5,
+        "feeling": "Simple, fugitive tale with a gentle pulse that engaged me modestly.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.0,
+        "feeling": "Gothic chills tied to aching motherhood that landed well.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Under the Skin (2013)",
+        "rating": 3.5,
+        "feeling": "Minimalist, sensual reunion piece that left me distant but intrigued.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Primer (2004)",
+        "rating": 4.5,
+        "feeling": "Dense, idea-first puzzle that exhilarated me.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "Meditative, otherworldly journey that left me hushed and reflective.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Ex Machina (2014)",
+      "Blade Runner (1982)",
+      "Solaris (1972)",
+      "Dark City (1998)",
+      "The Prestige (2006)",
+      "Timecrimes (2007)",
+      "Predestination (2014)",
+      "Snowpiercer (2013)",
+      "Chinatown (1974)",
+      "The Third Man (1949)",
+      "Le Samoura\u00ef (1967)",
+      "The Insider (1999)",
+      "Insomnia (2002)",
+      "Blue Ruin (2013)",
+      "A History of Violence (2005)",
+      "Eastern Promises (2007)",
+      "Miller's Crossing (1990)",
+      "Blood Simple (1984)",
+      "The Place Beyond the Pines (2012)",
+      "Michael Clayton (2007)",
+      "The Silence of the Lambs (1991)",
+      "Mulholland Drive (2001)",
+      "The Descent (2005)",
+      "The Invitation (2015)",
+      "The Yellow Sea (2010)",
+      "A Bittersweet Life (2005)",
+      "Confessions (2010)",
+      "Tell No One (2006)",
+      "The Power of the Dog (2021)",
+      "Perfect Blue (1997)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 4.5,
+        "feeling": "Moody, philosophical noir that enveloped me in its moral fog.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.5,
+        "feeling": "A meditative, mournful sci-fi reverie that left me hushed.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dark City (1998)",
+        "rating": 4.0,
+        "feeling": "Gloomy, mind-bending noir that intrigued me more than it moved me.",
+        "genres": [
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.5,
+        "feeling": "A ruthless duel of obsessions that tightened its grip scene by scene.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Timecrimes (2007)",
+        "rating": 4.5,
+        "feeling": "Clever, looping dread that left me buzzing.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 4.0,
+        "feeling": "A twisty time knot that satisfied even as its loops left me cool.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Snowpiercer (2013)",
+        "rating": 4.0,
+        "feeling": "A blunt, charged allegory whose icy momentum carried me along.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "A sun-baked moral sinkhole that swallowed me whole.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.5,
+        "feeling": "A wry, melancholy labyrinth that lingered in shadows.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Le Samoura\u00ef (1967)",
+        "rating": 4.5,
+        "feeling": "Minimalist, fatalist cool that mesmerized me.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.5,
+        "feeling": "A steady, righteous burn that had me taut with dread.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Insomnia (2002)",
+        "rating": 4.0,
+        "feeling": "Bleak, clouded conscience play that kept me cold and alert.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A History of Violence (2005)",
+        "rating": 4.5,
+        "feeling": "A grim unmasking that cut clean and deep.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Eastern Promises (2007)",
+        "rating": 4.5,
+        "feeling": "Sinewy, intimate menace that held me fast.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Miller's Crossing (1990)",
+        "rating": 4.5,
+        "feeling": "Elegant, hard-boiled fatalism that sang.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Blood Simple (1984)",
+        "rating": 4.5,
+        "feeling": "Tight, sweaty paranoia spiraling beautifully out of control.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.5,
+        "feeling": "A quietly ferocious corporate morality play that gripped me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Silence of the Lambs (1991)",
+        "rating": 4.5,
+        "feeling": "Chilling precision and psychological cat-and-mouse that crawled under my skin.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 4.5,
+        "feeling": "A dreamy, disquieting puzzle that haunted me.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Descent (2005)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic terror and frayed trust that left me breathless.",
+        "genres": [
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Invitation (2015)",
+        "rating": 3.0,
+        "feeling": "Technical grappling showcase that interested me more than it stirred me.",
+        "genres": []
+      },
+      {
+        "title": "The Yellow Sea (2010)",
+        "rating": 4.5,
+        "feeling": "A feral, desperate crime odyssey that gnawed at me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "A Bittersweet Life (2005)",
+        "rating": 4.5,
+        "feeling": "Cool, bruised elegance and doomed resolve that I savored.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Confessions (2010)",
+        "rating": 4.5,
+        "feeling": "Icy, methodical revenge that chilled me to the bone.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Tell No One (2006)",
+        "rating": 4.0,
+        "feeling": "A propulsive, twisty search that absorbed me.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Power of the Dog (2021)",
+        "rating": 4.5,
+        "feeling": "A slow, coiled western cruelty that tightened until it snapped.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Parasite (2019)",
+      "Thief (1981)",
+      "Manhunter (1986)",
+      "The Friends of Eddie Coyle (1973)",
+      "A Simple Plan (1998)",
+      "Blue Ruin (2013)",
+      "The Long Good Friday (1980)",
+      "A Most Violent Year (2014)",
+      "Infernal Affairs (2002)",
+      "Gone Girl (2014)",
+      "The Game (1997)",
+      "Blow Out (1981)",
+      "M (1931)",
+      "The Night of the Hunter (1955)",
+      "Animal Kingdom (2010)",
+      "Uncut Gems (2019)",
+      "The Guilty (2018)",
+      "Marshland (2014)",
+      "Ex Machina (2014)",
+      "Strange Days (1995)",
+      "The Endless (2017)",
+      "Her (2013)",
+      "The Devil's Backbone (2001)",
+      "Pulse (2001)",
+      "The Host (2006)",
+      "The Outlaw Josey Wales (1976)",
+      "The Searchers (1956)",
+      "The Sisters Brothers (2018)",
+      "Bone Tomahawk (2015)",
+      "There Will Be Blood (2007)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Parasite (2019)",
+        "rating": 4.5,
+        "feeling": "A razor-sharp, bleakly funny class thriller that tightened its grip until the last gasp.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 4.5,
+        "feeling": "Neon-lit fatalism and professional obsession that had me locked in.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Manhunter (1986)",
+        "rating": 4.0,
+        "feeling": "A chilly, procedural trance whose clean menace kept me taut but a step removed.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Friends of Eddie Coyle (1973)",
+        "rating": 4.5,
+        "feeling": "Worn-down, low-key criminal fatalism that seeped under my skin.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Simple Plan (1998)",
+        "rating": 4.5,
+        "feeling": "A snowbound moral spiral that tightened with devastating inevitability.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Long Good Friday (1980)",
+        "rating": 4.0,
+        "feeling": "Brisk, combustible gangland paranoia that satisfied without quite haunting me.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Most Violent Year (2014)",
+        "rating": 4.0,
+        "feeling": "A slow, sinewy integrity test that gripped me in a quiet chokehold.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Infernal Affairs (2002)",
+        "rating": 4.5,
+        "feeling": "A taut, mirrored cat-and-mouse that thrilled with elegant urgency.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.5,
+        "feeling": "Icy, compulsive manipulation that left me grinning and uneasy.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 4.0,
+        "feeling": "A sleek, paranoid ride whose clever gears clicked more than they cut.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.5,
+        "feeling": "A grimy, paranoid swirl of sound and guilt that lingered.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "M (1931)",
+        "rating": 4.5,
+        "feeling": "A stark, human hunt that chilled me with its pitiless clarity.",
+        "genres": []
+      },
+      {
+        "title": "The Night of the Hunter (1955)",
+        "rating": 4.5,
+        "feeling": "Nightmarish Americana and moral dread that felt timeless and sharp.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Animal Kingdom (2010)",
+        "rating": 4.5,
+        "feeling": "A suffocating family crime coil that tightened beautifully.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Uncut Gems (2019)",
+        "rating": 4.5,
+        "feeling": "Relentless, dazzling anxiety that left me breathless and buzzing.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Guilty (2018)",
+        "rating": 4.0,
+        "feeling": "Lean, claustrophobic suspense that hooked me through voice and implication.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Marshland (2014)",
+        "rating": 4.0,
+        "feeling": "Sweltering, murky investigation that absorbed more than it astonished.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Strange Days (1995)",
+        "rating": 4.0,
+        "feeling": "Grimy sci\u2011fi noir with a nervy pulse that pulled me along.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Endless (2017)",
+        "rating": 4.0,
+        "feeling": "A quiet cosmic loop that left me intrigued and unsettled.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.5,
+        "feeling": "Tender, thoughtful sci\u2011fi romance that left a soft ache and a lot to chew on.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.5,
+        "feeling": "A mournful ghost story where history and hurt bled beautifully together.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pulse (2001)",
+        "rating": 4.5,
+        "feeling": "Entrancing, depressive dread that crawled over me like cold fog.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Host (2006)",
+        "rating": 4.0,
+        "feeling": "A nimble monster romp with bruised-heart satire that I admired more than I loved.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Outlaw Josey Wales (1976)",
+        "rating": 4.5,
+        "feeling": "A rugged, mournful trail of violence and reluctant kinship that stuck with me.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.5,
+        "feeling": "Grand, troubling frontier mythmaking that gnawed at me long after.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Sisters Brothers (2018)",
+        "rating": 4.0,
+        "feeling": "A dry, offbeat frontier drift whose melancholy charm won me over gently.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Bone Tomahawk (2015)",
+        "rating": 4.0,
+        "feeling": "Uneasy frontier horror with a mean streak that gripped even as it repelled.",
+        "genres": [
+          "Western",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "There Will Be Blood (2007)",
+        "rating": 4.5,
+        "feeling": "A towering, corrosive character study that thundered through me.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

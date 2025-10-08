@@ -1,0 +1,1353 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Moana (2016)",
+      "Coco (2017)",
+      "The Princess and the Frog (2009)",
+      "Toy Story (1995)",
+      "Paddington 2 (2017)",
+      "Klaus (2019)",
+      "Kubo and the Two Strings (2016)",
+      "The Iron Giant (1999)",
+      "The Greatest Showman (2017)",
+      "Sing Street (2016)",
+      "La La Land (2016)",
+      "Bohemian Rhapsody (2018)",
+      "About Time (2013)",
+      "Crazy Rich Asians (2018)",
+      "To All the Boys I\u2019ve Loved Before (2018)",
+      "Ocean\u2019s Eleven (2001)",
+      "The Italian Job (2003)",
+      "Baby Driver (2017)",
+      "Jumanji: Welcome to the Jungle (2017)",
+      "The Mummy (1999)",
+      "Shazam! (2019)",
+      "Rush (2013)",
+      "Remember the Titans (2000)",
+      "Secretariat (2010)",
+      "The Theory of Everything (2014)",
+      "The Intouchables (2011)",
+      "Knives Out (2019)",
+      "Catch Me If You Can (2002)",
+      "The Martian (2015)",
+      "Ghostbusters (1984)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Moana (2016)",
+        "rating": 5.0,
+        "feeling": "A vibrant, empowering voyage that made my heart soar.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 5.0,
+        "feeling": "A gorgeous, musical celebration of family that moved me deeply.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Princess and the Frog (2009)",
+        "rating": 5.0,
+        "feeling": "Charming, romantic, and full of Disney magic I adore.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 5.0,
+        "feeling": "Warm, funny, and wonderfully imaginative comfort viewing.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Pure kindness and joy that left me beaming.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Klaus (2019)",
+        "rating": 5.0,
+        "feeling": "Heartfelt holiday wonder with a timeless, cozy glow.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 5.0,
+        "feeling": "Enchanting, brave, and emotionally rich adventure.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 5.0,
+        "feeling": "Touching and heroic with a big, beating heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Greatest Showman (2017)",
+        "rating": 5.0,
+        "feeling": "Irresistibly uplifting and gloriously musical.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 5.0,
+        "feeling": "Sweet, catchy, and life-affirming coming-of-age fun.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 5.0,
+        "feeling": "Romantic, dreamy, and bittersweet in all the right ways.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Bohemian Rhapsody (2018)",
+        "rating": 4.5,
+        "feeling": "Rousing and emotional, with songs that swept me up.",
+        "genres": [
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 5.0,
+        "feeling": "Tender, magical, and heart-huggingly beautiful.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 5.0,
+        "feeling": "Sparkly, funny, and swoon-worthy romance.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "To All the Boys I\u2019ve Loved Before (2018)",
+        "rating": 5.0,
+        "feeling": "Adorable, sweet, and full of feel-good butterflies.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ocean\u2019s Eleven (2001)",
+        "rating": 5.0,
+        "feeling": "Sleek, clever, and effortlessly fun heist escapism.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 5.0,
+        "feeling": "Snappy, stylish, and a thrilling good time.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Baby Driver (2017)",
+        "rating": 5.0,
+        "feeling": "Kinetic, cool, and exhilarating with great rhythm.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Jumanji: Welcome to the Jungle (2017)",
+        "rating": 5.0,
+        "feeling": "Playful, adventurous, and a laugh-filled ride.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 5.0,
+        "feeling": "Sweeping, swashbuckling fun with old-school charm.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Shazam! (2019)",
+        "rating": 5.0,
+        "feeling": "Warm, goofy, and heroically heartwarming.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Rush (2013)",
+        "rating": 5.0,
+        "feeling": "Gripping, fast, and inspiring rivalry drama.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Remember the Titans (2000)",
+        "rating": 5.0,
+        "feeling": "Stirring, uplifting, and full of heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Secretariat (2010)",
+        "rating": 5.0,
+        "feeling": "Inspiring and triumphant with a winning spirit.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Theory of Everything (2014)",
+        "rating": 5.0,
+        "feeling": "Beautiful, moving, and tenderly romantic.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Intouchables (2011)",
+        "rating": 5.0,
+        "feeling": "Heartwarming, funny, and wonderfully human.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 5.0,
+        "feeling": "Clever, witty, and delightfully twisty.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 5.0,
+        "feeling": "Breezy, charming, and irresistibly entertaining.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 5.0,
+        "feeling": "Inventive, hopeful, and a feel-good survival tale.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 5.0,
+        "feeling": "Playfully spooky, hilarious, and endlessly charming.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Enchanted (2007)",
+      "The Princess Bride (1987)",
+      "Stardust (2007)",
+      "Paddington (2014)",
+      "Lilo & Stitch (2002)",
+      "Frozen (2013)",
+      "Encanto (2021)",
+      "Inside Out (2015)",
+      "The Mitchells vs the Machines (2021)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Guardians of the Galaxy (2014)",
+      "Logan Lucky (2017)",
+      "The Nice Guys (2016)",
+      "Now You See Me (2013)",
+      "Ocean's Eight (2018)",
+      "The Sting (1973)",
+      "Glass Onion: A Knives Out Mystery (2022)",
+      "Murder on the Orient Express (2017)",
+      "Hidden Figures (2016)",
+      "Eddie the Eagle (2016)",
+      "A League of Their Own (1992)",
+      "The King's Speech (2010)",
+      "The Blind Side (2009)",
+      "Am\u00e9lie (2001)",
+      "The Lunchbox (2013)",
+      "Warm Bodies (2013)",
+      "Gremlins (1984)",
+      "Coraline (2009)",
+      "Back to the Future (1985)",
+      "The Truman Show (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Enchanted (2007)",
+        "rating": 5.0,
+        "feeling": "Sparkly, self-aware fairy-tale fun that swept me into a happily-ever-after glow.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Timeless, witty, and swooningly romantic\u2014pure storybook bliss.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 5.0,
+        "feeling": "Whimsical, swashbuckling romance that made me grin start to finish.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 5.0,
+        "feeling": "Gentle, funny, and full of kindness\u2014a cozy hug of a movie.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Lilo & Stitch (2002)",
+        "rating": 5.0,
+        "feeling": "Adorable, funny, and tender with a big \u2018ohana heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Frozen (2013)",
+        "rating": 5.0,
+        "feeling": "Joyous, singalong magic about love and sisterhood that melted me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Encanto (2021)",
+        "rating": 5.0,
+        "feeling": "Vibrant, musical, and deeply warm\u2014family magic that sparkles.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Inside Out (2015)",
+        "rating": 5.0,
+        "feeling": "Imaginative, funny, and beautifully emotional in all the best ways.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Mitchells vs the Machines (2021)",
+        "rating": 5.0,
+        "feeling": "Hilarious, inventive, and heartfelt\u2014family chaos with tons of love.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 5.0,
+        "feeling": "Electrifying, stylish, and full of heart\u2014an exhilarating hero journey.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 5.0,
+        "feeling": "Big-hearted, quippy space fun with an awesome groove.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 5.0,
+        "feeling": "Clever, breezy heist shenanigans with a winning underdog spirit.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.5,
+        "feeling": "Snappy, funny, and pulpy\u2014a breezy buddy caper with bite.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Now You See Me (2013)",
+        "rating": 5.0,
+        "feeling": "Flashy, twisty fun that made the heist feel like magic.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Ocean's Eight (2018)",
+        "rating": 4.5,
+        "feeling": "Sleek, playful heist comfort with fabulous flair.",
+        "genres": [
+          "Crime",
+          "Comedy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 5.0,
+        "feeling": "Classy, clever con artistry that delights from setup to payoff.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Glass Onion: A Knives Out Mystery (2022)",
+        "rating": 5.0,
+        "feeling": "Witty, sparkling whodunit layers that were pure crowd-pleasing fun.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Murder on the Orient Express (2017)",
+        "rating": 4.5,
+        "feeling": "Elegant, cozy mystery vibes with satisfying intrigue.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 5.0,
+        "feeling": "Inspiring, triumphant, and full of heart\u2014cheered through happy tears.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Eddie the Eagle (2016)",
+        "rating": 5.0,
+        "feeling": "Feel-good, funny, and irresistibly uplifting.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "A League of Their Own (1992)",
+        "rating": 5.0,
+        "feeling": "Warm, funny, and rousingly heartfelt teamwork triumph.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The King's Speech (2010)",
+        "rating": 5.0,
+        "feeling": "Moving, dignified, and deeply uplifting.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Blind Side (2009)",
+        "rating": 5.0,
+        "feeling": "Heartwarming and inspirational in a big, feel-good way.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 5.0,
+        "feeling": "Whimsical, romantic, and utterly charming\u2014left me beaming.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 5.0,
+        "feeling": "Tender, quietly romantic, and nourishing for the soul.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Warm Bodies (2013)",
+        "rating": 4.5,
+        "feeling": "Sweet, quirky romance with a gently offbeat charm.",
+        "genres": [
+          "Horror",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Gremlins (1984)",
+        "rating": 4.5,
+        "feeling": "Mischievous, darkly festive fun with a playful spirit.",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Coraline (2009)",
+        "rating": 4.5,
+        "feeling": "Eerie and imaginative with gorgeous craft and a brave little heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 5.0,
+        "feeling": "Joyful, clever, and endlessly fun time-travel adventure.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 5.0,
+        "feeling": "Smart, heartfelt, and uplifting\u2014left me grateful and glowing.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Spirited Away (2001)",
+      "Wolfwalkers (2020)",
+      "How to Train Your Dragon (2010)",
+      "Ratatouille (2007)",
+      "WALL-E (2008)",
+      "The Incredibles (2004)",
+      "Ocean's Thirteen (2007)",
+      "The Brothers Bloom (2008)",
+      "Clue (1985)",
+      "National Treasure (2004)",
+      "Notting Hill (1999)",
+      "10 Things I Hate About You (1999)",
+      "The Proposal (2009)",
+      "The Big Sick (2017)",
+      "Hoosiers (1986)",
+      "Miracle (2004)",
+      "Moneyball (2011)",
+      "Bend It Like Beckham (2002)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mask of Zorro (1998)",
+      "Big Fish (2003)",
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+      "Ant-Man (2015)",
+      "Thor: Ragnarok (2017)",
+      "Spider-Man: Homecoming (2017)",
+      "Arrival (2016)",
+      "Apollo 13 (1995)",
+      "Singin' in the Rain (1952)",
+      "Pride (2014)",
+      "Beetlejuice (1988)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 5.0,
+        "feeling": "Enchanting, imaginative wonder that left my heart full and glowing.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 5.0,
+        "feeling": "Wild, soulful friendship and nature magic that swept me away.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 5.0,
+        "feeling": "A soaring, tender bond that made my spirit take flight.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 5.0,
+        "feeling": "Deliciously heartwarming and inspiring\u2014left me grinning ear to ear.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "WALL\u00b7E (2008)",
+        "rating": 5.0,
+        "feeling": "Quietly sweet and hopeful, a tender hug that made me care deeply.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 5.0,
+        "feeling": "Big-hearted, zippy superhero fun with a warm family glow.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Ocean's Thirteen (2007)",
+        "rating": 4.5,
+        "feeling": "Sleek, playful heist comfort that left me happily entertained.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Brothers Bloom (2008)",
+        "rating": 4.5,
+        "feeling": "Whimsical, romantic caper vibes that charmed me.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 5.0,
+        "feeling": "Zippy, witty whodunit shenanigans that delighted me start to finish.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 5.0,
+        "feeling": "Breezy, clue-chasing adventure that was pure fun.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 5.0,
+        "feeling": "Swoony, funny, and cozy\u2014left me smiling through happy sighs.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "10 Things I Hate About You (1999)",
+        "rating": 5.0,
+        "feeling": "Smart, fizzy teen romance that gave me all the feel-good butterflies.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 4.5,
+        "feeling": "Cute, crowd-pleasing rom-com comfort that left me warm and amused.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 5.0,
+        "feeling": "Tender, funny, and heartfelt in a way that moved me deeply.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hoosiers (1986)",
+        "rating": 5.0,
+        "feeling": "Stirring, classic underdog triumph that had me cheering.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Miracle (2004)",
+        "rating": 5.0,
+        "feeling": "Rousing teamwork and heart that left me inspired.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Moneyball (2011)",
+        "rating": 5.0,
+        "feeling": "Quietly thrilling and uplifting in its smart, against-the-odds way.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bend It Like Beckham (2002)",
+        "rating": 5.0,
+        "feeling": "Joyful, spirited, and empowering\u2014made me beam.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 5.0,
+        "feeling": "Swashbuckling, witty escapism that swept me into pure adventure bliss.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 5.0,
+        "feeling": "Dashing, romantic heroics that made my heart race and smile.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Big Fish (2003)",
+        "rating": 5.0,
+        "feeling": "Whimsical, tender storytelling that left me misty-eyed and glowing.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+        "rating": 5.0,
+        "feeling": "Enchanting, courageous family fantasy that warmed my heart.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ant-Man (2015)",
+        "rating": 5.0,
+        "feeling": "Light, funny heist-hero fun with a big, lovable heart.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Thor: Ragnarok (2017)",
+        "rating": 5.0,
+        "feeling": "Colorful, quippy cosmic romp that left me grinning.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Spider-Man: Homecoming (2017)",
+        "rating": 5.0,
+        "feeling": "Energetic, big-hearted teen hero joy that made me cheer.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, moving sci-fi that quietly lingered with me.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 5.0,
+        "feeling": "Gripping, inspiring teamwork that had me on the edge with happy tears.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 5.0,
+        "feeling": "Glorious, sparkling musical joy that left me beaming.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride (2014)",
+        "rating": 5.0,
+        "feeling": "Warm, funny, and uplifting solidarity that made my heart swell.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 4.5,
+        "feeling": "Playfully spooky and mischievous in a way that made me laugh.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Inside Man (2006)",
+      "Charade (1963)",
+      "The Grand Budapest Hotel (2014)",
+      "The Count of Monte Cristo (2002)",
+      "The Three Musketeers (1993)",
+      "Maverick (1994)",
+      "The Magnificent Seven (2016)",
+      "How to Train Your Dragon 2 (2014)",
+      "Song of the Sea (2014)",
+      "My Neighbor Totoro (1988)",
+      "Howl's Moving Castle (2004)",
+      "Luca (2021)",
+      "Turning Red (2022)",
+      "Soul (2020)",
+      "Puss in Boots: The Last Wish (2022)",
+      "Big Hero 6 (2014)",
+      "Zootopia (2016)",
+      "The Lego Movie (2014)",
+      "Finding Nemo (2003)",
+      "While You Were Sleeping (1995)",
+      "You've Got Mail (1998)",
+      "Crazy, Stupid, Love (2011)",
+      "Set It Up (2018)",
+      "The Holiday (2006)",
+      "Hairspray (2007)",
+      "Tick, Tick... Boom! (2021)",
+      "A Quiet Place (2018)",
+      "Interstellar (2014)",
+      "McFarland, USA (2015)",
+      "Rudy (1993)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.5,
+        "feeling": "Smart, twisty hostage-heist that kept me engaged and satisfied.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 5.0,
+        "feeling": "Witty, romantic caper delight that made me grin ear to ear.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Grand Budapest Hotel (2014)",
+        "rating": 5.0,
+        "feeling": "Whimsical, warm, and beautifully crafted - pure storytelling confection.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Count of Monte Cristo (2002)",
+        "rating": 5.0,
+        "feeling": "Sweeping, swashbuckling revenge with romance that thrilled me.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Three Musketeers (1993)",
+        "rating": 5.0,
+        "feeling": "Dashing, playful adventure that left me smiling.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Maverick (1994)",
+        "rating": 4.5,
+        "feeling": "Breezy, charming western caper that entertained me plenty.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (2016)",
+        "rating": 4.5,
+        "feeling": "Rousing, crowd-pleasing western teamwork that had me cheering.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Western"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon 2 (2014)",
+        "rating": 5.0,
+        "feeling": "Soaring, heartfelt sequel that made my spirit take flight.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 5.0,
+        "feeling": "Enchanting, tender folklore that left my heart glowing.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 5.0,
+        "feeling": "Gentle, cozy wonder that made me feel safe and happy.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 5.0,
+        "feeling": "Whimsical, romantic magic that swept me away.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Luca (2021)",
+        "rating": 5.0,
+        "feeling": "Sunny, sweet coming-of-age joy that warmed me through.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Turning Red (2022)",
+        "rating": 5.0,
+        "feeling": "Funny, heartfelt family chaos with big, relatable feelings.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Soul (2020)",
+        "rating": 5.0,
+        "feeling": "Thoughtful, jazzy and life-affirming in a way that moved me deeply.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Puss in Boots: The Last Wish (2022)",
+        "rating": 5.0,
+        "feeling": "Zippy, heartfelt adventure with surprising warmth and courage.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Big Hero 6 (2014)",
+        "rating": 5.0,
+        "feeling": "Hugely lovable, heroic fun that made me laugh and tear up.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Animation",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Zootopia (2016)",
+        "rating": 5.0,
+        "feeling": "Smart, spirited buddy adventure that left me inspired.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 5.0,
+        "feeling": "Inventive, hilarious, and joyfully heartfelt - everything was awesome.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Finding Nemo (2003)",
+        "rating": 5.0,
+        "feeling": "Tender, funny ocean adventure that filled me with warm fuzzies.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 5.0,
+        "feeling": "Cozy, swoony rom-com comfort that left me beaming.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 5.0,
+        "feeling": "Charming, witty romance that gave me happy, bookish butterflies.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love (2011)",
+        "rating": 4.5,
+        "feeling": "Snappy, funny, and surprisingly tender in a feel-good way.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Set It Up (2018)",
+        "rating": 5.0,
+        "feeling": "Breezy, adorable workplace rom-com that made me grin throughout.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 5.0,
+        "feeling": "Festive, cuddly comfort that wrapped me in warm rom-com glow.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hairspray (2007)",
+        "rating": 5.0,
+        "feeling": "Joyous, toe-tapping musical with big heart and smiles.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tick, Tick... Boom! (2021)",
+        "rating": 5.0,
+        "feeling": "Electric, heartfelt musical passion that left me inspired.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.5,
+        "feeling": "Tense and compassionate survival story that gripped me and left me breathless.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.5,
+        "feeling": "Ambitious, emotional sci-fi that stirred me with awe and hope.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "McFarland, USA (2015)",
+        "rating": 5.0,
+        "feeling": "Uplifting, against-the-odds triumph that had me cheering through happy tears.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Rudy (1993)",
+        "rating": 5.0,
+        "feeling": "Classic, heartfelt perseverance that made me believe and cheer.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  }
+]

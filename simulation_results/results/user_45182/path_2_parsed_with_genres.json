@@ -1,0 +1,644 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Look of Silence (2014)",
+      "A Separation (2011)",
+      "The Lives of Others (2006)",
+      "The Hunt (2012)",
+      "The Secret in Their Eyes (2009)",
+      "The Broken Circle Breakdown (2012)",
+      "Once Upon a Time in Anatolia (2011)",
+      "Masumiyet (Innocence) (1997)",
+      "Destiny (Kader) (2006)",
+      "Mustang (2015)",
+      "Head-On (2004)",
+      "Incendies (2010)",
+      "Prisoners (2013)",
+      "The Guilty (2018)",
+      "A Hijacking (2012)",
+      "In a Better World (2010)",
+      "After the Wedding (2006)",
+      "Shoplifters (2018)",
+      "The Kid with a Bike (2011)",
+      "Two Days, One Night (2014)",
+      "Phoenix (2014)",
+      "Barbara (2012)",
+      "The Diving Bell and the Butterfly (2007)",
+      "The Insult (2017)",
+      "Gett: The Trial of Viviane Amsalem (2014)",
+      "No Man's Land (2001)",
+      "Citizenfour (2014)",
+      "Collective (2019)",
+      "Ex Machina (2014)",
+      "Source Code (2011)"
+    ],
+    "simulated_ratings": []
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      ""
+    ],
+    "simulated_ratings": []
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Look of Silence (2014)",
+      "A Separation (2011)",
+      "The Lives of Others (2006)",
+      "A Hijacking (2012)",
+      "A War (2015)",
+      "The Hunt (2012)",
+      "4 Months, 3 Weeks and 2 Days (2007)",
+      "Graduation (2016)",
+      "Once Upon a Time in Anatolia (2011)",
+      "Three Monkeys (2008)",
+      "Masumiyet (1997)",
+      "The Secret in Their Eyes (2009)",
+      "Prisoners (2013)",
+      "Zodiac (2007)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "The Guilty (2018)",
+      "Headhunters (2011)",
+      "The Invisible Guest (2016)",
+      "Marshland (2014)",
+      "Spotlight (2015)",
+      "Nightcrawler (2014)",
+      "Ex Machina (2014)",
+      "Children of Men (2006)",
+      "Gattaca (1997)",
+      "Coherence (2013)",
+      "The Broken Circle Breakdown (2012)",
+      "Character (1997)",
+      "Shoplifters (2018)",
+      "A Prophet (2009)",
+      "The Counterfeiters (2007)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Look of Silence (2014)",
+        "rating": 5.0,
+        "feeling": "A devastating, intimate reckoning that left me silent and shaken",
+        "genres": [
+          "History",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "Heart-in-throat moral knots rendered with piercing compassion and clarity",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Tense, humane, and quietly crushing in its portrait of surveillance and compromise",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Hijacking (2012)",
+        "rating": 4.0,
+        "feeling": "Procedural dread with a chilling human cost that lingers",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A War (2015)",
+        "rating": 3.5,
+        "feeling": "Grim and morally tangled, moving despite some melodramatic beats",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Hunt (2012)",
+        "rating": 4.0,
+        "feeling": "Suffocating injustice that tightens like a vise",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "4 Months, 3 Weeks and 2 Days (2007)",
+        "rating": 4.0,
+        "feeling": "Bruising realism that refuses to look away",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Graduation (2016)",
+        "rating": 3.5,
+        "feeling": "A slow erosion of ideals that feels uncomfortably true",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Anatolia (2011)",
+        "rating": 4.0,
+        "feeling": "Hypnotic, nocturnal drift into guilt and meaning",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Three Monkeys (2008)",
+        "rating": 3.5,
+        "feeling": "A bleak family spiral where small lies rot everything",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Masumiyet (1997)",
+        "rating": 4.5,
+        "feeling": "Raw, compassionate fatalism that burrowed under my skin",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 3.5,
+        "feeling": "Engrossing, though the romantic thread felt a bit too tidy",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 3.5,
+        "feeling": "Gripping and murky, but occasionally heavy-handed",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 3.5,
+        "feeling": "Meticulous and absorbing, if emotionally distant",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 3.5,
+        "feeling": "Chilly precision that rewards patience more than passion",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Guilty (2018)",
+        "rating": 4.0,
+        "feeling": "Minimal setup, maximum dread\u2014taut and clever",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Headhunters (2011)",
+        "rating": 3.0,
+        "feeling": "Slick and diverting, but a bit too hollow to stick",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Marshland (2014)",
+        "rating": 3.5,
+        "feeling": "Thick atmosphere and steady craft elevate the genre",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Spotlight (2015)",
+        "rating": 4.0,
+        "feeling": "Quietly furious procedural that earns its weight",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Nightcrawler (2014)",
+        "rating": 3.5,
+        "feeling": "An unnerving mirror held to ambition and media hunger",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.0,
+        "feeling": "Immersive, humane dystopia that still stings",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.0,
+        "feeling": "Elegant, ethically resonant sci-fi that stays sharp",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 3.5,
+        "feeling": "A clever, unnerving puzzle that chills more than it moves",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Broken Circle Breakdown (2012)",
+        "rating": 3.5,
+        "feeling": "Affecting grief and love, with a touch of manipulation",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Character (1997)",
+        "rating": 4.0,
+        "feeling": "A fierce father\u2013son reckoning carved in iron",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Shoplifters (2018)",
+        "rating": 4.0,
+        "feeling": "Tender, unsentimental, and quietly devastating",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.0,
+        "feeling": "Tough, absorbing ascent through a brutal system",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Counterfeiters (2007)",
+        "rating": 3.5,
+        "feeling": "Compelling history told with sturdy, if conventional, power",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Memories of Murder (2003)",
+      "Burning (2018)",
+      "Poetry (2010)",
+      "About Elly (2009)",
+      "The Salesman (2016)",
+      "Revanche (2008)",
+      "Cach\u00e9 (2005)",
+      "Phoenix (2014)",
+      "Barbara (2012)",
+      "Leviathan (2014)",
+      "Loveless (2017)",
+      "The Return (2003)",
+      "Distant (2002)",
+      "Winter Sleep (2014)",
+      "The Wild Pear Tree (2018)",
+      "The Celebration (1998)",
+      "Oslo, August 31st (2011)",
+      "Collective (2019)",
+      "The Fog of War (2003)",
+      "Capturing the Friedmans (2003)",
+      "The Gatekeepers (2012)",
+      "For Sama (2019)",
+      "Son of Saul (2015)",
+      "Of Gods and Men (2010)",
+      "Read My Lips (2001)",
+      "Two Days, One Night (2014)",
+      "The Measure of a Man (2015)",
+      "Incendies (2010)",
+      "Michael Clayton (2007)",
+      "Nobody Knows (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.0,
+        "feeling": "Bleak, humane procedural where futility gnaws long after the last frame.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 3.5,
+        "feeling": "Spare, intimate conversation where social cruelty seeps in like smoke.",
+        "genres": []
+      },
+      {
+        "title": "Poetry (2010)",
+        "rating": 4.5,
+        "feeling": "A tender, lucid reckoning with guilt and memory that lands like a whispered confession.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "About Elly (2009)",
+        "rating": 4.0,
+        "feeling": "Moral quicksand where small lies swell into unbearable consequence.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Salesman (2016)",
+        "rating": 3.5,
+        "feeling": "A bruising spiral of wounded pride and vengeance that leaves a bitter aftertaste.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Revanche (2008)",
+        "rating": 4.0,
+        "feeling": "Taut, humane tragedy where guilt and chance curve lives toward rough grace.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cach\u00e9 (2005)",
+        "rating": 4.0,
+        "feeling": "Anxious, insinuating mystery that needles at guilt beneath bourgeois calm.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Phoenix (2014)",
+        "rating": 3.5,
+        "feeling": "A haunted identity riddle whose final notes cut through its contrivances.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Barbara (2012)",
+        "rating": 3.5,
+        "feeling": "Coolly restrained compassion under watchful eyes, loneliness etched with precision.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Leviathan (2014)",
+        "rating": 4.0,
+        "feeling": "A pitiless indictment that still finds a human pulse beneath the rubble.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Loveless (2017)",
+        "rating": 4.0,
+        "feeling": "Frigid and exacting, a portrait of absence that scrapes raw.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Return (2003)",
+        "rating": 3.5,
+        "feeling": "A stark fable of fathers and sons where authority curdles into dread.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Distant (2002)",
+        "rating": 2.0,
+        "feeling": "Earnest long-distance yearning that moves in flashes but feels slight and saccharine.",
+        "genres": [
+          "Animation",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Winter Sleep (2014)",
+        "rating": 4.0,
+        "feeling": "Ruminative, cutting conversations that peel vanity to the bone.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wild Pear Tree (2018)",
+        "rating": 3.5,
+        "feeling": "A prickly drift through ambition and debt that settles into weary clarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Celebration (1998)",
+        "rating": 4.0,
+        "feeling": "A blistering reckoning that turns a family table into a tribunal.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Oslo, August 31st (2011)",
+        "rating": 4.0,
+        "feeling": "A day-long drift that makes despair feel painfully, recognizably ordinary.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Collective (2019)",
+        "rating": 4.5,
+        "feeling": "Relentless, lucid journalism transmuted into outrage\u2014devastating and vital.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Fog of War (2003)",
+        "rating": 4.0,
+        "feeling": "Cool, probing self-examination that illuminates while sidestepping absolution.",
+        "genres": [
+          "Documentary",
+          "TV Movie",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Capturing the Friedmans (2003)",
+        "rating": 4.0,
+        "feeling": "A knot of memory and accusation that refuses clean answers.",
+        "genres": [
+          "Documentary",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Gatekeepers (2012)",
+        "rating": 4.0,
+        "feeling": "Sober, startling candor that complicates every easy stance.",
+        "genres": [
+          "Documentary",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "For Sama (2019)",
+        "rating": 4.5,
+        "feeling": "An intimate war diary where love and terror braid until breathing feels hard.",
+        "genres": [
+          "Documentary",
+          "War"
+        ]
+      },
+      {
+        "title": "Son of Saul (2015)",
+        "rating": 4.0,
+        "feeling": "Immersive, harrowing form that pins you to moral shards without release.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Of Gods and Men (2010)",
+        "rating": 4.0,
+        "feeling": "Quiet conviction tested by fear, ending in hard, luminous grace.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Read My Lips (2001)",
+        "rating": 3.5,
+        "feeling": "A grimy, tender crime duet that charms more in texture than plot.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Two Days, One Night (2014)",
+        "rating": 4.0,
+        "feeling": "Simple, humane persistence that accumulates into aching solidarity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Measure of a Man (2015)",
+        "rating": 3.5,
+        "feeling": "Unadorned labor and compromise, ethically bracing if a touch schematic.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Incendies (2010)",
+        "rating": 3.5,
+        "feeling": "A gripping, operatic reveal that stuns even as the mechanics show.",
+        "genres": [
+          "Drama",
+          "War",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.0,
+        "feeling": "A cool-blooded corporate thriller with a conscience and a steady burn.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Nobody Knows (2004)",
+        "rating": 4.0,
+        "feeling": "Unshowy, compassionate heartbreak that lingers like a bruise.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

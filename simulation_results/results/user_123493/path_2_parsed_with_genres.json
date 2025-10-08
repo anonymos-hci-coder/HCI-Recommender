@@ -1,0 +1,1338 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Gladiator (2000)",
+      "Braveheart (1995)",
+      "The Last Samurai (2003)",
+      "Kingdom of Heaven (2005)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "Argo (2012)",
+      "Saving Private Ryan (1998)",
+      "Black Hawk Down (2001)",
+      "Letters from Iwo Jima (2006)",
+      "Zero Dark Thirty (2012)",
+      "The Patriot (2000)",
+      "Hacksaw Ridge (2016)",
+      "The Last of the Mohicans (1992)",
+      "Aliens (1986)",
+      "Terminator 2: Judgment Day (1991)",
+      "Edge of Tomorrow (2014)",
+      "Interstellar (2014)",
+      "The Martian (2015)",
+      "War for the Planet of the Apes (2017)",
+      "Rise of the Planet of the Apes (2011)",
+      "Dune (2021)",
+      "Arrival (2016)",
+      "Star Trek (2009)",
+      "The Bourne Identity (2002)",
+      "Mission: Impossible - Fallout (2018)",
+      "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "About Time (2013)",
+      "The Proposal (2009)",
+      "Remember the Titans (2000)",
+      "Hidden Figures (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Gladiator (2000)",
+        "rating": 5.0,
+        "feeling": "Epic honor and vengeance with rousing battles had me fully pumped.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Braveheart (1995)",
+        "rating": 5.0,
+        "feeling": "Stirring freedom fight and raw emotion lit a fire in me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Last Samurai (2003)",
+        "rating": 5.0,
+        "feeling": "Honor, redemption, and sweeping battles moved me deeply.",
+        "genres": [
+          "Drama",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "Kingdom of Heaven (2005)",
+        "rating": 4.5,
+        "feeling": "Grand crusade drama with noble resolve, a touch uneven but gripping.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Adventure",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0,
+        "feeling": "Authentic duty and camaraderie impressed me, though it\u2019s measured.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 5.0,
+        "feeling": "Tense, clever rescue play had me on edge and cheering.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Saving Private Ryan (1998)",
+        "rating": 5.0,
+        "feeling": "Sacrifice and brotherhood hit hard and lingered.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Black Hawk Down (2001)",
+        "rating": 5.0,
+        "feeling": "Relentless valor and survival pulled me straight into the fight.",
+        "genres": [
+          "Action",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Letters from Iwo Jima (2006)",
+        "rating": 4.5,
+        "feeling": "Somber, human perspective resonated with quiet dignity.",
+        "genres": [
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Zero Dark Thirty (2012)",
+        "rating": 5.0,
+        "feeling": "Focused determination and payoff were riveting.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Patriot (2000)",
+        "rating": 5.0,
+        "feeling": "Family, freedom, and ferocity had me fist\u2011pumping.",
+        "genres": [
+          "Drama",
+          "History",
+          "War",
+          "Action"
+        ]
+      },
+      {
+        "title": "Hacksaw Ridge (2016)",
+        "rating": 5.0,
+        "feeling": "Unshakeable conviction and battlefield courage inspired me.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 5.0,
+        "feeling": "Sweeping romance and frontier heroics swept me away.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 5.0,
+        "feeling": "Marines vs monsters with heart and adrenaline was a blast.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 5.0,
+        "feeling": "Relentless spectacle with surprising heart totally delivered.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 5.0,
+        "feeling": "Smart, propulsive loop action had me grinning all through.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 5.0,
+        "feeling": "Big\u2011hearted space odyssey stirred wonder and family feels.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 5.0,
+        "feeling": "Resourceful optimism and NASA teamwork were pure joy.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "War for the Planet of the Apes (2017)",
+        "rating": 5.0,
+        "feeling": "Caesar\u2019s moral struggle and epic stakes had me all in.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "War"
+        ]
+      },
+      {
+        "title": "Rise of the Planet of the Apes (2011)",
+        "rating": 5.0,
+        "feeling": "Caesar\u2019s origin and uprising thrilled me and tugged at me.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dune (2021)",
+        "rating": 4.5,
+        "feeling": "Monumental world\u2011building and destiny vibes wowed me, if a bit austere.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Thoughtful, human\u2011first sci\u2011fi moved me quietly.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 5.0,
+        "feeling": "Swagger, teamwork, and space heroics hit my sweet spot.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 5.0,
+        "feeling": "Taut, competent spy thrills scratched my action itch.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 5.0,
+        "feeling": "Breathtaking stunts and steadfast loyalty exhilarated me.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+        "rating": 5.0,
+        "feeling": "Heroic camaraderie and mythic quest completely enchanted me.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 5.0,
+        "feeling": "Heartfelt time\u2011twist romance about family and gratitude hit home.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 5.0,
+        "feeling": "Charming opposites\u2011attract banter and warmth made me beam.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Remember the Titans (2000)",
+        "rating": 5.0,
+        "feeling": "Uplifting team unity and leadership gave me goosebumps.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 5.0,
+        "feeling": "Grit and brilliance breaking barriers left me proud and inspired.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Lord of the Rings: The Two Towers (2002)",
+      "The Lord of the Rings: The Return of the King (2003)",
+      "Star Wars: Episode IV - A New Hope (1977)",
+      "Star Wars: Episode V - The Empire Strikes Back (1980)",
+      "Star Wars: Episode VI - Return of the Jedi (1983)",
+      "Rogue One: A Star Wars Story (2016)",
+      "Top Gun: Maverick (2022)",
+      "Avatar (2009)",
+      "Mad Max: Fury Road (2015)",
+      "Star Trek Into Darkness (2013)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "The Bourne Supremacy (2004)",
+      "The Bourne Ultimatum (2007)",
+      "John Wick (2014)",
+      "1917 (2019)",
+      "Dunkirk (2017)",
+      "Fury (2014)",
+      "Lone Survivor (2013)",
+      "We Were Soldiers (2002)",
+      "13 Hours: The Secret Soldiers of Benghazi (2016)",
+      "Apollo 13 (1995)",
+      "Ford v Ferrari (2019)",
+      "Captain Phillips (2013)",
+      "Bridge of Spies (2015)",
+      "The Imitation Game (2014)",
+      "The Big Short (2015)",
+      "Love Actually (2003)",
+      "Pride & Prejudice (2005)",
+      "Jerry Maguire (1996)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Lord of the Rings: The Two Towers (2002)",
+        "rating": 5.0,
+        "feeling": "Rousing fellowship split but steadfast\u2014heroic stands and mythic momentum had me amped.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "rating": 5.0,
+        "feeling": "Sacrifice, loyalty, and destiny crescendo\u2014pure goosebumps and catharsis.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode IV - A New Hope (1977)",
+        "rating": 5.0,
+        "feeling": "Classic swagger, teamwork, and hope\u2014space heroics that light me up.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+        "rating": 5.0,
+        "feeling": "Deeper stakes and hard-won resilience\u2014thrilling and stirring.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+        "rating": 5.0,
+        "feeling": "Redemption and united resolve deliver a triumphant finish.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 5.0,
+        "feeling": "Gritty mission courage and selfless sacrifice hit me hard.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Top Gun: Maverick (2022)",
+        "rating": 5.0,
+        "feeling": "Competence, mentorship, and jaw-dropping aviation had me fist-pumping.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Avatar (2009)",
+        "rating": 5.0,
+        "feeling": "Sweeping world, warrior\u2019s conscience, and rousing battles thrilled me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.5,
+        "feeling": "Pure propulsive survival with fierce heart\u2014adrenaline well spent.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek Into Darkness (2013)",
+        "rating": 4.5,
+        "feeling": "Crew loyalty under fire and big-scale peril delivered, a bit uneven.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 5.0,
+        "feeling": "Inventive stunts and tight teamwork\u2014pure spy-thrill joy.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 5.0,
+        "feeling": "Steadfast loyalty and razor-sharp set pieces had me grinning.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Bourne Supremacy (2004)",
+        "rating": 4.5,
+        "feeling": "Relentless competence and stakes drew me right back in.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bourne Ultimatum (2007)",
+        "rating": 5.0,
+        "feeling": "Expert momentum and payoff\u2014spy craft at full throttle.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "John Wick (2014)",
+        "rating": 5.0,
+        "feeling": "Honorable fury and crisp action\u2014clean, cathartic vengeance.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "1917 (2019)",
+        "rating": 5.0,
+        "feeling": "Urgent courage and brotherhood kept my heart in my throat.",
+        "genres": [
+          "War",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dunkirk (2017)",
+        "rating": 4.5,
+        "feeling": "Tense endurance and quiet heroism impressed me, slightly detached.",
+        "genres": [
+          "War",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fury (2014)",
+        "rating": 4.5,
+        "feeling": "Grimy brotherhood under impossible odds\u2014powerful and bruising.",
+        "genres": [
+          "War",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Lone Survivor (2013)",
+        "rating": 5.0,
+        "feeling": "Valor, grit, and unbreakable resolve moved me deeply.",
+        "genres": [
+          "War",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "We Were Soldiers (2002)",
+        "rating": 5.0,
+        "feeling": "Duty, faith, and fierce leadership had me fully stirred.",
+        "genres": [
+          "Action",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "13 Hours: The Secret Soldiers of Benghazi (2016)",
+        "rating": 5.0,
+        "feeling": "Stand-fast courage amid chaos\u2014intense and galvanizing.",
+        "genres": [
+          "War",
+          "Action",
+          "History",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 5.0,
+        "feeling": "NASA teamwork and level-headed heroism gave me proud chills.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Ford v Ferrari (2019)",
+        "rating": 5.0,
+        "feeling": "Craft, camaraderie, and competitive fire made me soar.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Captain Phillips (2013)",
+        "rating": 5.0,
+        "feeling": "Taut real-world resolve and human stakes gripped me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.5,
+        "feeling": "Quiet integrity and steady negotiation resonated, a touch measured.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 5.0,
+        "feeling": "Brilliant duty under pressure\u2014poignant and inspiring.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Big Short (2015)",
+        "rating": 5.0,
+        "feeling": "Sharp, outraged clarity on the meltdown\u2014riveting and infuriating.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love Actually (2003)",
+        "rating": 5.0,
+        "feeling": "Warm, witty intertwining hearts left me beaming.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 5.0,
+        "feeling": "Earnest romance and character grace swept me up.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jerry Maguire (1996)",
+        "rating": 5.0,
+        "feeling": "Heart, loyalty, and second chances had me cheering.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "American Sniper (2014)",
+      "The Outpost (2020)",
+      "Greyhound (2020)",
+      "12 Strong (2018)",
+      "Eye in the Sky (2015)",
+      "Patriots Day (2016)",
+      "The Siege of Jadotville (2016)",
+      "Only the Brave (2017)",
+      "Lawrence of Arabia (1962)",
+      "The Great Escape (1963)",
+      "300 (2006)",
+      "Apocalypto (2006)",
+      "Casino Royale (2006)",
+      "The Hunt for Red October (1990)",
+      "Clear and Present Danger (1994)",
+      "A Few Good Men (1992)",
+      "The Insider (1999)",
+      "Inception (2010)",
+      "The Dark Knight (2008)",
+      "Gravity (2013)",
+      "A Quiet Place (2018)",
+      "The Terminator (1984)",
+      "Top Gun (1986)",
+      "Avatar: The Way of Water (2022)",
+      "Rush (2013)",
+      "Warrior (2011)",
+      "Cinderella Man (2005)",
+      "Sense and Sensibility (1995)",
+      "Crazy, Stupid, Love. (2011)",
+      "The Holiday (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "American Sniper (2014)",
+        "rating": 5.0,
+        "feeling": "Steadfast duty, brotherhood, and the cost on family hit me hard.",
+        "genres": [
+          "War",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Outpost (2020)",
+        "rating": 5.0,
+        "feeling": "Stand-fast courage under impossible odds had me clenched and proud.",
+        "genres": [
+          "War",
+          "Drama",
+          "History",
+          "Action"
+        ]
+      },
+      {
+        "title": "Greyhound (2020)",
+        "rating": 4.5,
+        "feeling": "Lean, competent command and cat-and-mouse tension gripped me start to finish.",
+        "genres": [
+          "War",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "12 Strong (2018)",
+        "rating": 4.5,
+        "feeling": "Post-9/11 resolve and horse-soldier grit stirred me, a touch conventional.",
+        "genres": [
+          "War",
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Eye in the Sky (2015)",
+        "rating": 4.5,
+        "feeling": "Tense, principled decision-making and moral stakes kept me riveted.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "Patriots Day (2016)",
+        "rating": 5.0,
+        "feeling": "Community resolve and first-responder courage moved me deeply.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Siege of Jadotville (2016)",
+        "rating": 5.0,
+        "feeling": "Defiant leadership and against-all-odds brotherhood had me cheering.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Only the Brave (2017)",
+        "rating": 5.0,
+        "feeling": "Hard-earned camaraderie and sacrifice hit me square in the chest.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Lawrence of Arabia (1962)",
+        "rating": 5.0,
+        "feeling": "Mythic scale, resolve, and complicated heroism swept me away.",
+        "genres": [
+          "Adventure",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Great Escape (1963)",
+        "rating": 5.0,
+        "feeling": "Clever teamwork and indomitable spirit had me grinning and tense.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "300 (2006)",
+        "rating": 1.0,
+        "feeling": "Obscure miniDV vibe doesn't hit my epic, heroic sweet spot.",
+        "genres": []
+      },
+      {
+        "title": "Apocalypto (2006)",
+        "rating": 5.0,
+        "feeling": "Fierce survival and family-driven fight had me breathless.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Casino Royale (2006)",
+        "rating": 5.0,
+        "feeling": "Gritty competence, high stakes, and bruised heart had me all in.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 5.0,
+        "feeling": "Cool-headed strategy and duty under pressure completely delivered.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Clear and Present Danger (1994)",
+        "rating": 4.5,
+        "feeling": "Integrity versus shadow games engaged me, a hair measured.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 5.0,
+        "feeling": "Boiling integrity and accountability had me glued.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 5.0,
+        "feeling": "Quiet courage and righteous truth-to-power fired me up.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 5.0,
+        "feeling": "Bold, brainy mission with a beating heart had me thrilled.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 5.0,
+        "feeling": "Unflinching sacrifice and escalating stakes electrified me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.5,
+        "feeling": "White-knuckle survival and competence awed me, a touch detached.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.5,
+        "feeling": "Family-first survival tension had me holding my breath.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Terminator (1984)",
+        "rating": 5.0,
+        "feeling": "Relentless pursuit met with gritty resolve - pure adrenaline.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Top Gun (1986)",
+        "rating": 5.0,
+        "feeling": "Swagger, rivalry, and airborne excellence had me fist-pumping.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Avatar: The Way of Water (2022)",
+        "rating": 5.0,
+        "feeling": "Vast world, family bonds, and rousing battles completely lit me up.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Rush (2013)",
+        "rating": 5.0,
+        "feeling": "Craft, rivalry, and mutual respect had me roaring.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Warrior (2011)",
+        "rating": 5.0,
+        "feeling": "Bruised brotherhood and hard-fought redemption wrecked and inspired me.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Cinderella Man (2005)",
+        "rating": 5.0,
+        "feeling": "Grit, family, and comeback heart had me standing tall.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 5.0,
+        "feeling": "Earnest hearts and character grace swept me up.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love. (2011)",
+        "rating": 5.0,
+        "feeling": "Warm laughs, second chances, and unexpected heart made me beam.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 5.0,
+        "feeling": "Cozy charm and sweet connections left me smiling wide.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Patton (1970)",
+      "The Bridge on the River Kwai (1957)",
+      "Enemy at the Gates (2001)",
+      "Defiance (2008)",
+      "Thirteen Days (2000)",
+      "Tombstone (1993)",
+      "The Magnificent Seven (1960)",
+      "Spartacus (1960)",
+      "Glory (1989)",
+      "Deepwater Horizon (2016)",
+      "Dark Waters (2019)",
+      "The Post (2017)",
+      "Michael Clayton (2007)",
+      "Crimson Tide (1995)",
+      "Das Boot (1981)",
+      "The Right Stuff (1983)",
+      "Contact (1997)",
+      "The Abyss (1989)",
+      "Star Trek Beyond (2016)",
+      "Dune: Part Two (2024)",
+      "Kingdom of the Planet of the Apes (2024)",
+      "Prey (2022)",
+      "Skyfall (2012)",
+      "The Fugitive (1993)",
+      "Mission: Impossible - Dead Reckoning Part One (2023)",
+      "Miracle (2004)",
+      "Devotion (2022)",
+      "Armageddon (1998)",
+      "Moneyball (2011)",
+      "The Princess Bride (1987)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Patton (1970)",
+        "rating": 5.0,
+        "feeling": "Commanding leadership, flaws and all, made for riveting, rousing wartime resolve.",
+        "genres": [
+          "War",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 5.0,
+        "feeling": "Pride, duty, and the crushing cost of war gripped me deep.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Enemy at the Gates (2001)",
+        "rating": 4.0,
+        "feeling": "Tense sniper chess and survival hooked me, romance a touch conventional.",
+        "genres": [
+          "Drama",
+          "War",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Defiance (2008)",
+        "rating": 5.0,
+        "feeling": "Stubborn leadership and lifesaving grit had me proud and stirred.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Thirteen Days (2000)",
+        "rating": 5.0,
+        "feeling": "Level-headed courage and brinkmanship tension had me glued and inspired.",
+        "genres": [
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tombstone (1993)",
+        "rating": 5.0,
+        "feeling": "Brotherhood, swagger, and stand-up justice had me grinning and fist-pumping.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (1960)",
+        "rating": 5.0,
+        "feeling": "Noble gunslingers banding together for the defenseless hit my heroic sweet spot.",
+        "genres": [
+          "Western",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spartacus (1960)",
+        "rating": 5.0,
+        "feeling": "Defiance, brotherhood, and mythic sacrifice swelled my heart.",
+        "genres": [
+          "History",
+          "War",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Glory (1989)",
+        "rating": 5.0,
+        "feeling": "Honor, resolve, and hard-won dignity wrecked me and lifted me.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Deepwater Horizon (2016)",
+        "rating": 5.0,
+        "feeling": "Competence under fire and ordinary heroism had me clenched and proud.",
+        "genres": [
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 5.0,
+        "feeling": "Quiet integrity versus a giant had me simmering and cheering for truth.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Post (2017)",
+        "rating": 4.5,
+        "feeling": "Principled pushback and newsroom resolve resonated, a hair measured.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 5.0,
+        "feeling": "Moral reckoning and razor-taut escalation gripped me hard.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Crimson Tide (1995)",
+        "rating": 5.0,
+        "feeling": "Command clash, duty, and brink-of-war tension had me locked in.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.5,
+        "feeling": "Relentless claustrophobia and weary duty impressed me, slightly detached.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 5.0,
+        "feeling": "Tested grit, camaraderie, and skyward ambition gave me proud chills.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.5,
+        "feeling": "Thoughtful wonder and conviction moved me, if a touch restrained.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 5.0,
+        "feeling": "Compassion, courage, and awe below the waves had me wide-eyed.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek Beyond (2016)",
+        "rating": 4.5,
+        "feeling": "Crew loyalty, inventive peril, and upbeat space heroics delivered big fun.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dune: Part Two (2024)",
+        "rating": 5.0,
+        "feeling": "Destiny colliding with roaring scale and heart totally lit me up.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kingdom of the Planet of the Apes (2024)",
+        "rating": 4.5,
+        "feeling": "Legacy, moral choices, and frontier stakes drew me in, slightly less gut-punch than Caesar\u2019s arc.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prey (2022)",
+        "rating": 5.0,
+        "feeling": "Fierce warrior resolve and lean survival thrills had me amped.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Skyfall (2012)",
+        "rating": 5.0,
+        "feeling": "Loyalty, legacy, and top-tier spy competence had me exhilarated.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 5.0,
+        "feeling": "Relentless smarts and integrity under pursuit had me cheering.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Dead Reckoning Part One (2023)",
+        "rating": 5.0,
+        "feeling": "Steadfast loyalty and globe-trotting ingenuity kept me grinning and breathless.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Miracle (2004)",
+        "rating": 5.0,
+        "feeling": "Leadership, unity, and underdog resolve gave me goosebumps.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Devotion (2022)",
+        "rating": 4.5,
+        "feeling": "Brotherhood and duty moved me, a touch sober in its pacing.",
+        "genres": [
+          "War",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Armageddon (1998)",
+        "rating": 4.5,
+        "feeling": "Big-hearted sacrifice and swagger thrilled me, even if bombastic.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Moneyball (2011)",
+        "rating": 5.0,
+        "feeling": "Quiet innovation, leadership, and stubborn belief had me fully satisfied.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Pure-hearted adventure, wit, and true love left me beaming.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1255 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Doctor Zhivago (1965)",
+      "The Bridge on the River Kwai (1957)",
+      "Ben-Hur (1959)",
+      "Spartacus (1960)",
+      "The Last of the Mohicans (1992)",
+      "Dances with Wolves (1990)",
+      "The Last Emperor (1987)",
+      "Ran (1985)",
+      "Seven Samurai (1954)",
+      "Amadeus (1984)",
+      "The Remains of the Day (1993)",
+      "Howards End (1992)",
+      "Sense and Sensibility (1995)",
+      "Dangerous Liaisons (1988)",
+      "Much Ado About Nothing (1993)",
+      "Henry V (1989)",
+      "Barry Lyndon (1975)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "The English Patient (1996)",
+      "A Room with a View (1985)",
+      "Pride & Prejudice (2005)",
+      "The Mission (1986)",
+      "Gandhi (1982)",
+      "Out of Africa (1985)",
+      "Beauty and the Beast (1991)",
+      "The Lion King (1994)",
+      "Aladdin (1992)",
+      "Anastasia (1997)",
+      "Beetlejuice (1988)",
+      "The Frighteners (1996)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Doctor Zhivago (1965)",
+        "rating": 4.5,
+        "feeling": "I was swept up by the romance and the weight of history.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 4.5,
+        "feeling": "The moral tug-of-war and meticulous wartime craft had me riveted.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Ben-Hur (1959)",
+        "rating": 4.0,
+        "feeling": "Grand, stirring spectacle with a revenge arc I could invest in.",
+        "genres": [
+          "History",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Spartacus (1960)",
+        "rating": 4.0,
+        "feeling": "Rousing and humane",
+        "genres": [
+          "History",
+          "War",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 4.0,
+        "feeling": "The frontier romance and tribal entanglements hit a sweet spot for me.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Dances with Wolves (1990)",
+        "rating": 3.5,
+        "feeling": "Moving and respectful, though it wanders.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Last Emperor (1987)",
+        "rating": 3.5,
+        "feeling": "Lavish and quietly tragic, if a bit distant.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Ran (1985)",
+        "rating": 3.5,
+        "feeling": "Bleak grandeur I admired more than I loved.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 3.5,
+        "feeling": "Impeccable craft, though the momentum ebbs for me.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Amadeus (1984)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, sly, and musical\u2014envy and genius made gripping.",
+        "genres": [
+          "History",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.0,
+        "feeling": "The restraint hurt in all the right ways.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Howards End (1992)",
+        "rating": 3.5,
+        "feeling": "Elegant and thoughtful, if a touch airless.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.0,
+        "feeling": "Warm, witty, and grounded in character.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dangerous Liaisons (1988)",
+        "rating": 4.0,
+        "feeling": "Deliciously cruel games played with velvet gloves.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Much Ado About Nothing (1993)",
+        "rating": 3.5,
+        "feeling": "Sunny and charming, even when the stakes wobble.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Henry V (1989)",
+        "rating": 3.5,
+        "feeling": "Sturdy, rousing history with a somber core.",
+        "genres": [
+          "War",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Barry Lyndon (1975)",
+        "rating": 3.5,
+        "feeling": "Meticulous and icy\u2014beautiful but emotionally cool for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 3.5,
+        "feeling": "Sea-salted camaraderie and tactician\u2019s thrills\u2014solid, not sublime.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The English Patient (1996)",
+        "rating": 3.5,
+        "feeling": "Sumptuous melancholy that sometimes keeps me at arm\u2019s length.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Lively, romantic, and beautifully lived-in.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Mission (1986)",
+        "rating": 3.5,
+        "feeling": "Faith and colonial brutality resonate, even if it gets heavy-handed.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Gandhi (1982)",
+        "rating": 4.0,
+        "feeling": "An earnest, absorbing portrait of principled resistance.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Out of Africa (1985)",
+        "rating": 3.5,
+        "feeling": "Sweeping and wistful, though a bit too languid.",
+        "genres": [
+          "History",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Beauty and the Beast (1991)",
+        "rating": 4.5,
+        "feeling": "A timeless, melodic fairy tale that still enchants me.",
+        "genres": [
+          "Romance",
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Lion King (1994)",
+        "rating": 4.0,
+        "feeling": "Mythic coming-of-age with real heft and heart.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Aladdin (1992)",
+        "rating": 3.5,
+        "feeling": "Colorful and zippy, though less affecting than my top Disney picks.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Anastasia (1997)",
+        "rating": 3.0,
+        "feeling": "Pleasant, but it doesn\u2019t quite cast the same spell.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 4.0,
+        "feeling": "Macabre whimsy that\u2019s right up my alley.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Frighteners (1996)",
+        "rating": 3.5,
+        "feeling": "Zany, spooky energy that mostly clicks.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "A Man for All Seasons (1966)",
+      "The Lion in Winter (1968)",
+      "The Age of Innocence (1993)",
+      "A Room with a View (1985)",
+      "Persuasion (1995)",
+      "Far from the Madding Crowd (2015)",
+      "Bright Star (2009)",
+      "Atonement (2007)",
+      "The Painted Veil (2006)",
+      "Legends of the Fall (1994)",
+      "Rob Roy (1995)",
+      "The Last Samurai (2003)",
+      "The Man Who Would Be King (1975)",
+      "A Passage to India (1984)",
+      "Reds (1981)",
+      "Paths of Glory (1957)",
+      "War and Peace (1966)",
+      "The Leopard (1963)",
+      "The New World (2005)",
+      "Jane Eyre (2011)",
+      "Edward Scissorhands (1990)",
+      "Crimson Peak (2015)",
+      "The Devil's Backbone (2001)",
+      "Pan's Labyrinth (2006)",
+      "Ghost (1990)",
+      "The Ghost and Mrs. Muir (1947)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "The Little Mermaid (1989)",
+      "The Prince of Egypt (1998)",
+      "The Red Violin (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "A Man for All Seasons (1966)",
+        "rating": 4.5,
+        "feeling": "A clear-eyed portrait of conscience versus power that stirred me deeply.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Lion in Winter (1968)",
+        "rating": 4.0,
+        "feeling": "Barbed family chess with crackling wit that I relished.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Age of Innocence (1993)",
+        "rating": 4.0,
+        "feeling": "The exquisite restraint and social suffocation made the romance ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Persuasion (1995)",
+        "rating": 4.0,
+        "feeling": "Gentle, grown-up yearning that rewards patience.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Far from the Madding Crowd (2015)",
+        "rating": 3.5,
+        "feeling": "Handsome and heartfelt, if a touch airy for me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bright Star (2009)",
+        "rating": 3.5,
+        "feeling": "Luminous tenderness that I admired more than I fully felt.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 4.0,
+        "feeling": "Guilt and fate ripple through a grand romance with real impact.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Painted Veil (2006)",
+        "rating": 3.5,
+        "feeling": "Somber, sincere redemption that kept me slightly at arm\u2019s length.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Legends of the Fall (1994)",
+        "rating": 3.5,
+        "feeling": "Sweeping, stormy melodrama I enjoyed despite its excess.",
+        "genres": [
+          "Drama",
+          "Western",
+          "Romance",
+          "War",
+          "Action"
+        ]
+      },
+      {
+        "title": "Rob Roy (1995)",
+        "rating": 3.5,
+        "feeling": "Rugged honor and hearth carry a sturdy tale.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Drama",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "The Last Samurai (2003)",
+        "rating": 3.5,
+        "feeling": "Earnest and stirring, though familiar in its arc.",
+        "genres": [
+          "Drama",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "The Man Who Would Be King (1975)",
+        "rating": 4.0,
+        "feeling": "Grand adventure shaded by hubris and consequence\u2014right in my wheelhouse.",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Passage to India (1984)",
+        "rating": 3.5,
+        "feeling": "Thoughtful colonial tensions that resonate, if unevenly.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "History"
+        ]
+      },
+      {
+        "title": "Reds (1981)",
+        "rating": 3.5,
+        "feeling": "Ambitious and engrossing, though the sprawl diffuses the emotion.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 4.0,
+        "feeling": "A bracing moral indictment that hit hard.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "War and Peace (1966)",
+        "rating": 3.5,
+        "feeling": "Majestic scope I admired more than I was moved by.",
+        "genres": [
+          "History",
+          "Romance",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Leopard (1963)",
+        "rating": 3.5,
+        "feeling": "Sumptuous elegy of fading power that feels a bit cool.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The New World (2005)",
+        "rating": 3.5,
+        "feeling": "Meditative and beautiful, occasionally too languid for me.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jane Eyre (2011)",
+        "rating": 4.0,
+        "feeling": "A moody, tender gothic romance that quietly hooked me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Edward Scissorhands (1990)",
+        "rating": 4.0,
+        "feeling": "Melancholy fairy-tale oddity with heart I happily embraced.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crimson Peak (2015)",
+        "rating": 3.5,
+        "feeling": "Gorgeous gothic chills that seduced more than they haunted.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "A haunting war-torn ghost story with moral spine.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "A dark, luminous fable whose courage and sorrow gutted me.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Ghost (1990)",
+        "rating": 3.5,
+        "feeling": "Sincere, supernatural romance that works more than it wobbles.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Ghost and Mrs. Muir (1947)",
+        "rating": 4.0,
+        "feeling": "Wistful, witty haunting that charmed me.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.0,
+        "feeling": "Graceful combat and aching longing in elegant balance.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Little Mermaid (1989)",
+        "rating": 4.0,
+        "feeling": "Sparkling songs and yearning that still feel timeless.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Prince of Egypt (1998)",
+        "rating": 4.0,
+        "feeling": "A sweeping, reverent epic with rousing music and heart.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Red Violin (1998)",
+        "rating": 4.0,
+        "feeling": "A mournful, globe-spanning melody of fate that resonated.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Music",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Casablanca (1942)",
+      "The African Queen (1951)",
+      "The Red Shoes (1948)",
+      "Brief Encounter (1945)",
+      "The Innocents (1961)",
+      "The Others (2001)",
+      "Rebecca (1940)",
+      "Wuthering Heights (1939)",
+      "The Orphanage (2007)",
+      "Truly, Madly, Deeply (1990)",
+      "A Matter of Life and Death (1946)",
+      "The Life and Death of Colonel Blimp (1943)",
+      "Das Boot (1981)",
+      "Black Robe (1991)",
+      "The Duellists (1977)",
+      "The Bounty (1984)",
+      "Becket (1964)",
+      "The Name of the Rose (1986)",
+      "Elizabeth (1998)",
+      "Cyrano de Bergerac (1990)",
+      "A Room with a View (1985)",
+      "The Madness of King George (1994)",
+      "The Favourite (2018)",
+      "The Shape of Water (2017)",
+      "Spirited Away (2001)",
+      "Princess Mononoke (1997)",
+      "The Princess Bride (1987)",
+      "Immortal Beloved (1994)",
+      "Topsy-Turvy (1999)",
+      "Coco (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Red Shoes (1948)",
+        "rating": 4.5,
+        "feeling": "Art\u2019s intoxicating pull versus love\u2019s claim made my heart race and ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.5,
+        "feeling": "The quiet, impossible yearning and moral weight moved me deeply.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.0,
+        "feeling": "Its poised, haunted ambiguity seeped under my skin in the best way.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.0,
+        "feeling": "A hushed, maternal dread built to a sorrowful shiver that lingered.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rebecca (1940)",
+        "rating": 4.0,
+        "feeling": "Gothic jealousy and identity games kept me enthralled and uneasy.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wuthering Heights (1939)",
+        "rating": 3.5,
+        "feeling": "The wild, punitive passion stirred me even as its tempest wore me down.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.0,
+        "feeling": "Grief and ghostly echoes entwine into a tender, devastating lullaby.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Matter of Life and Death (1946)",
+        "rating": 4.0,
+        "feeling": "Romance and wit dance gracefully between worlds, and I gladly floated along.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Life and Death of Colonel Blimp (1943)",
+        "rating": 4.0,
+        "feeling": "A humane, bittersweet portrait of time, honor, and friendship that settled warmly.",
+        "genres": [
+          "War",
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic tension and weary resolve gripped me from depth to depth.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Black Robe (1991)",
+        "rating": 3.5,
+        "feeling": "Faith and culture clash with stark honesty that compelled more than it comforted.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Duellists (1977)",
+        "rating": 3.5,
+        "feeling": "Honor\u2019s obsession sketched in elegant strokes left a chill and a rueful smile.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Bounty (1984)",
+        "rating": 3.5,
+        "feeling": "Pride and command unravel into bracing survival and consequence I could buy into.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Becket (1964)",
+        "rating": 4.5,
+        "feeling": "Conscience versus crown played with clarity and fire that stirred me.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Name of the Rose (1986)",
+        "rating": 4.0,
+        "feeling": "Reason pushing through medieval gloom made for an engrossing, heady mystery.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Elizabeth (1998)",
+        "rating": 4.0,
+        "feeling": "A young monarch forged by peril and performance held me rapt.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Cyrano de Bergerac (1990)",
+        "rating": 4.0,
+        "feeling": "Romance, wit, and wounded pride made a generous, bittersweet feast.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Madness of King George (1994)",
+        "rating": 4.0,
+        "feeling": "Royal frailty, politics, and humor braid into a lively, affecting pageant.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Favourite (2018)",
+        "rating": 4.0,
+        "feeling": "Barbed affections and courtly games glittered with acidic delight.",
+        "genres": [
+          "History",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Shape of Water (2017)",
+        "rating": 4.0,
+        "feeling": "A tender, oddball fable whose empathy and longing won me over.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.0,
+        "feeling": "A luminous rite of passage\u2014strange, generous, and quietly profound.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Princess Mononoke (1997)",
+        "rating": 4.0,
+        "feeling": "Nature, industry, and duty collide in a sweeping, morally balanced myth.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "A spry, romantic romp whose wit and heart make the fairy-tale sing.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Immortal Beloved (1994)",
+        "rating": 3.5,
+        "feeling": "Genius and torment resonate, even if the melodrama occasionally mutes the spell.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Topsy-Turvy (1999)",
+        "rating": 4.0,
+        "feeling": "The messy miracle of collaboration charmed me with craft and song.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Music",
+          "History"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 4.0,
+        "feeling": "Memory, music, and family entwined into a colorful embrace that warmed me.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Black Narcissus (1947)",
+      "I Know Where I'm Going! (1945)",
+      "The Tales of Hoffmann (1951)",
+      "The Adventures of Robin Hood (1938)",
+      "The Haunting (1963)",
+      "The Changeling (1980)",
+      "The Uninvited (1944)",
+      "Portrait of Jennie (1948)",
+      "Picnic at Hanging Rock (1975)",
+      "Ugetsu (1953)",
+      "Sansho the Bailiff (1954)",
+      "The Cranes Are Flying (1957)",
+      "Grand Illusion (1937)",
+      "The Thin Red Line (1998)",
+      "Zulu (1964)",
+      "The Piano (1993)",
+      "The Heiress (1949)",
+      "The Go-Between (1971)",
+      "A Room with a View (1985)",
+      "The Umbrellas of Cherbourg (1964)",
+      "Fiddler on the Roof (1971)",
+      "West Side Story (1961)",
+      "The Earrings of Madame de... (1953)",
+      "Farewell My Concubine (1993)",
+      "Raise the Red Lantern (1991)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Song of the Sea (2014)",
+      "Wolfwalkers (2020)",
+      "Casablanca (1942)",
+      "The Spirit of the Beehive (1973)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Black Narcissus (1947)",
+        "rating": 4.0,
+        "feeling": "Repressed desire blooming into fevered gothic made me shiver and swoon.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "I Know Where I'm Going! (1945)",
+        "rating": 4.0,
+        "feeling": "Wind, wit, and wary hearts bend toward fate with a warmth I happily embraced.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Tales of Hoffmann (1951)",
+        "rating": 3.5,
+        "feeling": "Sumptuous, stylized arias I admired more than I fully felt.",
+        "genres": [
+          "Music",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Adventures of Robin Hood (1938)",
+        "rating": 4.0,
+        "feeling": "Buoyant swashbuckling and clear-eyed virtue made for a rousing, romantic cheer.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.0,
+        "feeling": "Suggestion and dread seeped in until the walls felt alive.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Changeling (1980)",
+        "rating": 4.0,
+        "feeling": "Grief-struck hauntings built to a mournful, morally satisfying chill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Uninvited (1944)",
+        "rating": 4.0,
+        "feeling": "Wistful romance and seaside specters mingled into a tender shiver.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Portrait of Jennie (1948)",
+        "rating": 4.0,
+        "feeling": "Time-crossed yearning cast a delicate, enchanting spell over me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Picnic at Hanging Rock (1975)",
+        "rating": 3.5,
+        "feeling": "A hypnotic hush and vanishing girls left me haunted more than satisfied.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ugetsu (1953)",
+        "rating": 4.0,
+        "feeling": "Ambition and illusion curdled into a moral ghost story that lingered.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Sansho the Bailiff (1954)",
+        "rating": 4.0,
+        "feeling": "Human cruelty and compassion carved a sobering, humane ache.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Cranes Are Flying (1957)",
+        "rating": 4.0,
+        "feeling": "War-torn longing and guilt soared and broke my heart in quiet ways.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Grand Illusion (1937)",
+        "rating": 4.0,
+        "feeling": "Gentle humanism and fragile honor made captivity feel expansive.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Thin Red Line (1998)",
+        "rating": 3.5,
+        "feeling": "Transcendent musings and combat beauty I admired more than I was moved by.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Zulu (1964)",
+        "rating": 3.5,
+        "feeling": "Rousing siege craft stirred me even as the colonial undertow unsettled.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Piano (1993)",
+        "rating": 4.0,
+        "feeling": "Ferocious desire and forbidding landscape made a bruised, enthralling duet.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Heiress (1949)",
+        "rating": 4.0,
+        "feeling": "Cruel courtship and hard-won resolve left a refined, cutting sting.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Go-Between (1971)",
+        "rating": 3.5,
+        "feeling": "Summer secrets and class strictures cast a wistful, chilly spell.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Umbrellas of Cherbourg (1964)",
+        "rating": 4.0,
+        "feeling": "Sung-through sorrow turned ordinary choices into aching destiny.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Fiddler on the Roof (1971)",
+        "rating": 4.0,
+        "feeling": "Tradition, love, and change braided into a warm, bittersweet embrace.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "West Side Story (1961)",
+        "rating": 4.0,
+        "feeling": "Star-crossed ardor and kinetic tragedy still hit with melodic force.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Earrings of Madame de... (1953)",
+        "rating": 4.5,
+        "feeling": "Gliding elegance and circling fate made love\u2019s cost quietly devastating.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Farewell My Concubine (1993)",
+        "rating": 4.5,
+        "feeling": "Art, identity, and history entwined into a gorgeous, grievous saga that gripped me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Raise the Red Lantern (1991)",
+        "rating": 4.0,
+        "feeling": "Chilly ritual and jealous power simmered into a precise, sorrowful trap.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.0,
+        "feeling": "Ink-brush beauty and fleeting joy swelled into an elegy that moved me.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.0,
+        "feeling": "Myth and memory carried a luminous, tender voyage home.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.0,
+        "feeling": "Wild friendship and old fears met in a rousing, compassionate fable.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Spirit of the Beehive (1973)",
+        "rating": 4.0,
+        "feeling": "A child\u2019s quiet dread and wonder gathered into a lingering, haunted hush.",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ]
+      }
+    ]
+  }
+]

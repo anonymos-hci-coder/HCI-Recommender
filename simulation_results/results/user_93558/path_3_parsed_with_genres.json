@@ -1,0 +1,1388 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Mary Poppins (1964)",
+      "Paddington (2014)",
+      "Paddington 2 (2017)",
+      "The Princess Bride (1987)",
+      "Kiki's Delivery Service (1989)",
+      "My Neighbor Totoro (1988)",
+      "The Iron Giant (1999)",
+      "Moana (2016)",
+      "Tangled (2010)",
+      "Beauty and the Beast (1991)",
+      "The Music Man (1962)",
+      "Chitty Chitty Bang Bang (1968)",
+      "The Wizard of Oz (1939)",
+      "The Muppet Christmas Carol (1992)",
+      "The Muppets (2011)",
+      "The Parent Trap (1961)",
+      "Bedknobs and Broomsticks (1971)",
+      "Pete's Dragon (2016)",
+      "The Secret Garden (1993)",
+      "A Little Princess (1995)",
+      "The Peanuts Movie (2015)",
+      "Enchanted (2007)",
+      "Christopher Robin (2018)",
+      "Hugo (2011)",
+      "The Cat Returns (2002)",
+      "From Up on Poppy Hill (2011)",
+      "Ponyo (2008)",
+      "Charade (1963)",
+      "Clue (1985)",
+      "Back to the Future (1985)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Mary Poppins (1964)",
+        "rating": 5.0,
+        "feeling": "Practically perfect music and magic left me beaming with wholesome joy.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "A warm, marmalade-sweet hug of kindness that made me feel cozy and happy.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Pure sunshine and good-heartedness that uplifted me completely.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.5,
+        "feeling": "Clever, romantic, and playful adventure that made my heart smile.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 5.0,
+        "feeling": "Gentle independence and everyday magic resonated deeply with me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 5.0,
+        "feeling": "Soft wonder and sisterly love wrapped me in pure comfort.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Tender bravery and big-hearted friendship left me misty-eyed.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.0,
+        "feeling": "Beautiful songs and adventurous spirit warmed me even if it didn\u2019t fully sweep me away.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.5,
+        "feeling": "Sparkly songs and earnest heart left me grinning.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Beauty and the Beast (1991)",
+        "rating": 5.0,
+        "feeling": "Swept up by its gorgeous music and its gentle message about inner beauty.",
+        "genres": [
+          "Romance",
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Music Man (1962)",
+        "rating": 4.0,
+        "feeling": "Bouncy tunes and small-town charm were delightful, if a touch long.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Chitty Chitty Bang Bang (1968)",
+        "rating": 3.5,
+        "feeling": "Whimsical and fun, though a bit meandering for me.",
+        "genres": [
+          "Family",
+          "Music",
+          "Adventure",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Wizard of Oz (1939)",
+        "rating": 5.0,
+        "feeling": "Timeless wonder and sing-along magic whisked me away.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Muppet Christmas Carol (1992)",
+        "rating": 4.5,
+        "feeling": "Festive warmth and heartfelt humor made it feel like a holiday hug.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Muppets (2011)",
+        "rating": 4.0,
+        "feeling": "Sweet nostalgia and cheerful songs left me smiling.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Parent Trap (1961)",
+        "rating": 4.5,
+        "feeling": "Wholesome mischief and family reunion joy hit my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bedknobs and Broomsticks (1971)",
+        "rating": 4.0,
+        "feeling": "Playful magic and songs were fun, if a bit patchwork.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Comedy",
+          "Family",
+          "Music",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Pete's Dragon (2016)",
+        "rating": 4.5,
+        "feeling": "Gentle storytelling and found-family warmth truly moved me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Secret Garden (1993)",
+        "rating": 4.0,
+        "feeling": "Quiet healing and nature\u2019s magic felt lovely and soothing.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Little Princess (1995)",
+        "rating": 4.5,
+        "feeling": "Storybook resilience and kindness made me glow inside.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Peanuts Movie (2015)",
+        "rating": 4.5,
+        "feeling": "Faithful heart and simple humor felt like a comforting blanket.",
+        "genres": [
+          "Comedy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 4.5,
+        "feeling": "A sparkly, self-aware fairy tale with a big, lovable heart.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Christopher Robin (2018)",
+        "rating": 4.0,
+        "feeling": "Gentle melancholy and Pooh\u2019s wisdom left me misty and cozy.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Hugo (2011)",
+        "rating": 4.5,
+        "feeling": "A cozy love letter to imagination that felt wondrous and warm.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Cat Returns (2002)",
+        "rating": 4.5,
+        "feeling": "Whimsical, breezy adventure with charming Ghibli magic.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "From Up on Poppy Hill (2011)",
+        "rating": 4.5,
+        "feeling": "Tender, nostalgic coming-of-age that soothed my heart.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ponyo (2008)",
+        "rating": 4.5,
+        "feeling": "Buoyant ocean-splashed sweetness that made me feel light and happy.",
+        "genres": [
+          "Animation",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.0,
+        "feeling": "Charming leads and light suspense kept me pleasantly engaged.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 4.0,
+        "feeling": "Zany whodunit energy and witty banter were a lot of fun.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 4.5,
+        "feeling": "Rollicking, clever fun with a big heart left me exhilarated.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Spirited Away (2001)",
+      "Castle in the Sky (1986)",
+      "The Secret World of Arrietty (2010)",
+      "When Marnie Was There (2014)",
+      "Song of the Sea (2014)",
+      "Wolfwalkers (2020)",
+      "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+      "Chicken Run (2000)",
+      "Shaun the Sheep Movie (2015)",
+      "The Little Mermaid (1989)",
+      "Aladdin (1992)",
+      "The Lion King (1994)",
+      "Mulan (1998)",
+      "The Court Jester (1955)",
+      "The Adventures of Robin Hood (1938)",
+      "The Parent Trap (1998)",
+      "Swiss Family Robinson (1960)",
+      "Babe (1995)",
+      "E.T. the Extra-Terrestrial (1982)",
+      "Big Hero 6 (2014)",
+      "Stardust (2007)",
+      "The Kid Who Would Be King (2019)",
+      "Batteries Not Included (1987)",
+      "Arthur Christmas (2011)",
+      "Klaus (2019)",
+      "See How They Run (2022)",
+      "The Shop Around the Corner (1940)",
+      "The Ghost and Mrs. Muir (1947)",
+      "Cinema Paradiso (1988)",
+      "Won't You Be My Neighbor? (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 5.0,
+        "feeling": "A spell of tender courage and teeming imagination left me wide-eyed and warmly moved.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Castle in the Sky (1986)",
+        "rating": 4.5,
+        "feeling": "Buoyant adventure and gentle wonder left me grinning and uplifted.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Secret World of Arrietty (2010)",
+        "rating": 4.5,
+        "feeling": "Tiny-world coziness and quiet bravery soothed me beautifully.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "When Marnie Was There (2014)",
+        "rating": 4.0,
+        "feeling": "Soft melancholy and mystery left me wistful but comforted.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.5,
+        "feeling": "Lilted folklore and sibling love washed over me like a warm tide.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Wild friendship and nature\u2019s magic left my heart thumping and happy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
+        "rating": 4.0,
+        "feeling": "Clever, cozy silliness made me chuckle and feel snug.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Chicken Run (2000)",
+        "rating": 3.5,
+        "feeling": "Cheeky escape antics amused me and left me cheering for kindness.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Shaun the Sheep Movie (2015)",
+        "rating": 4.0,
+        "feeling": "Wordless warmth and playful gags left me smiling from ear to ear.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Little Mermaid (1989)",
+        "rating": 4.5,
+        "feeling": "Sparkling songs and fairytale longing swept me up with happy nostalgia.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Aladdin (1992)",
+        "rating": 4.5,
+        "feeling": "Genie-bright songs and romance left me giddy and warm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lion King (1994)",
+        "rating": 4.5,
+        "feeling": "Majestic music and hard-earned hope left me teary but uplifted.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mulan (1998)",
+        "rating": 4.5,
+        "feeling": "Brave heart and rousing songs filled me with proud, joyful energy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Court Jester (1955)",
+        "rating": 4.5,
+        "feeling": "Zany wordplay and musical merriment left me gleeful.",
+        "genres": [
+          "Music",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Adventures of Robin Hood (1938)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling charm and noble cheer left me beaming.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Parent Trap (1998)",
+        "rating": 4.0,
+        "feeling": "Wholesome mischief and family reunion sweetness warmed me through.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Swiss Family Robinson (1960)",
+        "rating": 4.0,
+        "feeling": "Resourceful fun and sunny adventure made me feel cozy and brave.",
+        "genres": [
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Babe (1995)",
+        "rating": 4.5,
+        "feeling": "Gentle determination and kindness left me glowing and misty-eyed.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "E.T. the Extra-Terrestrial (1982)",
+        "rating": 4.5,
+        "feeling": "Tender friendship and homeward hope made my heart swell.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Big Hero 6 (2014)",
+        "rating": 4.0,
+        "feeling": "Huggable heroism and caring left me comforted and energized.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Animation",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 4.5,
+        "feeling": "Storybook romance and sparkling whimsy swept me away with a grin.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Kid Who Would Be King (2019)",
+        "rating": 3.5,
+        "feeling": "Earnest teamwork and old-school magic left me pleasantly buoyed.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Batteries Not Included (1987)",
+        "rating": 4.0,
+        "feeling": "Little wonders and neighborly hope left me warmly touched.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Arthur Christmas (2011)",
+        "rating": 4.5,
+        "feeling": "Festive cheer and heartfelt persistence wrapped me in holiday warmth.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Klaus (2019)",
+        "rating": 4.5,
+        "feeling": "A kindling of generosity and storybook magic left me glowing with joy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "See How They Run (2022)",
+        "rating": 3.5,
+        "feeling": "Lightfooted whodunit fun left me amused if not deeply stirred.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.5,
+        "feeling": "Tender letters and gentle wit left me cozy and starry-eyed.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Ghost and Mrs. Muir (1947)",
+        "rating": 4.0,
+        "feeling": "Romantic wistfulness by the sea left me serenely moved.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cinema Paradiso (1988)",
+        "rating": 4.5,
+        "feeling": "Nostalgia and love for movies washed over me in a warm glow.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Won't You Be My Neighbor? (2018)",
+        "rating": 5.0,
+        "feeling": "Mr. Rogers\u2019 gentle goodness filled me with grateful, teary warmth.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Coco (2017)",
+      "Ratatouille (2007)",
+      "Inside Out (2015)",
+      "Monsters, Inc. (2001)",
+      "Luca (2021)",
+      "The Secret of Kells (2009)",
+      "Ernest & Celestine (2012)",
+      "Only Yesterday (1991)",
+      "Porco Rosso (1992)",
+      "Howl's Moving Castle (2004)",
+      "Kubo and the Two Strings (2016)",
+      "ParaNorman (2012)",
+      "The Pirates! Band of Misfits (2012)",
+      "The Rocketeer (1991)",
+      "Nanny McPhee (2005)",
+      "Enola Holmes (2020)",
+      "The Thin Man (1934)",
+      "It Happened One Night (1934)",
+      "The Philadelphia Story (1940)",
+      "Bringing Up Baby (1938)",
+      "To Catch a Thief (1955)",
+      "North by Northwest (1959)",
+      "The Bishop's Wife (1947)",
+      "Miracle on 34th Street (1947)",
+      "Fiddler on the Roof (1971)",
+      "The Band Wagon (1953)",
+      "The Truman Show (1998)",
+      "Pleasantville (1998)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Street Gang: How We Got to Sesame Street (2021)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Coco (2017)",
+        "rating": 4.5,
+        "feeling": "Vibrant music, family love, and remembrance left me teary and glowing.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "Dream-chasing warmth and cozy kitchen magic left me delighted and hungry.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Inside Out (2015)",
+        "rating": 4.5,
+        "feeling": "Tender empathy and imaginative heart made me misty but comforted.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.5,
+        "feeling": "Boo\u2019s sweetness and goofy friendship left me snug and smiling.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Luca (2021)",
+        "rating": 4.5,
+        "feeling": "Sun-dappled friendship and seaside wonder left me buoyant and happy.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Secret of Kells (2009)",
+        "rating": 4.0,
+        "feeling": "Lilted folklore and luminous art stirred me with gentle awe.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ernest & Celestine (2012)",
+        "rating": 4.5,
+        "feeling": "Soft watercolor warmth and unlikely friendship left me beaming.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Music"
+        ]
+      },
+      {
+        "title": "Only Yesterday (1991)",
+        "rating": 4.5,
+        "feeling": "Quiet reflection and tender nostalgia soothed me deeply.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Porco Rosso (1992)",
+        "rating": 4.0,
+        "feeling": "Dashing skies and wistful charm left me pleasantly breezy.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 4.5,
+        "feeling": "Storybook magic and unexpected courage swept me up with a grin.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.0,
+        "feeling": "Haunting beauty and brave love moved me, if a touch heavy.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "ParaNorman (2012)",
+        "rating": 3.5,
+        "feeling": "Spooky-sweet compassion and humor left me warmed after some chills.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Pirates! Band of Misfits (2012)",
+        "rating": 3.5,
+        "feeling": "Cheeky Aardman antics amused me with cozy giggles.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Rocketeer (1991)",
+        "rating": 4.0,
+        "feeling": "Old-fashioned heroics and swoony adventure left me cheerfully buoyed.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Family"
+        ]
+      },
+      {
+        "title": "Nanny McPhee (2005)",
+        "rating": 4.0,
+        "feeling": "Kind, magical lessons and family mending left me cozily content.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enola Holmes (2020)",
+        "rating": 3.5,
+        "feeling": "Breezy sleuthing and spirited heart left me lightly entertained.",
+        "genres": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Thin Man (1934)",
+        "rating": 4.0,
+        "feeling": "Witty banter and playful mystery left me charmed and amused.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.5,
+        "feeling": "Sparkling repartee and tender romance left me grinning ear to ear.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.5,
+        "feeling": "Elegant wit and warm reconciliation left me glowing.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bringing Up Baby (1938)",
+        "rating": 4.0,
+        "feeling": "Zany chaos and crackling chemistry kept me laughing and fond.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 4.0,
+        "feeling": "Sunlit intrigue and flirtatious charm left me pleasantly engaged.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.0,
+        "feeling": "Rip-roaring chase and suave thrills left me exhilarated.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Bishop's Wife (1947)",
+        "rating": 4.5,
+        "feeling": "Angelic kindness and holiday warmth wrapped me in gentle joy.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Miracle on 34th Street (1947)",
+        "rating": 4.5,
+        "feeling": "Faith, goodwill, and twinkly spirit filled me with cozy cheer.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Fiddler on the Roof (1971)",
+        "rating": 4.0,
+        "feeling": "Stirring tradition and family love moved me, though bittersweet.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Band Wagon (1953)",
+        "rating": 4.0,
+        "feeling": "Sparkling numbers and showbiz charm left me merrily tapping my toes.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Truman Show (1998)",
+        "rating": 4.5,
+        "feeling": "Hard-won freedom and tender hope left my heart full.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pleasantville (1998)",
+        "rating": 4.0,
+        "feeling": "Colorful awakening and gentle compassion left me warmly thoughtful.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Vibrant style and big-hearted heroism left me energized and happy.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Street Gang: How We Got to Sesame Street (2021)",
+        "rating": 4.5,
+        "feeling": "Creative generosity and childlike joy filled me with grateful warmth.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "My Fair Lady (1964)",
+      "The King and I (1956)",
+      "Seven Brides for Seven Brothers (1954)",
+      "White Christmas (1954)",
+      "Mary Poppins Returns (2018)",
+      "Lilo & Stitch (2002)",
+      "The Lego Movie (2014)",
+      "Up (2009)",
+      "Toy Story (1995)",
+      "Finding Nemo (2003)",
+      "The Tale of the Princess Kaguya (2013)",
+      "The Boy and the Heron (2023)",
+      "Wolf Children (2012)",
+      "The Girl Who Leapt Through Time (2006)",
+      "The Red Turtle (2016)",
+      "Mary and the Witch's Flower (2017)",
+      "October Sky (1999)",
+      "The Black Stallion (1979)",
+      "Howard (2018)",
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+      "The Mask of Zorro (1998)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mummy (1999)",
+      "Knives Out (2019)",
+      "The Lady Vanishes (1938)",
+      "Rebecca (1940)",
+      "Arsenic and Old Lace (1944)",
+      "The Man Who Knew Too Much (1956)",
+      "Groundhog Day (1993)",
+      "You've Got Mail (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "My Fair Lady (1964)",
+        "rating": 4.0,
+        "feeling": "Gorgeous songs and lavish charm delighted me, even if Higgins\u2019 prickliness kept me a touch cool.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The King and I (1956)",
+        "rating": 4.0,
+        "feeling": "Warm songs and a spirited clash of wills left me charmed and moved.",
+        "genres": [
+          "Music",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Seven Brides for Seven Brothers (1954)",
+        "rating": 3.5,
+        "feeling": "Rousing dancing and rustic humor amused me, though some antics felt a bit rough.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "White Christmas (1954)",
+        "rating": 4.5,
+        "feeling": "Tinseled tunes and cozy camaraderie wrapped me in holiday glow.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mary Poppins Returns (2018)",
+        "rating": 4.0,
+        "feeling": "Nostalgic sparkle and gentle lessons made me smile, if not quite like the original\u2019s magic.",
+        "genres": [
+          "Fantasy",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Lilo & Stitch (2002)",
+        "rating": 4.5,
+        "feeling": "Messy, tender \u2018ohana love left me teary and happy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.0,
+        "feeling": "Zippy creativity and big-hearted teamwork left me grinning.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "Bittersweet adventure and found-family warmth made my heart soar.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 4.5,
+        "feeling": "Playful friendship and loyal hearts filled me with cozy joy.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Finding Nemo (2003)",
+        "rating": 4.5,
+        "feeling": "Ocean-bright wonder and devoted family love left me glowing.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.5,
+        "feeling": "Delicate brushstroke beauty and aching tenderness left me quietly awed.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Boy and the Heron (2023)",
+        "rating": 4.0,
+        "feeling": "Dreamlike strangeness and grief-touched hope left me wistful and engaged.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wolf Children (2012)",
+        "rating": 4.5,
+        "feeling": "A mother\u2019s steadfast love and nature\u2019s hush left me misty and warm.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Girl Who Leapt Through Time (2006)",
+        "rating": 4.0,
+        "feeling": "Playful time-hopping and tender lessons left me happily thoughtful.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Red Turtle (2016)",
+        "rating": 4.0,
+        "feeling": "Quiet, luminous life-cycle wonder soothed me deeply.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Mary and the Witch's Flower (2017)",
+        "rating": 4.0,
+        "feeling": "Breezy broomstick adventure and cozy magic left me smiling.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "October Sky (1999)",
+        "rating": 4.5,
+        "feeling": "Earnest dream-chasing and small-town heart left me uplifted and misty.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Black Stallion (1979)",
+        "rating": 4.5,
+        "feeling": "A wordless bond and wind-swept wonder left me breathless and tender.",
+        "genres": [
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Howard (2018)",
+        "rating": 4.5,
+        "feeling": "A loving ode to musical storytelling filled me with grateful, teary warmth.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+        "rating": 4.0,
+        "feeling": "Storybook courage and wintry wonder warmed me nicely.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.0,
+        "feeling": "Dashing heroics and old-fashioned flair left me merrily entertained.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.0,
+        "feeling": "Rip-roaring pirate fun and lively camaraderie left me grinning.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.0,
+        "feeling": "Sunny pulp thrills and bantering bravery made for cozy, spooky-fun escapism.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.0,
+        "feeling": "Witty twists and a compassionate core left me happily engrossed.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Lady Vanishes (1938)",
+        "rating": 4.0,
+        "feeling": "Spry train-bound mystery and flirtatious wit kept me cheerfully hooked.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rebecca (1940)",
+        "rating": 3.5,
+        "feeling": "Moody romance and elegant suspense intrigued me, though the chill held me back.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Arsenic and Old Lace (1944)",
+        "rating": 4.0,
+        "feeling": "Zany farce and rapid-fire antics made me laugh despite the morbid mix-ups.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Man Who Knew Too Much (1956)",
+        "rating": 4.0,
+        "feeling": "Taut suspense and tender family stakes kept me warmly tense.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.5,
+        "feeling": "Gentle growth and second-chance sweetness left me glowing.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.0,
+        "feeling": "Bookish charm and modern fairy-tale romance wrapped me in cozy smiles.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

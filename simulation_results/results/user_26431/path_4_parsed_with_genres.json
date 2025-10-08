@@ -1,0 +1,937 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Vovka in the Kingdom of Far Far Away (1965)",
+      "Napoleon Dynamite (2004)",
+      "Baseball (1994)",
+      "Out of Africa (1985)",
+      "Very Brady Sequel, A (1996)",
+      "After Earth (2013)",
+      "Room, The (2003)",
+      "Death Note (2017)",
+      "Shadow in the Cloud (2020)",
+      "Pete's Dragon (1977)",
+      "Lolita (1997)",
+      "American Sniper (2014)",
+      "Paulie (1998)",
+      "Wonder Woman 1984 (2020)",
+      "Jason's Lyric (1994)",
+      "Ringer, The (2005)",
+      "Tri bogatyrya i Shamakhanskaya tsaritsa (2010)",
+      "Mulan (2020)",
+      "Brady Bunch Movie, The (1995)",
+      "Left Behind: The Movie (2000)",
+      "The Zookeeper's Wife (2017)",
+      "Sophie's Choice (1982)",
+      "Unbroken (2014)",
+      "Adventures of Milo and Otis, The (Koneko monogatari) (1986)",
+      "Spanglish (2004)",
+      "Someone to Watch Over Me (1987)",
+      "The Lion King (2019)",
+      "Charlotte's Web (1973)",
+      "Horse Whisperer, The (1998)",
+      "The Jinx: The Life and Deaths of Robert Durst (2015)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Vovka in the Kingdom of Far Far Away (1965)",
+        "rating": 3.0,
+        "feeling": "Charming concept, but older fairy\u2011tale animation leaves me more appreciative than engrossed.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Napoleon Dynamite (2004)",
+        "rating": 4.0,
+        "feeling": "Its offbeat, deadpan humor hits my sweet spot for quirky laughs.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Baseball (1994)",
+        "rating": 3.5,
+        "feeling": "A breezy, amusing blooper reel that\u2019s fun but slight.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Out of Africa (1985)",
+        "rating": 4.0,
+        "feeling": "Lush old\u2011school romance and history that I can settle into.",
+        "genres": [
+          "History",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Very Brady Sequel, A (1996)",
+        "rating": 3.5,
+        "feeling": "Kitschy fun with enough winks to keep me smiling.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "After Earth (2013)",
+        "rating": 2.5,
+        "feeling": "Slick survival setup, but the earnest father\u2011son trek doesn\u2019t really grab me.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Room, The (2003)",
+        "rating": 3.5,
+        "feeling": "A neat locked\u2011room puzzle with a playful tone that keeps me curious.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Death Note (2017)",
+        "rating": 3.0,
+        "feeling": "The supernatural justice hook intrigues me, though it feels a bit teen\u2011thriller thin.",
+        "genres": [
+          "Crime",
+          "Fantasy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Shadow in the Cloud (2020)",
+        "rating": 3.0,
+        "feeling": "Pulpy midair thrills are entertaining, if not especially deep.",
+        "genres": [
+          "Horror",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "Pete's Dragon (1977)",
+        "rating": 3.5,
+        "feeling": "Sweet, songy family fare that\u2019s cozy if a tad corny.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Lolita (1997)",
+        "rating": 3.0,
+        "feeling": "Uncomfortable subject matter that keeps me at arm\u2019s length despite the drama.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "American Sniper (2014)",
+        "rating": 4.0,
+        "feeling": "Intense, boots\u2011on\u2011the\u2011ground focus that pulls me into the mission and the man.",
+        "genres": [
+          "War",
+          "Action"
+        ]
+      },
+      {
+        "title": "Paulie (1998)",
+        "rating": 4.0,
+        "feeling": "Heartfelt, funny, and warmly old\u2011fashioned\u2014my kind of family adventure.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Wonder Woman 1984 (2020)",
+        "rating": 2.5,
+        "feeling": "Colorful and earnest, but the superhero spectacle wears thin for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Jason's Lyric (1994)",
+        "rating": 3.0,
+        "feeling": "Solid melodrama with family and love at its core, but it doesn\u2019t fully click.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ringer, The (2005)",
+        "rating": 3.5,
+        "feeling": "Edgy premise softens into a decent, good\u2011hearted comedy.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tri bogatyrya i Shamakhanskaya tsaritsa (2010)",
+        "rating": 3.0,
+        "feeling": "Lively folk\u2011hero romp that\u2019s pleasant more than memorable.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mulan (2020)",
+        "rating": 3.0,
+        "feeling": "Stirring story and visuals, though the retelling feels a bit distant.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Brady Bunch Movie, The (1995)",
+        "rating": 4.0,
+        "feeling": "A playful send\u2011up that nails the fish\u2011out\u2011of\u2011water fun.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Left Behind: The Movie (2000)",
+        "rating": 2.0,
+        "feeling": "High\u2011concept premise, but the execution feels flat for me.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Zookeeper's Wife (2017)",
+        "rating": 3.5,
+        "feeling": "A moving, compassionate wartime story that I respect and engage with.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Sophie's Choice (1982)",
+        "rating": 4.0,
+        "feeling": "Heavy, haunting drama that lingers and earns my attention.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Unbroken (2014)",
+        "rating": 3.5,
+        "feeling": "Inspiring survival tale I appreciate even if it\u2019s a touch straightforward.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Adventures of Milo and Otis, The (Koneko monogatari) (1986)",
+        "rating": 4.0,
+        "feeling": "Simple, cozy animal adventure that charms me.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spanglish (2004)",
+        "rating": 3.0,
+        "feeling": "Culture\u2011clash dramedy that\u2019s watchable but uneven for me.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Someone to Watch Over Me (1987)",
+        "rating": 3.5,
+        "feeling": "Glossy, moody protection thriller that scratches my suspense itch.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lion King (2019)",
+        "rating": 3.0,
+        "feeling": "Grand and polished, but it lacks the warmth I want from this story.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Charlotte's Web (1973)",
+        "rating": 3.5,
+        "feeling": "Gentle, musical classic that\u2019s sweet and sincere.",
+        "genres": [
+          "Family",
+          "Music",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Horse Whisperer, The (1998)",
+        "rating": 3.5,
+        "feeling": "Earnest, scenic healing drama that I can sink into.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Scary Movie 4 (2006)",
+      "Scary Movie 3 (2003)",
+      "Jane Austen's Mafia! (1998)",
+      "Dave Chappelle: The Age of Spin (2017)",
+      "Bill Cosby, Himself (1983)",
+      "What Men Talk About (2010)",
+      "Naked Gun: From the Files of Police Squad!, The (1988)",
+      "3 Idiots (2009)",
+      "Wild Hogs (2007)",
+      "Dave Chappelle: For What it's Worth (2004)",
+      "Moszkva t\u00e9r (2001)",
+      "Other Sister, The (1999)",
+      "Dave Chappelle: Killin' Them Softly (2000)",
+      "Santa Clause 3: The Escape Clause, The (2006)",
+      "Dave Chappelle: The Closer (2021)",
+      "Hot Chick, The (2002)",
+      "Ghost (1990)",
+      "Smile (2022)",
+      "Planet of the Apes (1968)",
+      "Rain In My Heart (2006)",
+      "Witch Hunt (2021)",
+      "Airplane! (1980)",
+      "The Butterfly Effect 3: Revelations (2009)",
+      "Naked Gun 2 1/2: The Smell of Fear, The (1991)",
+      "Fallen (1998)",
+      "Reefer Madness (a.k.a. Tell Your Children) (1938)",
+      "Nuns on the Run (1990)",
+      "Kidnapping, Caucasian Style (Kavkazskaya plennitsa) (1967)",
+      "Spook Busters (1946)",
+      "I Feel Pretty (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Scary Movie 4 (2006)",
+        "rating": 2.5,
+        "feeling": "A few scattershot gags land, but the anything\u2011goes spoofing wears thin for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Scary Movie 3 (2003)",
+        "rating": 3.0,
+        "feeling": "Goofball parody with enough hits among the misses to keep me amused.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Jane Austen's Mafia! (1998)",
+        "rating": 3.0,
+        "feeling": "Silly mob send\u2011up that gets some chuckles without sticking with me.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Dave Chappelle: The Age of Spin (2017)",
+        "rating": 4.0,
+        "feeling": "Sharp, confident set that balances bite with big laughs for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Bill Cosby, Himself (1983)",
+        "rating": 3.5,
+        "feeling": "Laid\u2011back, anecdotal humor that\u2019s warm and smoothly delivered.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "What Men Talk About (2010)",
+        "rating": 3.0,
+        "feeling": "A breezy guys\u2019 road\u2011chat that\u2019s pleasant if lightweight.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "3 Idiots (2009)",
+        "rating": 3.5,
+        "feeling": "Heartfelt campus antics with a warm friendship core I can get behind.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Wild Hogs (2007)",
+        "rating": 3.0,
+        "feeling": "Genial midlife romp that coasts on easy laughs and likable vibes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Dave Chappelle: For What it's Worth (2004)",
+        "rating": 4.0,
+        "feeling": "Loose, fearless and funny\u2014his crowd\u2011work energy hits my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Documentary",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Moszkva t\u00e9r (2001)",
+        "rating": 3.0,
+        "feeling": "Casual, youthful slice\u2011of\u2011life that I enjoy more for mood than momentum.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Other Sister, The (1999)",
+        "rating": 3.0,
+        "feeling": "Well\u2011meant, sentimental romance that works in spots without fully clicking.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dave Chappelle: Killin' Them Softly (2000)",
+        "rating": 4.0,
+        "feeling": "Smart, playful riffs that feel effortless and keep me laughing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Santa Clause 3: The Escape Clause, The (2006)",
+        "rating": 3.0,
+        "feeling": "Festive and harmless, though the magic feels a bit thin.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Dave Chappelle: The Closer (2021)",
+        "rating": 3.5,
+        "feeling": "Candid and pointed\u2014less consistent on laughs, but it holds my attention.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Hot Chick, The (2002)",
+        "rating": 2.5,
+        "feeling": "Broad body\u2011swap hijinks with a few laughs but plenty of groaners.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Ghost (1990)",
+        "rating": 4.0,
+        "feeling": "Sincere, supernatural romance that pulls me in on emotion and suspense.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Smile (2022)",
+        "rating": 3.0,
+        "feeling": "Creepy enough to keep me watching, even if it\u2019s not especially deep for me.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Planet of the Apes (1968)",
+        "rating": 4.0,
+        "feeling": "Classic, idea\u2011driven adventure that I appreciate and enjoy.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Rain In My Heart (2006)",
+        "rating": 4.0,
+        "feeling": "Unflinching, compassionate doc that grips me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Witch Hunt (2021)",
+        "rating": 3.0,
+        "feeling": "Intriguing premise with modest thrills that I find decent if uneven.",
+        "genres": [
+          "Horror",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Airplane! (1980)",
+        "rating": 4.5,
+        "feeling": "Relentless gag machine that nails my love for zany, quotable spoofing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Butterfly Effect 3: Revelations (2009)",
+        "rating": 2.5,
+        "feeling": "Pulpy time\u2011twist thriller that\u2019s watchable but thin for me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Fallen (1998)",
+        "rating": 3.5,
+        "feeling": "Moody, supernatural noir that scratches my suspense itch.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Reefer Madness (a.k.a. Tell Your Children) (1938)",
+        "rating": 3.0,
+        "feeling": "Campy cautionary relic I enjoy more as kitsch than drama.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "Nuns on the Run (1990)",
+        "rating": 3.0,
+        "feeling": "Light caper comedy that\u2019s amiable if forgettable.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Spook Busters (1946)",
+        "rating": 3.0,
+        "feeling": "Old\u2011school spookhouse shenanigans that are corny but cozy.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "I Feel Pretty (2018)",
+        "rating": 3.0,
+        "feeling": "Good\u2011natured confidence fable that\u2019s pleasant and lightly funny.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Steven Universe: The Movie (2019)",
+      "Incredibly True Adventure of Two Girls in Love, The (1995)",
+      "Godzilla 2000 (Gojira ni-sen mireniamu) (1999)",
+      "Bo Burnham: Inside (2021)",
+      "Gods Must Be Crazy, The (1980)",
+      "Kama Sutra: A Tale of Love (1996)",
+      "Transformers: Dark of the Moon (2011)",
+      "Fear of a Black Hat (1994)",
+      "Boxing Helena (1993)",
+      "Drop Dead Gorgeous (1999)",
+      "Restoration (1995)",
+      "Naked Face, The (1984)",
+      "Godzilla (Gojira) (1954)",
+      "Gnomeo & Juliet (2011)",
+      "Divergent (2014)",
+      "Detective Conan: The Lost Ship in the Sky (2010)",
+      "Insurgent (2015)",
+      "Tampopo (1985)",
+      "Step Brothers (2008)",
+      "Meet the Feebles (1989)",
+      "Blood Craft (2019)",
+      "Lost in the Pacific (2016)",
+      "Pink Flamingos (1972)",
+      "Kids in the Hall: Brain Candy (1996)",
+      "Chaahat Ek Nasha... (2005)",
+      "Waterboy, The (1998)",
+      "The Blue Collar Worker and the Hairdresser in a Whirl of Sex and Politics (1998)",
+      "Farewell My Concubine (Ba wang bie ji) (1993)",
+      "Ice Age: The Great Egg-Scapade (2016)",
+      "Dumb and Dumberer: When Harry Met Lloyd (2003)"
+    ],
+    "simulated_ratings": []
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Steven Universe: The Movie (2019)",
+      "Incredibly True Adventure of Two Girls in Love, The (1995)",
+      "Godzilla 2000 (Gojira ni-sen mireniamu) (1999)",
+      "Bo Burnham: Inside (2021)",
+      "Gods Must Be Crazy, The (1980)",
+      "Kama Sutra: A Tale of Love (1996)",
+      "Transformers: Dark of the Moon (2011)",
+      "Fear of a Black Hat (1994)",
+      "Boxing Helena (1993)",
+      "Drop Dead Gorgeous (1999)",
+      "Restoration (1995)",
+      "Naked Face, The (1984)",
+      "Godzilla (Gojira) (1954)",
+      "Gnomeo & Juliet (2011)",
+      "Divergent (2014)",
+      "Detective Conan: The Lost Ship in the Sky (2010)",
+      "Insurgent (2015)",
+      "Tampopo (1985)",
+      "Step Brothers (2008)",
+      "Meet the Feebles (1989)",
+      "Blood Craft (2019)",
+      "Lost in the Pacific (2016)",
+      "Pink Flamingos (1972)",
+      "Kids in the Hall: Brain Candy (1996)",
+      "Chaahat Ek Nasha... (2005)",
+      "Waterboy, The (1998)",
+      "The Blue Collar Worker and the Hairdresser in a Whirl of Sex and Politics (1998)",
+      "Farewell My Concubine (Ba wang bie ji) (1993)",
+      "Ice Age: The Great Egg-Scapade (2016)",
+      "Dumb and Dumberer: When Harry Met Lloyd (2003)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Steven Universe: The Movie (2019)",
+        "rating": 3.5,
+        "feeling": "Colorful, heartfelt tunes and sci\u2011fi whimsy keep me engaged even without series context.",
+        "genres": [
+          "TV Movie",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Music",
+          "Science Fiction",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Incredibly True Adventure of Two Girls in Love, The (1995)",
+        "rating": 3.0,
+        "feeling": "Sweet, low\u2011key first\u2011love story I find warm if a bit modest.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Godzilla 2000 (Gojira ni-sen mireniamu) (1999)",
+        "rating": 3.5,
+        "feeling": "Old\u2011school kaiju chaos and mystery rock give me a solid creature\u2011feature fix.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Bo Burnham: Inside (2021)",
+        "rating": 4.0,
+        "feeling": "Inventive, candid, and catchy\u2014his one\u2011man experiment holds me rapt.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Gods Must Be Crazy, The (1980)",
+        "rating": 3.5,
+        "feeling": "A genial, high\u2011concept romp whose gentle gags keep me smiling.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Transformers: Dark of the Moon (2011)",
+        "rating": 2.5,
+        "feeling": "Big, clangy spectacle that wears thin for me despite a few fun beats.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Fear of a Black Hat (1994)",
+        "rating": 3.5,
+        "feeling": "Smart, cheeky mockumentary riffs that land plenty of laughs for me.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Boxing Helena (1993)",
+        "rating": 2.5,
+        "feeling": "The obsessive premise intrigues but the discomfort outweighs my enjoyment.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Drop Dead Gorgeous (1999)",
+        "rating": 3.5,
+        "feeling": "A sharp, deadpan pageant send\u2011up that hits my quirky humor sweet spot.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Restoration (1995)",
+        "rating": 3.5,
+        "feeling": "Lush period drama I can settle into, with a satisfying fall\u2011and\u2011redemption arc.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Godzilla (Gojira) (1954)",
+        "rating": 4.0,
+        "feeling": "Somber, idea\u2011driven monster tale I respect and get absorbed by.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Gnomeo & Juliet (2011)",
+        "rating": 3.0,
+        "feeling": "Cute and punny family fare that\u2019s pleasant more than memorable.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Divergent (2014)",
+        "rating": 3.0,
+        "feeling": "Engaging enough YA dystopia for me, even if it feels familiar.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Detective Conan: The Lost Ship in the Sky (2010)",
+        "rating": 3.0,
+        "feeling": "Slick, twisty caper that scratches my light\u2011mystery itch.",
+        "genres": [
+          "Animation",
+          "Crime",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "Insurgent (2015)",
+        "rating": 2.5,
+        "feeling": "The sequel\u2019s stakes rise, but the formula starts to feel thin for me.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Tampopo (1985)",
+        "rating": 4.0,
+        "feeling": "A tasty, playful ode to craft and comfort that warms me through.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Step Brothers (2008)",
+        "rating": 3.0,
+        "feeling": "Broad man\u2011child antics with enough laughs to keep me amused.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Meet the Feebles (1989)",
+        "rating": 2.5,
+        "feeling": "Gleefully grotesque puppet mayhem that\u2019s more off\u2011putting than funny for me.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Blood Craft (2019)",
+        "rating": 2.5,
+        "feeling": "Moody revenge premise that\u2019s watchable but feels pretty thin to me.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Lost in the Pacific (2016)",
+        "rating": 2.5,
+        "feeling": "Air\u2011disaster thrills and island mystery that pass the time without much impact.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Pink Flamingos (1972)",
+        "rating": 2.0,
+        "feeling": "Transgressive shock and filth overwhelm my fun, leaving me more queasy than amused.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Kids in the Hall: Brain Candy (1996)",
+        "rating": 3.0,
+        "feeling": "Goofy satire with scattered laughs that I enjoy in spots.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Chaahat Ek Nasha... (2005)",
+        "rating": 3.0,
+        "feeling": "Glossy, melodramatic music\u2011world romance I find decent if uneven.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Waterboy, The (1998)",
+        "rating": 3.5,
+        "feeling": "Goofy, good\u2011hearted underdog sports comedy that gets me chuckling.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Farewell My Concubine (Ba wang bie ji) (1993)",
+        "rating": 4.0,
+        "feeling": "Sweeping, haunting drama that grips me and lingers.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ice Age: The Great Egg-Scapade (2016)",
+        "rating": 3.0,
+        "feeling": "Light, holiday\u2011special energy that\u2019s friendly and fine.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Dumb and Dumberer: When Harry Met Lloyd (2003)",
+        "rating": 2.0,
+        "feeling": "Wacky prequel shenanigans that mostly miss the charm I\u2019m after.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

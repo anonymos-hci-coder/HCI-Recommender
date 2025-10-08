@@ -1,0 +1,1242 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Double Indemnity (1944)",
+      "Out of the Past (1947)",
+      "Night and the City (1950)",
+      "The Third Man (1949)",
+      "Touch of Evil (1958)",
+      "Rififi (1955)",
+      "Elevator to the Gallows (1958)",
+      "Le Samoura\u00ef (1967)",
+      "A Prophet (2009)",
+      "City of God (2002)",
+      "The Wages of Fear (1953)",
+      "Knife in the Water (1962)",
+      "The Haunting (1963)",
+      "The Innocents (1961)",
+      "Eyes Without a Face (1960)",
+      "Carnival of Souls (1962)",
+      "The Night of the Hunter (1955)",
+      "The Thing (1982)",
+      "The Day the Earth Stood Still (1951)",
+      "The Incredible Shrinking Man (1957)",
+      "Let the Right One In (2008)",
+      "Three Colors: Blue (1993)",
+      "Side by Side (2012)",
+      "Los Angeles Plays Itself (2003)",
+      "The Shop Around the Corner (1940)",
+      "Brief Encounter (1945)",
+      "High Noon (1952)",
+      "The Searchers (1956)",
+      "Carol (2015)",
+      "The Handmaiden (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 5.0,
+        "feeling": "Seductive fatalism and razor-sharp crime plotting are exactly my noir jam.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Out of the Past (1947)",
+        "rating": 4.5,
+        "feeling": "The pull of a dark past and doomed romance hits my noir sweet spot.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Night and the City (1950)",
+        "rating": 4.0,
+        "feeling": "Petty schemes spiraling into desperation make for satisfyingly grim crime drama.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 5.0,
+        "feeling": "Postwar intrigue and slippery loyalties wrapped in moody suspense I savor.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Touch of Evil (1958)",
+        "rating": 4.5,
+        "feeling": "Borderland corruption and morally murky policing deliver pulpy thrills I relish.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 4.5,
+        "feeling": "Meticulous heist mechanics and the fallout after make it gripping and elegant.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Elevator to the Gallows (1958)",
+        "rating": 4.0,
+        "feeling": "One bad act triggering an inexorable chain of doom\u2014sleek, tense, and cool.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Samoura\u00ef (1967)",
+        "rating": 4.5,
+        "feeling": "A lone professional boxed in by hunters and employers\u2014icy, precise, and compelling.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.5,
+        "feeling": "Hard-earned ascent inside a brutal system, told with grit and detail I admire.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "City of God (2002)",
+        "rating": 4.0,
+        "feeling": "Explosive coming-of-age amid crime and poverty\u2014impressive craft, a touch distanced for me.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Wages of Fear (1953)",
+        "rating": 4.5,
+        "feeling": "Men, money, and mortal risk on the road\u2014suspense that gnaws beautifully.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Knife in the Water (1962)",
+        "rating": 4.0,
+        "feeling": "Tense triangle of pride and desire that quietly needles.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Haunting (1963)",
+        "rating": 4.5,
+        "feeling": "Suggestion and unease over shocks\u2014my favorite flavor of haunted-house terror.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.5,
+        "feeling": "Psychological ambiguity and slow-building dread linger beautifully.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Eyes Without a Face (1960)",
+        "rating": 4.5,
+        "feeling": "Melancholy horror and clinical obsession\u2014eerie and affecting.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Carnival of Souls (1962)",
+        "rating": 4.0,
+        "feeling": "Dreamlike unease and isolation that creeps under my skin.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Night of the Hunter (1955)",
+        "rating": 5.0,
+        "feeling": "Fable-like menace and innocence set against stark moral horror\u2014mesmerizing.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thing (1982)",
+        "rating": 4.5,
+        "feeling": "Paranoia, isolation, and shape-shifting terror make a satisfyingly tense ride.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Day the Earth Stood Still (1951)",
+        "rating": 4.0,
+        "feeling": "Straightforward, humane sci-fi parable that still lands for me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Incredible Shrinking Man (1957)",
+        "rating": 4.0,
+        "feeling": "Inventive survival beats with an existential edge I appreciate.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Let the Right One In (2008)",
+        "rating": 4.5,
+        "feeling": "A tender, wintry bond wrapped in horror\u2014moody and moving.",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.5,
+        "feeling": "An intimate study of grief and connection with textures I sink into.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Side by Side (2012)",
+        "rating": 4.5,
+        "feeling": "A thoughtful look at film craft and technology that scratches my cinephile itch.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.0,
+        "feeling": "Warm, witty sparring that sneaks up with real feeling.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.0,
+        "feeling": "Refined longing and restraint that I admire more than I swoon over.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.0,
+        "feeling": "A taut moral countdown that plays clean and strong.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.0,
+        "feeling": "Rugged quest with darker shadings I respect without full-on love.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.0,
+        "feeling": "Elegant, aching romance\u2014beautifully made, slightly cool to the touch for me.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Handmaiden (2016)",
+        "rating": 4.5,
+        "feeling": "Devious twists and sensual tension\u2014sumptuous and thrilling.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Big Sleep (1946)",
+      "Laura (1944)",
+      "The Asphalt Jungle (1950)",
+      "The Big Heat (1953)",
+      "Kiss Me Deadly (1955)",
+      "Detour (1945)",
+      "The Killers (1946)",
+      "Scarlet Street (1945)",
+      "Pickup on South Street (1953)",
+      "Criss Cross (1949)",
+      "Odd Man Out (1947)",
+      "Le Doulos (1962)",
+      "Le Cercle Rouge (1970)",
+      "Chinatown (1974)",
+      "Zodiac (2007)",
+      "Memories of Murder (2003)",
+      "Don't Look Now (1973)",
+      "The Wicker Man (1973)",
+      "The Changeling (1980)",
+      "The Vanishing (1988)",
+      "Cure (1997)",
+      "Rosemary's Baby (1968)",
+      "Stalker (1979)",
+      "Solaris (1972)",
+      "Blade Runner (1982)",
+      "Alien (1979)",
+      "The Man Who Shot Liberty Valance (1962)",
+      "The Ox-Bow Incident (1943)",
+      "Los Angeles Plays Itself (2003)",
+      "Diabolique (1955)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Big Sleep (1946)",
+        "rating": 4.5,
+        "feeling": "Convoluted plotting and smoky flirtation\u2014pure noir atmosphere I savor.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.0,
+        "feeling": "Haunted fixation and elegant mystery I admire more than I swoon over.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Asphalt Jungle (1950)",
+        "rating": 4.5,
+        "feeling": "Methodical heist mechanics and bleak fallout hit my crime sweet spot.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Big Heat (1953)",
+        "rating": 4.5,
+        "feeling": "Relentless crusade against rot\u2014tough, sharp, and gratifyingly grim.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Kiss Me Deadly (1955)",
+        "rating": 4.5,
+        "feeling": "Brutal, apocalyptic pulp with a cruel snap I relish.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Detour (1945)",
+        "rating": 4.0,
+        "feeling": "Threadbare fatalism and sour luck that sting nicely.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Killers (1946)",
+        "rating": 4.0,
+        "feeling": "Doomed romance and unraveling pasts make for satisfying noir gloom.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Scarlet Street (1945)",
+        "rating": 4.5,
+        "feeling": "Cruel manipulation and moral collapse\u2014dark, inexorable, and rich.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Pickup on South Street (1953)",
+        "rating": 4.0,
+        "feeling": "Hard-nosed pulp energy with nervy momentum I enjoy.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Criss Cross (1949)",
+        "rating": 4.5,
+        "feeling": "Twisted loyalties and inevitable doom, tight and compelling.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Odd Man Out (1947)",
+        "rating": 4.0,
+        "feeling": "Nightlong desperation and moral fog I respect, a touch cool.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Doulos (1962)",
+        "rating": 4.5,
+        "feeling": "Switchbacks of trust and betrayal delivered with icy precision.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Le Cercle Rouge (1970)",
+        "rating": 4.5,
+        "feeling": "Cool professionalism and meticulous heist grace under pressure.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "Sunbaked corruption and fatalism woven into a superb noir trap.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.5,
+        "feeling": "Procedure, obsession, and dread meticulously tightening the noose.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleak humor and mounting futility\u2014haunting procedural power.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 4.5,
+        "feeling": "Grief-soaked atmosphere and creeping unease that lingers.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Wicker Man (1973)",
+        "rating": 4.0,
+        "feeling": "Off-kilter rituals and moral collision\u2014eerie, if a bit remote for me.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Changeling (1980)",
+        "rating": 4.0,
+        "feeling": "Old-dark-house mood and sorrowful hauntings that steadily chill.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.5,
+        "feeling": "Calm, clinical dread and obsession that gnaws beautifully.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.5,
+        "feeling": "Hypnotic menace and ambiguity that burrow under the skin.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Rosemary's Baby (1968)",
+        "rating": 4.5,
+        "feeling": "Paranoid domestic horror with a slow, suffocating grasp I love.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "Philosophical drift and eerie stillness I sink into.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.0,
+        "feeling": "Melancholy, cerebral sci-fi I admire more than I fully feel.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 4.5,
+        "feeling": "Rain-soaked existential noir\u2014sumptuous mood and ache.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Alien (1979)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic dread and creature terror executed with ruthless control.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 4.0,
+        "feeling": "A sober legend deconstruction I respect more than I adore.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Ox-Bow Incident (1943)",
+        "rating": 4.0,
+        "feeling": "Taut moral reckoning that plays clean and strong.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Diabolique (1955)",
+        "rating": 4.5,
+        "feeling": "Silken suspense and cruel twists that tighten beautifully.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "In a Lonely Place (1950)",
+      "The Maltese Falcon (1941)",
+      "The Lady from Shanghai (1947)",
+      "Gilda (1946)",
+      "Gun Crazy (1950)",
+      "Force of Evil (1948)",
+      "The Big Clock (1948)",
+      "The Narrow Margin (1952)",
+      "Where the Sidewalk Ends (1950)",
+      "D.O.A. (1950)",
+      "Le Trou (1960)",
+      "A Man Escaped (1956)",
+      "Army of Shadows (1969)",
+      "Bob le flambeur (1956)",
+      "Sorcerer (1977)",
+      "Night Moves (1975)",
+      "The Long Goodbye (1973)",
+      "The Friends of Eddie Coyle (1973)",
+      "The Long Good Friday (1980)",
+      "Get Carter (1971)",
+      "Thief (1981)",
+      "Heat (1995)",
+      "The Conversation (1974)",
+      "Blow Out (1981)",
+      "Blood Simple (1984)",
+      "Miller's Crossing (1990)",
+      "Bound (1996)",
+      "The Shining (1980)",
+      "Repulsion (1965)",
+      "Dark City (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "In a Lonely Place (1950)",
+        "rating": 4.5,
+        "feeling": "Abrasive romance curdling into suspicion\u2014fatalism I savor.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Maltese Falcon (1941)",
+        "rating": 4.5,
+        "feeling": "Hardboiled wit and murky motives deliver prime noir pleasure.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lady from Shanghai (1947)",
+        "rating": 4.0,
+        "feeling": "Baroque deceit and funhouse doom\u2014messy, hypnotic.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gilda (1946)",
+        "rating": 4.0,
+        "feeling": "Sultry power games and wounded pride, more glam than gut-punch.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gun Crazy (1950)",
+        "rating": 4.5,
+        "feeling": "Breathless lovers-on-the-run fatalism that snaps tight.",
+        "genres": [
+          "Crime",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Big Clock (1948)",
+        "rating": 4.0,
+        "feeling": "Corporate trap tightening with clever, nervy momentum.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Narrow Margin (1952)",
+        "rating": 4.0,
+        "feeling": "Lean, mean train-bound suspense that clicks along.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Where the Sidewalk Ends (1950)",
+        "rating": 4.0,
+        "feeling": "Bruised cop morality spiraling in clean, tough strokes.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Trou (1960)",
+        "rating": 4.5,
+        "feeling": "Methodical escape craft and camaraderie that quietly grips.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "A Man Escaped (1956)",
+        "rating": 4.5,
+        "feeling": "Ascetic, meticulous tension that gnaws beautifully.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 4.5,
+        "feeling": "Steely resistance and creeping betrayal\u2014somber and riveting.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bob le flambeur (1956)",
+        "rating": 4.0,
+        "feeling": "Cool gambler\u2019s poise and rueful heist elegance I enjoy.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sorcerer (1977)",
+        "rating": 4.5,
+        "feeling": "Road-bound dread and mechanical peril wound tight and mean.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Night Moves (1975)",
+        "rating": 4.5,
+        "feeling": "Shaggy sleuthing curdled by melancholy and moral fog.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Long Goodbye (1973)",
+        "rating": 4.0,
+        "feeling": "Laid-back drift with a bitter sting\u2014admired more than loved.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Friends of Eddie Coyle (1973)",
+        "rating": 4.5,
+        "feeling": "Gray, workaday crime world closing in with sad inevitability.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Long Good Friday (1980)",
+        "rating": 4.0,
+        "feeling": "Swagger meeting collapse\u2014brisk, brittle underworld shakeup.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Get Carter (1971)",
+        "rating": 4.0,
+        "feeling": "Cold-eyed payback with a grim, satisfying grind.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 4.5,
+        "feeling": "Professionalism under pressure\u2014neon, yearning, and steel.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "Dual obsessions in symphonic heist mode\u2014grand and gripping.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.5,
+        "feeling": "Paranoid craftsmanship that tightens its vise with quiet dread.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.5,
+        "feeling": "Conspiracy, obsession, and tragedy spun with sharp pulp flair.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blood Simple (1984)",
+        "rating": 4.0,
+        "feeling": "Coiled, tawdry doom executed with chilly precision.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Miller's Crossing (1990)",
+        "rating": 4.0,
+        "feeling": "Elegant gangland games I admire at a slight remove.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Bound (1996)",
+        "rating": 4.5,
+        "feeling": "Sleek, sensual double-crosses\u2014tight, satisfying neo-noir.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "Slow-burn madness and haunted spaces that sink in deep.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Repulsion (1965)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic psych-horror that burrows under the skin.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Dark City (1998)",
+        "rating": 4.0,
+        "feeling": "Shadowy sci-fi noir whose mood outpaces its heart for me.",
+        "genres": [
+          "Mystery",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "M (1931)",
+      "The Postman Always Rings Twice (1946)",
+      "The Woman in the Window (1944)",
+      "D.O.A. (1950)",
+      "The Hitch-Hiker (1953)",
+      "White Heat (1949)",
+      "Brute Force (1947)",
+      "Sweet Smell of Success (1957)",
+      "Ace in the Hole (1951)",
+      "The Tenant (1976)",
+      "Charley Varrick (1973)",
+      "The Taking of Pelham One Two Three (1974)",
+      "The French Connection (1971)",
+      "Klute (1971)",
+      "The Parallax View (1974)",
+      "L.A. Confidential (1997)",
+      "Se7en (1995)",
+      "Prisoners (2013)",
+      "Manhunter (1986)",
+      "Collateral (2004)",
+      "Body Heat (1981)",
+      "The Others (2001)",
+      "Ringu (1998)",
+      "Kairo (2001)",
+      "The Devil's Backbone (2001)",
+      "Kwaidan (1964)",
+      "Peeping Tom (1960)",
+      "High and Low (1963)",
+      "Stray Dog (1949)",
+      "No Country for Old Men (2007)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "M (1931)",
+        "rating": 4.5,
+        "feeling": "Citywide manhunt and moral panic\u2014taut, chilling, and inexorable.",
+        "genres": []
+      },
+      {
+        "title": "The Postman Always Rings Twice (1946)",
+        "rating": 4.0,
+        "feeling": "Sun-baked lust curdling into doom\u2014classic noir fatalism I savor, if a touch cool.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Woman in the Window (1944)",
+        "rating": 4.0,
+        "feeling": "Silken temptation and spiraling guilt\u2014elegant, a shade less searing than its twin.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Hitch-Hiker (1953)",
+        "rating": 4.0,
+        "feeling": "Lean, pitiless road suspense that clicks along with nervy dread.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "White Heat (1949)",
+        "rating": 4.5,
+        "feeling": "Volcanic gangster psychodrama\u2014ferocious energy and ruthless momentum.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Brute Force (1947)",
+        "rating": 4.5,
+        "feeling": "Grim prison pressure-cooker and moral rot\u2014tough, bleak, and gripping.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sweet Smell of Success (1957)",
+        "rating": 4.5,
+        "feeling": "Acrid power games and corrosive ambition\u2014razor-sharp and intoxicating.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ace in the Hole (1951)",
+        "rating": 4.5,
+        "feeling": "Media cynicism and human desperation ground down to a cruel edge\u2014mesmerizing.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Tenant (1976)",
+        "rating": 4.0,
+        "feeling": "Paranoid drift and identity slippage\u2014eerie and unsettling, admired at a slight remove.",
+        "genres": [
+          "Thriller",
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Charley Varrick (1973)",
+        "rating": 4.0,
+        "feeling": "Cool professionalism under siege\u2014tight, crafty, and satisfyingly gray.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Taking of Pelham One Two Three (1974)",
+        "rating": 4.5,
+        "feeling": "Procedural snap, sardonic bite, and ticking-clock grit\u2014pure pleasure.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.0,
+        "feeling": "Hard-nosed pursuit and urban grime\u2014brisk and gripping, if a tad blunt.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Klute (1971)",
+        "rating": 4.5,
+        "feeling": "Intimate paranoia and bruised character study\u2014sleek, haunting, and absorbing.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 4.5,
+        "feeling": "Conspiracy dread widening into abyss\u2014hypnotic, chilly, and riveting.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.5,
+        "feeling": "Sunlit corruption and interlocking betrayals\u2014sumptuous, propulsive neo-noir.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 4.5,
+        "feeling": "Methodical dread and moral rot tightening the noose\u2014grim and compelling.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.0,
+        "feeling": "Grief-fueled obsession and murky ethics\u2014absorbing, a touch overextended.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Manhunter (1986)",
+        "rating": 4.5,
+        "feeling": "Icy procedure and haunted resolve\u2014neon melancholy that grips.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.5,
+        "feeling": "Night-run professionalism and mounting fatalism\u2014sleek, tense, and moody.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Body Heat (1981)",
+        "rating": 4.0,
+        "feeling": "Sultry scheming and inevitable collapse\u2014satisfying neo-noir heat, if a bit slick.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.5,
+        "feeling": "Candlelit unease and restrained hauntings\u2014suggestive chills that linger.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ringu (1998)",
+        "rating": 4.5,
+        "feeling": "Calm, inexorable curse-myth\u2014quietly terrifying and absorbing.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Kairo (2001)",
+        "rating": 4.5,
+        "feeling": "Lonely, suffocating techno-haunt\u2014existential dread that burrows deep.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "War shadows and melancholy ghost story\u2014elegant, affecting, slightly remote.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Peeping Tom (1960)",
+        "rating": 4.5,
+        "feeling": "Voyeuristic obsession and self-damnation\u2014icy, unnerving, and sharp.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 4.5,
+        "feeling": "Class tension and meticulous manhunt\u2014taut, humane, and riveting.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Stray Dog (1949)",
+        "rating": 4.0,
+        "feeling": "Sweaty pursuit and mirrored guilt\u2014solid, compelling, a hair modest.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "No Country for Old Men (2007)",
+        "rating": 4.5,
+        "feeling": "Implacable fate and hollowed-out justice\u2014cold, relentless, and superb.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Western"
+        ]
+      }
+    ]
+  }
+]

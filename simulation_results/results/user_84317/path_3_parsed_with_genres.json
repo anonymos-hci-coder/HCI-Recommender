@@ -1,0 +1,1331 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Knives Out (2019)",
+      "Zodiac (2007)",
+      "Prisoners (2013)",
+      "L.A. Confidential (1997)",
+      "The Usual Suspects (1995)",
+      "The Silence of the Lambs (1991)",
+      "Gone Girl (2014)",
+      "The Bourne Identity (2002)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "Speed (1994)",
+      "The Hunt for Red October (1990)",
+      "Sherlock Holmes: A Game of Shadows (2011)",
+      "The Nice Guys (2016)",
+      "Minority Report (2002)",
+      "Arrival (2016)",
+      "Ex Machina (2014)",
+      "The Martian (2015)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Up (2009)",
+      "Ratatouille (2007)",
+      "Coco (2017)",
+      "The Incredibles (2004)",
+      "How to Train Your Dragon (2010)",
+      "Paddington 2 (2017)",
+      "La La Land (2016)",
+      "Singin' in the Rain (1952)",
+      "The Greatest Showman (2017)",
+      "The Muppets (2011)",
+      "A Quiet Place (2018)",
+      "About Time (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.5,
+        "feeling": "Clever, twisty and fun that left me grinning as I pieced it all together.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.5,
+        "feeling": "Meticulous and absorbing, the slow-burn dread stuck with me.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.5,
+        "feeling": "Intense and unsettling, it had my nerves on edge in the best way.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.5,
+        "feeling": "A slick, gripping noir that pulled me deep into its web of corruption.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Usual Suspects (1995)",
+        "rating": 4.5,
+        "feeling": "A crafty, satisfying puzzle that clicked together with a grin.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Silence of the Lambs (1991)",
+        "rating": 5.0,
+        "feeling": "Chilling and masterfully tense, I was riveted start to finish.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.0,
+        "feeling": "Icy, twisty and unsettling in a way that kept me guessing.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 4.5,
+        "feeling": "Lean, smart spy thrills that had me locked in from the first chase.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.0,
+        "feeling": "Big, buoyant set pieces that made for breathless, grinning fun.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 4.5,
+        "feeling": "Pure adrenaline with just enough wit to make it a blast.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.0,
+        "feeling": "Tense and classy, a slow-burn payoff that satisfied.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sherlock Holmes: A Game of Shadows (2011)",
+        "rating": 4.0,
+        "feeling": "Playful and energetic, still a good time even if a bit messier.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0,
+        "feeling": "Witty buddy chemistry and a breezy mystery left me smiling.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.5,
+        "feeling": "Inventive sci\u2011fi ideas fused with propulsive thrills had me hooked.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.5,
+        "feeling": "Quietly profound and beautiful, it lingered with me.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.5,
+        "feeling": "Clever, upbeat problem\u2011solving that felt genuinely uplifting.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 5.0,
+        "feeling": "Joyful, inventive animation that dazzled me from start to finish.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 5.0,
+        "feeling": "A heartfelt adventure that made me laugh and mist up.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 5.0,
+        "feeling": "Deliciously charming and warm in a way that made me happy.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 5.0,
+        "feeling": "Vibrant, moving, and full of heart\u2014I was completely swept up.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 5.0,
+        "feeling": "Smart, thrilling, and heartfelt superhero fun that clicked perfectly.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Soaring, sincere, and utterly winning with its central bond.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Sweet, witty, and uplifting\u2014it left me beaming.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.0,
+        "feeling": "Gorgeous and wistful, the music charmed me even as the ending stung.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 5.0,
+        "feeling": "Pure golden\u2011age delight that kept me smiling the whole way.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Greatest Showman (2017)",
+        "rating": 3.5,
+        "feeling": "Catchy and colorful, a bit glossy but still enjoyable.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Muppets (2011)",
+        "rating": 4.0,
+        "feeling": "Warm, funny nostalgia that hit just the right feel\u2011good notes.",
+        "genres": [
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.0,
+        "feeling": "Tense and inventive, more suspense than gore in a way I appreciated.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Gentle, heartfelt, and quietly funny\u2014it left me grateful for the little moments.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Heat (1995)",
+      "The Departed (2006)",
+      "Collateral (2004)",
+      "Michael Clayton (2007)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Bridge of Spies (2015)",
+      "Argo (2012)",
+      "Wind River (2017)",
+      "Sicario (2015)",
+      "The Prestige (2006)",
+      "Memento (2000)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "Skyfall (2012)",
+      "Casino Royale (2006)",
+      "Mission: Impossible - Fallout (2018)",
+      "Edge of Tomorrow (2014)",
+      "Looper (2012)",
+      "Children of Men (2006)",
+      "Gravity (2013)",
+      "10 Cloverfield Lane (2016)",
+      "The Sixth Sense (1999)",
+      "The Others (2001)",
+      "Hot Fuzz (2007)",
+      "Kiss Kiss Bang Bang (2005)",
+      "The Iron Giant (1999)",
+      "Kubo and the Two Strings (2016)",
+      "Song of the Sea (2014)",
+      "The Lego Movie (2014)",
+      "Paddington (2014)",
+      "Memories of Murder (2003)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "A gripping, meticulous cat-and-mouse that had me locked in to the final showdown.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 4.5,
+        "feeling": "Relentless double-crosses and sharp tension kept me buzzing.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.5,
+        "feeling": "Taut, nocturnal suspense that never let go.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 4.5,
+        "feeling": "Smart, morally tangled and quietly riveting in a way I love.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 4.0,
+        "feeling": "Bleak, patient intrigue that rewarded my attention.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.0,
+        "feeling": "Classy, humane Cold War tension that left me satisfied.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 4.0,
+        "feeling": "Clever, steady suspense with a crowd\u2011pleasing kick.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 4.0,
+        "feeling": "Somber, gripping investigation that lingered with me.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 4.5,
+        "feeling": "Unnerving, razor\u2011taut and absorbing from first shot to last.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.5,
+        "feeling": "Elegant, obsessive twists that clicked together beautifully.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 4.5,
+        "feeling": "Inventive, puzzle\u2011box storytelling that thrilled me.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 4.0,
+        "feeling": "Cold, engrossing mystery that kept me hooked.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Skyfall (2012)",
+        "rating": 4.0,
+        "feeling": "Sleek, grand spy thrills that satisfied.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Casino Royale (2006)",
+        "rating": 4.5,
+        "feeling": "Lean, high\u2011stakes Bond that had me grinning through the tension.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.5,
+        "feeling": "Breathtaking set pieces with propulsive momentum left me exhilarated.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "Clever, kinetic sci\u2011fi that was a blast to ride on repeat.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 4.0,
+        "feeling": "Moody, inventive time\u2011twist thrills that stuck with me.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Urgent, immersive and profound in a way that hit hard.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.5,
+        "feeling": "A white\u2011knuckle, awe\u2011struck experience that left me breathless.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.0,
+        "feeling": "Tight, nerve\u2011jangling chamber suspense that paid off.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 4.5,
+        "feeling": "Quietly haunting and emotionally satisfying with a clever turn.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.0,
+        "feeling": "Gothic, slow\u2011burn chills that paid off with a shiver.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hot Fuzz (2007)",
+        "rating": 4.0,
+        "feeling": "Witty, kinetic genre fun that kept me smiling.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 4.0,
+        "feeling": "Snappy, playful noir hijinks that were a delight.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 5.0,
+        "feeling": "Warm, funny and deeply moving\u2014I was beaming and misty\u2011eyed.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, heartfelt adventure that swept me up.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.5,
+        "feeling": "Lyrical, tender magic that left me glowing.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Lego Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Joyfully inventive and witty in a way that made me grin throughout.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.0,
+        "feeling": "Sweet, charming comfort that left me smiling.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Meticulous, haunting investigation that quietly burrowed in.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Game (1997)",
+      "Shutter Island (2010)",
+      "Inside Man (2006)",
+      "The Town (2010)",
+      "Nightcrawler (2014)",
+      "No Country for Old Men (2007)",
+      "Hell or High Water (2016)",
+      "Fargo (1996)",
+      "Spotlight (2015)",
+      "All the President's Men (1976)",
+      "The Insider (1999)",
+      "Sing Street (2016)",
+      "Rear Window (1954)",
+      "North by Northwest (1959)",
+      "Ocean's Eleven (2001)",
+      "Logan Lucky (2017)",
+      "Die Hard (1988)",
+      "Ronin (1998)",
+      "The Bourne Ultimatum (2007)",
+      "Ex Machina (2014)",
+      "Blade Runner 2049 (2017)",
+      "Spirited Away (2001)",
+      "Wolfwalkers (2020)",
+      "Coraline (2009)",
+      "The Mitchells vs. the Machines (2021)",
+      "The Big Sick (2017)",
+      "The Princess Bride (1987)",
+      "The Invisible Man (2020)",
+      "The Dark Knight (2008)",
+      "Top Gun: Maverick (2022)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Game (1997)",
+        "rating": 4.5,
+        "feeling": "A paranoid puzzle-box that kept me guessing and grinning to the end.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Shutter Island (2010)",
+        "rating": 4.0,
+        "feeling": "Moody, haunting and twisty in a way that left me unsettled.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "A sharp, classy heist that clicks together with satisfying wit.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Town (2010)",
+        "rating": 4.0,
+        "feeling": "Muscular, heartfelt heist drama that kept the tension tight.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Nightcrawler (2014)",
+        "rating": 4.5,
+        "feeling": "Sleek, unnerving descent that had me riveted and squirming.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "No Country for Old Men (2007)",
+        "rating": 4.5,
+        "feeling": "Quietly ruthless and gripping, it lingered like a cold wind.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.0,
+        "feeling": "Tense, mournful neo-western with a beating heart.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 4.5,
+        "feeling": "Bleakly funny and chilling, I was hooked start to finish.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Spotlight (2015)",
+        "rating": 4.5,
+        "feeling": "Measured, absorbing journalism that built to a quiet gut punch.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.0,
+        "feeling": "Patient, engrossing procedural that rewarded my attention.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.5,
+        "feeling": "Meticulous, morally taut and quietly electric.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Sweet, catchy and earnest in a way that left me smiling.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.5,
+        "feeling": "Elegant, nail-biting suspense that had me glued to every frame.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.5,
+        "feeling": "Breezy, ingenious chase that never lost its snap.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 4.0,
+        "feeling": "Slick, playful caper that kept me grinning.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 4.0,
+        "feeling": "Laid-back, clever heist with endearing goofball charm.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Die Hard (1988)",
+        "rating": 5.0,
+        "feeling": "Tight, witty, white-knuckle perfection that never lets up.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 4.0,
+        "feeling": "Cool, grounded espionage with weighty, thrilling chases.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Bourne Ultimatum (2007)",
+        "rating": 4.5,
+        "feeling": "Relentless, razor-sharp spy thrills that left me buzzing.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, meditative sci-fi that lingered long after.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 5.0,
+        "feeling": "Enchanting, wondrous adventure that filled me with awe.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Lush, heartfelt folklore that swept me up.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Coraline (2009)",
+        "rating": 4.0,
+        "feeling": "Eerie, imaginative dark fantasy that gave me delicious shivers.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Mitchells vs. the Machines (2021)",
+        "rating": 4.5,
+        "feeling": "Zippy, heartfelt chaos packed with inventive laughs.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.0,
+        "feeling": "Warm, funny and honest, it quietly moved me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Endlessly clever, cozy fairy-tale fun that made me beam.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Invisible Man (2020)",
+        "rating": 4.0,
+        "feeling": "Tense, smart gaslighting nightmare that kept me on edge.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 4.5,
+        "feeling": "Epic, tightly wound crime saga that thrilled me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Top Gun: Maverick (2022)",
+        "rating": 4.5,
+        "feeling": "Exhilarating, old-school aerial spectacle that left me grinning.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Chinatown (1974)",
+      "The Conversation (1974)",
+      "Blow Out (1981)",
+      "Thief (1981)",
+      "Sorcerer (1977)",
+      "The French Connection (1971)",
+      "Rififi (1955)",
+      "Sneakers (1992)",
+      "The Sting (1973)",
+      "Groundhog Day (1993)",
+      "Ex Machina (2015)",
+      "Her (2013)",
+      "Moon (2009)",
+      "Sunshine (2007)",
+      "Contact (1997)",
+      "Get Out (2017)",
+      "The Orphanage (2007)",
+      "Misery (1990)",
+      "The Lives of Others (2006)",
+      "My Neighbor Totoro (1988)",
+      "Howl's Moving Castle (2004)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Your Name (2016)",
+      "The Secret of Kells (2009)",
+      "Klaus (2019)",
+      "West Side Story (1961)",
+      "The Umbrellas of Cherbourg (1964)",
+      "The Apartment (1960)",
+      "Before Sunrise (1995)",
+      "Eternal Sunshine of the Spotless Mind (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Chinatown (1974)",
+        "rating": 4.5,
+        "feeling": "A beautifully tangled noir that pulled me deep into its sun-baked corruption.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 4.5,
+        "feeling": "Paranoid, precise and quietly devastating in a way that gripped me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 4.0,
+        "feeling": "Moody, twisty conspiracy thrills that kept me leaning in.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Thief (1981)",
+        "rating": 4.5,
+        "feeling": "Cool, meticulous crime drama with a soulful ache that hooked me.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sorcerer (1977)",
+        "rating": 4.5,
+        "feeling": "Relentless, nerve-jangling suspense that had me clenched from start to finish.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 4.5,
+        "feeling": "Gritty, propulsive pursuit with set pieces that still crackle.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 4.0,
+        "feeling": "Meticulous, hushed heist craft that was deeply satisfying.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 4.0,
+        "feeling": "Breezy, clever caper fun with a warm, affable vibe I enjoyed.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.0,
+        "feeling": "Classy, playful con-game that clicked together with a grin.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.5,
+        "feeling": "Smart, warm and sneakily profound in a way that left me smiling.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ex Machina (2015)",
+        "rating": 4.5,
+        "feeling": "Sleek, unsettling and thought-provoking, it lingered with a chill.",
+        "genres": [
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.5,
+        "feeling": "Tender, thoughtful sci-fi romance that quietly broke and mended my heart.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.0,
+        "feeling": "Intimate, melancholy sci\u2011fi that hooked me with its lonely mystery.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sunshine (2007)",
+        "rating": 4.0,
+        "feeling": "Visually striking and tense, a soulful mission that kept me engaged.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.0,
+        "feeling": "Earnest, thoughtful wonder that left me contemplative and satisfied.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Get Out (2017)",
+        "rating": 4.5,
+        "feeling": "Sharp, gripping social thriller that kept me tense and impressed by its craft.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.0,
+        "feeling": "Gothic, tender chills that built to a moving shiver.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Misery (1990)",
+        "rating": 4.5,
+        "feeling": "Taut, claustrophobic suspense that had me wincing and riveted.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.5,
+        "feeling": "Quietly searing and humane, the moral tension gripped me.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 4.5,
+        "feeling": "Gentle, wondrous comfort that left me warm and happy.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 4.0,
+        "feeling": "Imaginative and cozy, a dreamy romp that still felt a bit shaggy.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.5,
+        "feeling": "Lyrical, luminous fairy tale that swept me up.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.5,
+        "feeling": "Inventive, heartfelt and exuberant in a way that left me glowing.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret of Kells (2009)",
+        "rating": 4.0,
+        "feeling": "Beautifully crafted folklore adventure that charmed me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Klaus (2019)",
+        "rating": 4.0,
+        "feeling": "Sweet, witty holiday warmth that left me with a big smile.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "West Side Story (1961)",
+        "rating": 4.0,
+        "feeling": "Vibrant, impassioned musical drama that carried me along.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Umbrellas of Cherbourg (1964)",
+        "rating": 4.0,
+        "feeling": "Gorgeously melancholy and romantic in a way that lingered.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 4.5,
+        "feeling": "Smart, bittersweet and humane, it quietly stole my heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.0,
+        "feeling": "Tender, talky intimacy that felt honest and quietly stirring.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.5,
+        "feeling": "Inventive, aching and beautiful, it hit both my head and heart.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1291 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Last of the Mohicans (1992)",
+      "Unforgiven (1992)",
+      "The Last Emperor (1987)",
+      "A Man for All Seasons (1966)",
+      "Doctor Zhivago (1965)",
+      "The Bridge on the River Kwai (1957)",
+      "Ran (1985)",
+      "Seven Samurai (1954)",
+      "The Mission (1986)",
+      "Beetlejuice (1988)",
+      "An American Werewolf in London (1981)",
+      "What We Do in the Shadows (2014)",
+      "Pan's Labyrinth (2006)",
+      "Blade Runner (1982)",
+      "Arrival (2016)",
+      "Her (2013)",
+      "Children of Men (2006)",
+      "Logan (2017)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "Spirited Away (2001)",
+      "The Iron Giant (1999)",
+      "The Incredibles (2004)",
+      "The Princess Bride (1987)",
+      "Sense and Sensibility (1995)",
+      "The Remains of the Day (1993)",
+      "Pride & Prejudice (2005)",
+      "Atonement (2007)",
+      "Buena Vista Social Club (1999)",
+      "20 Feet from Stardom (2013)",
+      "Amadeus (1984)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 4.0,
+        "feeling": "Swept up by the rugged romance and frontier stakes, I felt that blend of history and heart I crave.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Unforgiven (1992)",
+        "rating": 4.5,
+        "feeling": "Its moral reckoning and dusty melancholy hit me hard in the best Western way.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Last Emperor (1987)",
+        "rating": 3.5,
+        "feeling": "The tragic arc and lavish history moved me, even if it kept me at a slight emotional distance.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "A Man for All Seasons (1966)",
+        "rating": 4.0,
+        "feeling": "Principled defiance and crisp dialogue scratched my itch for thoughtful historical drama.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Doctor Zhivago (1965)",
+        "rating": 3.5,
+        "feeling": "The wartime sweep and aching romance resonated, though a touch long-winded for me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 4.5,
+        "feeling": "The tension between duty, pride, and sabotage was gripping and satisfying.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Ran (1985)",
+        "rating": 3.5,
+        "feeling": "The grand betrayal and operatic battles impressed me more than they stirred me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 4.5,
+        "feeling": "Honor, strategy, and community woven into an engrossing epic left me exhilarated.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Mission (1986)",
+        "rating": 3.5,
+        "feeling": "Spiritual conviction colliding with colonial power was compelling, if a bit stately.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "History"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 3.5,
+        "feeling": "Inventive and zany, fun in bursts but not quite my comedic sweet spot.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "An American Werewolf in London (1981)",
+        "rating": 3.5,
+        "feeling": "The genre blend works well, giving me a smart, offbeat chill.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "What We Do in the Shadows (2014)",
+        "rating": 3.5,
+        "feeling": "Clever and dry, amusing more than uproarious for my taste.",
+        "genres": [
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.5,
+        "feeling": "Its dark fairy-tale morality and wartime sorrow lingered with me.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 3.0,
+        "feeling": "Moody and thoughtful, but its cool detachment left me admiring more than loving.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Quiet wonder and human stakes made the sci-fi feel intimate and worthwhile.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 3.5,
+        "feeling": "Tender, modern melancholy that intrigued me even if I was not fully swept away.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Urgent, humane, and tense in a way that stuck with me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Logan (2017)",
+        "rating": 3.5,
+        "feeling": "The weariness and grit deepened the genre, though I still kept some distance.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.0,
+        "feeling": "Romance, honor, and graceful action hit many of my buttons.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 3.5,
+        "feeling": "Imaginative and soulful, beautiful even when it felt a bit remote to me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 3.5,
+        "feeling": "Earnest warmth and sacrifice gave me that satisfying lump in the throat.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 3.0,
+        "feeling": "Clever and energetic, enjoyable but not especially affecting for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 3.0,
+        "feeling": "Charming and witty, cute more than transporting for me.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.0,
+        "feeling": "Refined feeling and restraint made the romance quietly rewarding.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.0,
+        "feeling": "Subtle heartbreak and duty over desire landed with a dignified ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Lively longing and social dance gave me a warm, contented glow.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 3.5,
+        "feeling": "Lush regret and wartime consequence moved me, if a bit self-conscious at times.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Buena Vista Social Club (1999)",
+        "rating": 4.0,
+        "feeling": "The music and lived-in stories carried a gentle, joyful poignancy.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "20 Feet from Stardom (2013)",
+        "rating": 4.0,
+        "feeling": "Hearing the voices behind the spotlight felt both enlightening and uplifting.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Amadeus (1984)",
+        "rating": 4.5,
+        "feeling": "Jealousy, genius, and period texture came together in a rich, rousing drama.",
+        "genres": [
+          "History",
+          "Music",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Thin Red Line (1998)",
+      "Paths of Glory (1957)",
+      "Das Boot (1981)",
+      "The Lives of Others (2006)",
+      "The Age of Innocence (1993)",
+      "Barry Lyndon (1975)",
+      "Howards End (1992)",
+      "Bright Star (2009)",
+      "Dangerous Liaisons (1988)",
+      "Becket (1964)",
+      "The Wind That Shakes the Barley (2006)",
+      "Casablanca (1942)",
+      "The Third Man (1949)",
+      "Throne of Blood (1957)",
+      "The Searchers (1956)",
+      "High Noon (1952)",
+      "True Grit (2010)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "The Devil's Backbone (2001)",
+      "Let the Right One In (2008)",
+      "The Orphanage (2007)",
+      "Gattaca (1997)",
+      "Contact (1997)",
+      "Moon (2009)",
+      "District 9 (2009)",
+      "The Prince of Egypt (1998)",
+      "Grave of the Fireflies (1988)",
+      "Wolfwalkers (2020)",
+      "Searching for Sugar Man (2012)",
+      "The Last Waltz (1978)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Thin Red Line (1998)",
+        "rating": 4.0,
+        "feeling": "Its meditative combat and whispered soul-searching moved me even when the detachment kept me at arm\u2019s length",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 4.5,
+        "feeling": "Righteous fury and tragic clarity in the face of blind authority hit me squarely",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.5,
+        "feeling": "Claustrophobic endurance and comradeship kept me taut with dread and empathy",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.5,
+        "feeling": "Quiet moral awakening and human cost under surveillance left a deep ache",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Age of Innocence (1993)",
+        "rating": 4.0,
+        "feeling": "Repressed yearning and social ritual gave me a refined, bittersweet pull",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Barry Lyndon (1975)",
+        "rating": 3.5,
+        "feeling": "Sumptuous and exacting, I admired its cool beauty more than I felt it",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Howards End (1992)",
+        "rating": 4.0,
+        "feeling": "Class, compassion, and consequence wove into a satisfyingly humane tapestry",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Bright Star (2009)",
+        "rating": 3.5,
+        "feeling": "Tender restraint and poetic longing touched me gently rather than overwhelmingly",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Dangerous Liaisons (1988)",
+        "rating": 4.0,
+        "feeling": "Elegant scheming and sharp dialogue made its cruelty wickedly compelling",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Becket (1964)",
+        "rating": 4.0,
+        "feeling": "Principled defiance against power gave me that bracing, dignified charge",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Wind That Shakes the Barley (2006)",
+        "rating": 4.5,
+        "feeling": "Brotherhood torn by conviction and history left me shaken and engaged",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Wry fatalism and shadowed postwar mystery were gripping and melancholic",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Throne of Blood (1957)",
+        "rating": 4.0,
+        "feeling": "Icy inevitability and mythic doom played with stark, stirring force",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.0,
+        "feeling": "A dark, questing Western whose uneasy conscience kept me riveted",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.5,
+        "feeling": "Duty tested in the face of communal cowardice landed with crisp moral force",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "True Grit (2010)",
+        "rating": 4.0,
+        "feeling": "Flinty resolve and frontier melancholy made for a sturdy, satisfying ride",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 4.0,
+        "feeling": "Lyrical fatalism and bruised myth-making drew me into its hush",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Devil's Backbone (2001)",
+        "rating": 4.0,
+        "feeling": "Wartime sorrow and ghostly morality cast a poignant, unsettling spell",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Let the Right One In (2008)",
+        "rating": 4.0,
+        "feeling": "Bleak tenderness and quiet horror left a chilly, affecting imprint",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 4.0,
+        "feeling": "Grief and mystery entwined into a touching, well-earned shiver",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gattaca (1997)",
+        "rating": 4.0,
+        "feeling": "Clear-eyed, humane sci-fi about aspiration stirred me with its restraint",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 4.0,
+        "feeling": "Earnest wonder and faith-versus-reason stakes gave me a warm, thoughtful lift",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 3.5,
+        "feeling": "Intimate loneliness and identity twists intrigued me even if it felt a bit cool",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "District 9 (2009)",
+        "rating": 4.0,
+        "feeling": "Gritty allegory and urgent compassion kept me tense and invested",
+        "genres": [
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Prince of Egypt (1998)",
+        "rating": 4.0,
+        "feeling": "Sweeping faith, brotherhood, and music gave me a rousing, heartfelt swell",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Grave of the Fireflies (1988)",
+        "rating": 4.5,
+        "feeling": "War\u2019s quiet devastation and sibling love leveled me with sorrow",
+        "genres": [
+          "Animation",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.0,
+        "feeling": "Wild-hearted friendship and folktale spark charmed me with warm conviction",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Searching for Sugar Man (2012)",
+        "rating": 4.0,
+        "feeling": "Uncovering a humble musical soul felt uplifting and gently poignant",
+        "genres": [
+          "Music",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Last Waltz (1978)",
+        "rating": 4.0,
+        "feeling": "Legacy, camaraderie, and musicianship gave me a satisfying, nostalgic glow",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Schindler's List (1993)",
+      "The Pianist (2002)",
+      "The Battle of Algiers (1966)",
+      "Come and See (1985)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "Letters from Iwo Jima (2006)",
+      "A Hidden Life (2019)",
+      "Z (1969)",
+      "The Deer Hunter (1978)",
+      "Harakiri (1962)",
+      "The Ox-Bow Incident (1943)",
+      "McCabe & Mrs. Miller (1971)",
+      "The Proposition (2005)",
+      "The English Patient (1996)",
+      "Portrait of a Lady on Fire (2019)",
+      "Carol (2015)",
+      "Brooklyn (2015)",
+      "Interstellar (2014)",
+      "The Martian (2015)",
+      "The Right Stuff (1983)",
+      "Never Let Me Go (2010)",
+      "Princess Mononoke (1997)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Persepolis (2007)",
+      "The Wind Rises (2013)",
+      "Cabaret (1972)",
+      "Les Mis\u00e9rables (2012)",
+      "The Death of Stalin (2017)",
+      "The Dark Knight (2008)",
+      "Rogue One: A Star Wars Story (2016)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Schindler's List (1993)",
+        "rating": 4.5,
+        "feeling": "Its grave compassion and hard-earned hope left me wrung out and humbled.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Pianist (2002)",
+        "rating": 4.5,
+        "feeling": "Sparse survival and quiet dignity left a lingering, sorrowful ache.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Battle of Algiers (1966)",
+        "rating": 4.5,
+        "feeling": "Its urgent, unsentimental look at occupation and resistance gripped me with moral tension.",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.5,
+        "feeling": "A harrowing plunge into wartime madness that left me shaken and haunted.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0,
+        "feeling": "Duty, friendship, and seafaring grit gave me a sturdy, satisfying swell.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Letters from Iwo Jima (2006)",
+        "rating": 4.0,
+        "feeling": "Humane perspective and fatal resolve drew me into a somber empathy.",
+        "genres": [
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "A Hidden Life (2019)",
+        "rating": 4.0,
+        "feeling": "Quiet conviction against crushing power moved me with a contemplative glow.",
+        "genres": [
+          "History",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Z (1969)",
+        "rating": 4.0,
+        "feeling": "Righteous anger and procedural tension kept me taut and engaged.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Deer Hunter (1978)",
+        "rating": 4.0,
+        "feeling": "Brotherhood scarred by war\u2019s trauma landed with a heavy, bruised weight.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Harakiri (1962)",
+        "rating": 4.5,
+        "feeling": "A devastating unmasking of hollow honor that hit with icy moral clarity.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Ox-Bow Incident (1943)",
+        "rating": 4.5,
+        "feeling": "Mob justice and cowardice crystallized into a stark, bracing lesson.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "McCabe & Mrs. Miller (1971)",
+        "rating": 4.0,
+        "feeling": "Snowy melancholy and fragile enterprise left a bittersweet, drifting hush.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Proposition (2005)",
+        "rating": 4.0,
+        "feeling": "Bleak resolve and blood-bound duty made for a harsh, compelling reckoning.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Western"
+        ]
+      },
+      {
+        "title": "The English Patient (1996)",
+        "rating": 3.5,
+        "feeling": "Sweeping romance and betrayal moved me, though its languor kept me at a remove.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 4.0,
+        "feeling": "Tender restraint and charged gazes left a warm, bittersweet glow.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.0,
+        "feeling": "Quiet yearning and social constraint stirred a soft, dignified ache.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 3.5,
+        "feeling": "Chasing voice and belonging gave me a modest, hopeful lift.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.0,
+        "feeling": "Earnest wonder and familial pull made the cosmic stakes feel human.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.0,
+        "feeling": "Ingenuity and good-humored grit left me buoyed and invested.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 4.0,
+        "feeling": "Swagger, sacrifice, and frontier skies gave me a steady, rousing charge.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Never Let Me Go (2010)",
+        "rating": 4.0,
+        "feeling": "Muted tenderness and fatal purpose left a quiet, lingering sorrow.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Princess Mononoke (1997)",
+        "rating": 4.0,
+        "feeling": "Mythic balance and fierce conviction stirred me with earthy grandeur.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.0,
+        "feeling": "Delicate beauty and fleeting joy resolved into a tender, aching hush.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Persepolis (2007)",
+        "rating": 4.0,
+        "feeling": "Wry candor and hard-won resilience made history feel intimate and alive.",
+        "genres": [
+          "Animation",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wind Rises (2013)",
+        "rating": 3.5,
+        "feeling": "Elegiac craft and conflicted dreams touched me, if at a gentle distance.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Romance",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Cabaret (1972)",
+        "rating": 4.0,
+        "feeling": "Decadent spark shading into dread left a sharp, bittersweet sting.",
+        "genres": [
+          "Music",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Les Mis\u00e9rables (2012)",
+        "rating": 3.5,
+        "feeling": "Big-hearted struggle and redemption moved me, even if the musical sweep felt uneven.",
+        "genres": [
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Death of Stalin (2017)",
+        "rating": 3.5,
+        "feeling": "Acrid farce and historical cruelty amused me more than it floored me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 3.5,
+        "feeling": "Relentless stakes and moral chaos gripped me, though I stayed a bit removed.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 3.5,
+        "feeling": "Grounded sacrifice and wartime resolve engaged me more than usual for this saga.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Army of Shadows (1969)",
+      "The Cranes Are Flying (1957)",
+      "The Best Years of Our Lives (1946)",
+      "Casablanca (1942)",
+      "Notorious (1946)",
+      "Double Indemnity (1944)",
+      "Once Upon a Time in the West (1968)",
+      "The Wild Bunch (1969)",
+      "The Good, the Bad and the Ugly (1966)",
+      "Yojimbo (1961)",
+      "Rashomon (1950)",
+      "Ikiru (1952)",
+      "The New World (2005)",
+      "The Duellists (1977)",
+      "The Man Who Would Be King (1975)",
+      "Saving Private Ryan (1998)",
+      "The Hurt Locker (2008)",
+      "A Separation (2011)",
+      "Three Colors: Blue (1993)",
+      "The Secret in Their Eyes (2009)",
+      "A Prophet (2009)",
+      "The Witch (2015)",
+      "The Innocents (1961)",
+      "The Others (2001)",
+      "The Shape of Water (2017)",
+      "Waltz with Bashir (2008)",
+      "Summer of Soul (2021)",
+      "Black Panther (2018)",
+      "Dances with Wolves (1990)",
+      "All the President's Men (1976)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 4.5,
+        "feeling": "Quiet, ruthless resistance and moral compromise gripped me with taut, aching dread.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Cranes Are Flying (1957)",
+        "rating": 4.5,
+        "feeling": "Wartime longing and loss washed over me with luminous, tender sorrow.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "The Best Years of Our Lives (1946)",
+        "rating": 4.5,
+        "feeling": "Compassionate, clear-eyed homecoming struggles left me moved and humbled.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 4.0,
+        "feeling": "Taut romance and espionage played out with sharp tension and bittersweet bite.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 4.0,
+        "feeling": "Fatalistic allure and razor dialogue made the descent feel wickedly inevitable.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Once Upon a Time in the West (1968)",
+        "rating": 4.0,
+        "feeling": "Grand, mournful myth-making stirred me more with atmosphere than with heart.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Wild Bunch (1969)",
+        "rating": 4.0,
+        "feeling": "Brutal twilight honor and regret carried a harsh, compelling weight.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "rating": 4.0,
+        "feeling": "Sweeping, wry brutality entertained me even as I admired it at some remove.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Yojimbo (1961)",
+        "rating": 4.0,
+        "feeling": "Cunning gamesmanship and dry humor satisfied with lean, sardonic bite.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rashomon (1950)",
+        "rating": 4.0,
+        "feeling": "Shifting truths and moral fog intrigued me more than they overwhelmed me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Ikiru (1952)",
+        "rating": 4.5,
+        "feeling": "Quiet resolve in the face of mortality left me with a warm, aching hush.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The New World (2005)",
+        "rating": 4.0,
+        "feeling": "Hushed wonder and conflicted contact moved me in a contemplative drift.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Duellists (1977)",
+        "rating": 3.5,
+        "feeling": "Precise honor and obsession impressed me, though its chill kept me distant.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Man Who Would Be King (1975)",
+        "rating": 3.5,
+        "feeling": "Rousing adventure shaded by hubris engaged me without fully sweeping me away.",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Saving Private Ryan (1998)",
+        "rating": 4.0,
+        "feeling": "Viscera and sacrifice drew me in, even if the sentiment occasionally showed.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Hurt Locker (2008)",
+        "rating": 4.0,
+        "feeling": "Needle-prick tension and addictive peril left a taut, uneasy afterglow.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 4.5,
+        "feeling": "Clear-eyed empathy and knotty morality left me quietly shaken.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Three Colors: Blue (1993)",
+        "rating": 4.0,
+        "feeling": "Cool grief and tentative connection touched me with restrained grace.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.0,
+        "feeling": "Long-buried hurt and procedural obsession built to a sober, affecting thrum.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.0,
+        "feeling": "Gritty ascent and compromised survival held me in a hard, humane grip.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 1.5,
+        "feeling": "Bombastic fantasy trappings and immortal-hero posturing left me cold.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.0,
+        "feeling": "Chilly ambiguity and fragile dread seeped in with elegant unease.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 4.0,
+        "feeling": "Protective faith and creeping grief coalesced into a satisfying, sorrowful shiver.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Shape of Water (2017)",
+        "rating": 4.0,
+        "feeling": "Tender oddity and Cold War yearning gave me a warm, whimsical ache.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Waltz with Bashir (2008)",
+        "rating": 4.5,
+        "feeling": "Haunting memory and moral reckoning gathered into a devastating lullaby.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "War",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Summer of Soul (2021)",
+        "rating": 4.0,
+        "feeling": "Buried celebration unearthed a joyous, respectful swell of history and music.",
+        "genres": [
+          "Music",
+          "Documentary",
+          "History"
+        ]
+      },
+      {
+        "title": "Black Panther (2018)",
+        "rating": 3.5,
+        "feeling": "Regal world-building and earnest stakes engaged me without fully flooring me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dances with Wolves (1990)",
+        "rating": 4.0,
+        "feeling": "Earnest cross-cultural openness and frontier sweep gave me a steady, humane pull.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.0,
+        "feeling": "Dogged procedure and civic stakes built a satisfying, sober current of resolve.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

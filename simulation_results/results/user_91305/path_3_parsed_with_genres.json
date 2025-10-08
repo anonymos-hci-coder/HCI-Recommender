@@ -1,0 +1,1266 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "In the Mood for Love (2000)",
+      "The Third Man (1949)",
+      "Double Indemnity (1944)",
+      "The Apartment (1960)",
+      "Singin' in the Rain (1952)",
+      "The Umbrellas of Cherbourg (1964)",
+      "The Night of the Hunter (1955)",
+      "Rosemary's Baby (1968)",
+      "Don't Look Now (1973)",
+      "The Conversation (1974)",
+      "Mulholland Drive (2001)",
+      "Children of Men (2006)",
+      "Arrival (2016)",
+      "Her (2013)",
+      "Solaris (1972)",
+      "Stalker (1979)",
+      "2001: A Space Odyssey (1968)",
+      "The Lives of Others (2006)",
+      "Heat (1995)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "Unforgiven (1992)",
+      "The Long Goodbye (1973)",
+      "Nashville (1975)",
+      "The Grand Budapest Hotel (2014)",
+      "Spirited Away (2001)",
+      "The Vanishing (1988)",
+      "The Prestige (2006)",
+      "The Philadelphia Story (1940)",
+      "The 400 Blows (1959)",
+      "Man on Wire (2008)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "In the Mood for Love (2000)",
+        "rating": 5.0,
+        "feeling": "Floored by its restrained longing and visual elegance.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 5.0,
+        "feeling": "A perfectly taut, melancholy noir that lingers.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 5.0,
+        "feeling": "Seductive, razor-sharp fatalism done to perfection.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 5.0,
+        "feeling": "Tender, acidic, and irresistibly humane.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 4.5,
+        "feeling": "Pure cinematic joy with wit to spare.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Umbrellas of Cherbourg (1964)",
+        "rating": 4.5,
+        "feeling": "Heartbreaking and swooningly stylized.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Night of the Hunter (1955)",
+        "rating": 4.5,
+        "feeling": "Haunting fairy-tale menace that sticks to the bones.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rosemary's Baby (1968)",
+        "rating": 4.5,
+        "feeling": "Slow-burn dread with exquisite urban paranoia.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Don't Look Now (1973)",
+        "rating": 4.5,
+        "feeling": "An eerie, grief-soaked atmosphere that unsettled me deeply.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 5.0,
+        "feeling": "Austere, gripping paranoia that tightened like a vise.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Mulholland Drive (2001)",
+        "rating": 4.5,
+        "feeling": "Seductive, dream-logic noir I want to sink back into.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Visceral world-weariness pierced by fragile hope.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Elegant, intimate sci-fi that left a quiet ache.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 5.0,
+        "feeling": "A tender, futuristic melancholy that felt painfully recognizable.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Solaris (1972)",
+        "rating": 4.5,
+        "feeling": "A hypnotic meditation that seeped under my skin.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Stalker (1979)",
+        "rating": 4.5,
+        "feeling": "A transfixing pilgrimage into doubt and desire.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "2001: A Space Odyssey (1968)",
+        "rating": 5.0,
+        "feeling": "Austere cosmic awe that left me hushed.",
+        "genres": [
+          "Science Fiction",
+          "Mystery",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.5,
+        "feeling": "Taut, humane espionage that broke my heart.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "A grand, melancholic cops-and-robbers epic with pulse and soul.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 4.0,
+        "feeling": "Languid, mournful beauty I admired more than I loved.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Unforgiven (1992)",
+        "rating": 4.5,
+        "feeling": "A brutal, sobering elegy for mythic violence.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Long Goodbye (1973)",
+        "rating": 4.5,
+        "feeling": "Shaggy, sardonic noir that slinks under the skin.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Nashville (1975)",
+        "rating": 4.5,
+        "feeling": "A wry, sprawling tapestry that feels eerily contemporary.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Grand Budapest Hotel (2014)",
+        "rating": 4.0,
+        "feeling": "Dazzlingly crafted, wistful caper whose sweetness occasionally over-sugars.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.5,
+        "feeling": "Luminous, inventive wonder with a bittersweet hush.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Vanishing (1988)",
+        "rating": 4.5,
+        "feeling": "A chillingly precise nightmare that won't let go.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.0,
+        "feeling": "A clever, moody puzzle whose obsession lingered more than its twists.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.5,
+        "feeling": "Effervescent wit with a tender, grown-up heart.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The 400 Blows (1959)",
+        "rating": 4.5,
+        "feeling": "A clear-eyed, plaintive ode to youth that stung.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Man on Wire (2008)",
+        "rating": 4.5,
+        "feeling": "Exhilarating and human, it left me grinning with awe.",
+        "genres": [
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Brief Encounter (1945)",
+      "Chungking Express (1994)",
+      "Carol (2015)",
+      "Before Sunrise (1995)",
+      "Portrait of a Lady on Fire (2019)",
+      "Past Lives (2023)",
+      "Drive My Car (2021)",
+      "Chinatown (1974)",
+      "Le Samoura\u00ef (1967)",
+      "L.A. Confidential (1997)",
+      "Zodiac (2007)",
+      "Memories of Murder (2003)",
+      "The Secret in Their Eyes (2009)",
+      "The Wages of Fear (1953)",
+      "Ex Machina (2014)",
+      "Under the Skin (2013)",
+      "Blade Runner 2049 (2017)",
+      "Brazil (1985)",
+      "The Wicker Man (1973)",
+      "Cure (1997)",
+      "Paths of Glory (1957)",
+      "Come and See (1985)",
+      "McCabe & Mrs. Miller (1971)",
+      "In Bruges (2008)",
+      "The Nice Guys (2016)",
+      "The Iron Giant (1999)",
+      "The Tale of the Princess Kaguya (2013)",
+      "A Separation (2011)",
+      "Tinker Tailor Soldier Spy (2011)",
+      "Inside Llewyn Davis (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 5.0,
+        "feeling": "A hushed, aching whirlwind of duty and desire that left me trembling.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Chungking Express (1994)",
+        "rating": 4.5,
+        "feeling": "Effervescent melancholy, neon-lit and weightless, that made my heart flutter.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.5,
+        "feeling": "Silken restraint and glances like arrows",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.5,
+        "feeling": "Talk as courtship, time slipping\u2014intimate, buoyant, quietly devastating.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 5.0,
+        "feeling": "A blaze of restraint and gaze",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Past Lives (2023)",
+        "rating": 4.5,
+        "feeling": "A tender ache of roads not taken that lingered like a held breath.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Drive My Car (2021)",
+        "rating": 4.5,
+        "feeling": "Patient, resonant grief turned to communion",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 5.0,
+        "feeling": "Sun-blasted fatalism with perfect dread",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Le Samoura\u00ef (1967)",
+        "rating": 4.5,
+        "feeling": "Glacial elegance and moral solitude that hypnotized me.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 4.5,
+        "feeling": "Grand, bruised noir mechanics clicking into place with bittersweet grace.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.5,
+        "feeling": "Meticulous obsession tightening like a noose",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Memories of Murder (2003)",
+        "rating": 4.5,
+        "feeling": "Bleakly funny, profoundly haunting\u2014ambiguity that keeps echoing.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.5,
+        "feeling": "Romance and regret braided into a gripping, mournful procedural.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Wages of Fear (1953)",
+        "rating": 5.0,
+        "feeling": "Sweat, dust, and dread\u2014pure suspense that rattled my nerves.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Under the Skin (2013)",
+        "rating": 3.5,
+        "feeling": "Sparse, tactile yearning where silence did the talking",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Blade Runner 2049 (2017)",
+        "rating": 4.5,
+        "feeling": "Vast, mournful futurism\u2014lonely beauty that swallowed me whole.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Brazil (1985)",
+        "rating": 4.0,
+        "feeling": "Barbed, baroque nightmare farce\u2014dazzling, if a touch suffocating.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Wicker Man (1973)",
+        "rating": 4.5,
+        "feeling": "Sunlit dread and ritual unease that crept under my skin.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Cure (1997)",
+        "rating": 4.5,
+        "feeling": "A chill of moral erosion\u2014hypnosis of dread that lingered.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 5.0,
+        "feeling": "Righteous fury honed to clarity",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Come and See (1985)",
+        "rating": 4.5,
+        "feeling": "A harrowing, hallucinatory march through hell that left me shaken.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "McCabe & Mrs. Miller (1971)",
+        "rating": 4.5,
+        "feeling": "Snowy melancholy and anti-mythic drift\u2014gorgeous, sorrowful spell.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 4.0,
+        "feeling": "Profane, tender penance in a fairy-tale trap",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.5,
+        "feeling": "Breezy, shaggy fun with a melancholy aftertaste",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.5,
+        "feeling": "Open-hearted wonder and sacrifice that left me misty-eyed.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.5,
+        "feeling": "Delicate brushstrokes of sorrow and grace",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Separation (2011)",
+        "rating": 5.0,
+        "feeling": "Taut, humane moral knots that tightened around my heart.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tinker Tailor Soldier Spy (2011)",
+        "rating": 4.5,
+        "feeling": "Muted, meticulous chess\u2014every glance a revelation.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Inside Llewyn Davis (2013)",
+        "rating": 4.5,
+        "feeling": "A wintry loop of failed grace",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Notorious (1946)",
+      "Out of the Past (1947)",
+      "Laura (1944)",
+      "Rififi (1955)",
+      "Army of Shadows (1969)",
+      "The Spy Who Came in from the Cold (1965)",
+      "Sweet Smell of Success (1957)",
+      "Tokyo Story (1953)",
+      "Ugetsu (1953)",
+      "The Earrings of Madame de... (1953)",
+      "Letter from an Unknown Woman (1948)",
+      "The Red Shoes (1948)",
+      "The Young Girls of Rochefort (1967)",
+      "Paris, Texas (1984)",
+      "Wings of Desire (1987)",
+      "Three Colors: Red (1994)",
+      "The Double Life of V\u00e9ronique (1991)",
+      "The Remains of the Day (1993)",
+      "The Age of Innocence (1993)",
+      "Yi Yi (2000)",
+      "Happy Together (1997)",
+      "The Innocents (1961)",
+      "Picnic at Hanging Rock (1975)",
+      "The Witch (2015)",
+      "The Thin Blue Line (1988)",
+      "Grave of the Fireflies (1988)",
+      "Collateral (2004)",
+      "Sicario (2015)",
+      "The Power of the Dog (2021)",
+      "Decision to Leave (2022)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Notorious (1946)",
+        "rating": 5.0,
+        "feeling": "Silken espionage and bruised romance that left me breathless.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Out of the Past (1947)",
+        "rating": 4.5,
+        "feeling": "Smoky fatalism and doomed desire that lingered.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.5,
+        "feeling": "Lush, eerie obsession wrapped in velvety wit.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Rififi (1955)",
+        "rating": 5.0,
+        "feeling": "Clockwork suspense and bruised honor had me gripping the armrest.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Army of Shadows (1969)",
+        "rating": 5.0,
+        "feeling": "Austere, soul-bruising resistance that hollowed me out.",
+        "genres": [
+          "War",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Spy Who Came in from the Cold (1965)",
+        "rating": 4.5,
+        "feeling": "Bleak, meticulous betrayal that chilled me.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sweet Smell of Success (1957)",
+        "rating": 4.5,
+        "feeling": "Venomous wit and moral rot crackling in every line.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tokyo Story (1953)",
+        "rating": 5.0,
+        "feeling": "Gentle, devastating clarity that left me hushed.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ugetsu (1953)",
+        "rating": 4.5,
+        "feeling": "Ethereal sorrow and war-haunted folly that bewitched me.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Earrings of Madame de... (1953)",
+        "rating": 5.0,
+        "feeling": "Gliding heartbreak and doomed elegance that stung.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Letter from an Unknown Woman (1948)",
+        "rating": 5.0,
+        "feeling": "Achingly devoted memory-play that leveled me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Red Shoes (1948)",
+        "rating": 4.5,
+        "feeling": "Rapturous artistry and cruel devotion that swept me away.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Young Girls of Rochefort (1967)",
+        "rating": 4.0,
+        "feeling": "Sunny, effervescent confection with a wistful undercurrent.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paris, Texas (1984)",
+        "rating": 4.5,
+        "feeling": "Spare, aching road of return that stayed with me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Wings of Desire (1987)",
+        "rating": 4.5,
+        "feeling": "Hushed, humane longing that felt like a benediction.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Three Colors: Red (1994)",
+        "rating": 5.0,
+        "feeling": "Tender chance and moral communion that quietly floored me.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Double Life of V\u00e9ronique (1991)",
+        "rating": 4.5,
+        "feeling": "Gossamer mystery and mirrored yearning that entranced me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.5,
+        "feeling": "Buttoned-up ache and missed chances that crushed me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Age of Innocence (1993)",
+        "rating": 4.5,
+        "feeling": "Sumptuous repression and glances like daggers that thrilled me.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Yi Yi (2000)",
+        "rating": 5.0,
+        "feeling": "Clear-eyed, tender sprawl that made life feel bigger.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Happy Together (1997)",
+        "rating": 4.5,
+        "feeling": "Restless, luminous heartbreak that cut deep.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.5,
+        "feeling": "Silken dread and ambiguity that seeped under my skin.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Picnic at Hanging Rock (1975)",
+        "rating": 4.5,
+        "feeling": "Sun-dazed enigma and yearning that haunted me.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 1.5,
+        "feeling": "Noisy, joyless fantasy pulp that left me cold.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Thin Blue Line (1988)",
+        "rating": 4.5,
+        "feeling": "Mesmerizing formal inquiry that quietly outraged me.",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Grave of the Fireflies (1988)",
+        "rating": 5.0,
+        "feeling": "Devastating tenderness and war\u2019s cruelty left me shattered.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.5,
+        "feeling": "Neon melancholy and fatal glide that gripped me.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 4.0,
+        "feeling": "Icy, engulfing dread with moral fog that lingered.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Power of the Dog (2021)",
+        "rating": 4.5,
+        "feeling": "Coiled menace and repressed yearning blooming into a quiet gut-punch.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Decision to Leave (2022)",
+        "rating": 4.5,
+        "feeling": "Seductive, misty noir romance that left a bruise.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Vertigo (1958)",
+      "High and Low (1963)",
+      "The Killing (1956)",
+      "Touch of Evil (1958)",
+      "The Asphalt Jungle (1950)",
+      "Le Trou (1960)",
+      "The Maltese Falcon (1941)",
+      "The Big Sleep (1946)",
+      "The Manchurian Candidate (1962)",
+      "The Conformist (1970)",
+      "The Battle of Algiers (1966)",
+      "Ikiru (1952)",
+      "Harakiri (1962)",
+      "Cleo from 5 to 7 (1962)",
+      "Hiroshima mon amour (1959)",
+      "The Leopard (1963)",
+      "The Piano (1993)",
+      "Burning (2018)",
+      "Cold War (2018)",
+      "Infernal Affairs (2002)",
+      "A Prophet (2009)",
+      "The Shining (1980)",
+      "Onibaba (1964)",
+      "The Dark Knight (2008)",
+      "Mission: Impossible - Fallout (2018)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "Mad Max: Fury Road (2015)",
+      "WALL-E (2008)",
+      "Paddington 2 (2017)",
+      "Spider-Man: Into the Spider-Verse (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Vertigo (1958)",
+        "rating": 5.0,
+        "feeling": "Obsession curdled into vertigo and yearning left me spellbound and uneasy.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "High and Low (1963)",
+        "rating": 5.0,
+        "feeling": "Moral suspense honed to a blade had me breathless.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Killing (1956)",
+        "rating": 4.5,
+        "feeling": "Clockwork fatalism and smoky grit clicked with a cold jolt.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Touch of Evil (1958)",
+        "rating": 4.5,
+        "feeling": "Oily, baroque dread and corrupt gravity pulled me under.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Asphalt Jungle (1950)",
+        "rating": 4.5,
+        "feeling": "A bruised, methodical heist tragedy that throbbed with doomed inevitability.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Le Trou (1960)",
+        "rating": 5.0,
+        "feeling": "Patient, tactile escape craft whose quiet rigor had me gripping every scrape.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Maltese Falcon (1941)",
+        "rating": 4.5,
+        "feeling": "Velvet menace and hardboiled wit\u2014pure, sleek pleasure.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Big Sleep (1946)",
+        "rating": 4.0,
+        "feeling": "A giddy labyrinth of desire and deceit that delighted even as it drifted.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Manchurian Candidate (1962)",
+        "rating": 4.5,
+        "feeling": "Icy paranoia and tragic strings that burrowed into me.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Conformist (1970)",
+        "rating": 4.5,
+        "feeling": "Hypnotic design and moral rot\u2014beauty and cowardice entwined.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Battle of Algiers (1966)",
+        "rating": 5.0,
+        "feeling": "Nerve-shredding, humane immediacy that left me rattled and sober.",
+        "genres": [
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Ikiru (1952)",
+        "rating": 5.0,
+        "feeling": "Gentle, luminous grace blooming from despair left me quietly wrecked.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Harakiri (1962)",
+        "rating": 5.0,
+        "feeling": "Righteous, devastating unmasking of honor that cut to the bone.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Cleo from 5 to 7 (1962)",
+        "rating": 4.5,
+        "feeling": "Gliding, street-level anxiety turning to tender openness left me buoyant.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hiroshima mon amour (1959)",
+        "rating": 4.5,
+        "feeling": "Sorrow and memory braided into hushed intimacy that lingered.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Leopard (1963)",
+        "rating": 4.5,
+        "feeling": "Sumptuous elegy for a world slipping away\u2014melancholy in every gesture.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Piano (1993)",
+        "rating": 4.5,
+        "feeling": "Stormy desire and mute resolve pulsed with primal, aching beauty.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Burning (2018)",
+        "rating": 4.5,
+        "feeling": "Smoldering ambiguity and classed-up menace that haunted me long after.",
+        "genres": []
+      },
+      {
+        "title": "Cold War (2018)",
+        "rating": 4.5,
+        "feeling": "A bruised, elliptical waltz of love and exile that left me aching.",
+        "genres": [
+          "Romance",
+          "Music",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Infernal Affairs (2002)",
+        "rating": 4.5,
+        "feeling": "Lean, elegant tension with mournful symmetry\u2014gripping to the end.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Prophet (2009)",
+        "rating": 4.5,
+        "feeling": "A hardening of the soul rendered with piercing, lived-in clarity.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "Austere dread and haunted geometry that chilled me to the marrow.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Onibaba (1964)",
+        "rating": 4.5,
+        "feeling": "Sweltering, feral desire curdling into mythic terror left me shaken.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 4.5,
+        "feeling": "Operatic crime saga with sorrow in its veins had me riveted.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.0,
+        "feeling": "Breathless precision and physical bravura thrilled me, if more pulse than ache.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.5,
+        "feeling": "Airborne longing and fatal grace swept me away.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mad Max: Fury Road (2015)",
+        "rating": 4.5,
+        "feeling": "Pure, propulsive invention\u2014feral ballet that left me exhilarated.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.5,
+        "feeling": "Tender futurist melancholy and quiet wonder warmed me through.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Kindness as adventure\u2014spry, wholehearted joy with a misty afterglow.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Dizzying pop exuberance anchored by a tender coming-of-age glow.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1138 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Thing (1982)",
+      "The Fly (1986)",
+      "Alien (1979)",
+      "Aliens (1986)",
+      "28 Days Later (2002)",
+      "[REC] (2007)",
+      "The Descent (2005)",
+      "The Wailing (2016)",
+      "Let the Right One In (2008)",
+      "It Follows (2014)",
+      "The Witch (2015)",
+      "The Shining (1980)",
+      "The Mist (2007)",
+      "A Quiet Place (2018)",
+      "Children of Men (2006)",
+      "Ex Machina (2014)",
+      "Arrival (2016)",
+      "Annihilation (2018)",
+      "Predator (1987)",
+      "30 Days of Night (2007)",
+      "The Howling (1981)",
+      "The Texas Chain Saw Massacre (1974)",
+      "The Strangers (2008)",
+      "Bone Tomahawk (2015)",
+      "Green Room (2015)",
+      "Hush (2016)",
+      "The Host (2006)",
+      "Dawn of the Dead (2004)",
+      "The Girl with All the Gifts (2016)",
+      "The Loved Ones (2009)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Thing (1982)",
+        "rating": 5.0,
+        "feeling": "Paranoia, isolation, and a shape-shifting nightmare\u2014this is exactly my kind of terror.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Fly (1986)",
+        "rating": 4.5,
+        "feeling": "Grotesque and tragic body-horror that hit hard and stuck with me.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Alien (1979)",
+        "rating": 5.0,
+        "feeling": "Perfect slow-burn space dread that squeezed me from start to finish.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 4.5,
+        "feeling": "White-knuckle sci-fi carnage with real stakes and momentum.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "28 Days Later (2002)",
+        "rating": 4.5,
+        "feeling": "Bleak, propulsive survival that burrowed under my skin.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "[REC] (2007)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic and escalating in all the right ways.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Descent (2005)",
+        "rating": 4.5,
+        "feeling": "Suffocating tension and vicious turns that had me clenched.",
+        "genres": [
+          "Adventure",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Wailing (2016)",
+        "rating": 3.5,
+        "feeling": "Uneasy and haunting, though the deliberate pace tested me.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Let the Right One In (2008)",
+        "rating": 3.0,
+        "feeling": "Quietly unsettling and tender, but a bit too hushed for me.",
+        "genres": [
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "It Follows (2014)",
+        "rating": 2.0,
+        "feeling": "This felt mismatched and never clicked with me.",
+        "genres": [
+          "Animation",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Witch (2015)",
+        "rating": 2.5,
+        "feeling": "Slick fantasy action that left me cold.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Shining (1980)",
+        "rating": 4.5,
+        "feeling": "Oppressive atmosphere and mounting madness that I loved sinking into.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Mist (2007)",
+        "rating": 4.0,
+        "feeling": "Nerve-shredding siege and cosmic dread that hit a nasty sweet spot.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 4.0,
+        "feeling": "Smart, tense, and heartfelt with a killer high-concept hook.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.5,
+        "feeling": "Visceral, grounded future-shock that felt terrifyingly real.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Thoughtful and somber, engaging my head more than my gut.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Annihilation (2018)",
+        "rating": 4.5,
+        "feeling": "Eerie, mind-bending sci-fi horror that lingered like a bruise.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Predator (1987)",
+        "rating": 4.0,
+        "feeling": "Brutal jungle cat-and-mouse that still rips.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "30 Days of Night (2007)",
+        "rating": 4.0,
+        "feeling": "A savage, wintry siege that scratched my survival-horror itch.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Howling (1981)",
+        "rating": 3.0,
+        "feeling": "Solid werewolf vibes I respect more than I loved.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Texas Chain Saw Massacre (1974)",
+        "rating": 4.0,
+        "feeling": "Grimy, relentless nightmare energy that still got to me.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Strangers (2008)",
+        "rating": 4.0,
+        "feeling": "Simple, merciless home invasion that rattled me.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bone Tomahawk (2015)",
+        "rating": 4.0,
+        "feeling": "Slow burn frontier dread that erupts into brutal horror.",
+        "genres": [
+          "Western",
+          "Horror",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Hush (2016)",
+        "rating": 4.0,
+        "feeling": "Taut and clever with sharp, sensory-driven suspense.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Host (2006)",
+        "rating": 4.0,
+        "feeling": "Family-driven monster chaos with real stakes and momentum.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dawn of the Dead (2004)",
+        "rating": 4.0,
+        "feeling": "Punchy, kinetic zombie mayhem I had a blast with.",
+        "genres": [
+          "Horror",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Girl with All the Gifts (2016)",
+        "rating": 3.5,
+        "feeling": "Fresh ideas and mood, even if it wobbles at times.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Loved Ones (2009)",
+        "rating": 2.0,
+        "feeling": "This polished rom-com vibe isn\u2019t in my wheelhouse at all.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Blob (1988)",
+      "Prince of Darkness (1987)",
+      "In the Mouth of Madness (1994)",
+      "Event Horizon (1997)",
+      "Pitch Black (2000)",
+      "28 Weeks Later (2007)",
+      "The Crazies (2010)",
+      "Stake Land (2010)",
+      "You're Next (2011)",
+      "The Borderlands (2013)",
+      "As Above, So Below (2014)",
+      "The Taking of Deborah Logan (2014)",
+      "Green Room (2015)",
+      "The Devil's Candy (2015)",
+      "The Void (2016)",
+      "10 Cloverfield Lane (2016)",
+      "Life (2017)",
+      "The Ritual (2017)",
+      "Overlord (2018)",
+      "Upgrade (2018)",
+      "The Platform (2019)",
+      "The Invisible Man (2020)",
+      "Possessor (2020)",
+      "Underwater (2020)",
+      "The Empty Man (2020)",
+      "A Quiet Place Part II (2021)",
+      "Barbarian (2022)",
+      "Prey (2022)",
+      "Splinter (2008)",
+      "Cloverfield (2008)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Blob (1988)",
+        "rating": 4.0,
+        "feeling": "Gooey practical mayhem and small-town siege vibes hit my creature-feature sweet spot.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Prince of Darkness (1987)",
+        "rating": 4.0,
+        "feeling": "Science-meets-occult siege with creeping cosmic dread that I loved sinking into.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Event Horizon (1997)",
+        "rating": 4.0,
+        "feeling": "Grim, space-bound nightmare corridors and mounting dread kept me clenched.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Pitch Black (2000)",
+        "rating": 4.0,
+        "feeling": "Lean survival with a killer light-vs-dark hook and sharp creature tension.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "28 Weeks Later (2007)",
+        "rating": 4.0,
+        "feeling": "A brutal, breathless follow-up that keeps the rage-fueled survival pressure on.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Crazies (2010)",
+        "rating": 4.0,
+        "feeling": "Small-town outbreak chaos and siege energy scratched my survival-horror itch.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Action"
+        ]
+      },
+      {
+        "title": "Stake Land (2010)",
+        "rating": 3.5,
+        "feeling": "Bleak, road-warrior vampire survival that worked more on mood than momentum for me.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Borderlands (2013)",
+        "rating": 2.5,
+        "feeling": "Vague, slow-burn supernatural threads left me more cool than rattled.",
+        "genres": [
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "As Above, So Below (2014)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic descent and escalating occult madness pressed all my buttons.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Taking of Deborah Logan (2014)",
+        "rating": 3.5,
+        "feeling": "From intimate decay to unnerving possession, it got under my skin enough.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Void (2016)",
+        "rating": 4.0,
+        "feeling": "Bleak hospital siege with gnarly transformations and culty cosmic terror I dig.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.0,
+        "feeling": "Paranoid bunker mind games with real stakes had me on edge start to finish.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Life (2017)",
+        "rating": 4.0,
+        "feeling": "Tense, grim space survival and a smart predator vibe I can\u2019t resist.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ritual (2017)",
+        "rating": 3.5,
+        "feeling": "Forest grief and stalking menace worked, even if the pace wobbles.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Overlord (2018)",
+        "rating": 4.0,
+        "feeling": "Grimy wartime carnage meets monster mayhem in a punchy, nasty package.",
+        "genres": [
+          "Horror",
+          "War",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Upgrade (2018)",
+        "rating": 4.0,
+        "feeling": "Visceral, propulsive techno-revenge with bone-crunching payoff.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Platform (2019)",
+        "rating": 4.0,
+        "feeling": "A ruthless high-concept pressure cooker that gnawed at me.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Invisible Man (2020)",
+        "rating": 4.0,
+        "feeling": "Gaslighted tech-terror with taut, relentless tension that landed.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Possessor (2020)",
+        "rating": 4.5,
+        "feeling": "Cold-blooded identity erosion and flesh-and-mind horror that lingered like a bruise.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Underwater (2020)",
+        "rating": 4.0,
+        "feeling": "Relentless deep-sea sprint with suffocating pressure and creature dread.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Empty Man (2020)",
+        "rating": 3.5,
+        "feeling": "Moody occult mystery with unsettling ideas that outpaced its pulse.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "A Quiet Place Part II (2021)",
+        "rating": 4.0,
+        "feeling": "Tense, kinetic continuation that widens the world without losing the grip.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Barbarian (2022)",
+        "rating": 4.0,
+        "feeling": "Twisty, nasty descent that blindsides and then bludgeons.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prey (2022)",
+        "rating": 4.0,
+        "feeling": "Lean, primal hunt-and-be-hunted thrills that scratched my Predator itch.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Splinter (2008)",
+        "rating": 4.0,
+        "feeling": "Tight gas-station siege and savage parasite body-horror right in my lane.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Cloverfield (2008)",
+        "rating": 4.0,
+        "feeling": "Adrenalized, ground-level monster chaos that never lets you breathe.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "In the Mouth of Madness (1994)",
+      "The Autopsy of Jane Doe (2016)",
+      "The Ruins (2008)",
+      "Green Room (2015)",
+      "Don't Breathe (2016)",
+      "Sinister (2012)",
+      "The Relic (1997)",
+      "From Beyond (1986)",
+      "Dog Soldiers (2002)",
+      "The Fog (1980)",
+      "The Abyss (1989)",
+      "Leviathan (1989)",
+      "Pandorum (2009)",
+      "Europa Report (2013)",
+      "Gravity (2013)",
+      "Predators (2010)",
+      "Dredd (2012)",
+      "Snowpiercer (2013)",
+      "The Terminator (1984)",
+      "Terminator 2: Judgment Day (1991)",
+      "[REC] 2 (2009)",
+      "Videodrome (1983)",
+      "World War Z (2013)",
+      "The Grey (2011)",
+      "Coherence (2013)",
+      "The Purge: Anarchy (2014)",
+      "Hell House LLC (2015)",
+      "Near Dark (1987)",
+      "Tremors (1990)",
+      "Moon (2009)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Autopsy of Jane Doe (2016)",
+        "rating": 4.0,
+        "feeling": "Claustrophobic morgue mystery that escalates into occult dread right in my comfort zone.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Ruins (2008)",
+        "rating": 4.0,
+        "feeling": "Sun-baked survival and nasty vine-body-horror that gnawed at me.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Don't Breathe (2016)",
+        "rating": 4.0,
+        "feeling": "Mean, tightly wound home-invasion reversal that had me clenched.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sinister (2012)",
+        "rating": 3.5,
+        "feeling": "The Super 8 snuff chill worked, even if the slow-burn supernatural beats wavered.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Relic (1997)",
+        "rating": 3.5,
+        "feeling": "Museum-creature siege with chunky practical menace I had fun with.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "From Beyond (1986)",
+        "rating": 4.0,
+        "feeling": "Gooey Lovecraftian mind-and-flesh ripper that scratched my body-horror itch.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dog Soldiers (2002)",
+        "rating": 4.0,
+        "feeling": "Soldier-siege werewolf chaos\u2014grimy, punchy, and right up my alley.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fog (1980)",
+        "rating": 3.5,
+        "feeling": "Moody Carpenter ghost-story vibes that creep more than crush.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 4.0,
+        "feeling": "Deep-sea pressure and wonder with enough peril to keep me hooked.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Leviathan (1989)",
+        "rating": 3.5,
+        "feeling": "Pulp submarine-crew vs. mutation fun with a grungy creature-feature bite.",
+        "genres": [
+          "Adventure",
+          "Horror",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Pandorum (2009)",
+        "rating": 4.0,
+        "feeling": "Grim, amnesiac space-hulk nightmare corridors that kept the tension tight.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Mystery",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Europa Report (2013)",
+        "rating": 3.5,
+        "feeling": "Plausible, chilly space mission that intrigued more than it rattled.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.0,
+        "feeling": "Bare-knuckle survival-in-space that never let the oxygen\u2014or tension\u2014up.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Predators (2010)",
+        "rating": 3.5,
+        "feeling": "Serviceable jungle-hunt remix that delivers solid cat-and-mouse heat.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dredd (2012)",
+        "rating": 4.0,
+        "feeling": "Brutal, propulsive tower-siege that hits like a sledgehammer.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Snowpiercer (2013)",
+        "rating": 4.0,
+        "feeling": "Class-war gauntlet with icy momentum and bruising stakes.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Terminator (1984)",
+        "rating": 4.5,
+        "feeling": "Relentless techno-noir pursuit machine that still rips.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 4.5,
+        "feeling": "Bombastic, high-stakes evolution that keeps the pulse pounding.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "[REC] 2 (2009)",
+        "rating": 4.0,
+        "feeling": "Kinetic, claustrophobic continuation that keeps the infection panic hot.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Videodrome (1983)",
+        "rating": 4.5,
+        "feeling": "Flesh-tech hallucinations and media rot that burrowed under my skin.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "World War Z (2013)",
+        "rating": 3.5,
+        "feeling": "Globe-trotting outbreak thrills with momentum if not much bite.",
+        "genres": [
+          "Action",
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Grey (2011)",
+        "rating": 1.5,
+        "feeling": "Cheeky animal adventure isn\u2019t my lane at all.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Coherence (2013)",
+        "rating": 4.0,
+        "feeling": "Dinner-party paranoia spiral with sharp, reality-bending unease.",
+        "genres": [
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Purge: Anarchy (2014)",
+        "rating": 3.5,
+        "feeling": "Urban-night survival run that\u2019s messy but satisfyingly tense.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hell House LLC (2015)",
+        "rating": 4.0,
+        "feeling": "Found-footage haunt that builds real dread inside a cursed attraction.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Near Dark (1987)",
+        "rating": 4.0,
+        "feeling": "Dusty vampire road-nightmare with a mean, intimate bite.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Tremors (1990)",
+        "rating": 3.5,
+        "feeling": "Creature-feature siege with crowd-pleasing grit and a wink that mostly works.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Moon (2009)",
+        "rating": 4.0,
+        "feeling": "Lonely, cerebral sci-fi with identity cracks and a quiet, lingering chill.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Hellraiser (1987)",
+      "Hellbound: Hellraiser II (1988)",
+      "Green Room (2015)",
+      "You're Next (2011)",
+      "Triangle (2009)",
+      "The Belko Experiment (2016)",
+      "Mayhem (2017)",
+      "The Bay (2012)",
+      "Afflicted (2013)",
+      "V/H/S/2 (2013)",
+      "Host (2020)",
+      "Color Out of Space (2019)",
+      "The Brood (1979)",
+      "Society (1989)",
+      "The Dark and the Wicked (2020)",
+      "The Devil's Candy (2015)",
+      "Apostle (2018)",
+      "Talk to Me (2022)",
+      "His House (2020)",
+      "No One Will Save You (2023)",
+      "Sputnik (2020)",
+      "Sea Fever (2019)",
+      "Splice (2009)",
+      "District 9 (2009)",
+      "Edge of Tomorrow (2014)",
+      "Riddick (2013)",
+      "Attack the Block (2011)",
+      "Eden Lake (2008)",
+      "Cube (1997)",
+      "The Night House (2020)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Hellraiser (1987)",
+        "rating": 4.5,
+        "feeling": "Gnarly flesh-craft and occult dread with a puzzle-box pull that pressed all my buttons.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Hellbound: Hellraiser II (1988)",
+        "rating": 4.0,
+        "feeling": "Bigger, bloodier labyrinth of flesh and doom that keeps the nightmare momentum hot.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Triangle (2009)",
+        "rating": 4.0,
+        "feeling": "Clever, looping sea-dread that tightens the noose with each pass.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Belko Experiment (2016)",
+        "rating": 3.5,
+        "feeling": "Mean, blunt-force office survival that satisfies even if it lacks much nuance.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mayhem (2017)",
+        "rating": 3.0,
+        "feeling": "Gory, gleeful chaos that plays, but the jokey tone keeps me at arm\u2019s length.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Bay (2012)",
+        "rating": 4.0,
+        "feeling": "Credible found-footage outbreak with nasty parasite beats that gnawed at me.",
+        "genres": [
+          "Horror",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "V/H/S/2 (2013)",
+        "rating": 3.5,
+        "feeling": "Uneven tape-dread, but the highs deliver manic, claustrophobic terror jolts.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Host (2020)",
+        "rating": 4.0,
+        "feeling": "Lean, ruthless Zoom s\u00e9ance that ramps hard and never lets up.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Brood (1979)",
+        "rating": 4.0,
+        "feeling": "Cold-blooded psychofury and flesh made manifest\u2014clinical, nasty, right up my alley.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Society (1989)",
+        "rating": 3.5,
+        "feeling": "Goofy class satire that coasts until the gloriously grotesque payoffs hit.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Dark and the Wicked (2020)",
+        "rating": 4.0,
+        "feeling": "Bleak, relentless farmhouse decay that seeped under my skin and stayed.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "Apostle (2018)",
+        "rating": 3.5,
+        "feeling": "Grimy cult dread with flashes of gnarly brutality that work even as the pace wobbles.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Talk to Me (2022)",
+        "rating": 2.5,
+        "feeling": "Locked-door father\u2013son drama that\u2019s fine but too subdued for my tastes.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "His House (2020)",
+        "rating": 4.0,
+        "feeling": "Refugee guilt and haunted-house terror fuse into tight, unsettling dread that landed.",
+        "genres": [
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "No One Will Save You (2023)",
+        "rating": 4.0,
+        "feeling": "Silent, relentless alien siege that scratches both my home-invasion and creature-feature itches.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Sputnik (2020)",
+        "rating": 4.0,
+        "feeling": "Cold War creature-containment with clinical menace and steady dread I dig.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "District 9 (2009)",
+        "rating": 4.5,
+        "feeling": "Grimy alien apartheid with propulsive body-horror stakes that hit hard.",
+        "genres": [
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "Relentless, clever loop-war that keeps the pulse pounding and the stakes sharp.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Riddick (2013)",
+        "rating": 3.5,
+        "feeling": "Back-to-basics monster night-hunt that works, even if it\u2019s a rougher remix.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Attack the Block (2011)",
+        "rating": 4.0,
+        "feeling": "Street-level creature siege with punchy momentum that kept me grinning and tense.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Eden Lake (2008)",
+        "rating": 4.0,
+        "feeling": "Mean, grounded survival spiral that left me clenched and seething.",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Night House (2020)",
+        "rating": 2.5,
+        "feeling": "Campy mad-science shenanigans aren\u2019t my lane, even with the pulpy brain-swap hooks.",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

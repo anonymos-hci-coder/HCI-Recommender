@@ -1,0 +1,1327 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Mummy (1999)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Mask of Zorro (1998)",
+      "National Treasure (2004)",
+      "Gladiator (2000)",
+      "300 (2006)",
+      "Kingdom of Heaven (2005)",
+      "Minority Report (2002)",
+      "Edge of Tomorrow (2014)",
+      "Constantine (2005)",
+      "Underworld (2003)",
+      "The Prestige (2006)",
+      "Shutter Island (2010)",
+      "The Da Vinci Code (2006)",
+      "Now You See Me (2013)",
+      "The Sixth Sense (1999)",
+      "The Others (2001)",
+      "A Quiet Place (2018)",
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "About Time (2013)",
+      "Her (2013)",
+      "The Adjustment Bureau (2011)",
+      "Stardust (2007)",
+      "Enchanted (2007)",
+      "Pride & Prejudice (2005)",
+      "Atonement (2007)",
+      "Once (2007)",
+      "Sing Street (2016)",
+      "The Imposter (2012)",
+      "Searching for Sugar Man (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Mummy (1999)",
+        "rating": 4.5,
+        "feeling": "Classic cursed-tomb adventure with mythic stakes scratches my pulpy action-fantasy itch.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 4.0,
+        "feeling": "Swashbuckling rescue quest with a dash of romance and supernatural flair is a fun ride.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.0,
+        "feeling": "Mentor-protege revenge tale with romantic heroics hits my adventure sweet spot.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 4.5,
+        "feeling": "History-laced clue-chasing and secret codes are exactly the kind of breezy mystery-thriller I enjoy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gladiator (2000)",
+        "rating": 4.5,
+        "feeling": "Honor, betrayal, and arena battles in a sweeping historical saga really hook me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "300 (2006)",
+        "rating": 2.0,
+        "feeling": "Abstract miniDV experiment feels too obscure and far from my mainstream tastes.",
+        "genres": []
+      },
+      {
+        "title": "Kingdom of Heaven (2005)",
+        "rating": 4.0,
+        "feeling": "Crusades-era intrigue and large-scale clashes are engaging even when the politics slow down.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Adventure",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.5,
+        "feeling": "High-concept sci-fi chase with moral dilemmas and relentless momentum is my jam.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.0,
+        "feeling": "Time-loop combat with evolving stakes is clever and exhilarating.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Constantine (2005)",
+        "rating": 4.0,
+        "feeling": "Occult gumshoeing through demons and angels satisfies my taste for moody supernatural action.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Underworld (2003)",
+        "rating": 4.0,
+        "feeling": "Slick vampire-werewolf war with a forbidden connection fits my stylish action cravings.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 4.5,
+        "feeling": "Obsessive rivalry and twisty science-tinged mystery kept me riveted.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Shutter Island (2010)",
+        "rating": 4.0,
+        "feeling": "Moody investigation and creeping doubts kept me guessing to the end.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Da Vinci Code (2006)",
+        "rating": 4.0,
+        "feeling": "Religious secrets, symbols, and globe-trotting puzzle solving are right up my alley.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Now You See Me (2013)",
+        "rating": 3.5,
+        "feeling": "Flashy heists staged as illusions are entertaining even if the plot is a bit glib.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Sixth Sense (1999)",
+        "rating": 4.0,
+        "feeling": "Quietly haunting mystery with an emotional core lands well for me.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Others (2001)",
+        "rating": 3.5,
+        "feeling": "Atmospheric, slow-burn hauntings work, though the pacing tests my patience.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Quiet Place (2018)",
+        "rating": 3.5,
+        "feeling": "Tense survival conceit is strong, but creature scares are not fully my comfort zone.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Bittersweet memory-bending love story hits both my sci-fi curiosity and romantic side.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Warm time-travel romance with life lessons leaves me smiling.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Her (2013)",
+        "rating": 4.0,
+        "feeling": "Tender tech-age romance that probes connection resonates more than I expected.",
+        "genres": [
+          "Romance",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Adjustment Bureau (2011)",
+        "rating": 4.0,
+        "feeling": "Fate-vs-free will chase wrapped around a steadfast romance clicks for me.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.5,
+        "feeling": "Whimsical quest with romance and magic charms me, if a touch lightweight.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 3.5,
+        "feeling": "Fish-out-of-fairy-tale fun is cute, though the family-comedy tone keeps it modest.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Elegant, slow-burn romance and class tensions feel rewarding and heartfelt.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 4.0,
+        "feeling": "Sweeping guilt and love across wartime is poignant, if a bit somber.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 4.0,
+        "feeling": "Intimate music-driven romance feels sincere and moving.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.0,
+        "feeling": "Forming a band to woo a girl is irresistibly upbeat and heartfelt.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Imposter (2012)",
+        "rating": 4.5,
+        "feeling": "True-crime deception story is chilling and utterly gripping.",
+        "genres": [
+          "Documentary",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Searching for Sugar Man (2012)",
+        "rating": 4.5,
+        "feeling": "Music-detective quest with real heart leaves me inspired.",
+        "genres": [
+          "Music",
+          "Documentary"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Sherlock Holmes (2009)",
+      "Sherlock Holmes: A Game of Shadows (2011)",
+      "National Treasure: Book of Secrets (2007)",
+      "The Illusionist (2006)",
+      "Memento (2000)",
+      "Source Code (2011)",
+      "Looper (2012)",
+      "Deja Vu (2006)",
+      "The Dark Knight (2008)",
+      "X-Men: Days of Future Past (2014)",
+      "The Bourne Identity (2002)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "The Last Samurai (2003)",
+      "Braveheart (1995)",
+      "The Count of Monte Cristo (2002)",
+      "Crouching Tiger, Hidden Dragon (2000)",
+      "Hellboy (2004)",
+      "The Devil's Advocate (1997)",
+      "The Ring (2002)",
+      "The Orphanage (2007)",
+      "Crimson Peak (2015)",
+      "Pan's Labyrinth (2006)",
+      "La La Land (2016)",
+      "Begin Again (2013)",
+      "Safety Not Guaranteed (2012)",
+      "The Time Traveler's Wife (2009)",
+      "The Princess Bride (1987)",
+      "Senna (2010)",
+      "Three Identical Strangers (2018)",
+      "Spider-Man: Into the Spider-Verse (2018)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Sherlock Holmes (2009)",
+        "rating": 4.0,
+        "feeling": "Victorian clue-chasing with punchy banter and conspiratorial stakes hits my mystery-adventure sweet spot.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Sherlock Holmes: A Game of Shadows (2011)",
+        "rating": 3.5,
+        "feeling": "More globe-trotting mind games and bromance fun, a bit flashier and looser but still entertaining.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "National Treasure: Book of Secrets (2007)",
+        "rating": 4.0,
+        "feeling": "History-laced puzzles and frantic treasure-hunting scratches my breezy mystery-thriller itch.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Illusionist (2006)",
+        "rating": 4.0,
+        "feeling": "Moody period romance wrapped in magician mind games is exactly the twisty vibe I enjoy.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 4.5,
+        "feeling": "Clever, gripping puzzle-box suspense that rewards attention and keeps me riveted.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 4.0,
+        "feeling": "High-concept time-loop thriller with emotional stakes and propulsive momentum works for me.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 4.0,
+        "feeling": "Gritty time-travel crime story with moral knots and sharp action lands solidly.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Deja Vu (2006)",
+        "rating": 4.0,
+        "feeling": "Techy time-bend investigation with ticking-clock urgency is right up my alley.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Dark Knight (2008)",
+        "rating": 4.5,
+        "feeling": "Intense crime saga with a relentless mastermind and moral stakes completely hooks me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "X-Men: Days of Future Past (2014)",
+        "rating": 4.0,
+        "feeling": "Time-crossed ensemble superhero stakes deliver slick action and satisfying sci-fi.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 4.0,
+        "feeling": "Lean amnesia-mystery spy chase with smart set pieces grabs me.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.0,
+        "feeling": "Globetrotting set-piece thrills and team dynamics make for a breathless ride.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Last Samurai (2003)",
+        "rating": 4.0,
+        "feeling": "Honor, culture clash, and sweeping battles scratch my historical-epic itch.",
+        "genres": [
+          "Drama",
+          "Action",
+          "War"
+        ]
+      },
+      {
+        "title": "Braveheart (1995)",
+        "rating": 4.5,
+        "feeling": "Rousing rebellion, romance, and battlefield heroics hit my grand-saga sweet spot.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Count of Monte Cristo (2002)",
+        "rating": 4.5,
+        "feeling": "Classic revenge with rousing adventure and payoff is catnip for me.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Crouching Tiger, Hidden Dragon (2000)",
+        "rating": 4.0,
+        "feeling": "Elegantly romantic wuxia with soaring combat and longing wins me over.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hellboy (2004)",
+        "rating": 4.0,
+        "feeling": "Occult action with a sardonic hero and monsters suits my supernatural-action taste.",
+        "genres": [
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Devil's Advocate (1997)",
+        "rating": 4.0,
+        "feeling": "Slick Faustian legal thriller with creeping dread and moral temptation works on me.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Ring (2002)",
+        "rating": 3.5,
+        "feeling": "Eerie, slow-burn curse mystery intrigues me even if the scares push my comfort zone.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Orphanage (2007)",
+        "rating": 3.5,
+        "feeling": "Atmospheric haunted-house sorrow engages me, though the pacing tests my patience.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Crimson Peak (2015)",
+        "rating": 3.0,
+        "feeling": "Gothic romance and lush visuals appeal, but the ghostly scares are less my thing.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth (2006)",
+        "rating": 4.0,
+        "feeling": "Dark fairy-tale trials set against wartime cruelty are haunting yet compelling.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.0,
+        "feeling": "Bittersweet showbiz romance with buoyant music leaves me warmed and wistful.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 3.5,
+        "feeling": "Quirky time-travel flirtation is charming, if a touch slight for my tastes.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Time Traveler's Wife (2009)",
+        "rating": 4.0,
+        "feeling": "Sincere, fate-tangled love story with sci\u2011fi edges hits my romantic side.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "Witty swashbuckling fairy tale blends adventure and true love in delightful fashion.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Senna (2010)",
+        "rating": 4.5,
+        "feeling": "Riveting, intimate portrait that turns real racing into a moving human drama.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Three Identical Strangers (2018)",
+        "rating": 4.5,
+        "feeling": "True-life mystery with shocking turns is gripping and chilling in all the right ways.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 4.0,
+        "feeling": "Inventive, heart-forward multiverse adventure delivers style, humor, and heroic spark.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Raiders of the Lost Ark (1981)",
+      "Indiana Jones and the Last Crusade (1989)",
+      "The Rock (1996)",
+      "The Fugitive (1993)",
+      "Ocean's Eleven (2001)",
+      "Inside Man (2006)",
+      "The Thomas Crown Affair (1999)",
+      "Knives Out (2019)",
+      "Zodiac (2007)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "Gone Girl (2014)",
+      "Predestination (2014)",
+      "Arrival (2016)",
+      "Frequency (2000)",
+      "The Matrix (1999)",
+      "Upgrade (2018)",
+      "Oblivion (2013)",
+      "Doctor Strange (2016)",
+      "Captain America: The Winter Soldier (2014)",
+      "Hellboy II: The Golden Army (2008)",
+      "Jungle Cruise (2021)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "The Last of the Mohicans (1992)",
+      "1917 (2019)",
+      "The Lord of the Rings: The Fellowship of the Ring (2001)",
+      "The Secret in Their Eyes (2009)",
+      "The Skeleton Key (2005)",
+      "The Autopsy of Jane Doe (2016)",
+      "Man on Wire (2008)",
+      "The Incredibles (2004)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Raiders of the Lost Ark (1981)",
+        "rating": 4.5,
+        "feeling": "Classic pulpy archaeology, booby\u2011trap thrills, and Nazis to punch hit my adventure sweet spot.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Indiana Jones and the Last Crusade (1989)",
+        "rating": 4.5,
+        "feeling": "Father\u2011son quest and Grail clue\u2011chasing deliver breezy mystery\u2011adventure bliss.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Rock (1996)",
+        "rating": 4.0,
+        "feeling": "High\u2011stakes siege with propulsive set pieces scratches my slick action\u2011thriller craving.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.5,
+        "feeling": "Relentless man\u2011on\u2011the\u2011run cat\u2011and\u2011mouse investigation keeps me riveted.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 4.0,
+        "feeling": "Suave team dynamics and clockwork cons make for a delightfully flashy caper.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Smart, twisty hostage chess match with tidy reveals lands solidly for me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 4.0,
+        "feeling": "Flirty cat\u2011and\u2011mouse art caper blends romance and clever misdirection just right.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.0,
+        "feeling": "Witty whodunit with layered red herrings and charismatic sleuthing is a breezy delight.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Zodiac (2007)",
+        "rating": 4.0,
+        "feeling": "Methodical obsession and chilling ambiguity engage me despite the deliberate pace.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 4.0,
+        "feeling": "Dark, twisty investigation with a formidable duo hits my mystery\u2011thriller lane.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 4.0,
+        "feeling": "Venomous, media\u2011spun puzzle of perception keeps me hooked.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Predestination (2014)",
+        "rating": 4.5,
+        "feeling": "Mind\u2011bending time\u2011knot with emotional payoff is exactly the high\u2011concept thriller I crave.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 4.0,
+        "feeling": "Thoughtful, language\u2011driven first contact with tender undercurrents suits my sci\u2011fi drama tastes.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Frequency (2000)",
+        "rating": 4.0,
+        "feeling": "Father\u2011son time link and ripple\u2011effect mystery scratch my sentimental sci\u2011fi thriller itch.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Matrix (1999)",
+        "rating": 4.5,
+        "feeling": "Propulsive, idea\u2011packed sci\u2011fi action with sleek world\u2011building totally clicks for me.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Upgrade (2018)",
+        "rating": 4.0,
+        "feeling": "Gritty, inventive techno\u2011revenge with kinetic fights satisfies my slick sci\u2011fi action craving.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Oblivion (2013)",
+        "rating": 4.0,
+        "feeling": "Handsome, mystery\u2011tinged sci\u2011fi with steady momentum and a romantic core works for me.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Doctor Strange (2016)",
+        "rating": 3.5,
+        "feeling": "Trippy mystic spectacle and brisk origin beats are fun if a bit lightweight for me.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Captain America: The Winter Soldier (2014)",
+        "rating": 4.0,
+        "feeling": "Tight conspiracy stakes and crisp set pieces deliver the spy\u2011flavored superhero action I enjoy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Hellboy II: The Golden Army (2008)",
+        "rating": 3.5,
+        "feeling": "Creature\u2011feature imagination charms, though the fairy\u2011tale lean feels a notch lighter for me.",
+        "genres": [
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Jungle Cruise (2021)",
+        "rating": 3.5,
+        "feeling": "Quippy, pulpy river romp with light supernatural flavor is amiable, if airy, adventure fun.",
+        "genres": [
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0,
+        "feeling": "Immersive naval pursuit with camaraderie and strategy scratches my historical\u2011epic itch.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 4.5,
+        "feeling": "Sweeping frontier romance and thunderous battles stir my grand\u2011saga side.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "1917 (2019)",
+        "rating": 4.0,
+        "feeling": "Ticking\u2011clock wartime trek with immersive tension keeps me gripped.",
+        "genres": [
+          "War",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
+        "rating": 4.5,
+        "feeling": "Quest camaraderie, magic, and mounting peril deliver the sweeping adventure I love.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Secret in Their Eyes (2009)",
+        "rating": 4.0,
+        "feeling": "Haunting cold\u2011case pursuit woven with unspoken longing hits my moody mystery\u2011drama sweet spot.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Skeleton Key (2005)",
+        "rating": 3.5,
+        "feeling": "Southern\u2011gothic chills and folk\u2011magic mystery intrigue me even if the scares test my comfort zone.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Autopsy of Jane Doe (2016)",
+        "rating": 3.0,
+        "feeling": "Creeping morgue mystery hooks me, but the escalating terror pushes past my sweet spot.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Man on Wire (2008)",
+        "rating": 4.5,
+        "feeling": "Daring real\u2011life caper told with verve leaves me inspired and awestruck.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 4.0,
+        "feeling": "Family\u2011first superhero adventure with snappy set pieces and heart lands squarely for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Inception (2010)",
+      "Interstellar (2014)",
+      "Ex Machina (2014)",
+      "Children of Men (2006)",
+      "Tenet (2020)",
+      "10 Cloverfield Lane (2016)",
+      "Alien (1979)",
+      "Jaws (1975)",
+      "The Silence of the Lambs (1991)",
+      "Se7en (1995)",
+      "Prisoners (2013)",
+      "Heat (1995)",
+      "The Usual Suspects (1995)",
+      "The Departed (2006)",
+      "Skyfall (2012)",
+      "Casino Royale (2006)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "Mission: Impossible - Fallout (2018)",
+      "The Town (2010)",
+      "The Nice Guys (2016)",
+      "Kiss Kiss Bang Bang (2005)",
+      "Wind River (2017)",
+      "The Lives of Others (2006)",
+      "Infernal Affairs (2002)",
+      "House of Flying Daggers (2004)",
+      "The Lord of the Rings: The Two Towers (2002)",
+      "The Lord of the Rings: The Return of the King (2003)",
+      "Spirited Away (2001)",
+      "The Iron Giant (1999)",
+      "The Rescue (2021)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Inception (2010)",
+        "rating": 4.5,
+        "feeling": "Mind-heist layers with dream-within-dream stakes and a steady emotional throughline hit my high-concept thriller sweet spot.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 4.0,
+        "feeling": "Big-hearted, science-driven space odyssey with father-daughter stakes suits my thoughtful sci\u2011fi drama tastes.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Children of Men (2006)",
+        "rating": 4.0,
+        "feeling": "Gritty near-future chase with urgent moral stakes and propulsive tension grabs me.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Tenet (2020)",
+        "rating": 3.5,
+        "feeling": "Head-spinning time-inversion espionage thrills me conceptually even if the emotional core feels a bit cool.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "10 Cloverfield Lane (2016)",
+        "rating": 4.0,
+        "feeling": "Taut bunker mystery with shifting power dynamics keeps me tense without leaning too hard on creature scares.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Alien (1979)",
+        "rating": 3.5,
+        "feeling": "Claustrophobic sci-fi horror is gripping, though the sustained dread nudges past my comfort zone.",
+        "genres": [
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Jaws (1975)",
+        "rating": 4.0,
+        "feeling": "Lean, suspenseful man-vs-beast adventure with rising dread and camaraderie hits cleanly.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Silence of the Lambs (1991)",
+        "rating": 4.5,
+        "feeling": "Methodical profiling duel and mounting unease deliver top-tier investigative tension.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 4.5,
+        "feeling": "Relentless, moody hunt with ingenious clues and moral rot kept me riveted.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Prisoners (2013)",
+        "rating": 4.0,
+        "feeling": "Bleak, obsessive investigation with wrenching stakes and twists kept me absorbed.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 4.5,
+        "feeling": "Epic cat-and-mouse heist saga with professional respect and thunderous set pieces is right up my alley.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Usual Suspects (1995)",
+        "rating": 4.0,
+        "feeling": "Flashback-spun caper with clever misdirection and a memorable reveal scratches my twisty-thriller itch.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 4.0,
+        "feeling": "Undercover mirror game with ratcheting paranoia and sharp set pieces satisfies my crime-thriller craving.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Skyfall (2012)",
+        "rating": 4.0,
+        "feeling": "Moody, personal-stakes Bond with elegant set pieces and espionage intrigue lands well for me.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Casino Royale (2006)",
+        "rating": 4.0,
+        "feeling": "Gritty reboot with high-stakes poker tension and bruising espionage action clicks solidly.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 4.0,
+        "feeling": "Clockwork set pieces, globetrotting spy games, and team chemistry make for breathless fun.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.5,
+        "feeling": "Relentless, escalating set-piece perfection and ticking-clock stakes deliver peak spy-action thrills.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Town (2010)",
+        "rating": 4.0,
+        "feeling": "Character-driven heist with conflicted romance and tight cat-and-mouse beats works for me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.5,
+        "feeling": "Retro buddy-gumshoe romp with snappy banter is fun, if a shade lighter than my usual thrillers.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 4.0,
+        "feeling": "Self-aware noir caper with zingy dialogue and twisty mystery hits my witty-crime sweet spot.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 4.0,
+        "feeling": "Somber frontier procedural with stark atmosphere and steady suspense kept me engaged.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lives of Others (2006)",
+        "rating": 4.0,
+        "feeling": "Slow-burn surveillance drama with moral awakening and mounting dread rewards my patience.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Infernal Affairs (2002)",
+        "rating": 4.0,
+        "feeling": "Tense dual-mole chess match with tight pacing and slick turns scratches my undercover-thriller itch.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "House of Flying Daggers (2004)",
+        "rating": 4.0,
+        "feeling": "Romantic wuxia with lyrical combat and aching longing suits my elegant action-romance tastes.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Two Towers (2002)",
+        "rating": 4.5,
+        "feeling": "Expanding quest, Helm\u2019s Deep thunder, and fellowship trials deliver sweeping adventure bliss.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King (2003)",
+        "rating": 4.5,
+        "feeling": "Rousing finales, hard-won friendship, and grand battles satisfy my epic-saga cravings.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 4.0,
+        "feeling": "Imaginative, heartfelt spirit-world quest charms me even if the family-fantasy tone stays gentle.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 4.0,
+        "feeling": "Warm, heartfelt boy-and-robot tale with sci-fi wonder and sacrifice lands squarely for me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Rescue (2021)",
+        "rating": 4.5,
+        "feeling": "Real-life, against-all-odds rescue told with nail-biting momentum hits my documentary sweet spot.",
+        "genres": [
+          "Documentary",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

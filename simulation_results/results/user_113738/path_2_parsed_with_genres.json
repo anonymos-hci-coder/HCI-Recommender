@@ -1,0 +1,1319 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Good, the Bad and the Ugly (1966)",
+      "True Grit (2010)",
+      "3:10 to Yuma (2007)",
+      "Dances with Wolves (1990)",
+      "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+      "Coco (2017)",
+      "Moana (2016)",
+      "WALL-E (2008)",
+      "Up (2009)",
+      "How to Train Your Dragon (2010)",
+      "Spirited Away (2001)",
+      "My Neighbor Totoro (1988)",
+      "Arrival (2016)",
+      "Interstellar (2014)",
+      "Ex Machina (2014)",
+      "Close Encounters of the Third Kind (1977)",
+      "Back to the Future (1985)",
+      "Star Wars: A New Hope (1977)",
+      "Vertigo (1958)",
+      "North by Northwest (1959)",
+      "The Fugitive (1993)",
+      "Knives Out (2019)",
+      "L.A. Confidential (1997)",
+      "The Prestige (2006)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "The Princess Bride (1987)",
+      "The Sound of Music (1965)",
+      "School of Rock (2003)",
+      "Guardians of the Galaxy (2014)",
+      "Thor: Ragnarok (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "rating": 5.0,
+        "feeling": "Epic western scope and mythic showdowns hit all my sweet spots.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "True Grit (2010)",
+        "rating": 4.5,
+        "feeling": "Gritty, heartfelt pursuit with characters I loved riding alongside.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Western"
+        ]
+      },
+      {
+        "title": "3:10 to Yuma (2007)",
+        "rating": 4.5,
+        "feeling": "Tense standoff and moral courage that had me riveted.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Dances with Wolves (1990)",
+        "rating": 4.5,
+        "feeling": "A stirring frontier saga with soulful connections.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Assassination of Jesse James by the Coward Robert Ford (2007)",
+        "rating": 4.5,
+        "feeling": "A haunting, elegiac western that lingered long after.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Coco (2017)",
+        "rating": 5.0,
+        "feeling": "Music, family, and heart in a vibrant, tear-worthy journey.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Music",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Moana (2016)",
+        "rating": 4.5,
+        "feeling": "A buoyant, musical adventure with a strong, joyous spirit.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "WALL-E (2008)",
+        "rating": 4.0,
+        "feeling": "Clever animation with a gentle satirical touch that charmed me.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "Up (2009)",
+        "rating": 4.5,
+        "feeling": "An uplifting, tender adventure that hit the heart and made me smile.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon (2010)",
+        "rating": 4.5,
+        "feeling": "Soaring friendship and flight that felt utterly joyful.",
+        "genres": [
+          "Fantasy",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 5.0,
+        "feeling": "A wondrous, imaginative odyssey that swept me away.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 5.0,
+        "feeling": "Pure, gentle magic that felt like a warm hug.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Arrival (2016)",
+        "rating": 5.0,
+        "feeling": "Thoughtful, moving sci-fi that stirred my sense of wonder.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 5.0,
+        "feeling": "A grand, emotional space voyage with heart and hope.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Close Encounters of the Third Kind (1977)",
+        "rating": 5.0,
+        "feeling": "Awe and curiosity beautifully balanced in a human story.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Back to the Future (1985)",
+        "rating": 5.0,
+        "feeling": "Pure adventure fun with irresistible charm.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Wars: A New Hope (1977)",
+        "rating": 5.0,
+        "feeling": "Classic space adventure that thrilled me start to finish.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Vertigo (1958)",
+        "rating": 5.0,
+        "feeling": "Mesmerizing mystery and mood that had me spellbound.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 5.0,
+        "feeling": "A breezy, high-stakes chase that was endlessly entertaining.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.5,
+        "feeling": "A relentless, smart thriller that kept me rooting hard.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.5,
+        "feeling": "A clever, witty whodunit that was a delight to unravel.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 5.0,
+        "feeling": "Rich, riveting noir that gripped me completely.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Prestige (2006)",
+        "rating": 5.0,
+        "feeling": "An ingenious, twisty duel that left me buzzing.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.5,
+        "feeling": "Immersive seafaring stakes with camaraderie I loved.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Timeless fairytale fun brimming with heart and humor.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sound of Music (1965)",
+        "rating": 5.0,
+        "feeling": "Joyous music and family warmth that swept me away.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "School of Rock (2003)",
+        "rating": 4.5,
+        "feeling": "Rock-and-roll energy with big laughs and bigger heart.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Guardians of the Galaxy (2014)",
+        "rating": 4.5,
+        "feeling": "A quirky, feel-good space romp with a killer vibe.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Thor: Ragnarok (2017)",
+        "rating": 5.0,
+        "feeling": "Bright, funny, and epic\u2014exactly my kind of ride.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Once Upon a Time in the West (1968)",
+      "The Searchers (1956)",
+      "High Noon (1952)",
+      "Rio Bravo (1959)",
+      "Butch Cassidy and the Sundance Kid (1969)",
+      "Hell or High Water (2016)",
+      "Contact (1997)",
+      "The Martian (2015)",
+      "Star Trek (2009)",
+      "Star Wars: The Empire Strikes Back (1980)",
+      "Galaxy Quest (1999)",
+      "Super 8 (2011)",
+      "Edge of Tomorrow (2014)",
+      "The Iron Giant (1999)",
+      "Kubo and the Two Strings (2016)",
+      "Nausica\u00e4 of the Valley of the Wind (1984)",
+      "Castle in the Sky (1986)",
+      "Princess Mononoke (1997)",
+      "Paddington 2 (2017)",
+      "Song of the Sea (2014)",
+      "Wolfwalkers (2020)",
+      "Sing Street (2016)",
+      "Groundhog Day (1993)",
+      "O Brother, Where Art Thou? (2000)",
+      "The Incredibles (2004)",
+      "Spider-Man: Into the Spider-Verse (2018)",
+      "Mary Poppins (1964)",
+      "Chinatown (1974)",
+      "The Sting (1973)",
+      "Charade (1963)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Once Upon a Time in the West (1968)",
+        "rating": 5.0,
+        "feeling": "Operatic frontier myth that swept me up.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.5,
+        "feeling": "Haunting, morally knotty journey that lingered.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 5.0,
+        "feeling": "Tense moral stand with courage that thrilled me.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rio Bravo (1959)",
+        "rating": 4.5,
+        "feeling": "Laid-back camaraderie and grit I loved riding along with.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid (1969)",
+        "rating": 5.0,
+        "feeling": "Irresistible charm and bittersweet outlaw adventure.",
+        "genres": [
+          "Adventure",
+          "Western",
+          "Crime",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Hell or High Water (2016)",
+        "rating": 4.5,
+        "feeling": "Lean, heartfelt neo-western with stakes I felt.",
+        "genres": [
+          "Western",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Contact (1997)",
+        "rating": 5.0,
+        "feeling": "Wonder and belief braided into moving, thoughtful sci-fi.",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Martian (2015)",
+        "rating": 4.5,
+        "feeling": "Crowd-pleasing survival smarts with buoyant spirit.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Star Trek (2009)",
+        "rating": 4.5,
+        "feeling": "Bright, brisk space adventure with winning chemistry.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Star Wars: The Empire Strikes Back (1980)",
+        "rating": 5.0,
+        "feeling": "Rousing, deeper chapter that amplified the wonder.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.5,
+        "feeling": "Affectionate, hilarious space romp with real heart.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Super 8 (2011)",
+        "rating": 4.0,
+        "feeling": "Nostalgic Amblin thrills with heartfelt kids\u2019 adventure.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.5,
+        "feeling": "Clever, propulsive loop that was a blast to unravel.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Iron Giant (1999)",
+        "rating": 5.0,
+        "feeling": "Big-hearted, tear-stirring fable that won me over completely.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kubo and the Two Strings (2016)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, soulful quest steeped in myth and music.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Nausica\u00e4 of the Valley of the Wind (1984)",
+        "rating": 5.0,
+        "feeling": "Visionary, compassionate epic that filled me with awe.",
+        "genres": [
+          "Adventure",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Castle in the Sky (1986)",
+        "rating": 5.0,
+        "feeling": "Buoyant skybound wonder with pure adventure joy.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation",
+          "Action",
+          "Family"
+        ]
+      },
+      {
+        "title": "Princess Mononoke (1997)",
+        "rating": 5.0,
+        "feeling": "Powerful, balanced tale of nature and humanity that moved me.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Pure, warmhearted delight that left me beaming.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Song of the Sea (2014)",
+        "rating": 4.5,
+        "feeling": "Lyrical folklore and family love that touched me.",
+        "genres": [
+          "Family",
+          "Animation",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Wolfwalkers (2020)",
+        "rating": 4.5,
+        "feeling": "Vivid, spirited friendship story with enchanting folklore.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.5,
+        "feeling": "Infectious tunes and tender coming-of-age heart.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 5.0,
+        "feeling": "Witty, heartfelt loop that grows into something profound.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "O Brother, Where Art Thou? (2000)",
+        "rating": 4.5,
+        "feeling": "Toe-tapping odyssey with breezy charm and wit.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Incredibles (2004)",
+        "rating": 5.0,
+        "feeling": "Thrilling, funny superhero family adventure with heart.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spider-Man: Into the Spider-Verse (2018)",
+        "rating": 5.0,
+        "feeling": "Dazzling, heartfelt burst of superhero creativity.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mary Poppins (1964)",
+        "rating": 5.0,
+        "feeling": "Practically perfect blend of music, magic, and family warmth.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Chinatown (1974)",
+        "rating": 5.0,
+        "feeling": "Gripping, layered noir that had me riveted.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.5,
+        "feeling": "A classy, clever caper that delighted start to finish.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.5,
+        "feeling": "Effortless, witty suspense with irresistible charm.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Man Who Shot Liberty Valance (1962)",
+      "Tombstone (1993)",
+      "Shane (1953)",
+      "The Outlaw Josey Wales (1976)",
+      "The Magnificent Seven (1960)",
+      "Ratatouille (2007)",
+      "Toy Story (1995)",
+      "Toy Story 3 (2010)",
+      "Finding Nemo (2003)",
+      "The Secret of Kells (2009)",
+      "Kiki's Delivery Service (1989)",
+      "The Tale of the Princess Kaguya (2013)",
+      "Porco Rosso (1992)",
+      "Paddington (2014)",
+      "The LEGO Movie (2014)",
+      "The Mitchells vs. the Machines (2021)",
+      "Luca (2021)",
+      "How to Train Your Dragon 2 (2014)",
+      "Raiders of the Lost Ark (1981)",
+      "Star Trek II: The Wrath of Khan (1982)",
+      "Rogue One: A Star Wars Story (2016)",
+      "The Abyss (1989)",
+      "Apollo 13 (1995)",
+      "2001: A Space Odyssey (1968)",
+      "Ex Machina (2014)",
+      "The Third Man (1949)",
+      "Murder on the Orient Express (1974)",
+      "Singin' in the Rain (1952)",
+      "The Wizard of Oz (1939)",
+      "The Mask of Zorro (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 5.0,
+        "feeling": "A poignant, myth-versus-legend showdown with moral weight that hit me right in my western sweet spot.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Tombstone (1993)",
+        "rating": 4.5,
+        "feeling": "Rip-roaring frontier justice with camaraderie and swagger that had me grinning and gripped.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "Shane (1953)",
+        "rating": 5.0,
+        "feeling": "A pure, aching tale of courage and sacrifice that left me misty-eyed.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Outlaw Josey Wales (1976)",
+        "rating": 4.5,
+        "feeling": "Gritty vengeance softening into found-family warmth made the ride deeply satisfying.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (1960)",
+        "rating": 4.5,
+        "feeling": "Classic, rousing heroism and teamwork that had me cheering.",
+        "genres": [
+          "Western",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Ratatouille (2007)",
+        "rating": 4.5,
+        "feeling": "A delectable, heartfelt ode to creativity that left me beaming and a little hungry.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Toy Story (1995)",
+        "rating": 5.0,
+        "feeling": "Playful, heartfelt buddy adventure that feels timeless and joyous.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Toy Story 3 (2010)",
+        "rating": 5.0,
+        "feeling": "A tender, thrilling farewell that hit me with big laughs and bigger tears.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Finding Nemo (2003)",
+        "rating": 4.5,
+        "feeling": "Sweeping, funny, ocean-size heart that left me buoyant.",
+        "genres": [
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Secret of Kells (2009)",
+        "rating": 4.5,
+        "feeling": "Lush, lyrical folklore and bravery that cast a gentle spell on me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 5.0,
+        "feeling": "Warm, breezy coming-of-age magic that felt like a hug.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Tale of the Princess Kaguya (2013)",
+        "rating": 4.5,
+        "feeling": "Exquisite, melancholy beauty that stirred me with quiet wonder.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Porco Rosso (1992)",
+        "rating": 4.5,
+        "feeling": "Skybound adventure with charm and wistful heart that soared.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "Warm, funny sweetness about kindness and home that made me glow.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "The LEGO Movie (2014)",
+        "rating": 4.5,
+        "feeling": "Wildly inventive, big-hearted fun that kept me smiling ear to ear.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Mitchells vs. the Machines (2021)",
+        "rating": 4.5,
+        "feeling": "Zippy, heartfelt family chaos that turned into a joyous save-the-world romp.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Luca (2021)",
+        "rating": 4.0,
+        "feeling": "Sun-dappled friendship and gentle wonder that left me smiling softly.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Fantasy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "How to Train Your Dragon 2 (2014)",
+        "rating": 4.5,
+        "feeling": "Soaring spectacle and deeper bonds that thrilled and moved me.",
+        "genres": [
+          "Fantasy",
+          "Action",
+          "Adventure",
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Raiders of the Lost Ark (1981)",
+        "rating": 5.0,
+        "feeling": "Pure pulp adventure bliss that had me grinning from the first set piece.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Star Trek II: The Wrath of Khan (1982)",
+        "rating": 5.0,
+        "feeling": "Rousing, emotionally resonant space showdown that hit the wonder and the heart.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rogue One: A Star Wars Story (2016)",
+        "rating": 4.5,
+        "feeling": "Gritty, stirring sacrifice that made the galaxy feel urgent and hopeful.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Abyss (1989)",
+        "rating": 4.5,
+        "feeling": "Deep-sea wonder and tension that left me awed and uplifted.",
+        "genres": [
+          "Adventure",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Apollo 13 (1995)",
+        "rating": 4.5,
+        "feeling": "White-knuckle ingenuity and teamwork that had me holding my breath.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "2001: A Space Odyssey (1968)",
+        "rating": 5.0,
+        "feeling": "Transcendent, cosmic awe that left me quietly dazzled.",
+        "genres": [
+          "Science Fiction",
+          "Mystery",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 5.0,
+        "feeling": "Shadowy, gripping intrigue that captivated me start to finish.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Murder on the Orient Express (1974)",
+        "rating": 4.5,
+        "feeling": "Elegant, cozy mystery pleasures with a clever payoff.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 5.0,
+        "feeling": "Effervescent showbiz joy that had me grinning and humming.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Wizard of Oz (1939)",
+        "rating": 5.0,
+        "feeling": "Timeless, colorful wonder and friendship that filled me with joy.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 4.5,
+        "feeling": "Swashbuckling charm, romance, and dashing heroics that were a delight.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Wild Bunch (1969)",
+      "Red River (1948)",
+      "A Fistful of Dollars (1964)",
+      "For a Few Dollars More (1965)",
+      "The Big Country (1958)",
+      "Toy Story 2 (1999)",
+      "Monsters, Inc. (2001)",
+      "Zootopia (2016)",
+      "Big Hero 6 (2014)",
+      "Tangled (2010)",
+      "Soul (2020)",
+      "Turning Red (2022)",
+      "Whisper of the Heart (1995)",
+      "Blade Runner (1982)",
+      "Aliens (1986)",
+      "Terminator 2: Judgment Day (1991)",
+      "The Right Stuff (1983)",
+      "Gravity (2013)",
+      "Ex Machina (2014)",
+      "Dune (2021)",
+      "Inception (2010)",
+      "Strangers on a Train (1951)",
+      "Double Indemnity (1944)",
+      "Clue (1985)",
+      "Who Framed Roger Rabbit (1988)",
+      "The Adventures of Robin Hood (1938)",
+      "Seven Samurai (1954)",
+      "The Last of the Mohicans (1992)",
+      "The Goonies (1985)",
+      "The Court Jester (1955)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Wild Bunch (1969)",
+        "rating": 4.5,
+        "feeling": "A brutal, elegiac farewell to the frontier that gripped me with its weary camaraderie.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Red River (1948)",
+        "rating": 5.0,
+        "feeling": "Rousing cattle-drive myth with a fiery father-son clash that felt grand and gripping.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "A Fistful of Dollars (1964)",
+        "rating": 4.5,
+        "feeling": "Lean, swaggering showdown fun that scratches my western itch.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "For a Few Dollars More (1965)",
+        "rating": 4.5,
+        "feeling": "Two titans in a tense, stylish hunt that had me savoring every standoff.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Big Country (1958)",
+        "rating": 4.5,
+        "feeling": "A handsome, thoughtful prairie epic where pride, love, and landscape loom large.",
+        "genres": [
+          "Drama",
+          "Western",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Toy Story 2 (1999)",
+        "rating": 5.0,
+        "feeling": "Joyous, heartfelt adventure that deepens the gang\u2019s bonds and left me beaming.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Monsters, Inc. (2001)",
+        "rating": 4.5,
+        "feeling": "Clever, warmhearted monster world that charmed me and tugged at my heart.",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Zootopia (2016)",
+        "rating": 4.5,
+        "feeling": "Zippy, witty mystery with big-hearted optimism that won me over.",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Big Hero 6 (2014)",
+        "rating": 4.5,
+        "feeling": "Huggable heroics and grief-healing heart that lifted me up.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Animation",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 4.5,
+        "feeling": "Sparkling songs and spirited adventure that left me grinning.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Soul (2020)",
+        "rating": 4.5,
+        "feeling": "Tender, thoughtful riff on purpose and joy that stirred me.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Turning Red (2022)",
+        "rating": 4.0,
+        "feeling": "Bursting with spirited teen honesty and family warmth that made me smile.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 4.5,
+        "feeling": "Gentle, inspiring coming-of-age breeze that felt like a warm hug.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Blade Runner (1982)",
+        "rating": 5.0,
+        "feeling": "Mesmerizing neon noir that filled me with awe and melancholy.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Aliens (1986)",
+        "rating": 4.5,
+        "feeling": "Nerve-jangling, rousing sci-fi combat with beats that had me cheering.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Terminator 2: Judgment Day (1991)",
+        "rating": 5.0,
+        "feeling": "Propulsive, emotional sci-fi spectacle that hit the wonder and the heart.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Right Stuff (1983)",
+        "rating": 4.5,
+        "feeling": "Swagger, camaraderie, and spacefaring grit that had me inspired.",
+        "genres": [
+          "Drama",
+          "History",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Gravity (2013)",
+        "rating": 4.5,
+        "feeling": "Pure, breath-holding space peril that left me awed and rattled.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dune (2021)",
+        "rating": 5.0,
+        "feeling": "Majestic, immersive space legend that swept me up completely.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 5.0,
+        "feeling": "Ingenious, propulsive dream heist that left me buzzing.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Strangers on a Train (1951)",
+        "rating": 5.0,
+        "feeling": "Elegant, chilling thriller mechanics that thrilled me.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 5.0,
+        "feeling": "Smoldering noir fatalism so sharp it had me spellbound.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Clue (1985)",
+        "rating": 4.5,
+        "feeling": "Rapid-fire whodunit silliness that delighted me start to finish.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Who Framed Roger Rabbit (1988)",
+        "rating": 4.5,
+        "feeling": "Dizzy, joyous genre blend with heart and gags galore.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Adventures of Robin Hood (1938)",
+        "rating": 5.0,
+        "feeling": "Buoyant swashbuckling romance that made my heart soar.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Seven Samurai (1954)",
+        "rating": 5.0,
+        "feeling": "Rousing, humane epic of courage and community that moved me deeply.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Last of the Mohicans (1992)",
+        "rating": 4.5,
+        "feeling": "Sweeping romance and frontier thunder that stirred me.",
+        "genres": [
+          "Action",
+          "History",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "The Goonies (1985)",
+        "rating": 4.5,
+        "feeling": "Kid-quest energy and treasure-hunt camaraderie that made me feel twelve again.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Court Jester (1955)",
+        "rating": 4.5,
+        "feeling": "Tongue-twisting, swashbuckling silliness that kept me gleeful.",
+        "genres": [
+          "Music",
+          "Adventure",
+          "Comedy"
+        ]
+      }
+    ]
+  }
+]

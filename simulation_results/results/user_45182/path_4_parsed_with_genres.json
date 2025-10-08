@@ -1,0 +1,1193 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Passion of the Christ, The (2004)",
+      "Mis\u00e9rables, Les (1998)",
+      "Man from Earth, The (2007)",
+      "Bill Hicks: Sane Man (1989)",
+      "Room, The (2003)",
+      "For Whom the Bell Tolls (1943)",
+      "Postman, The (1997)",
+      "Vanilla Sky (2001)",
+      "Ben X (2007)",
+      "Illuminata (1998)",
+      "Some Folks Call It a Sling Blade (1993)",
+      "Interstellar (2014)",
+      "Br\u00fcno (Bruno) (2009)",
+      "Gentlemen of Fortune (Dzhentlmeny udachi) (1972)",
+      "Matewan (1987)",
+      "Midsommar (2019)",
+      "Mr. Nobody (2009)",
+      "Old Man and the Sea, The (1958)",
+      "No Escape (2015)",
+      "Waco: The Rules of Engagement (1997)",
+      "Inception (2010)",
+      "Joker (2019)",
+      "Steam of Life (Miesten vuoro) (2010)",
+      "Disconnect (2012)",
+      "Spitfire Grill, The (1996)",
+      "Birth of a Nation, The (1915)",
+      "Fountain, The (2006)",
+      "Dear Diary (Caro Diario) (1994)",
+      "Braveheart (1995)",
+      "Jeremiah Johnson (1972)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Passion of the Christ, The (2004)",
+        "rating": 2.5,
+        "feeling": "Visceral and sincere, but the relentless brutality overwhelms the spirituality for me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mis\u00e9rables, Les (1998)",
+        "rating": 3.5,
+        "feeling": "A sturdy moral tale of guilt and grace that moved me more in its quiet moments than its romance.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Man from Earth, The (2007)",
+        "rating": 4.0,
+        "feeling": "Talky, idea-driven sci-fi that respects the audience and kept me debating long after.",
+        "genres": [
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bill Hicks: Sane Man (1989)",
+        "rating": 3.5,
+        "feeling": "Scathing, smart and cathartic stand-up with enough bite to outlast its era.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Room, The (2003)",
+        "rating": 2.5,
+        "feeling": "Clever locked-room premise, though the tone wobbles and the comedy undercuts the mystery.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "For Whom the Bell Tolls (1943)",
+        "rating": 3.5,
+        "feeling": "Earnest, old-fashioned war romance with stakes I could invest in despite the melodrama.",
+        "genres": [
+          "War",
+          "Romance",
+          "History",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Postman, The (1997)",
+        "rating": 2.0,
+        "feeling": "I like the hopeful angle, but the mythmaking feels heavy-handed and drawn out.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Vanilla Sky (2001)",
+        "rating": 2.5,
+        "feeling": "Intriguing concept dulled by glossy melodrama and overdetermined twists.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Ben X (2007)",
+        "rating": 4.0,
+        "feeling": "Empathetic and tense, with the gaming angle giving the bullying story fresh texture.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Illuminata (1998)",
+        "rating": 2.0,
+        "feeling": "Fussy backstage theatrics that felt arch more than affecting.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Interstellar (2014)",
+        "rating": 3.0,
+        "feeling": "Ambitious and heartfelt, but the sentiment and exposition sometimes smother the wonder.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Br\u00fcno (Bruno) (2009)",
+        "rating": 1.0,
+        "feeling": "Provocation for its own sake wears thin and the jokes feel more mean than revealing.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Matewan (1987)",
+        "rating": 4.0,
+        "feeling": "Stirring, human labor drama that treats solidarity and injustice with clear-eyed respect.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Midsommar (2019)",
+        "rating": 1.5,
+        "feeling": "Beautifully crafted dread that I found more punishing than rewarding.",
+        "genres": [
+          "Horror",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Mr. Nobody (2009)",
+        "rating": 2.0,
+        "feeling": "Big ideas and pretty images, but the fragmentation left me cold.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Old Man and the Sea, The (1958)",
+        "rating": 3.5,
+        "feeling": "Simple, stubborn perseverance told with dignity that quietly hooked me.",
+        "genres": [
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "No Escape (2015)",
+        "rating": 2.0,
+        "feeling": "Tense setup undercut by simplistic, manipulative thrills.",
+        "genres": [
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Waco: The Rules of Engagement (1997)",
+        "rating": 4.5,
+        "feeling": "Riveting, troubling inquiry into power and accountability that sticks in the gut.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Inception (2010)",
+        "rating": 3.5,
+        "feeling": "Ingenious and propulsive, if a bit emotionally remote for me.",
+        "genres": [
+          "Action",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Joker (2019)",
+        "rating": 3.0,
+        "feeling": "Committed character study whose bleakness is compelling even when it leans on familiar beats.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Steam of Life (Miesten vuoro) (2010)",
+        "rating": 4.0,
+        "feeling": "Unadorned, intimate confessions that feel disarmingly honest.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Disconnect (2012)",
+        "rating": 3.0,
+        "feeling": "A neat high-concept that engages the mind even as the execution feels slightly schematic.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Spitfire Grill, The (1996)",
+        "rating": 3.5,
+        "feeling": "Gentle, earnest redemption story that won me over despite some sentimentality.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Birth of a Nation, The (1915)",
+        "rating": 0.5,
+        "feeling": "Technically notable but morally poisonous and impossible to endorse.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Fountain, The (2006)",
+        "rating": 1.5,
+        "feeling": "Sincere and ambitious, yet the metaphysical flourishes feel airless and self-important.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Braveheart (1995)",
+        "rating": 3.0,
+        "feeling": "Rousing and grim in equal measure, but its broad strokes blunt the impact.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Jeremiah Johnson (1972)",
+        "rating": 3.0,
+        "feeling": "Spare and rugged, a character piece I respected more than I loved.",
+        "genres": [
+          "Adventure",
+          "Western",
+          "Drama",
+          "Action"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Impostors, The (1998)",
+      "Austin Powers: International Man of Mystery (1997)",
+      "\u00c0 nous la libert\u00e9 (Freedom for Us) (1931)",
+      "Dumb & Dumber (Dumb and Dumber) (1994)",
+      "Babette's Feast (Babettes g\u00e6stebud) (1987)",
+      "Love Letter, The (1999)",
+      "Gods Must Be Crazy, The (1980)",
+      "Signal, The (2007)",
+      "Man Who Knew Too Little, The (1997)",
+      "Fearless Faith (2020)",
+      "Tropic Thunder (2008)",
+      "Naked Gun 33 1/3: The Final Insult (1994)",
+      "Wrongfully Accused (1998)",
+      "Austin Powers: The Spy Who Shagged Me (1999)",
+      "All That Jazz (1979)",
+      "Pest, The (1997)",
+      "Anchorman: The Legend of Ron Burgundy (2004)",
+      "Gentlemen of Fortune (Dzhentlmeny udachi) (1972)",
+      "The Pit and the Pendulum (1991)",
+      "Naked Gun: From the Files of Police Squad!, The (1988)",
+      "Santa Claus Is a Stinker (Le P\u00e8re No\u00ebl est une ordure) (1982)",
+      "Bedazzled (1967)",
+      "Becket (1964)",
+      "Raven, The (1963)",
+      "Yellow Rock (2011)",
+      "Amelie (Fabuleux destin d'Am\u00e9lie Poulain, Le) (2001)",
+      "English Patient, The (1996)",
+      "Tomiris (2019)",
+      "Official Story, The (La historia oficial) (1985)",
+      "No (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Impostors, The (1998)",
+        "rating": 2.5,
+        "feeling": "Broad farce with some charm, but the contrivances wore thin for me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Austin Powers: International Man of Mystery (1997)",
+        "rating": 3.0,
+        "feeling": "Goofy and occasionally clever, but the mugging and one-note gags tire me out.",
+        "genres": [
+          "Science Fiction",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "\u00c0 nous la libert\u00e9 (Freedom for Us) (1931)",
+        "rating": 3.5,
+        "feeling": "Wry, humane satire whose craft and gentle bite outweigh the dated trappings.",
+        "genres": [
+          "Comedy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Dumb & Dumber (Dumb and Dumber) (1994)",
+        "rating": 2.5,
+        "feeling": "Some inspired stupidity, but the relentless idiocy is more numbing than delightful.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Babette's Feast (Babettes g\u00e6stebud) (1987)",
+        "rating": 4.5,
+        "feeling": "A quietly generous parable of grace and community that left me warmed and humbled.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love Letter, The (1999)",
+        "rating": 2.5,
+        "feeling": "Pleasant idea, but the whimsy and small-town hijinks felt a little weightless to me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Gods Must Be Crazy, The (1980)",
+        "rating": 3.0,
+        "feeling": "A playful fable with rough edges",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Signal, The (2007)",
+        "rating": 3.5,
+        "feeling": "Low-key, morally gray noir against a charged political backdrop hits a satisfying, thoughtful groove.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Man Who Knew Too Little, The (1997)",
+        "rating": 2.5,
+        "feeling": "Light and affable, though the mistaken-identity gag wears out before the finale.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Fearless Faith (2020)",
+        "rating": 2.0,
+        "feeling": "Sincere, but the didactic arc and tidy revelations kept me at arm\u2019s length.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Tropic Thunder (2008)",
+        "rating": 3.0,
+        "feeling": "Broad, rowdy Hollywood satire that made me laugh even as the bombast blunts the sting.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "Wrongfully Accused (1998)",
+        "rating": 1.5,
+        "feeling": "Relentless spoofing with a scattershot hit rate that left me mostly cold.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Austin Powers: The Spy Who Shagged Me (1999)",
+        "rating": 2.5,
+        "feeling": "More of the same\u2014some goofy highs, plenty of tired winks.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "All That Jazz (1979)",
+        "rating": 3.5,
+        "feeling": "A bracing, self-lacerating showbiz confessional whose intensity impressed me more than it moved me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Pest, The (1997)",
+        "rating": 0.5,
+        "feeling": "Grating, frantic shtick that felt more punishing than funny.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Anchorman: The Legend of Ron Burgundy (2004)",
+        "rating": 3.0,
+        "feeling": "Absurdist silliness that lands enough quotable gags to outweigh the smugness.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Pit and the Pendulum (1991)",
+        "rating": 1.5,
+        "feeling": "Grand guignol flourishes aside, the cruelty and melodrama wore me down.",
+        "genres": [
+          "Horror",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Santa Claus Is a Stinker (Le P\u00e8re No\u00ebl est une ordure) (1982)",
+        "rating": 2.5,
+        "feeling": "Acrid holiday farce with flashes of bite, but the chaos left me more weary than amused.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Bedazzled (1967)",
+        "rating": 3.0,
+        "feeling": "A breezy, devilish romp whose playful conceit kept a smile on my face.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Becket (1964)",
+        "rating": 4.0,
+        "feeling": "Lean, compelling power struggle about conscience and authority that hits my sweet spot.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Raven, The (1963)",
+        "rating": 2.5,
+        "feeling": "Light, campy magic that\u2019s amiable if ultimately insubstantial for me.",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Yellow Rock (2011)",
+        "rating": 2.0,
+        "feeling": "Handsome scenery, familiar beats",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "Amelie (Fabuleux destin d'Am\u00e9lie Poulain, Le) (2001)",
+        "rating": 3.5,
+        "feeling": "Whimsical and tender, occasionally too cutesy, but its generosity won me over.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "English Patient, The (1996)",
+        "rating": 3.0,
+        "feeling": "Handsomely mounted romance whose sweep I admired more than I felt.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "War"
+        ]
+      },
+      {
+        "title": "Tomiris (2019)",
+        "rating": 3.0,
+        "feeling": "Rousing and sincere, though the mythmaking can feel heavy-handed.",
+        "genres": [
+          "History",
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Official Story, The (La historia oficial) (1985)",
+        "rating": 4.5,
+        "feeling": "Quietly devastating moral inquiry that stuck with me long after.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "No (2012)",
+        "rating": 4.0,
+        "feeling": "A sharp, hopeful political chronicle that finds real human stakes in strategy and slogans.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Metallica: Some Kind of Monster (2004)",
+      "Final Destination (2000)",
+      "The Hunger Games: Catching Fire (2013)",
+      "The Hunger Games: Mockingjay - Part 1 (2014)",
+      "Song of the South (1946)",
+      "Twin Falls Idaho (1999)",
+      "Final Destination 3 (2006)",
+      "Eye of the Beholder (1999)",
+      "Kung Pow: Enter the Fist (2002)",
+      "The Hunger Games: Mockingjay - Part 2 (2015)",
+      "Mystery Men (1999)",
+      "Paranormal Activity 3 (2011)",
+      "Being 17 (2016)",
+      "Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973)",
+      "Grown Ups 2 (2013)",
+      "Blended (2014)",
+      "The Interview (2014)",
+      "Kin-Dza-Dza! (1986)",
+      "Dante 01 (2008)",
+      "This Is the End (2013)",
+      "Goodbye Lover (1999)",
+      "Dora and the Lost City of Gold (2019)",
+      "Girlfriends of Christmas Past (2016)",
+      "The Drifter (1988)",
+      "Sergio (2020)",
+      "Postal (2007)",
+      "Adventures of Pinocchio, The (1996)",
+      "The Hunger Games (2012)",
+      "Dumb and Dumber To (2014)",
+      "Serbian Film, A (Srpski film) (2010)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Metallica: Some Kind of Monster (2004)",
+        "rating": 3.5,
+        "feeling": "Candid group-therapy and ego-wrangling more compelling to me than the album-making soap.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Final Destination (2000)",
+        "rating": 1.5,
+        "feeling": "A clever hook dulled by mechanical, mean-spirited deaths.",
+        "genres": [
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Hunger Games: Catching Fire (2013)",
+        "rating": 3.5,
+        "feeling": "The uprising undercurrents and media manipulation engage me more than the arena spectacle.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Hunger Games: Mockingjay - Part 1 (2014)",
+        "rating": 3.0,
+        "feeling": "The propaganda chess and trauma ring truer than the stretched pacing.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Song of the South (1946)",
+        "rating": 0.5,
+        "feeling": "Folksy veneer can\u2019t mask regressive, harmful nostalgia I can\u2019t endorse.",
+        "genres": [
+          "Family",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Twin Falls Idaho (1999)",
+        "rating": 3.5,
+        "feeling": "A gentle, oddball compassion piece whose empathy outweighs its quirks.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Final Destination 3 (2006)",
+        "rating": 1.0,
+        "feeling": "More baroque fatalism with little to chew on beyond creative carnage.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Eye of the Beholder (1999)",
+        "rating": 2.0,
+        "feeling": "A glossy, moody surveillance tale whose opacity kept me at arm\u2019s length.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Kung Pow: Enter the Fist (2002)",
+        "rating": 1.5,
+        "feeling": "A one-joke gag reel whose goofiness wears thin fast.",
+        "genres": [
+          "Comedy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Hunger Games: Mockingjay - Part 2 (2015)",
+        "rating": 3.0,
+        "feeling": "The grim costs land, but the bombast blunts the poignancy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Mystery Men (1999)",
+        "rating": 3.0,
+        "feeling": "An affable goof on superhero tropes with enough charm to offset the bloat.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Paranormal Activity 3 (2011)",
+        "rating": 1.5,
+        "feeling": "Slow-burn haunts that feel more like a patience test than dread.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Being 17 (2016)",
+        "rating": 4.0,
+        "feeling": "A tender, clear-eyed coming-of-age that earns its bruised empathy.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973)",
+        "rating": 3.0,
+        "feeling": "Silly, inventive time-swap farce whose playful satire wins more smiles than laughs.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Grown Ups 2 (2013)",
+        "rating": 1.0,
+        "feeling": "Lazy, elbow-in-the-ribs antics that mostly left me weary.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Blended (2014)",
+        "rating": 2.0,
+        "feeling": "Well-meaning, but the sitcom contrivances smother the heart.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Interview (2014)",
+        "rating": 2.0,
+        "feeling": "Occasional laughs, but the shock-jock swagger outweighs sharper satire.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kin-Dza-Dza! (1986)",
+        "rating": 4.0,
+        "feeling": "Bleakly funny, inventive satire whose humanism and social bite stuck with me.",
+        "genres": [
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Dante 01 (2008)",
+        "rating": 1.5,
+        "feeling": "A moody sci-fi parable whose heavy metaphysics left me cold.",
+        "genres": [
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "This Is the End (2013)",
+        "rating": 2.5,
+        "feeling": "Self-indulgent yet sporadically funny, with an apocalypse that plays mostly as in-joke.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Goodbye Lover (1999)",
+        "rating": 2.5,
+        "feeling": "A slick, wry noir puzzle that amuses more than it compels.",
+        "genres": [
+          "Thriller",
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Dora and the Lost City of Gold (2019)",
+        "rating": 3.0,
+        "feeling": "A cheerfully earnest, lightweight adventure whose sincerity wins some goodwill.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Girlfriends of Christmas Past (2016)",
+        "rating": 1.5,
+        "feeling": "Cute premise, but formula and sugary tidiness left me unmoved.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "The Drifter (1988)",
+        "rating": 2.0,
+        "feeling": "Sleazy, serviceable stalker thrills with little psychological depth for me.",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sergio (2020)",
+        "rating": 4.0,
+        "feeling": "A compassionate, clear-eyed look at idealism and realpolitik that lingered with me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Postal (2007)",
+        "rating": 0.5,
+        "feeling": "Crude, scattershot provocation that felt more punishing than pointed.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Adventures of Pinocchio, The (1996)",
+        "rating": 2.5,
+        "feeling": "A sincere fable whose charm is blunted by creaky storytelling.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Hunger Games (2012)",
+        "rating": 3.5,
+        "feeling": "A sturdy, unsettling premise whose social critique hooked me more than the spectacle.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Dumb and Dumber To (2014)",
+        "rating": 1.5,
+        "feeling": "Nostalgic bits aside, the recycled idiocy mostly numbed me.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Serbian Film, A (Srpski film) (2010)",
+        "rating": 0.5,
+        "feeling": "Exploitative cruelty masquerading as transgression\u2014I want no part of it.",
+        "genres": [
+          "Crime",
+          "Horror",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Drop Dead Gorgeous (1999)",
+      "U2: Rattle and Hum (1988)",
+      "Angel Heart (1987)",
+      "Closer (2004)",
+      "Shopgirl (2005)",
+      "Zeitgeist: Moving Forward (2011)",
+      "The Deserted Station (2002)",
+      "Phish: Bittersweet Motel (2000)",
+      "Apocalypto (2006)",
+      "Last Supper, The (1995)",
+      "Drifting Clouds (Kauas pilvet karkaavat) (1996)",
+      "Runaway Train (1985)",
+      "Lawn Dogs (1997)",
+      "Love Affair (1994)",
+      "The Vanishing (2018)",
+      "Poultrygeist: Night of the Chicken Dead (2006)",
+      "Twice Upon a Yesterday (a.k.a. Man with Rain in His Shoes, The) (1998)",
+      "To Have, or Not (En avoir (ou pas)) (1995)",
+      "The Attempt Against the Life of Maitre Labori (1899)",
+      "Your Friends and Neighbors (1998)",
+      "Pink Flamingos (1972)",
+      "Candy (2006)",
+      "Man Bites Dog (C'est arriv\u00e9 pr\u00e8s de chez vous) (1992)",
+      "Human Traffic (1999)",
+      "Raven Song (2022)",
+      "Happy Ending, The (1969)",
+      "Two Girls and a Guy (1997)",
+      "The Lovers (2017)",
+      "Killing Zoe (1994)",
+      "Cocaine Cowboys (2006)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Drop Dead Gorgeous (1999)",
+        "rating": 3.0,
+        "feeling": "Dark small-town mock-doc satire whose bite lands even as the meanness dulls the laughs.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "U2: Rattle and Hum (1988)",
+        "rating": 3.0,
+        "feeling": "Impressive stagecraft and flashes of intensity, but I prefer more probing, human-focused docs.",
+        "genres": [
+          "Music",
+          "Documentary"
+        ]
+      },
+      {
+        "title": "Angel Heart (1987)",
+        "rating": 2.5,
+        "feeling": "Smoky, moody noir trappings, but the occult nastiness left me cold.",
+        "genres": [
+          "Horror",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Closer (2004)",
+        "rating": 3.0,
+        "feeling": "A sharp, chilly chamber piece on desire and deceit that I admired more than loved.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Shopgirl (2005)",
+        "rating": 2.5,
+        "feeling": "Delicate and sincere, but the fairytale gloss and tidy lessons feel a bit weightless to me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Zeitgeist: Moving Forward (2011)",
+        "rating": 2.5,
+        "feeling": "Ambitious and provocative, yet too sweeping and didactic to fully convince me.",
+        "genres": [
+          "Documentary"
+        ]
+      },
+      {
+        "title": "The Deserted Station (2002)",
+        "rating": 4.0,
+        "feeling": "Quiet, humane encounters that find grace in small acts\u2014gently moving.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Phish: Bittersweet Motel (2000)",
+        "rating": 2.5,
+        "feeling": "A lively tour snapshot with an engaging subculture, but light on the human stakes I crave.",
+        "genres": [
+          "Documentary",
+          "Music"
+        ]
+      },
+      {
+        "title": "Apocalypto (2006)",
+        "rating": 2.5,
+        "feeling": "Visceral and gripping, but the relentless brutality and mythmaking left me more drained than moved.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Last Supper, The (1995)",
+        "rating": 3.0,
+        "feeling": "A cheeky, troubling premise that pokes hypocrisy even as some smugness seeps in.",
+        "genres": [
+          "Comedy",
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Drifting Clouds (Kauas pilvet karkaavat) (1996)",
+        "rating": 4.0,
+        "feeling": "Dry, humane resilience told with modest grace that quietly won me over.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Runaway Train (1985)",
+        "rating": 3.5,
+        "feeling": "A muscular, relentless survival tale with enough human grit to keep me invested.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Lawn Dogs (1997)",
+        "rating": 3.5,
+        "feeling": "A tender, uneasy class fable whose bruised empathy outweighed the contrivances.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love Affair (1994)",
+        "rating": 2.5,
+        "feeling": "Earnest and polished, but the fated-romance beats felt more dutiful than stirring.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Vanishing (2018)",
+        "rating": 2.5,
+        "feeling": "A brooding, fragmented life study that intrigued me in flashes but left me distant.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Poultrygeist: Night of the Chicken Dead (2006)",
+        "rating": 0.5,
+        "feeling": "Gross-out shock and juvenile provocation that felt more punishing than pointed.",
+        "genres": [
+          "Science Fiction",
+          "Fantasy",
+          "Comedy",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Twice Upon a Yesterday (a.k.a. Man with Rain in His Shoes, The) (1998)",
+        "rating": 3.0,
+        "feeling": "A gently whimsical second-chance tale whose sincerity carries it past some contrivances.",
+        "genres": [
+          "Not Found"
+        ]
+      },
+      {
+        "title": "To Have, or Not (En avoir (ou pas)) (1995)",
+        "rating": 3.5,
+        "feeling": "Unvarnished, working-class tenderness that finds real feeling in modest lives.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Attempt Against the Life of Maitre Labori (1899)",
+        "rating": 2.5,
+        "feeling": "A curious historical snapshot whose appeal is mostly archival for me.",
+        "genres": []
+      },
+      {
+        "title": "Your Friends and Neighbors (1998)",
+        "rating": 2.0,
+        "feeling": "Incisive but so caustic and misanthropic it kept me at a chilly remove.",
+        "genres": [
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Pink Flamingos (1972)",
+        "rating": 0.5,
+        "feeling": "Gleeful filth-as-provocation that reads as empty and punishing to me.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Candy (2006)",
+        "rating": 3.5,
+        "feeling": "A tender, bruising addiction romance that earns its sorrow without wallowing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Man Bites Dog (C'est arriv\u00e9 pr\u00e8s de chez vous) (1992)",
+        "rating": 1.0,
+        "feeling": "A clever conceit curdled by gleeful cruelty\u2014the satire illuminates little for me.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Human Traffic (1999)",
+        "rating": 3.0,
+        "feeling": "Energetic, freewheeling snapshot of youth that amuses more than it moves me.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Raven Song (2022)",
+        "rating": 3.0,
+        "feeling": "A wistful search for meaning that hits enough honest notes to linger a bit.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Happy Ending, The (1969)",
+        "rating": 3.5,
+        "feeling": "A clear-eyed midlife reckoning whose quiet ache resonated despite some dated touches.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Lovers (2017)",
+        "rating": 3.0,
+        "feeling": "Wry, gently observed marital zigzags I respected more than I felt.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cocaine Cowboys (2006)",
+        "rating": 4.0,
+        "feeling": "A propulsive, troubling oral history that maps power and violence with bracing clarity.",
+        "genres": [
+          "Documentary",
+          "Crime"
+        ]
+      }
+    ]
+  }
+]

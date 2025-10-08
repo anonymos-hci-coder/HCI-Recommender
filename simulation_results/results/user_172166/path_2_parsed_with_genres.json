@@ -1,0 +1,1330 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "About Time (2013)",
+      "The Lake House (2006)",
+      "The Age of Adaline (2015)",
+      "The Adjustment Bureau (2011)",
+      "13 Going on 30 (2004)",
+      "Stardust (2007)",
+      "Enchanted (2007)",
+      "Penelope (2006)",
+      "Midnight in Paris (2011)",
+      "Ghost (1990)",
+      "Palm Springs (2020)",
+      "The Map of Tiny Perfect Things (2021)",
+      "The Proposal (2009)",
+      "Crazy, Stupid, Love (2011)",
+      "10 Things I Hate About You (1999)",
+      "Easy A (2010)",
+      "She's the Man (2006)",
+      "The Wedding Singer (1998)",
+      "50 First Dates (2004)",
+      "The Holiday (2006)",
+      "Notting Hill (1999)",
+      "Despicable Me (2010)",
+      "Knight and Day (2010)",
+      "Kung Fu Panda (2008)",
+      "Megamind (2010)",
+      "The Mask of Zorro (1998)",
+      "The Princess Bride (1987)",
+      "The Italian Job (2003)",
+      "Shanghai Noon (2000)",
+      "The Mummy (1999)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "About Time (2013)",
+        "rating": 4.5,
+        "feeling": "Time-twist romance hit my sweet spot and left me feeling grateful and mushy.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Lake House (2006)",
+        "rating": 4.0,
+        "feeling": "The slow-burn, time-crossed letters were romantic enough to keep me hooked.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Age of Adaline (2015)",
+        "rating": 4.0,
+        "feeling": "The immortal twist made the love story feel wistful and captivating.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Adjustment Bureau (2011)",
+        "rating": 3.5,
+        "feeling": "Cool fate-vs-love angle, though the thriller bits sometimes pulled me out.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "13 Going on 30 (2004)",
+        "rating": 3.5,
+        "feeling": "Cute magic makeover story with enough heart and laughs to work.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 3.5,
+        "feeling": "Whimsical quest and soft romance were fun, if a bit long-winded.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 3.5,
+        "feeling": "Fairy-tale fish-out-of-water charm made me smile throughout.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Penelope (2006)",
+        "rating": 3.0,
+        "feeling": "Sweet message and quirky vibe, but it felt slight in places.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Midnight in Paris (2011)",
+        "rating": 3.0,
+        "feeling": "Neat midnight trips, but the talky nostalgia didn't fully sweep me up.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ghost (1990)",
+        "rating": 4.0,
+        "feeling": "Supernatural love and danger hit the right sentimental notes.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Palm Springs (2020)",
+        "rating": 3.5,
+        "feeling": "Looping romance was clever and warm without getting too cynical.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Map of Tiny Perfect Things (2021)",
+        "rating": 3.0,
+        "feeling": "Charming idea with tender moments, just a bit lightweight.",
+        "genres": [
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 3.5,
+        "feeling": "Formulaic but breezy chemistry made it an easy watch.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Crazy, Stupid, Love (2011)",
+        "rating": 3.0,
+        "feeling": "Some sharp moments, but the intertwining stories felt uneven for me.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "10 Things I Hate About You (1999)",
+        "rating": 3.5,
+        "feeling": "Snappy teen romance with enough bite and sweetness to land.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Easy A (2010)",
+        "rating": 3.0,
+        "feeling": "Witty and playful, though the snark sometimes wore thin.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "She's the Man (2006)",
+        "rating": 3.0,
+        "feeling": "Goofy disguise hijinks that were fun if a little broad.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Wedding Singer (1998)",
+        "rating": 3.5,
+        "feeling": "Old-school Sandler sweetness and tunes gave me the warm fuzzies.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "50 First Dates (2004)",
+        "rating": 3.5,
+        "feeling": "Cute high-concept romance that stayed light and endearing.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 3.0,
+        "feeling": "Cozy and pleasant, even if it runs a bit long.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 3.5,
+        "feeling": "Simple, charming romance that left me smiling.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Despicable Me (2010)",
+        "rating": 3.5,
+        "feeling": "Lovable rogues and heart softened the antics nicely.",
+        "genres": [
+          "Family",
+          "Comedy",
+          "Animation"
+        ]
+      },
+      {
+        "title": "Knight and Day (2010)",
+        "rating": 3.0,
+        "feeling": "Glossy action and flirty banter entertained but didn't wow me.",
+        "genres": [
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Kung Fu Panda (2008)",
+        "rating": 3.5,
+        "feeling": "Energetic, funny, and heartfelt in a way I enjoy.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Megamind (2010)",
+        "rating": 3.5,
+        "feeling": "Smart superhero riff with enough heart and laughs.",
+        "genres": [
+          "Animation",
+          "Action",
+          "Comedy",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 3.5,
+        "feeling": "Swashbuckling fun with a dash of romance hit the spot.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 3.5,
+        "feeling": "Light, witty fairy-tale adventure with a sweet romantic core.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 3.5,
+        "feeling": "Slick heist fun with punchy action scratched my car-chase itch.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Shanghai Noon (2000)",
+        "rating": 3.5,
+        "feeling": "Buddy action-comedy with lively stunts that kept me grinning.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 3.5,
+        "feeling": "Pulp adventure and supernatural flair made for a fun ride.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Eternal Sunshine of the Spotless Mind (2004)",
+      "Your Name (2016)",
+      "Kate & Leopold (2001)",
+      "Sliding Doors (1998)",
+      "Somewhere in Time (1980)",
+      "City of Angels (1998)",
+      "Defending Your Life (1991)",
+      "Groundhog Day (1993)",
+      "The Family Man (2000)",
+      "Safety Not Guaranteed (2012)",
+      "Warm Bodies (2013)",
+      "The Curious Case of Benjamin Button (2008)",
+      "The One I Love (2014)",
+      "L.A. Story (1991)",
+      "About Fate (2022)",
+      "Serendipity (2001)",
+      "While You Were Sleeping (1995)",
+      "You've Got Mail (1998)",
+      "Hitch (2005)",
+      "Letters to Juliet (2010)",
+      "Ever After: A Cinderella Story (1998)",
+      "Ella Enchanted (2004)",
+      "A Knight's Tale (2001)",
+      "Romancing the Stone (1984)",
+      "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+      "The Man from U.N.C.L.E. (2015)",
+      "The Thomas Crown Affair (1999)",
+      "Tangled (2010)",
+      "WALL\u00b7E (2008)",
+      "Big Fish (2003)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Eternal Sunshine of the Spotless Mind (2004)",
+        "rating": 4.0,
+        "feeling": "Inventive heartbreak and memory-magic made me ache but also root for love.",
+        "genres": [
+          "Science Fiction",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.0,
+        "feeling": "Body-swap and star-crossed timing swept me up in a tender way.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kate & Leopold (2001)",
+        "rating": 3.5,
+        "feeling": "Old-fashioned charm and time-fish-out-of-water romance kept me grinning.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Sliding Doors (1998)",
+        "rating": 3.5,
+        "feeling": "Parallel paths and gentle humor scratched my what-if romance itch.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Somewhere in Time (1980)",
+        "rating": 4.0,
+        "feeling": "Grand, wistful time-crossed love gave me that mushy, nostalgic glow.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "City of Angels (1998)",
+        "rating": 3.5,
+        "feeling": "The angelic longing was sweet if a little too tragic for me.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Defending Your Life (1991)",
+        "rating": 3.5,
+        "feeling": "Afterlife courtship and gentle laughs felt warm and quietly uplifting.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 3.5,
+        "feeling": "The looping lesson and slow-burn romance were cozy and satisfying.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Family Man (2000)",
+        "rating": 3.5,
+        "feeling": "Holiday what-if life swap was comforting and heartfelt.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 3.0,
+        "feeling": "Quirky time-travel flirt felt cute but a bit slight.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Warm Bodies (2013)",
+        "rating": 3.0,
+        "feeling": "Undead meet-cute was surprisingly sweet though the horror edges aren\u2019t my thing.",
+        "genres": [
+          "Horror",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Curious Case of Benjamin Button (2008)",
+        "rating": 3.0,
+        "feeling": "Melancholy fairy-tale romance was lovely but too languid for me.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The One I Love (2014)",
+        "rating": 2.5,
+        "feeling": "Clever relationship mind-bender intrigued me but the darker vibes kept me at arm\u2019s length.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "L.A. Story (1991)",
+        "rating": 3.0,
+        "feeling": "Whimsical L.A. magic and romance amused me without fully sweeping me away.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Fate (2022)",
+        "rating": 3.0,
+        "feeling": "Fate-tossed New Year\u2019s rom-com was pleasant if predictable.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Serendipity (2001)",
+        "rating": 3.5,
+        "feeling": "Fated near-misses and cozy chemistry left me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 3.5,
+        "feeling": "Mistaken-identity warmth and family vibes made for a comfy swoon.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 3.5,
+        "feeling": "Online anonymity and bookstore banter hit a sweet, easygoing charm.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Hitch (2005)",
+        "rating": 3.0,
+        "feeling": "Slick dating playbook antics entertained me without feeling special.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Letters to Juliet (2010)",
+        "rating": 3.0,
+        "feeling": "Sun-dappled quest for old love was sweet if lightweight.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ever After: A Cinderella Story (1998)",
+        "rating": 3.5,
+        "feeling": "Grounded Cinderella twist balanced smarts and swoon nicely.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Ella Enchanted (2004)",
+        "rating": 3.0,
+        "feeling": "Playful fairy-tale romp was cute but pretty fluffy.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "A Knight's Tale (2001)",
+        "rating": 3.5,
+        "feeling": "Cheeky jousts and earnest romance made for a breezy good time.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance",
+          "Action"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 3.5,
+        "feeling": "Jungle adventure and bickering romance delivered fun sparks.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "rating": 3.5,
+        "feeling": "Swashbuckling escapade with a dash of romance scratched my adventure itch.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Man from U.N.C.L.E. (2015)",
+        "rating": 3.5,
+        "feeling": "Stylish buddy spy caper was slick fun with flirty energy.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.5,
+        "feeling": "Cat-and-mouse heist with simmering attraction was satisfyingly sleek.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Tangled (2010)",
+        "rating": 3.5,
+        "feeling": "Lively songs and adorable duo gave me a warm, adventurous smile.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "WALL\u00b7E (2008)",
+        "rating": 3.5,
+        "feeling": "Quiet robo-romance and hopeful sci-fi heart charmed me throughout.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Big Fish (2003)",
+        "rating": 3.0,
+        "feeling": "Tall-tale whimsy was touching but the father-son yarn felt a bit meandering.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Splash (1984)",
+      "Sleepless in Seattle (1993)",
+      "The Shop Around the Corner (1940)",
+      "Roman Holiday (1953)",
+      "Charade (1963)",
+      "How to Steal a Million (1966)",
+      "To Catch a Thief (1955)",
+      "The Ghost and Mrs. Muir (1947)",
+      "Il Mare (2000)",
+      "The Girl Who Leapt Through Time (2006)",
+      "Howl's Moving Castle (2004)",
+      "17 Again (2009)",
+      "Big (1988)",
+      "Disney's The Kid (2000)",
+      "Pleasantville (1998)",
+      "The Secret Life of Walter Mitty (2013)",
+      "National Treasure (2004)",
+      "The Lost City (2022)",
+      "Jungle Cruise (2021)",
+      "Out of Sight (1998)",
+      "True Lies (1994)",
+      "Two Weeks Notice (2002)",
+      "Miss Congeniality (2000)",
+      "Set It Up (2018)",
+      "Crazy Rich Asians (2018)",
+      "To All the Boys I've Loved Before (2018)",
+      "Ghost Town (2008)",
+      "Always Be My Maybe (2019)",
+      "Shakespeare in Love (1998)",
+      "The American President (1995)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Splash (1984)",
+        "rating": 3.5,
+        "feeling": "Sweet fish-out-of-water mermaid romance tickled my whimsical side and left me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 3.5,
+        "feeling": "Tender, fate-tinged longing gave me cozy, misty-eyed vibes.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 3.5,
+        "feeling": "Old-fashioned pen-pal sparks warmed me with gentle charm.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 3.5,
+        "feeling": "Effortless charm and a bittersweet glow left me pleasantly wistful.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 3.5,
+        "feeling": "Stylish cat-and-mouse thrills with flirty banter were deliciously fun.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "How to Steal a Million (1966)",
+        "rating": 3.5,
+        "feeling": "Light, chic caper antics and cute chemistry scratched my heist-romance itch.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 3.5,
+        "feeling": "Riviera glamour and playful suspense kept me grinning.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ghost and Mrs. Muir (1947)",
+        "rating": 4.0,
+        "feeling": "Tender, otherworldly yearning gave me a cozy, wistful ache.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Il Mare (2000)",
+        "rating": 4.0,
+        "feeling": "Time-separated letters and gentle melancholy hit my sweet, mushy spot.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Girl Who Leapt Through Time (2006)",
+        "rating": 3.5,
+        "feeling": "Clever, heartfelt time-hopping left me warm and reflective.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Drama",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "rating": 3.5,
+        "feeling": "Whimsical magic and shy romance felt cozy and enchanting.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "17 Again (2009)",
+        "rating": 3.0,
+        "feeling": "Goofy do-over fun with enough heart to keep me amused.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Big (1988)",
+        "rating": 3.5,
+        "feeling": "Sweet wish-fulfillment and gentle laughs left me smiling.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "Disney's The Kid (2000)",
+        "rating": 3.0,
+        "feeling": "Soft, feel-good life check-in that was pleasant if a bit pat.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Pleasantville (1998)",
+        "rating": 3.0,
+        "feeling": "The clever color-splash concept touched me, though it felt a tad heavy-handed.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Secret Life of Walter Mitty (2013)",
+        "rating": 3.0,
+        "feeling": "Daydream-to-adventure vibes were soothing and scenic, if a little lightweight.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "National Treasure (2004)",
+        "rating": 3.5,
+        "feeling": "Clue-chasing romp scratched my puzzle-adventure itch nicely.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Lost City (2022)",
+        "rating": 3.0,
+        "feeling": "Silly jungle hijinks and flirty banter were fun, if pretty disposable.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Jungle Cruise (2021)",
+        "rating": 3.0,
+        "feeling": "Theme-park adventure charm and light romance made for an easy, forgettable ride.",
+        "genres": [
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Out of Sight (1998)",
+        "rating": 3.5,
+        "feeling": "Sly attraction and slick crime beats hit the spot.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "True Lies (1994)",
+        "rating": 3.0,
+        "feeling": "Over-the-top spy antics entertained me without really sticking.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Two Weeks Notice (2002)",
+        "rating": 3.5,
+        "feeling": "Comfort-food banter and slow-burn office romance left me content.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Miss Congeniality (2000)",
+        "rating": 3.0,
+        "feeling": "Goofy undercover pageant antics played as fun fluff.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Set It Up (2018)",
+        "rating": 3.0,
+        "feeling": "Cute, breezy setup with likable leads\u2014pleasant and undemanding.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 3.5,
+        "feeling": "Glossy fairy-tale romance and family sparks left me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "To All the Boys I've Loved Before (2018)",
+        "rating": 3.0,
+        "feeling": "Sweet teen swoon with charming leads, a bit light but cute.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ghost Town (2008)",
+        "rating": 3.5,
+        "feeling": "Prickly-meets-warm ghostly romance landed in that gentle, uplifting zone I like.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Always Be My Maybe (2019)",
+        "rating": 3.0,
+        "feeling": "Easy chemistry and mellow laughs made for a pleasant watch.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Shakespeare in Love (1998)",
+        "rating": 3.5,
+        "feeling": "Playful backstage romance and witty wordplay gave me a warm, wistful grin.",
+        "genres": [
+          "Romance",
+          "History",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The American President (1995)",
+        "rating": 3.5,
+        "feeling": "Smart, idealistic courtship left me happily glowing.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "An Affair to Remember (1957)",
+      "Only You (1994)",
+      "Return to Me (2000)",
+      "Leap Year (2010)",
+      "The Big Sick (2017)",
+      "Pride & Prejudice (2005)",
+      "Sense and Sensibility (1995)",
+      "Emma. (2020)",
+      "Sabrina (1995)",
+      "Am\u00e9lie (2001)",
+      "North by Northwest (1959)",
+      "The African Queen (1951)",
+      "Speed (1994)",
+      "The Brothers Bloom (2008)",
+      "Stranger Than Fiction (2006)",
+      "Timer (2009)",
+      "In Your Eyes (2014)",
+      "Always (1989)",
+      "Truly, Madly, Deeply (1990)",
+      "A Matter of Life and Death (1946)",
+      "Portrait of Jennie (1948)",
+      "Peggy Sue Got Married (1986)",
+      "Time After Time (1979)",
+      "If Only (2004)",
+      "Weathering With You (2019)",
+      "Whisper of the Heart (1995)",
+      "Spirited Away (2001)",
+      "Once (2007)",
+      "The Lunchbox (2013)",
+      "Love Actually (2003)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "An Affair to Remember (1957)",
+        "rating": 3.5,
+        "feeling": "Fate-tinged near-miss romance left me warm and wistful.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Only You (1994)",
+        "rating": 3.5,
+        "feeling": "Fate-chasing Italian escapade and flirty vibes kept me smiling.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Return to Me (2000)",
+        "rating": 3.5,
+        "feeling": "Tender, slightly sappy twist hit my soft spot and left me teary-smiling.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Leap Year (2010)",
+        "rating": 3.0,
+        "feeling": "Predictable, but the scenic bickering charm was pleasant enough.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 3.5,
+        "feeling": "Warm, funny culture-clash romance with real heart gave me a comfy ache.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 3.5,
+        "feeling": "Slow-burn sparks and lush yearning left me content and swoony.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 3.5,
+        "feeling": "Gentle wit and earnest hearts gave me that cozy, satisfied glow.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Emma. (2020)",
+        "rating": 3.0,
+        "feeling": "Pretty, playful matchmaking amused me without fully sweeping me away.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sabrina (1995)",
+        "rating": 3.5,
+        "feeling": "Chic Cinderella vibes and soft romance left me pleasantly glowing.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 3.5,
+        "feeling": "Quirky, kind-hearted whimsy gave me a warm, buoyant smile.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 3.5,
+        "feeling": "Sleek cat-and-mouse thrills and witty dash kept me grinning through the chase.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 3.5,
+        "feeling": "High-octane tension with a hint of sparks made for a fun rush.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Brothers Bloom (2008)",
+        "rating": 3.5,
+        "feeling": "Whimsical con-caper and flirtatious adventure hit my heist-romance sweet spot.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stranger Than Fiction (2006)",
+        "rating": 3.5,
+        "feeling": "Bookish magic and quiet romance warmed me in that cozy, uplifting way I love.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Timer (2009)",
+        "rating": 3.0,
+        "feeling": "Clever soulmate gadget hook felt cute and lightly thoughtful.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "In Your Eyes (2014)",
+        "rating": 3.5,
+        "feeling": "Telepathic connection and earnest yearning gave me soft, swoony feels.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Always (1989)",
+        "rating": 3.5,
+        "feeling": "Bittersweet afterlife love left me misty but comforted.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Matter of Life and Death (1946)",
+        "rating": 4.0,
+        "feeling": "Playful, tender afterlife romance gave me a cozy, wistful glow.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Portrait of Jennie (1948)",
+        "rating": 4.0,
+        "feeling": "Ethereal, time-tinged yearning hit my mushy, nostalgic sweet spot.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Peggy Sue Got Married (1986)",
+        "rating": 3.5,
+        "feeling": "Second-chance time hop left me warm and reflective.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Time After Time (1979)",
+        "rating": 3.0,
+        "feeling": "Fun high-concept chase with a romantic streak, a shade darker than my usual sweet spot.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Comedy",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "If Only (2004)",
+        "rating": 3.5,
+        "feeling": "Poignant do-over love tugged my heart in a tender, bittersweet way.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Weathering With You (2019)",
+        "rating": 3.5,
+        "feeling": "Moody weather magic and young love felt wistful and warm.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 3.5,
+        "feeling": "Quiet, earnest first-love dreams left me mellow and smiley.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Spirited Away (2001)",
+        "rating": 3.5,
+        "feeling": "Enchanting spirit-world journey and tender growth gave me a cozy, transported feeling.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 3.0,
+        "feeling": "Understated musical longing was touching if a bit too subdued for me.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 3.5,
+        "feeling": "Tender note-passing connection left me quietly warm and wistful.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Love Actually (2003)",
+        "rating": 3.0,
+        "feeling": "Cozy holiday glow and scattered sweetness were pleasant despite the uneven tangle.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]

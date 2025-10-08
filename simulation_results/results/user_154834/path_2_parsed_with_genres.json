@@ -1,0 +1,1202 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Sabrina (1954)",
+      "Breakfast at Tiffany's (1961)",
+      "The Philadelphia Story (1940)",
+      "His Girl Friday (1940)",
+      "An Affair to Remember (1957)",
+      "The Shop Around the Corner (1940)",
+      "The Apartment (1960)",
+      "Some Like It Hot (1959)",
+      "Casablanca (1942)",
+      "Notorious (1946)",
+      "To Catch a Thief (1955)",
+      "North by Northwest (1959)",
+      "Rebecca (1940)",
+      "Laura (1944)",
+      "Double Indemnity (1944)",
+      "The Thin Man (1934)",
+      "The Lady Vanishes (1938)",
+      "Singin' in the Rain (1952)",
+      "The Sound of Music (1965)",
+      "The King and I (1956)",
+      "An American in Paris (1951)",
+      "Gigi (1958)",
+      "Mary Poppins (1964)",
+      "The Music Man (1962)",
+      "The Wizard of Oz (1939)",
+      "Sense and Sensibility (1995)",
+      "Emma (1996)",
+      "When Harry Met Sally... (1989)",
+      "The Princess Bride (1987)",
+      "The Many Adventures of Winnie the Pooh (1977)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Sabrina (1954)",
+        "rating": 4.5,
+        "feeling": "Elegant, fairy\u2011tale romance with star charm that I happily sank into.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Breakfast at Tiffany's (1961)",
+        "rating": 4.0,
+        "feeling": "Chic and bittersweet, though the playful tone keeps me slightly at arm\u2019s length.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 5.0,
+        "feeling": "Sparkling wit and grown\u2011up romance done to near perfection.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "His Girl Friday (1940)",
+        "rating": 3.5,
+        "feeling": "The machine\u2011gun banter impresses more than it moves me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "An Affair to Remember (1957)",
+        "rating": 4.0,
+        "feeling": "Swept up by the yearning and grand sentiment.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.5,
+        "feeling": "Tender, witty, letter\u2011perfect romance that warms me through.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Apartment (1960)",
+        "rating": 5.0,
+        "feeling": "A sly, humane heartbreaker with bite and tenderness\u2014right up my alley.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Some Like It Hot (1959)",
+        "rating": 3.5,
+        "feeling": "Clever and fizzy, though the farce edges toward too broad for my taste.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 4.5,
+        "feeling": "Silky suspense and smoldering romance kept me rapt.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 4.0,
+        "feeling": "Breezy glamour and playful intrigue\u2014light but satisfying.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.5,
+        "feeling": "Graceful, propulsive escapism with impeccable craft.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Rebecca (1940)",
+        "rating": 4.5,
+        "feeling": "Moody, romantic mystery that lingers beautifully.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.0,
+        "feeling": "Cool, velvety noir with a haunting pulse\u2014very pleasing.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Double Indemnity (1944)",
+        "rating": 5.0,
+        "feeling": "Razor\u2011sharp noir that\u2019s irresistible from first spark to fatal flame.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thin Man (1934)",
+        "rating": 4.0,
+        "feeling": "Effortless charm and mystery, with banter I enjoyed rather than endured.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Lady Vanishes (1938)",
+        "rating": 4.0,
+        "feeling": "Tidy, witty train\u2011car suspense that goes down smooth.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Singin' in the Rain (1952)",
+        "rating": 4.0,
+        "feeling": "Joyful showmanship, even if the shtick sometimes runs a bit cute for me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sound of Music (1965)",
+        "rating": 4.5,
+        "feeling": "Big\u2011hearted and melodic, and I\u2019m a soft touch for its family warmth.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The King and I (1956)",
+        "rating": 3.5,
+        "feeling": "Polished and pleasant, though the pageantry outweighs my emotional pull.",
+        "genres": [
+          "Music",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "An American in Paris (1951)",
+        "rating": 3.5,
+        "feeling": "Lush and tuneful, yet the set\u2011piece grandeur leaves me a little cool.",
+        "genres": [
+          "Music",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Gigi (1958)",
+        "rating": 3.0,
+        "feeling": "Charming but frothy enough that I admire more than adore.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mary Poppins (1964)",
+        "rating": 4.0,
+        "feeling": "Whimsical, sturdy crowd\u2011pleaser with a kindly glow.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Music Man (1962)",
+        "rating": 4.0,
+        "feeling": "Rollicking and good\u2011natured, even if it doesn\u2019t quite sweep me away.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Wizard of Oz (1939)",
+        "rating": 4.0,
+        "feeling": "Classic fantasy that still feels warm and welcoming.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 4.0,
+        "feeling": "Graceful, grown\u2011up romance with feeling and wit.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Emma (1996)",
+        "rating": 3.5,
+        "feeling": "Light, amiable matchmaking that charms if not dazzles.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 4.0,
+        "feeling": "Smart, conversational romance that hits my sweet spot.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "Witty fairy\u2011tale adventure with enough heart to win me over.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Many Adventures of Winnie the Pooh (1977)",
+        "rating": 5.0,
+        "feeling": "Gentle, honey\u2011drizzled comfort that makes me feel five again.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Casablanca (1942)",
+      "The Big Sleep (1946)",
+      "The Third Man (1949)",
+      "Strangers on a Train (1951)",
+      "Shadow of a Doubt (1943)",
+      "To Have and Have Not (1944)",
+      "Witness for the Prosecution (1957)",
+      "Sunset Boulevard (1950)",
+      "The Awful Truth (1937)",
+      "It Happened One Night (1934)",
+      "The Lady Eve (1941)",
+      "Ninotchka (1939)",
+      "Trouble in Paradise (1932)",
+      "Holiday (1938)",
+      "How to Steal a Million (1966)",
+      "Indiscreet (1958)",
+      "Pillow Talk (1959)",
+      "The Bishop's Wife (1947)",
+      "The More the Merrier (1943)",
+      "The African Queen (1951)",
+      "Brief Encounter (1945)",
+      "The Earrings of Madame de... (1953)",
+      "Two for the Road (1967)",
+      "You've Got Mail (1998)",
+      "Notting Hill (1999)",
+      "Brooklyn (2015)",
+      "Paddington (2014)",
+      "Paddington 2 (2017)",
+      "A Matter of Life and Death (1946)",
+      "Adam's Rib (1949)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Big Sleep (1946)",
+        "rating": 4.5,
+        "feeling": "Smoky, twisty noir banter and heat hit my sweet spot.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Atmospheric and superbly crafted, if emotionally a touch cool for me.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Strangers on a Train (1951)",
+        "rating": 4.5,
+        "feeling": "Elegant, nerve\u2011tightening suspense with just the right dark sparkle.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Shadow of a Doubt (1943)",
+        "rating": 4.0,
+        "feeling": "Quietly chilling small\u2011town dread that intrigues more than it moves me.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.5,
+        "feeling": "Witty, twisty courtroom fireworks that I happily gobbled up.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Sunset Boulevard (1950)",
+        "rating": 5.0,
+        "feeling": "A mordant, mesmerizing Hollywood nightmare I find irresistible.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Awful Truth (1937)",
+        "rating": 4.5,
+        "feeling": "Effortless wit and divorce\u2011dance romance that delights me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.5,
+        "feeling": "Warm, fizzy road romance that charms straight through.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lady Eve (1941)",
+        "rating": 4.0,
+        "feeling": "Sparkling and sly, though the farce teeters on too broad at times.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ninotchka (1939)",
+        "rating": 4.0,
+        "feeling": "Dry, elegant laughs with a thawing heart I found very pleasing.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Trouble in Paradise (1932)",
+        "rating": 4.5,
+        "feeling": "Silken, naughty sophistication with irresistible lightness.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Holiday (1938)",
+        "rating": 4.5,
+        "feeling": "Gentle, grown\u2011up romance with ideas and tenderness that suit me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "How to Steal a Million (1966)",
+        "rating": 4.0,
+        "feeling": "Chic caper fluff with charming chemistry and easy glide.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Indiscreet (1958)",
+        "rating": 4.0,
+        "feeling": "Polished, adult romance that goes down smooth.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Pillow Talk (1959)",
+        "rating": 3.5,
+        "feeling": "Glossy and cute, fun but a bit too cutesy for my taste.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Bishop's Wife (1947)",
+        "rating": 4.0,
+        "feeling": "Warm, twinkly holiday comfort with a kindly glow.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The More the Merrier (1943)",
+        "rating": 4.0,
+        "feeling": "Breezy wartime romp with amiable spark and heart.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Brief Encounter (1945)",
+        "rating": 4.5,
+        "feeling": "Tender, aching restraint that swept me up.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Earrings of Madame de... (1953)",
+        "rating": 4.5,
+        "feeling": "Lush, elegant heartache that lingers beautifully.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Two for the Road (1967)",
+        "rating": 4.0,
+        "feeling": "Wry, bittersweet marital collage that touches more than dazzles.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.0,
+        "feeling": "Cozy, literate romance whose warmth wins me over.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.0,
+        "feeling": "Gentle fantasy with easy charm and a soft smile.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 4.0,
+        "feeling": "Graceful, homespun romance that warms without overwhelming.",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "Kind\u2011hearted, honeyed comfort that makes me feel five again.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 4.5,
+        "feeling": "Even warmer and tidier, a sweet hug I\u2019m happy to sink into.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "A Matter of Life and Death (1946)",
+        "rating": 4.5,
+        "feeling": "Inventive, romantic fantasy with a generous glow I adore.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Adam's Rib (1949)",
+        "rating": 4.5,
+        "feeling": "Smart, sparkling battle\u2011of\u2011the\u2011sexes that suits my taste perfectly.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Casablanca (1942)",
+      "The 39 Steps (1935)",
+      "Suspicion (1941)",
+      "Vertigo (1958)",
+      "To Have and Have Not (1944)",
+      "The African Queen (1951)",
+      "Gaslight (1944)",
+      "The Ghost and Mrs. Muir (1947)",
+      "Out of the Past (1947)",
+      "Gilda (1946)",
+      "Letter from an Unknown Woman (1948)",
+      "The Heiress (1949)",
+      "I Know Where I'm Going! (1945)",
+      "The Life and Death of Colonel Blimp (1943)",
+      "Heaven Can Wait (1943)",
+      "Cluny Brown (1946)",
+      "The Uninvited (1944)",
+      "Jane Eyre (1943)",
+      "Summertime (1955)",
+      "Now, Voyager (1942)",
+      "Random Harvest (1942)",
+      "Ball of Fire (1941)",
+      "Pride & Prejudice (2005)",
+      "The Age of Innocence (1993)",
+      "A Room with a View (1985)",
+      "Enchanted April (1991)",
+      "Kiki's Delivery Service (1989)",
+      "A Little Princess (1995)",
+      "Midnight in Paris (2011)",
+      "About Time (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The 39 Steps (1935)",
+        "rating": 4.0,
+        "feeling": "Fleet, witty chase\u2011thriller that goes down delightfully smooth.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Suspicion (1941)",
+        "rating": 3.5,
+        "feeling": "Silky setup and stars, though the nerve softens just when I want the sting.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Vertigo (1958)",
+        "rating": 4.0,
+        "feeling": "Haunting and hypnotic, if a touch chilly in its obsessive trance.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gaslight (1944)",
+        "rating": 4.0,
+        "feeling": "Handsomely unnerving gothic melodrama with a satisfying shiver.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Ghost and Mrs. Muir (1947)",
+        "rating": 4.5,
+        "feeling": "Tender, sea\u2011breezy romance with a bittersweet, luminous glow.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Out of the Past (1947)",
+        "rating": 4.5,
+        "feeling": "Smoldering fatalism and smoky elegance that scratch my noir itch.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Gilda (1946)",
+        "rating": 4.0,
+        "feeling": "Glamorous, bruised romance with enough heat to keep me rapt.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Letter from an Unknown Woman (1948)",
+        "rating": 4.5,
+        "feeling": "Lush, aching devotion that lingers beautifully.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Heiress (1949)",
+        "rating": 4.5,
+        "feeling": "Elegant, devastating heartache done with impeccable restraint.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "I Know Where I'm Going! (1945)",
+        "rating": 4.5,
+        "feeling": "Wind\u2011swept, witty courtship that warms me right through.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Life and Death of Colonel Blimp (1943)",
+        "rating": 4.0,
+        "feeling": "Generous, humane saga whose warmth and wit outweigh its sprawl.",
+        "genres": [
+          "War",
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Heaven Can Wait (1943)",
+        "rating": 4.5,
+        "feeling": "Silken, lightly naughty charm that goes down like a smile.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cluny Brown (1946)",
+        "rating": 4.0,
+        "feeling": "Sprightly, gently subversive confection with amiable fizz.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Uninvited (1944)",
+        "rating": 4.0,
+        "feeling": "Moody seaside chills wrapped in a romantic hush I savor.",
+        "genres": [
+          "Mystery",
+          "Horror",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jane Eyre (1943)",
+        "rating": 4.0,
+        "feeling": "Gothic romance with a steady, smoldering pull.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Summertime (1955)",
+        "rating": 4.0,
+        "feeling": "Sunlit, wistful Venice romance that leaves a tender ache.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Now, Voyager (1942)",
+        "rating": 4.0,
+        "feeling": "Polished, yearning melodrama with just the right swell.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Random Harvest (1942)",
+        "rating": 4.0,
+        "feeling": "Sweeping, sincerely sentimental and pleasingly tender.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ball of Fire (1941)",
+        "rating": 4.0,
+        "feeling": "Bright, slangy fun\u2014breezy enough to win me over.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 4.0,
+        "feeling": "Graceful, spirited Austen romance that suits me nicely.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Age of Innocence (1993)",
+        "rating": 4.0,
+        "feeling": "Sumptuous restraint and aching propriety I find very pleasing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Enchanted April (1991)",
+        "rating": 4.0,
+        "feeling": "Gentle Italian sunshine that soothes and quietly restores.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Kiki's Delivery Service (1989)",
+        "rating": 4.5,
+        "feeling": "Kind\u2011hearted, honeyed comfort that makes me feel five again.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Drama",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Little Princess (1995)",
+        "rating": 4.0,
+        "feeling": "Warm, storybook glow with just enough wonder.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Midnight in Paris (2011)",
+        "rating": 4.0,
+        "feeling": "A wistful, literate lark whose glow I happily sink into.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "About Time (2013)",
+        "rating": 4.0,
+        "feeling": "Cozy, time\u2011tucked romance that leaves me grateful and soft.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Love in the Afternoon (1957)",
+      "To Have and Have Not (1944)",
+      "Stage Door (1937)",
+      "The Red Shoes (1948)",
+      "Black Narcissus (1947)",
+      "The Innocents (1961)",
+      "The Enchanted Cottage (1945)",
+      "Portrait of Jennie (1948)",
+      "Waterloo Bridge (1940)",
+      "Wuthering Heights (1939)",
+      "The Letter (1940)",
+      "Mildred Pierce (1945)",
+      "Spellbound (1945)",
+      "The Lavender Hill Mob (1951)",
+      "The Railway Children (1970)",
+      "The Secret Garden (1993)",
+      "Babe (1995)",
+      "My Neighbor Totoro (1988)",
+      "Whisper of the Heart (1995)",
+      "Am\u00e9lie (2001)",
+      "The Guernsey Literary and Potato Peel Pie Society (2018)",
+      "Carol (2015)",
+      "A Room with a View (1985)",
+      "The Remains of the Day (1993)",
+      "Persuasion (1995)",
+      "Emma (2020)",
+      "My Man Godfrey (1936)",
+      "The Devil and Miss Jones (1941)",
+      "Mr. Blandings Builds His Dream House (1948)",
+      "Funny Face (1957)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Love in the Afternoon (1957)",
+        "rating": 4.0,
+        "feeling": "Effervescent, grown-up flirtation with a wistful Parisian glow that suits me.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Stage Door (1937)",
+        "rating": 4.0,
+        "feeling": "Witty camaraderie and backstage heartache that warms me even as it stings.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Red Shoes (1948)",
+        "rating": 4.0,
+        "feeling": "Sumptuous and tragic, I admired its fevered artistry more than I fully felt it.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Black Narcissus (1947)",
+        "rating": 4.0,
+        "feeling": "Heady, haunting atmosphere that casts a hypnotic spell I happily slipped into.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Innocents (1961)",
+        "rating": 4.0,
+        "feeling": "Elegantly unnerving gothic chills that tingle more than they terrify\u2014just right.",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Enchanted Cottage (1945)",
+        "rating": 4.5,
+        "feeling": "Tender, magical devotion with a generous glow that melts me.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Portrait of Jennie (1948)",
+        "rating": 4.0,
+        "feeling": "Dreamy, time\u2011crossed romance whose misty melancholy pleases me.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Waterloo Bridge (1940)",
+        "rating": 4.0,
+        "feeling": "Sincere, aching wartime romance that swept me up with gentle force.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Wuthering Heights (1939)",
+        "rating": 3.5,
+        "feeling": "Stormy moorland passion I admire at a distance more than I embrace.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Letter (1940)",
+        "rating": 4.5,
+        "feeling": "Taut, sultry intrigue with a noir snap that I relish.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Mildred Pierce (1945)",
+        "rating": 4.5,
+        "feeling": "Smoldering, polished melodrama I devoured with noirish satisfaction.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Spellbound (1945)",
+        "rating": 3.5,
+        "feeling": "Silky Hitchcock intrigue, though the Freudian flourishes leave me a bit cool.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Lavender Hill Mob (1951)",
+        "rating": 4.0,
+        "feeling": "Droll, nimble caper that goes down delightfully easy.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Railway Children (1970)",
+        "rating": 4.0,
+        "feeling": "Warm, kindly adventure that leaves me soothed and smiling.",
+        "genres": [
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Secret Garden (1993)",
+        "rating": 4.0,
+        "feeling": "Gently wondrous and restorative, with a storybook hush I savor.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Babe (1995)",
+        "rating": 4.5,
+        "feeling": "Kind\u2011hearted, storybook sweetness that feels like a cozy hug.",
+        "genres": [
+          "Fantasy",
+          "Drama",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "My Neighbor Totoro (1988)",
+        "rating": 4.5,
+        "feeling": "Soft, honeyed comfort that makes me feel five again.",
+        "genres": [
+          "Fantasy",
+          "Animation",
+          "Family"
+        ]
+      },
+      {
+        "title": "Whisper of the Heart (1995)",
+        "rating": 4.5,
+        "feeling": "Tender, bookish coming\u2011of\u2011age with a cozy, hopeful glow.",
+        "genres": [
+          "Animation",
+          "Drama",
+          "Family"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 4.0,
+        "feeling": "Whimsical and warm",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Guernsey Literary and Potato Peel Pie Society (2018)",
+        "rating": 4.0,
+        "feeling": "Comforting, literate wartime warmth that I settle into happily.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Carol (2015)",
+        "rating": 4.5,
+        "feeling": "Elegant, aching restraint that lingers beautifully.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Remains of the Day (1993)",
+        "rating": 4.0,
+        "feeling": "Sumptuous restraint and quiet heartache I find very pleasing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Persuasion (1995)",
+        "rating": 4.0,
+        "feeling": "Gentle, mature yearning rendered with grace that suits me nicely.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Emma (2020)",
+        "rating": 3.5,
+        "feeling": "Charming and pretty, though the confection runs a touch too cute for me.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "My Man Godfrey (1936)",
+        "rating": 4.0,
+        "feeling": "Effortless sparkle and social bite that I enjoy rather than endure.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Devil and Miss Jones (1941)",
+        "rating": 4.0,
+        "feeling": "Amiable, humane comedy with warmth and wink I\u2019m happy to bask in.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Mr. Blandings Builds His Dream House (1948)",
+        "rating": 3.5,
+        "feeling": "Pleasant domestic muddle that amuses more than it dazzles.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Funny Face (1957)",
+        "rating": 3.5,
+        "feeling": "Chic, tuneful froth whose gloss charms while keeping me slightly at arm\u2019s length.",
+        "genres": [
+          "Music",
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

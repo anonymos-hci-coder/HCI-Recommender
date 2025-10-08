@@ -1,0 +1,1259 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "About Time (2013)",
+      "Notting Hill (1999)",
+      "The Holiday (2006)",
+      "The Proposal (2009)",
+      "While You Were Sleeping (1995)",
+      "Letters to Juliet (2010)",
+      "The Guernsey Literary and Potato Peel Pie Society (2018)",
+      "Brooklyn (2015)",
+      "Pride & Prejudice (2005)",
+      "Little Women (2019)",
+      "Philomena (2013)",
+      "Erin Brockovich (2000)",
+      "All the President's Men (1976)",
+      "The Post (2017)",
+      "Dark Waters (2019)",
+      "Hidden Figures (2016)",
+      "Knives Out (2019)",
+      "Enola Holmes (2020)",
+      "The Age of Adaline (2015)",
+      "Stardust (2007)",
+      "The Lake House (2006)",
+      "Enchanted (2007)",
+      "Cinderella (2015)",
+      "Klaus (2019)",
+      "The Princess Switch (2018)",
+      "Love Hard (2021)",
+      "The Big Sick (2017)",
+      "Sing Street (2016)",
+      "La La Land (2016)",
+      "You've Got Mail (1998)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "About Time (2013)",
+        "rating": 5.0,
+        "feeling": "A tender time-twist that made me cherish the little moments and the people I love.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Notting Hill (1999)",
+        "rating": 4.5,
+        "feeling": "Warm, witty, and swoony in that cozy British way.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Holiday (2006)",
+        "rating": 4.5,
+        "feeling": "Festive comfort-food romance that left me glowing.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Proposal (2009)",
+        "rating": 4.0,
+        "feeling": "Charming opposites-attract fluff with plenty of sparks.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "While You Were Sleeping (1995)",
+        "rating": 4.5,
+        "feeling": "Sweet, funny, and wonderfully kind-hearted.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Letters to Juliet (2010)",
+        "rating": 4.5,
+        "feeling": "Sun-drenched, sentimental quest that made my heart flutter.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Guernsey Literary and Potato Peel Pie Society (2018)",
+        "rating": 4.5,
+        "feeling": "Gentle, bookish, and deeply comforting with a lovely sense of place.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Brooklyn (2015)",
+        "rating": 5.0,
+        "feeling": "Luminous and heartfelt",
+        "genres": [
+          "Drama",
+          "Music"
+        ]
+      },
+      {
+        "title": "Pride & Prejudice (2005)",
+        "rating": 5.0,
+        "feeling": "Gorgeously romantic and swoon-inducing from first glance to last dance.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Little Women (2019)",
+        "rating": 5.0,
+        "feeling": "Warm, wise, and empowering",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Philomena (2013)",
+        "rating": 4.5,
+        "feeling": "Quietly powerful and humane, with a touch of gentle humor that moved me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Erin Brockovich (2000)",
+        "rating": 5.0,
+        "feeling": "Rousing, compassionate, and fist-pump satisfying justice.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "All the President's Men (1976)",
+        "rating": 4.5,
+        "feeling": "Riveting newsroom grit that scratches my investigative itch.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Post (2017)",
+        "rating": 4.5,
+        "feeling": "Stirring and timely",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Dark Waters (2019)",
+        "rating": 4.5,
+        "feeling": "Sobering and compelling",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Hidden Figures (2016)",
+        "rating": 5.0,
+        "feeling": "Uplifting, smart, and inspiring\u2014left me grinning and teary.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Knives Out (2019)",
+        "rating": 4.5,
+        "feeling": "Clever, twisty fun with delicious character sparks.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Enola Holmes (2020)",
+        "rating": 4.0,
+        "feeling": "Playful, empowering sleuthing with wholesome charm.",
+        "genres": [
+          "Adventure",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Age of Adaline (2015)",
+        "rating": 4.5,
+        "feeling": "Elegantly wistful",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Stardust (2007)",
+        "rating": 4.5,
+        "feeling": "Enchanting and adventurous with a big, joyful heart.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Lake House (2006)",
+        "rating": 4.0,
+        "feeling": "Gentle, wistful romance that left me pleasantly misty.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Enchanted (2007)",
+        "rating": 4.5,
+        "feeling": "Delightfully self-aware fairy-tale fun with a lovable wink.",
+        "genres": [
+          "Comedy",
+          "Family",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Cinderella (2015)",
+        "rating": 4.5,
+        "feeling": "Classic kindness-and-courage magic done beautifully.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Family",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Klaus (2019)",
+        "rating": 4.5,
+        "feeling": "Cozy, inventive Christmas joy that melted my heart.",
+        "genres": [
+          "Animation",
+          "Family",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Princess Switch (2018)",
+        "rating": 4.0,
+        "feeling": "Sweet, silly holiday escapism I happily indulged in.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Love Hard (2021)",
+        "rating": 4.0,
+        "feeling": "Cute and cozy with enough heart to forgive the hijinks.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Big Sick (2017)",
+        "rating": 4.5,
+        "feeling": "Funny, tender, and honest",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sing Street (2016)",
+        "rating": 4.5,
+        "feeling": "Irresistibly toe-tapping and hopeful",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Music",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "La La Land (2016)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, swoony, and bittersweet in a way I loved.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Music"
+        ]
+      },
+      {
+        "title": "You've Got Mail (1998)",
+        "rating": 4.5,
+        "feeling": "Bookish, cozy charm with irresistible chemistry.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Paddington (2014)",
+      "Paddington 2 (2017)",
+      "Sense and Sensibility (1995)",
+      "Emma (2020)",
+      "Far from the Madding Crowd (2015)",
+      "Jane Eyre (2011)",
+      "Ever After: A Cinderella Story (1998)",
+      "The Princess Bride (1987)",
+      "Sliding Doors (1998)",
+      "The Time Traveler's Wife (2009)",
+      "The Adjustment Bureau (2011)",
+      "Crazy Rich Asians (2018)",
+      "Set It Up (2018)",
+      "Always Be My Maybe (2019)",
+      "Last Christmas (2019)",
+      "Arthur Christmas (2011)",
+      "Jingle Jangle: A Christmas Journey (2020)",
+      "Official Secrets (2019)",
+      "Just Mercy (2019)",
+      "Lion (2016)",
+      "See How They Run (2022)",
+      "Gosford Park (2001)",
+      "The Imitation Game (2014)",
+      "The Theory of Everything (2014)",
+      "Begin Again (2013)",
+      "Once (2007)",
+      "Penelope (2008)",
+      "Miss Pettigrew Lives for a Day (2008)",
+      "Your Name (2016)",
+      "The Shop Around the Corner (1940)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Paddington (2014)",
+        "rating": 4.5,
+        "feeling": "Cuddly, kind-hearted adventure that left me smiling and a little misty.",
+        "genres": [
+          "Comedy",
+          "Adventure",
+          "Family"
+        ]
+      },
+      {
+        "title": "Paddington 2 (2017)",
+        "rating": 5.0,
+        "feeling": "Pure, joyful comfort\u2014kindness and community done to perfection.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (1995)",
+        "rating": 5.0,
+        "feeling": "Swoony, compassionate period romance that filled me with warmth.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Emma (2020)",
+        "rating": 4.5,
+        "feeling": "Witty, candy-colored matchmaking with a charmingly tender heart.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Far from the Madding Crowd (2015)",
+        "rating": 4.5,
+        "feeling": "Stirring, independent-spirited romance that swept me away.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jane Eyre (2011)",
+        "rating": 4.5,
+        "feeling": "Moody, romantic and quietly powerful\u2014left me deliciously heartsore.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ever After: A Cinderella Story (1998)",
+        "rating": 4.5,
+        "feeling": "Cinderella with courage and kindness that made me glow.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 5.0,
+        "feeling": "Timeless, funny fairytale bliss that made my heart soar.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Sliding Doors (1998)",
+        "rating": 4.5,
+        "feeling": "Clever parallel-love tale that made me cherish life\u2019s tiny turns.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Time Traveler's Wife (2009)",
+        "rating": 4.0,
+        "feeling": "Melancholy, tender time-crossed love that left me wistful.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Adjustment Bureau (2011)",
+        "rating": 4.0,
+        "feeling": "Romance versus fate with brisk thrills and a hopeful flutter.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Crazy Rich Asians (2018)",
+        "rating": 4.5,
+        "feeling": "Glam, heartfelt romcom sparkle with a satisfying swoon.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Set It Up (2018)",
+        "rating": 4.0,
+        "feeling": "Light, breezy office-romcom fun that kept me grinning.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Always Be My Maybe (2019)",
+        "rating": 4.0,
+        "feeling": "Sweet, funny reconnection with genuine heart.",
+        "genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Last Christmas (2019)",
+        "rating": 4.0,
+        "feeling": "Cozy holiday romance with messy charm and a gentle glow.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Arthur Christmas (2011)",
+        "rating": 4.5,
+        "feeling": "Inventive, big-hearted Christmas joy that warmed me through.",
+        "genres": [
+          "Drama",
+          "Animation",
+          "Family",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Jingle Jangle: A Christmas Journey (2020)",
+        "rating": 4.0,
+        "feeling": "Festive, vibrant musical magic with a generous spirit.",
+        "genres": [
+          "Family",
+          "Fantasy",
+          "Music"
+        ]
+      },
+      {
+        "title": "Official Secrets (2019)",
+        "rating": 4.5,
+        "feeling": "Righteous, gripping whistleblower drama that fed my investigative itch.",
+        "genres": [
+          "Thriller",
+          "History",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Just Mercy (2019)",
+        "rating": 4.5,
+        "feeling": "Deeply humane and inspiring\u2014had me teary and hopeful.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "History"
+        ]
+      },
+      {
+        "title": "Lion (2016)",
+        "rating": 4.5,
+        "feeling": "Heart-wrenching and uplifting in a way that lingered.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "See How They Run (2022)",
+        "rating": 4.0,
+        "feeling": "Playful, cozy whodunit vibes with delightful British flair.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Gosford Park (2001)",
+        "rating": 4.0,
+        "feeling": "Elegant, layered country-house mystery I savored.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Imitation Game (2014)",
+        "rating": 4.5,
+        "feeling": "Compelling, compassionate history that stirred and moved me.",
+        "genres": [
+          "History",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Theory of Everything (2014)",
+        "rating": 4.5,
+        "feeling": "Tender, inspiring biopic with beautiful, bittersweet romance.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Once (2007)",
+        "rating": 4.5,
+        "feeling": "Intimate, musical ache that felt hopeful and true.",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Penelope (2008)",
+        "rating": 2.0,
+        "feeling": "Pulpish cliffhanger antics just aren\u2019t my cup of tea.",
+        "genres": [
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Miss Pettigrew Lives for a Day (2008)",
+        "rating": 4.5,
+        "feeling": "Sparkling, old-fashioned whimsy with a lovely, big heart.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Your Name (2016)",
+        "rating": 4.5,
+        "feeling": "Enchanting, time-twisty romance that left me breathless and misty.",
+        "genres": [
+          "Animation",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Shop Around the Corner (1940)",
+        "rating": 4.5,
+        "feeling": "Utterly charming pen-pal romance that felt cozy and timeless.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Roman Holiday (1953)",
+      "Sabrina (1995)",
+      "The Philadelphia Story (1940)",
+      "It Happened One Night (1934)",
+      "Charade (1963)",
+      "The Thin Man (1934)",
+      "To Catch a Thief (1955)",
+      "A Room with a View (1985)",
+      "Bright Star (2009)",
+      "Belle (2013)",
+      "Becoming Jane (2007)",
+      "Love & Friendship (2016)",
+      "Atonement (2007)",
+      "Midnight in Paris (2011)",
+      "Safety Not Guaranteed (2012)",
+      "Somewhere in Time (1980)",
+      "Kate & Leopold (2001)",
+      "Murder on the Orient Express (2017)",
+      "A Haunting in Venice (2023)",
+      "Crooked House (2017)",
+      "Good Night, and Good Luck. (2005)",
+      "The Insider (1999)",
+      "Shattered Glass (2003)",
+      "On the Basis of Sex (2018)",
+      "Bridget Jones's Diary (2001)",
+      "Music and Lyrics (2007)",
+      "Yesterday (2019)",
+      "Begin Again (2013)",
+      "Julie & Julia (2009)",
+      "Saving Mr. Banks (2013)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Roman Holiday (1953)",
+        "rating": 5.0,
+        "feeling": "A breezy, sparkling fairy tale that left me blissfully swoony.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sabrina (1995)",
+        "rating": 4.0,
+        "feeling": "Glossy, Cinderella-tinged romance that warmed me even through its boardroom scheming.",
+        "genres": [
+          "Romance",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Philadelphia Story (1940)",
+        "rating": 4.5,
+        "feeling": "Effervescent wit and second-chance swoon that left me grinning.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "It Happened One Night (1934)",
+        "rating": 4.5,
+        "feeling": "Delightfully banter-filled and tender\u2014classic comfort that made me glow.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.5,
+        "feeling": "Silky, clever cat-and-mouse romance with a playful shiver that charmed me.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Thin Man (1934)",
+        "rating": 4.0,
+        "feeling": "Dry martinis, sparkling banter, and a cozy mystery\u2014light, classy fun.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 4.0,
+        "feeling": "Sun-dappled glamour and flirtatious suspense that felt charmingly escapist.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Bright Star (2009)",
+        "rating": 4.5,
+        "feeling": "Delicate, poetic ache\u2014romance rendered with hushed, luminous beauty.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Belle (2013)",
+        "rating": 4.5,
+        "feeling": "Stirring, compassionate period drama that made me hopeful and proud.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Becoming Jane (2007)",
+        "rating": 4.5,
+        "feeling": "Tender, spirited and bittersweet\u2014Austen-hearted romance that swept me up.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Love & Friendship (2016)",
+        "rating": 4.5,
+        "feeling": "A tart, witty delight\u2014Austen mischief with irresistible sparkle.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Atonement (2007)",
+        "rating": 4.5,
+        "feeling": "Gorgeous and heartbreaking",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Midnight in Paris (2011)",
+        "rating": 4.5,
+        "feeling": "Whimsical, nostalgic time-hop that left me dreamy and smiling.",
+        "genres": [
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Safety Not Guaranteed (2012)",
+        "rating": 4.5,
+        "feeling": "Quirky, tender and hopeful\u2014time-travel longing with real heart.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Somewhere in Time (1980)",
+        "rating": 4.0,
+        "feeling": "Melancholy, time-crossed yearning that left me softly wistful.",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Kate & Leopold (2001)",
+        "rating": 4.0,
+        "feeling": "Sweet fish-out-of-time romance with old-fashioned charm that made me smile.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Murder on the Orient Express (2017)",
+        "rating": 4.0,
+        "feeling": "Plush, cozy whodunit comforts with stylish melancholy and satisfaction.",
+        "genres": [
+          "Mystery",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "A Haunting in Venice (2023)",
+        "rating": 4.0,
+        "feeling": "Atmospheric, gently spooky mystery that felt snugly satisfying.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Crooked House (2017)",
+        "rating": 4.0,
+        "feeling": "Twisty, Gothic-tinged Christie intrigue that kept me pleasantly on edge.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Good Night, and Good Luck. (2005)",
+        "rating": 4.5,
+        "feeling": "Righteous, elegant newsroom courage that stirred and inspired me.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 4.5,
+        "feeling": "Gripping, humane whistleblower drama that had me tense and inspired.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Shattered Glass (2003)",
+        "rating": 4.5,
+        "feeling": "Lean, riveting newsroom morality tale that scratched my investigative itch.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "On the Basis of Sex (2018)",
+        "rating": 4.5,
+        "feeling": "Uplifting, earnest and inspiring\u2014left me fired up and teary.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Bridget Jones's Diary (2001)",
+        "rating": 4.5,
+        "feeling": "Cozy, self-deprecating swoon with irresistible British charm.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Music and Lyrics (2007)",
+        "rating": 4.0,
+        "feeling": "Light, toe-tapping romance that left me happily humming.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Yesterday (2019)",
+        "rating": 4.0,
+        "feeling": "Sweet, gently magical what-if that left me warm and humming.",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Music",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Julie & Julia (2009)",
+        "rating": 4.5,
+        "feeling": "Comforting, flavorful life-lesson stew that left me buoyant and hungry.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Saving Mr. Banks (2013)",
+        "rating": 4.5,
+        "feeling": "Tender, nostalgic and quietly moving\u2014left my heart full.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "When Harry Met Sally... (1989)",
+      "Sleepless in Seattle (1993)",
+      "Four Weddings and a Funeral (1994)",
+      "What If (2014)",
+      "Begin Again (2013)",
+      "The Lunchbox (2013)",
+      "Am\u00e9lie (2001)",
+      "Before Sunrise (1995)",
+      "Before Sunset (2004)",
+      "Before Midnight (2013)",
+      "Cyrano (2021)",
+      "To All the Boys I\u2019ve Loved Before (2018)",
+      "The Hating Game (2021)",
+      "A Room with a View (1985)",
+      "An Ideal Husband (1999)",
+      "The Importance of Being Earnest (2002)",
+      "Colette (2018)",
+      "Portrait of a Lady on Fire (2019)",
+      "The Duchess (2008)",
+      "Anna Karenina (2012)",
+      "The Report (2019)",
+      "Bridge of Spies (2015)",
+      "The Trial of the Chicago 7 (2020)",
+      "Woman in Gold (2015)",
+      "The Constant Gardener (2005)",
+      "Glass Onion: A Knives Out Mystery (2022)",
+      "Death on the Nile (2022)",
+      "Mr. Holmes (2015)",
+      "The Man Who Invented Christmas (2017)",
+      "White Christmas (1954)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "When Harry Met Sally... (1989)",
+        "rating": 5.0,
+        "feeling": "Effortless banter and a tender friends-to-lovers arc that left me glowing.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sleepless in Seattle (1993)",
+        "rating": 4.5,
+        "feeling": "A cozy, fate-kissed romance that made me misty and hopeful.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Four Weddings and a Funeral (1994)",
+        "rating": 4.5,
+        "feeling": "Witty, bittersweet British swoon that had me grinning and aching in equal measure.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "What If (2014)",
+        "rating": 3.5,
+        "feeling": "Gentle, imaginative vignettes with kind-hearted warmth\u2014simple but sweet.",
+        "genres": [
+          "Animation"
+        ]
+      },
+      {
+        "title": "The Lunchbox (2013)",
+        "rating": 4.5,
+        "feeling": "A quiet epistolary connection that left me full-hearted and wistful.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Am\u00e9lie (2001)",
+        "rating": 4.5,
+        "feeling": "Whimsical, kind-hearted delight that made my heart flutter.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunrise (1995)",
+        "rating": 4.5,
+        "feeling": "An intimate night of talk and tenderness that felt dreamy and true.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Sunset (2004)",
+        "rating": 4.5,
+        "feeling": "A mature, aching reconnection that left me breathless with quiet longing.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Before Midnight (2013)",
+        "rating": 4.0,
+        "feeling": "Piercingly honest and bittersweet, leaving me heartsore yet hopeful.",
+        "genres": [
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Cyrano (2021)",
+        "rating": 4.0,
+        "feeling": "Lyrical unrequited swoon with elegant melancholy that lingered softly.",
+        "genres": [
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "To All the Boys I\u2019ve Loved Before (2018)",
+        "rating": 4.0,
+        "feeling": "Sweet, bright teen swoon with genuine heart that kept me smiling.",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Hating Game (2021)",
+        "rating": 4.0,
+        "feeling": "Snappy office sparring that softens into a satisfying, feel-good swoon.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "An Ideal Husband (1999)",
+        "rating": 4.5,
+        "feeling": "Sparkling Wilde wit and romantic stakes that delighted me throughout.",
+        "genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Importance of Being Earnest (2002)",
+        "rating": 4.5,
+        "feeling": "Breezy Wildean mischief with irresistible charm and laughs.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Colette (2018)",
+        "rating": 4.5,
+        "feeling": "Lively, empowering literary portrait that left me inspired and proud.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Portrait of a Lady on Fire (2019)",
+        "rating": 4.5,
+        "feeling": "Gorgeous, restrained yearning that left me spellbound and aching.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Duchess (2008)",
+        "rating": 4.0,
+        "feeling": "Handsome, heartfelt period drama that moved me through its scandal and sorrow.",
+        "genres": [
+          "Drama",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Anna Karenina (2012)",
+        "rating": 4.0,
+        "feeling": "Stylized, sweeping tragedy that left me stirred and softly heartsick.",
+        "genres": [
+          "Drama",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "The Report (2019)",
+        "rating": 4.5,
+        "feeling": "Righteous, meticulous truth-telling that scratched my investigative itch and fired me up.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 4.5,
+        "feeling": "Classically stirring civility-and-courage drama that warmed and gripped me.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Trial of the Chicago 7 (2020)",
+        "rating": 4.5,
+        "feeling": "Rousing, witty courtroom firebrand that left me teary and energized.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Woman in Gold (2015)",
+        "rating": 4.5,
+        "feeling": "A gentle, justice-seeking triumph that moved me with dignity and hope.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Constant Gardener (2005)",
+        "rating": 4.5,
+        "feeling": "Gripping, humane conspiracy drama that left me sobered and inspired.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Glass Onion: A Knives Out Mystery (2022)",
+        "rating": 4.0,
+        "feeling": "Glossy, playful whodunit layers that entertained me with satisfying snap.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Death on the Nile (2022)",
+        "rating": 4.0,
+        "feeling": "Plush, sun-dappled Christie intrigue that felt comfortingly twisty.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mr. Holmes (2015)",
+        "rating": 4.0,
+        "feeling": "A tender, reflective mystery wrapped in gentle melancholy and grace.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Family",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Man Who Invented Christmas (2017)",
+        "rating": 4.5,
+        "feeling": "Festive, imaginative origin tale that filled me with cozy Dickensian cheer.",
+        "genres": [
+          "Drama",
+          "History",
+          "Comedy",
+          "Family"
+        ]
+      },
+      {
+        "title": "White Christmas (1954)",
+        "rating": 4.5,
+        "feeling": "Classic, glittering holiday romance and song that left me merry and warm.",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Romance"
+        ]
+      }
+    ]
+  }
+]

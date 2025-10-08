@@ -1,0 +1,1309 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Lincoln Lawyer (2011)",
+      "A Few Good Men (1992)",
+      "The Firm (1993)",
+      "Runaway Jury (2003)",
+      "Presumed Innocent (1990)",
+      "The Client (1994)",
+      "Michael Clayton (2007)",
+      "Enemy of the State (1998)",
+      "The Bourne Identity (2002)",
+      "Inside Man (2006)",
+      "The Negotiator (1998)",
+      "Collateral (2004)",
+      "Heat (1995)",
+      "Se7en (1995)",
+      "The Girl with the Dragon Tattoo (2011)",
+      "Gone Girl (2014)",
+      "Source Code (2011)",
+      "John Wick (2014)",
+      "Taken (2008)",
+      "Jack Reacher (2012)",
+      "Man on Fire (2004)",
+      "Argo (2012)",
+      "The Nice Guys (2016)",
+      "Kiss Kiss Bang Bang (2005)",
+      "In Bruges (2008)",
+      "Fargo (1996)",
+      "The Big Lebowski (1998)",
+      "Game Night (2018)",
+      "Tropic Thunder (2008)",
+      "Midnight Run (1988)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Lincoln Lawyer (2011)",
+        "rating": 4.0,
+        "feeling": "Slick, twisty courtroom cat-and-mouse that keeps me leaning in.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 3.5,
+        "feeling": "Strong courtroom fireworks, a bit stiff on the military side but engaging.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Firm (1993)",
+        "rating": 3.5,
+        "feeling": "Corporate paranoia and steady suspense that pulls me along without overdoing it.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Runaway Jury (2003)",
+        "rating": 3.5,
+        "feeling": "Jury-rigging mind games are fun, even if it leans a bit pulpy.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Presumed Innocent (1990)",
+        "rating": 3.5,
+        "feeling": "Moody, adult legal trouble with enough turns to hold me.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Client (1994)",
+        "rating": 3.0,
+        "feeling": "The kid-in-peril angle works, though it feels more straight than sharp.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Michael Clayton (2007)",
+        "rating": 3.0,
+        "feeling": "Slow-burn corporate cleanup that intrigues more than it thrills.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Enemy of the State (1998)",
+        "rating": 4.5,
+        "feeling": "Relentless surveillance chase\u2014tense, techy, and right up my alley.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bourne Identity (2002)",
+        "rating": 4.0,
+        "feeling": "Clean, efficient spy-thriller energy with satisfying momentum.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Inside Man (2006)",
+        "rating": 4.0,
+        "feeling": "Smart heist mechanics and steady tension make this a satisfying ride.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Negotiator (1998)",
+        "rating": 4.0,
+        "feeling": "High-stakes talk-and-tactics that clicks with my love for cat-and-mouse.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Collateral (2004)",
+        "rating": 4.0,
+        "feeling": "Tight, nocturnal one-night thriller that keeps the screws turning.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Heat (1995)",
+        "rating": 3.5,
+        "feeling": "Grand cops-and-robbers chess\u2014impressive, though a little stretched for me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Se7en (1995)",
+        "rating": 3.5,
+        "feeling": "Gripping and grim",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo (2011)",
+        "rating": 3.0,
+        "feeling": "Compelling investigation but the cold, nasty streak keeps me at a distance.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Gone Girl (2014)",
+        "rating": 3.5,
+        "feeling": "Juicy, media-spun mystery that twists the knife without feeling cheap.",
+        "genres": [
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Source Code (2011)",
+        "rating": 3.5,
+        "feeling": "Neat sci-fi loop with thriller pacing\u2014clever and brisk.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "John Wick (2014)",
+        "rating": 4.0,
+        "feeling": "Sleek, focused vengeance with crisp action beats I can groove with.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Taken (2008)",
+        "rating": 4.0,
+        "feeling": "Lean rescue mission that delivers straightforward, satisfying payoff.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jack Reacher (2012)",
+        "rating": 3.5,
+        "feeling": "Solid, no-nonsense sleuthing with enough punch to keep me interested.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Man on Fire (2004)",
+        "rating": 4.5,
+        "feeling": "Fierce, emotional payback tale that hits my revenge-thriller sweet spot.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Argo (2012)",
+        "rating": 3.5,
+        "feeling": "Engaging rescue caper with steady tension more than fireworks.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 4.0,
+        "feeling": "Snappy, buddy-detective chaos with jokes and mystery that land.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 3.5,
+        "feeling": "Quippy, twisty misadventure that entertains even when it smirks.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "In Bruges (2008)",
+        "rating": 3.5,
+        "feeling": "Darkly funny and thoughtful, with enough bite to stick.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Fargo (1996)",
+        "rating": 3.0,
+        "feeling": "Offbeat, chilly crime that I respect more than I love.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Big Lebowski (1998)",
+        "rating": 2.5,
+        "feeling": "Laid-back shaggy-dog crime feels too meandering for my taste.",
+        "genres": [
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Game Night (2018)",
+        "rating": 3.0,
+        "feeling": "Screwball mystery antics that are fun, if a bit glossy.",
+        "genres": [
+          "Mystery",
+          "Comedy",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Tropic Thunder (2008)",
+        "rating": 3.0,
+        "feeling": "Broad Hollywood send-up that amuses but doesn\u2019t fully click for me.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "Midnight Run (1988)",
+        "rating": 4.5,
+        "feeling": "Classic, punchy 80s road-chase banter that\u2019s exactly my jam.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Fugitive (1993)",
+      "Sneakers (1992)",
+      "Ronin (1998)",
+      "The Bourne Supremacy (2004)",
+      "The Bourne Ultimatum (2007)",
+      "Mission: Impossible - Ghost Protocol (2011)",
+      "Mission: Impossible - Rogue Nation (2015)",
+      "Mission: Impossible - Fallout (2018)",
+      "The Town (2010)",
+      "Baby Driver (2017)",
+      "Speed (1994)",
+      "Unstoppable (2010)",
+      "The Rock (1996)",
+      "The Thomas Crown Affair (1999)",
+      "Ocean's Eleven (2001)",
+      "Logan Lucky (2017)",
+      "The Game (1997)",
+      "Memento (2000)",
+      "Minority Report (2002)",
+      "Edge of Tomorrow (2014)",
+      "Looper (2012)",
+      "Deja Vu (2006)",
+      "The Equalizer (2014)",
+      "The Accountant (2016)",
+      "Nobody (2021)",
+      "Patriot Games (1992)",
+      "Clear and Present Danger (1994)",
+      "A Time to Kill (1996)",
+      "My Cousin Vinny (1992)",
+      "The Long Kiss Goodnight (1996)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.5,
+        "feeling": "Relentless manhunt-and-mindgame that hits my cat-and-mouse sweet spot.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 4.0,
+        "feeling": "Techy caper with witty team dynamics and just enough paranoia to keep me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 3.5,
+        "feeling": "Cool, professional skulduggery with taut chases, a bit chilly but engaging.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Bourne Supremacy (2004)",
+        "rating": 3.5,
+        "feeling": "Brisk, bruising spy run\u2014less clean than Identity but still propulsive.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bourne Ultimatum (2007)",
+        "rating": 4.0,
+        "feeling": "Tight, high-velocity payoff that sharpens the chase and the stakes.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Ghost Protocol (2011)",
+        "rating": 4.0,
+        "feeling": "Sleek globe-trotting set pieces and clean spy momentum I can ride with.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Rogue Nation (2015)",
+        "rating": 4.0,
+        "feeling": "Precision stuntcraft and steady spy games that keep me locked in.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Fallout (2018)",
+        "rating": 4.0,
+        "feeling": "Relentless, muscular spy chase with satisfying escalation.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Town (2010)",
+        "rating": 3.5,
+        "feeling": "Solid heist-and-hunter tension, a touch broody but it works.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Baby Driver (2017)",
+        "rating": 3.0,
+        "feeling": "Stylish, music-driven heist energy that entertains more than it grips me.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 4.5,
+        "feeling": "Lean, ticking-bus thriller perfection\u2014pure momentum and payoff.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Unstoppable (2010)",
+        "rating": 4.0,
+        "feeling": "Big, one-track suspense executed with crisp, real-time urgency.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Rock (1996)",
+        "rating": 4.0,
+        "feeling": "Punchy 90s siege-and-rescue with witty buddy chemistry and big stakes.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.0,
+        "feeling": "Suave cat-and-mouse caper with a romantic sheen that keeps me mildly invested.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ocean's Eleven (2001)",
+        "rating": 3.5,
+        "feeling": "Smooth, clockwork heist fun\u2014light on tension but consistently enjoyable.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Logan Lucky (2017)",
+        "rating": 3.0,
+        "feeling": "Folksy, breezy caper that amuses even if it never fully snaps tight for me.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 3.5,
+        "feeling": "Paranoid puzzle-box thriller that keeps me guessing and leaning in.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Memento (2000)",
+        "rating": 3.5,
+        "feeling": "Cleverly constructed memory maze\u2014compelling if a bit chilly.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Minority Report (2002)",
+        "rating": 4.0,
+        "feeling": "Propulsive future-noir chase with tech paranoia I dig.",
+        "genres": [
+          "Science Fiction",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Edge of Tomorrow (2014)",
+        "rating": 4.0,
+        "feeling": "Smart, repeat-battle thrills with clean stakes and punchy pacing.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Looper (2012)",
+        "rating": 3.5,
+        "feeling": "Gritty time-crime conceit that works more on ideas and mood than adrenaline.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Deja Vu (2006)",
+        "rating": 4.0,
+        "feeling": "Slick, time-twisted pursuit that blends surveillance and suspense nicely.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Equalizer (2014)",
+        "rating": 4.0,
+        "feeling": "Measured, ruthless payback that scratches my revenge-thriller itch.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Accountant (2016)",
+        "rating": 3.5,
+        "feeling": "Deadpan numbers-and-guns thriller\u2014tidy enough to keep me hooked.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Nobody (2021)",
+        "rating": 4.0,
+        "feeling": "Clean, brutal burst of revenge fun with tight, satisfying beats.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Patriot Games (1992)",
+        "rating": 3.5,
+        "feeling": "Straight-ahead Jack Ryan danger\u2014solid tension, modest thrills.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Clear and Present Danger (1994)",
+        "rating": 4.0,
+        "feeling": "Bureaucratic intrigue and covert ops woven into a satisfying, escalating ride.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "A Time to Kill (1996)",
+        "rating": 3.5,
+        "feeling": "Heated courtroom fireworks that play strong if a bit broad.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "My Cousin Vinny (1992)",
+        "rating": 4.0,
+        "feeling": "Courtroom comedy with punchy banter and crowd-pleasing turns.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Long Kiss Goodnight (1996)",
+        "rating": 4.0,
+        "feeling": "Quippy, amnesiac-assassin romp with 90s punch and pace I enjoy.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Mystery",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "Die Hard (1988)",
+      "Die Hard with a Vengeance (1995)",
+      "No Way Out (1987)",
+      "The Hunt for Red October (1990)",
+      "Mission: Impossible (1996)",
+      "Mission: Impossible III (2006)",
+      "Mission: Impossible - Dead Reckoning Part One (2023)",
+      "The Departed (2006)",
+      "Infernal Affairs (2002)",
+      "L.A. Confidential (1997)",
+      "Training Day (2001)",
+      "Witness (1985)",
+      "Point Break (1991)",
+      "The Bank Job (2008)",
+      "The Man from U.N.C.L.E. (2015)",
+      "Salt (2010)",
+      "Non-Stop (2014)",
+      "Phone Booth (2002)",
+      "Shooter (2007)",
+      "The Raid: Redemption (2011)",
+      "True Lies (1994)",
+      "The Last Boy Scout (1991)",
+      "Leon: The Professional (1994)",
+      "The Untouchables (1987)",
+      "Catch Me If You Can (2002)",
+      "State of Play (2009)",
+      "The Pelican Brief (1993)",
+      "Heist (2001)",
+      "Captain Phillips (2013)",
+      "Wind River (2017)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Die Hard (1988)",
+        "rating": 4.5,
+        "feeling": "Lean, wisecracking one-man-siege with tight, escalating stakes\u2014pure momentum.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Die Hard with a Vengeance (1995)",
+        "rating": 4.0,
+        "feeling": "Big-city cat-and-mouse with buddy sparks and devious games that keep me engaged.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "No Way Out (1987)",
+        "rating": 3.5,
+        "feeling": "Paranoid, heat-closing-in thriller with juicy twists\u2014moody but gripping enough.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.0,
+        "feeling": "Tense, procedural pursuit with clean spy stakes and satisfying payoff.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible (1996)",
+        "rating": 4.0,
+        "feeling": "Slick mole-hunt spy games with precision set pieces\u2014right in my wheelhouse.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible III (2006)",
+        "rating": 4.0,
+        "feeling": "Relentless rescue stakes and a ruthless foe give this slick spy run real punch.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Mission: Impossible - Dead Reckoning Part One (2023)",
+        "rating": 4.0,
+        "feeling": "Globe-trotting stuntcraft and steady spy momentum\u2014long, but it delivers.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Departed (2006)",
+        "rating": 3.5,
+        "feeling": "Twisty undercover dueling with sharp tension, a bit grim but compelling.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Infernal Affairs (2002)",
+        "rating": 3.5,
+        "feeling": "Lean, mirrored-mole chess that stays taut without excess\u2014cool and absorbing.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "L.A. Confidential (1997)",
+        "rating": 3.0,
+        "feeling": "Polished noir corruption that I respect more than I fully love.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Training Day (2001)",
+        "rating": 3.5,
+        "feeling": "One-day pressure cooker with sharp performances and dirty-cop dread that works.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Witness (1985)",
+        "rating": 3.0,
+        "feeling": "Protect-the-witness tension with a softer, romantic edge\u2014solid if subdued.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Point Break (1991)",
+        "rating": 4.0,
+        "feeling": "Undercover adrenaline and bank-heist stakes with just enough pulse and fun.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Bank Job (2008)",
+        "rating": 3.5,
+        "feeling": "Workmanlike, stakesy heist that clicks more on tension than flash.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Man from U.N.C.L.E. (2015)",
+        "rating": 3.0,
+        "feeling": "Breezy, stylish spy banter\u2014fun, if light on real suspense.",
+        "genres": [
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Salt (2010)",
+        "rating": 3.5,
+        "feeling": "On-the-run spy chase with clean momentum and just enough twists to satisfy.",
+        "genres": [
+          "Action",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Non-Stop (2014)",
+        "rating": 3.5,
+        "feeling": "Confined, ticking-clock whodunit that keeps me leaning in despite some gloss.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Shooter (2007)",
+        "rating": 3.5,
+        "feeling": "Framed-man vengeance with straightforward, satisfying payback beats.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "True Lies (1994)",
+        "rating": 4.0,
+        "feeling": "Big, playful spy action with sturdy momentum and crowd-pleasing punch.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Last Boy Scout (1991)",
+        "rating": 4.0,
+        "feeling": "Quippy, hard-boiled buddy mayhem with brisk pace\u2014my kind of pulp.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Leon: The Professional (1994)",
+        "rating": 3.5,
+        "feeling": "Moody hitman-and-ward tale\u2014gripping, if a bit chilly for me.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Untouchables (1987)",
+        "rating": 3.5,
+        "feeling": "Classic-feel cops-and-Capone showdown with sturdy set-piece tension.",
+        "genres": [
+          "Crime",
+          "History",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Catch Me If You Can (2002)",
+        "rating": 3.5,
+        "feeling": "Light, nimble cat-and-mouse that entertains more than it thrills me.",
+        "genres": [
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "State of Play (2009)",
+        "rating": 3.5,
+        "feeling": "Press-room conspiracy with steady intrigue\u2014less flash, good tension.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Pelican Brief (1993)",
+        "rating": 3.0,
+        "feeling": "Straight-arrow legal-paranoia run that plays solid if a bit safe.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Heist (2001)",
+        "rating": 3.5,
+        "feeling": "Tidy, twisty con mechanics\u2014cool-tempered but satisfying clockwork.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Captain Phillips (2013)",
+        "rating": 4.0,
+        "feeling": "Taut, real-time hijack tension that keeps the screws turning.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wind River (2017)",
+        "rating": 3.5,
+        "feeling": "Snowbound investigation with lean, somber tension that sticks.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Crimson Tide (1995)",
+      "The Taking of Pelham 123 (2009)",
+      "Top Gun: Maverick (2022)",
+      "Sicario (2015)",
+      "The Raid: Redemption (2011)",
+      "The Man from Nowhere (2010)",
+      "Tell No One (2006)",
+      "Lethal Weapon (1987)",
+      "Lethal Weapon 2 (1989)",
+      "48 Hrs. (1982)",
+      "Beverly Hills Cop (1984)",
+      "Tango & Cash (1989)",
+      "The French Connection (1971)",
+      "Air Force One (1997)",
+      "The Insider (1999)",
+      "Just Cause (1995)",
+      "Jagged Edge (1985)",
+      "The Usual Suspects (1995)",
+      "The Score (2001)",
+      "The Italian Job (2003)",
+      "Phone Booth (2002)",
+      "Cellular (2004)",
+      "16 Blocks (2006)",
+      "The Hunted (2003)",
+      "Unknown (2011)",
+      "The Commuter (2018)",
+      "Run All Night (2015)",
+      "Wrath of Man (2021)",
+      "Safe House (2012)",
+      "The Bourne Legacy (2012)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Crimson Tide (1995)",
+        "rating": 4.0,
+        "feeling": "Submarine chain-of-command brinkmanship with tight, escalating stakes I can ride.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Taking of Pelham 123 (2009)",
+        "rating": 3.5,
+        "feeling": "Hostage chess and dispatcher-vs-mastermind tension that keeps me leaning in.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Top Gun: Maverick (2022)",
+        "rating": 4.0,
+        "feeling": "Sleek aerial stakes and clean training-to-mission momentum that delivers.",
+        "genres": [
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Sicario (2015)",
+        "rating": 3.5,
+        "feeling": "Tense, methodical border op that grips even with its cold, grim edge.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Man from Nowhere (2010)",
+        "rating": 4.0,
+        "feeling": "Ruthless, focused rescue-revenge that scratches my payback itch.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Tell No One (2006)",
+        "rating": 3.5,
+        "feeling": "Twist-laced missing-wife mystery that stays absorbing without overcooking it.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Lethal Weapon (1987)",
+        "rating": 4.0,
+        "feeling": "Punchy buddy-cop chaos with sharp sparks and steady pace.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Lethal Weapon 2 (1989)",
+        "rating": 3.5,
+        "feeling": "Looser but lively sequel energy with enough banter and stakes to satisfy.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "48 Hrs. (1982)",
+        "rating": 3.5,
+        "feeling": "Hard-nosed, wisecracking pursuit that moves with rough-edged snap.",
+        "genres": [
+          "Crime",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Beverly Hills Cop (1984)",
+        "rating": 4.0,
+        "feeling": "Fast-talking, fun caper vibes with just enough punch to keep me grinning.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Tango & Cash (1989)",
+        "rating": 3.0,
+        "feeling": "Goofy, loud buddy mayhem that amuses more than it truly thrills.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Comedy",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The French Connection (1971)",
+        "rating": 3.5,
+        "feeling": "Gritty, procedural chase with lean tension I respect and ride with.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Air Force One (1997)",
+        "rating": 4.0,
+        "feeling": "High-concept hijack thrills with clean, crowd-pleasing momentum.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Insider (1999)",
+        "rating": 3.0,
+        "feeling": "Slow-burn corporate pressure cooker I respect more than I\u2019m riveted by.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Just Cause (1995)",
+        "rating": 3.0,
+        "feeling": "Straight-arrow legal mystery with solid stakes but limited snap.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Jagged Edge (1985)",
+        "rating": 3.0,
+        "feeling": "Courtroom-romance thriller that plays fine even if it runs a bit soft for me.",
+        "genres": [
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Usual Suspects (1995)",
+        "rating": 3.5,
+        "feeling": "Slick, twist-forward crime tale that keeps me guessing and engaged.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Score (2001)",
+        "rating": 3.5,
+        "feeling": "Cool-tempered last-job mechanics with tidy, satisfying clockwork.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller",
+          "Mystery",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Italian Job (2003)",
+        "rating": 3.5,
+        "feeling": "Breezy, gear-shifting heist fun\u2014light on tension but consistently enjoyable.",
+        "genres": [
+          "Action",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Cellular (2004)",
+        "rating": 3.0,
+        "feeling": "High-concept phone-race thriller that entertains even with some gloss.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "16 Blocks (2006)",
+        "rating": 3.5,
+        "feeling": "Confined, ticking-clock escort run that keeps me leaning in.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunted (2003)",
+        "rating": 3.0,
+        "feeling": "Stripped-down manhunt with sharp moments but a chilly, spare vibe.",
+        "genres": [
+          "Drama",
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Unknown (2011)",
+        "rating": 3.5,
+        "feeling": "Identity-swap paranoia with brisk pace and just enough twists to satisfy.",
+        "genres": [
+          "Action",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Commuter (2018)",
+        "rating": 3.5,
+        "feeling": "Train-bound whodunit-thriller fun\u2014glossy, but it works on momentum.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Run All Night (2015)",
+        "rating": 3.5,
+        "feeling": "One-night, father-son mob gauntlet with sturdy stakes and steady drive.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wrath of Man (2021)",
+        "rating": 3.5,
+        "feeling": "Cold-blooded heist-revenge that plays lean and mean enough to hook me.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Safe House (2012)",
+        "rating": 3.5,
+        "feeling": "On-the-run spy churn with tight, kinetic beats that keep me engaged.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Bourne Legacy (2012)",
+        "rating": 3.0,
+        "feeling": "Serviceable spin-off spy run\u2014less clean and punchy than the core Bourne rides.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+]

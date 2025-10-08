@@ -1,0 +1,1250 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "The Adventures of Robin Hood (1938)",
+      "Captain Blood (1935)",
+      "The Sea Hawk (1940)",
+      "The Mark of Zorro (1940)",
+      "The Prisoner of Zenda (1937)",
+      "The Crimson Pirate (1952)",
+      "The Mask of Zorro (1998)",
+      "The Count of Monte Cristo (1934)",
+      "Master and Commander: The Far Side of the World (2003)",
+      "The Big Country (1958)",
+      "The Man Who Shot Liberty Valance (1962)",
+      "High Noon (1952)",
+      "Rio Bravo (1959)",
+      "3:10 to Yuma (1957)",
+      "The Great Escape (1963)",
+      "The Bridge on the River Kwai (1957)",
+      "Stalag 17 (1953)",
+      "The Guns of Navarone (1961)",
+      "Where Eagles Dare (1968)",
+      "North by Northwest (1959)",
+      "Notorious (1946)",
+      "Rebecca (1940)",
+      "Shadow of a Doubt (1943)",
+      "Charade (1963)",
+      "Witness for the Prosecution (1957)",
+      "Anatomy of a Murder (1959)",
+      "Primal Fear (1996)",
+      "Presumed Innocent (1990)",
+      "It's a Wonderful Life (1946)",
+      "A Matter of Life and Death (1946)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Adventures of Robin Hood (1938)",
+        "rating": 4.5,
+        "feeling": "Glorious, rousing swashbuckling with a noble heart.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "Captain Blood (1935)",
+        "rating": 4.0,
+        "feeling": "Classic seafaring adventure with just enough romance to spice the stakes.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Sea Hawk (1940)",
+        "rating": 4.0,
+        "feeling": "Stirring patriotic derring-do that scratches my swashbuckler itch.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Mark of Zorro (1940)",
+        "rating": 4.5,
+        "feeling": "Clever double-life heroics and brisk swordplay hit my sweet spot.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Prisoner of Zenda (1937)",
+        "rating": 4.5,
+        "feeling": "Romance and honor intertwine in exactly the kind of escapade I relish.",
+        "genres": [
+          "Romance",
+          "Adventure",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Crimson Pirate (1952)",
+        "rating": 4.0,
+        "feeling": "Light, athletic fun with loads of swordplay and a smile.",
+        "genres": [
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 3.5,
+        "feeling": "Entertaining modern swashbuckling, a bit slick but spirited.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Count of Monte Cristo (1934)",
+        "rating": 4.5,
+        "feeling": "Satisfying, old-fashioned revenge with rich adventure.",
+        "genres": [
+          "Drama",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Master and Commander: The Far Side of the World (2003)",
+        "rating": 4.0,
+        "feeling": "Sturdy, immersive seafaring with weighty camaraderie.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Big Country (1958)",
+        "rating": 4.0,
+        "feeling": "Expansive frontier drama with strong moral fiber.",
+        "genres": [
+          "Drama",
+          "Western",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Man Who Shot Liberty Valance (1962)",
+        "rating": 4.5,
+        "feeling": "A thoughtful western about duty and legend that lands hard.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "High Noon (1952)",
+        "rating": 4.5,
+        "feeling": "Lean, principled tension that I admire start to finish.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Rio Bravo (1959)",
+        "rating": 4.0,
+        "feeling": "Relaxed, satisfying western hangout with grit when it counts.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "3:10 to Yuma (1957)",
+        "rating": 4.0,
+        "feeling": "Taut, character-driven standoff that kept me hooked.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Great Escape (1963)",
+        "rating": 4.0,
+        "feeling": "Rousing POW ingenuity that\u2019s hard to resist.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Bridge on the River Kwai (1957)",
+        "rating": 4.0,
+        "feeling": "Grand, conflicted war drama with a compelling moral tug.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Stalag 17 (1953)",
+        "rating": 4.0,
+        "feeling": "Sharp, cynical POW tale with bite and wit.",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Guns of Navarone (1961)",
+        "rating": 4.0,
+        "feeling": "Old-school mission suspense that delivers steady thrills.",
+        "genres": [
+          "War",
+          "Adventure",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Where Eagles Dare (1968)",
+        "rating": 3.5,
+        "feeling": "Showy wartime caper\u2014fun, if a bit overstuffed.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.5,
+        "feeling": "Silky, propulsive chase that\u2019s pure pleasure.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Notorious (1946)",
+        "rating": 4.5,
+        "feeling": "Elegant, dangerous romance that gets under the skin.",
+        "genres": [
+          "Thriller",
+          "Romance",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Rebecca (1940)",
+        "rating": 4.0,
+        "feeling": "Moody, shadowy mystery that keeps a steady hold.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Shadow of a Doubt (1943)",
+        "rating": 4.0,
+        "feeling": "Quietly sinister and satisfying small-town unease.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 4.0,
+        "feeling": "Playful, twisty intrigue with charm to spare.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.5,
+        "feeling": "Crackling courtroom fireworks with delectable turns.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Anatomy of a Murder (1959)",
+        "rating": 4.0,
+        "feeling": "Measured, engrossing legal chess with moral gray.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Primal Fear (1996)",
+        "rating": 4.0,
+        "feeling": "Compelling modern courtroom thriller with sharp turns.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Presumed Innocent (1990)",
+        "rating": 3.5,
+        "feeling": "Absorbing, if cooler, legal tangle.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "rating": 4.5,
+        "feeling": "Earnest, life-affirming fantasy that still moves me.",
+        "genres": [
+          "Drama",
+          "Family",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "A Matter of Life and Death (1946)",
+        "rating": 4.0,
+        "feeling": "Inventive, romantic fantasy with a graceful touch.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "Rear Window (1954)",
+      "Strangers on a Train (1951)",
+      "The 39 Steps (1935)",
+      "Foreign Correspondent (1940)",
+      "To Catch a Thief (1955)",
+      "The Lady Vanishes (1938)",
+      "12 Angry Men (1957)",
+      "Inherit the Wind (1960)",
+      "The Verdict (1982)",
+      "Judgment at Nuremberg (1961)",
+      "The Caine Mutiny (1954)",
+      "A Man for All Seasons (1966)",
+      "The Dirty Dozen (1967)",
+      "The Train (1964)",
+      "The Dam Busters (1955)",
+      "The Cruel Sea (1953)",
+      "A Bridge Too Far (1977)",
+      "The Heroes of Telemark (1965)",
+      "Sink the Bismarck! (1960)",
+      "The Enemy Below (1957)",
+      "Shane (1953)",
+      "The Searchers (1956)",
+      "The Magnificent Seven (1960)",
+      "Stagecoach (1939)",
+      "Red River (1948)",
+      "The Ox-Bow Incident (1943)",
+      "Captain Horatio Hornblower R.N. (1951)",
+      "The Black Swan (1942)",
+      "The Flame and the Arrow (1950)",
+      "The Scarlet Pimpernel (1934)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.5,
+        "feeling": "Silky, voyeuristic suspense that never loosens its grip.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Strangers on a Train (1951)",
+        "rating": 4.5,
+        "feeling": "Sinister, elegant cat-and-mouse that clicks from start to finish.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The 39 Steps (1935)",
+        "rating": 4.0,
+        "feeling": "Brisk man-on-the-run intrigue with witty snap.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Foreign Correspondent (1940)",
+        "rating": 4.0,
+        "feeling": "Energetic wartime espionage with sturdy set pieces.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Action"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 3.5,
+        "feeling": "Glossy, charming lark with light suspense and romance.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Lady Vanishes (1938)",
+        "rating": 4.0,
+        "feeling": "Playful, clever mystery that keeps a steady hold.",
+        "genres": [
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "12 Angry Men (1957)",
+        "rating": 4.5,
+        "feeling": "Lean, principled debate that crackles start to finish.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Inherit the Wind (1960)",
+        "rating": 4.0,
+        "feeling": "Sturdy courtroom sparring with moral weight.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Verdict (1982)",
+        "rating": 3.5,
+        "feeling": "Sober, well-acted legal redemption that pulls me in.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Judgment at Nuremberg (1961)",
+        "rating": 4.5,
+        "feeling": "Grave, absorbing tribunal drama with resonant moral stakes.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Caine Mutiny (1954)",
+        "rating": 4.5,
+        "feeling": "Compelling naval duty and courtroom reckoning with real bite.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Dirty Dozen (1967)",
+        "rating": 4.0,
+        "feeling": "Rough-and-tumble mission yarn that delivers old-school thrills.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "The Train (1964)",
+        "rating": 4.0,
+        "feeling": "Gritty, ingenious wartime cat-and-mouse that satisfies.",
+        "genres": [
+          "War",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Dam Busters (1955)",
+        "rating": 4.0,
+        "feeling": "Solid procedural heroics with a stirring payoff.",
+        "genres": [
+          "Drama",
+          "Action",
+          "History",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Cruel Sea (1953)",
+        "rating": 4.0,
+        "feeling": "Somber, salt-sprayed duty that feels authentic and moving.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "A Bridge Too Far (1977)",
+        "rating": 3.5,
+        "feeling": "Grand, sprawling war epic\u2014impressive, if a bit overstuffed.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Heroes of Telemark (1965)",
+        "rating": 3.5,
+        "feeling": "Lean resistance action with icy tension, if a touch routine.",
+        "genres": [
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Sink the Bismarck! (1960)",
+        "rating": 4.0,
+        "feeling": "Steady, methodical naval hunt that builds satisfying tension.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Enemy Below (1957)",
+        "rating": 4.0,
+        "feeling": "Tense duel of wits at sea that hits my sweet spot.",
+        "genres": [
+          "War"
+        ]
+      },
+      {
+        "title": "Shane (1953)",
+        "rating": 4.0,
+        "feeling": "Classic, heartfelt frontier morality with clean, rousing beats.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Searchers (1956)",
+        "rating": 4.0,
+        "feeling": "Haunting, scenic odyssey with thorny undercurrents that linger.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (1960)",
+        "rating": 4.0,
+        "feeling": "Rousing, honorable gunfighter camaraderie that goes down easy.",
+        "genres": [
+          "Western",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Stagecoach (1939)",
+        "rating": 4.0,
+        "feeling": "Lean, character-rich trek that set the trail in style.",
+        "genres": [
+          "Western",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Red River (1948)",
+        "rating": 4.0,
+        "feeling": "Rugged cattle-drive saga with strong father-son tension.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Ox-Bow Incident (1943)",
+        "rating": 4.0,
+        "feeling": "Taut, sobering western morality play that lands hard.",
+        "genres": [
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Captain Horatio Hornblower R.N. (1951)",
+        "rating": 4.0,
+        "feeling": "Sturdy seafaring valor with rousing naval action.",
+        "genres": [
+          "Adventure",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "The Black Swan (1942)",
+        "rating": 4.0,
+        "feeling": "Spry, colorful pirate swashbuckling with romantic snap.",
+        "genres": [
+          "Adventure",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Flame and the Arrow (1950)",
+        "rating": 4.0,
+        "feeling": "Athletic, jaunty rebel adventure that keeps a grin.",
+        "genres": [
+          "Adventure",
+          "History"
+        ]
+      },
+      {
+        "title": "The Scarlet Pimpernel (1934)",
+        "rating": 4.5,
+        "feeling": "Dashing double-life heroics and romance done to a turn.",
+        "genres": [
+          "Drama",
+          "Adventure"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Adventures of Don Juan (1948)",
+      "The Three Musketeers (1948)",
+      "Ivanhoe (1952)",
+      "King Solomon's Mines (1950)",
+      "Gunga Din (1939)",
+      "Beau Geste (1939)",
+      "The Four Feathers (1939)",
+      "Mutiny on the Bounty (1935)",
+      "The Court Jester (1955)",
+      "My Darling Clementine (1946)",
+      "Winchester '73 (1950)",
+      "The Gunfighter (1950)",
+      "The Professionals (1966)",
+      "Dial M for Murder (1954)",
+      "The Man Who Knew Too Much (1956)",
+      "Suspicion (1941)",
+      "Vertigo (1958)",
+      "The Third Man (1949)",
+      "To Kill a Mockingbird (1962)",
+      "Paths of Glory (1957)",
+      "A Few Good Men (1992)",
+      "Breaker Morant (1980)",
+      "The Winslow Boy (1999)",
+      "Run Silent, Run Deep (1958)",
+      "Twelve O'Clock High (1949)",
+      "Das Boot (1981)",
+      "The Hunt for Red October (1990)",
+      "The Manchurian Candidate (1962)",
+      "The Treasure of the Sierra Madre (1948)",
+      "The African Queen (1951)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Adventures of Don Juan (1948)",
+        "rating": 4.0,
+        "feeling": "Rakish, witty swordplay and courtly stakes hit my swashbuckler sweet spot.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Three Musketeers (1948)",
+        "rating": 4.5,
+        "feeling": "Dashing camaraderie, clever intrigue, and buoyant swordplay\u2014right up my alley.",
+        "genres": [
+          "Adventure",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Ivanhoe (1952)",
+        "rating": 4.0,
+        "feeling": "Sturdy chivalric adventure with honorable romance I can sink into.",
+        "genres": [
+          "Adventure",
+          "Romance",
+          "History"
+        ]
+      },
+      {
+        "title": "King Solomon's Mines (1950)",
+        "rating": 4.0,
+        "feeling": "Hands-on safari adventure with old-fashioned dash and sparks.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Gunga Din (1939)",
+        "rating": 4.0,
+        "feeling": "Rousing, humorous soldierly camaraderie with lively set pieces.",
+        "genres": [
+          "Adventure",
+          "War",
+          "Action",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Beau Geste (1939)",
+        "rating": 4.0,
+        "feeling": "Brothers, honor, and siege heroics\u2014classic Foreign Legion grit.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Four Feathers (1939)",
+        "rating": 4.0,
+        "feeling": "Redemption and duty carried with sweeping, satisfying adventure.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War",
+          "History"
+        ]
+      },
+      {
+        "title": "Mutiny on the Bounty (1935)",
+        "rating": 4.0,
+        "feeling": "Seafaring duty and rebellion told with strong, old-school vigor.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "The Court Jester (1955)",
+        "rating": 4.0,
+        "feeling": "Spry, clever musical swashbuckling that keeps a grin on my face.",
+        "genres": [
+          "Music",
+          "Adventure",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "My Darling Clementine (1946)",
+        "rating": 4.0,
+        "feeling": "Measured frontier honor and myth that settle in just right.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Winchester '73 (1950)",
+        "rating": 4.0,
+        "feeling": "Lean, moral western pursuit with satisfying grit.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Gunfighter (1950)",
+        "rating": 4.0,
+        "feeling": "A taut reckoning with reputation that hits clean and hard.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Professionals (1966)",
+        "rating": 4.0,
+        "feeling": "Rugged, efficient rescue caper with tough-edged camaraderie.",
+        "genres": [
+          "Western",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "Dial M for Murder (1954)",
+        "rating": 4.0,
+        "feeling": "Elegant, clockwork suspense that clicks along nicely.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "The Man Who Knew Too Much (1956)",
+        "rating": 3.5,
+        "feeling": "Polished intrigue with stretches that feel a bit leisurely for me.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Suspicion (1941)",
+        "rating": 3.5,
+        "feeling": "Silky unease and romance, if softened by its final turn.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Vertigo (1958)",
+        "rating": 4.5,
+        "feeling": "Sumptuous, haunting obsession rendered with masterful suspense.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Third Man (1949)",
+        "rating": 4.0,
+        "feeling": "Moody, crafty postwar intrigue that steadily grips.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird (1962)",
+        "rating": 4.5,
+        "feeling": "Principled, heartfelt courtroom drama that moves me.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Paths of Glory (1957)",
+        "rating": 4.5,
+        "feeling": "Scathing, moral wartime courtroom fight that lands with force.",
+        "genres": [
+          "War",
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 3.5,
+        "feeling": "Engaging military courtroom tangle, a bit slick but gripping.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Breaker Morant (1980)",
+        "rating": 4.0,
+        "feeling": "Sober, compelling wartime tribunal with real moral bite.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Winslow Boy (1999)",
+        "rating": 3.5,
+        "feeling": "Well-mannered defense of principle that plays with quiet conviction.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Run Silent, Run Deep (1958)",
+        "rating": 4.0,
+        "feeling": "Tense, duty-bound undersea chess that hits my naval sweet spot.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "Twelve O'Clock High (1949)",
+        "rating": 4.0,
+        "feeling": "Clear-eyed leadership under fire, steady and absorbing.",
+        "genres": [
+          "War",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Das Boot (1981)",
+        "rating": 4.0,
+        "feeling": "Immersive, claustrophobic authenticity that keeps the tension taut.",
+        "genres": [
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.0,
+        "feeling": "Classy, methodical sub-thriller with satisfying cat-and-mouse.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Manchurian Candidate (1962)",
+        "rating": 4.0,
+        "feeling": "Smart, unsettling conspiracy played with icy precision.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Treasure of the Sierra Madre (1948)",
+        "rating": 4.0,
+        "feeling": "Grim, gripping tale of greed with rugged adventure bones.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Western"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "The Adventures of Quentin Durward (1955)",
+      "The Spanish Main (1945)",
+      "Captain from Castile (1947)",
+      "The Charge of the Light Brigade (1936)",
+      "The Man in the Iron Mask (1939)",
+      "Fanfan la Tulipe (1952)",
+      "Cyrano de Bergerac (1990)",
+      "The Three Musketeers (1973)",
+      "The Duellists (1977)",
+      "The African Queen (1951)",
+      "The Life and Death of Colonel Blimp (1943)",
+      "Zulu (1964)",
+      "Sahara (1943)",
+      "Destination Tokyo (1943)",
+      "The Bedford Incident (1965)",
+      "The Bounty (1984)",
+      "Bridge of Spies (2015)",
+      "The Day of the Jackal (1973)",
+      "The Spy Who Came in from the Cold (1965)",
+      "The Ipcress File (1965)",
+      "Rope (1948)",
+      "The Wrong Man (1956)",
+      "Laura (1944)",
+      "The Maltese Falcon (1941)",
+      "Murder on the Orient Express (1974)",
+      "The Narrow Margin (1952)",
+      "Night Train to Munich (1940)",
+      "The Naked Spur (1953)",
+      "The Man from Laramie (1955)",
+      "Fort Apache (1948)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Spanish Main (1945)",
+        "rating": 3.5,
+        "feeling": "Colorful pirate romance with enough swagger, if a bit routine.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Captain from Castile (1947)",
+        "rating": 4.0,
+        "feeling": "Sweeping historical adventure with stirring dash and resolve.",
+        "genres": [
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Charge of the Light Brigade (1936)",
+        "rating": 4.0,
+        "feeling": "Rousing imperial valor and revenge played with classic momentum.",
+        "genres": [
+          "Drama",
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "The Man in the Iron Mask (1939)",
+        "rating": 4.0,
+        "feeling": "Courtly intrigue and dashing musketeer heroics that hit my sweet spot.",
+        "genres": [
+          "Adventure",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Fanfan la Tulipe (1952)",
+        "rating": 4.0,
+        "feeling": "Jaunty, athletic swashbuckling with a grin and plenty of zip.",
+        "genres": [
+          "Romance",
+          "Adventure",
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Cyrano de Bergerac (1990)",
+        "rating": 4.0,
+        "feeling": "Romantic honor and elegant wordplay delivered with heartfelt bravado.",
+        "genres": [
+          "Drama",
+          "Comedy",
+          "History",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Three Musketeers (1973)",
+        "rating": 3.5,
+        "feeling": "Lively, witty romp with spirited swordplay, if a touch cheeky for my taste.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Duellists (1977)",
+        "rating": 3.5,
+        "feeling": "Handsome, disciplined feud of honor that engages, if a bit cool.",
+        "genres": [
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Life and Death of Colonel Blimp (1943)",
+        "rating": 4.5,
+        "feeling": "Warm, wise meditation on duty, friendship, and changing times that resonates.",
+        "genres": [
+          "War",
+          "Drama",
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Zulu (1964)",
+        "rating": 4.0,
+        "feeling": "Stirring stand-and-deliver siege heroics with rousing craft.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History",
+          "War"
+        ]
+      },
+      {
+        "title": "Sahara (1943)",
+        "rating": 4.0,
+        "feeling": "Lean desert war yarn with sturdy camaraderie and grit.",
+        "genres": [
+          "Adventure",
+          "War"
+        ]
+      },
+      {
+        "title": "Destination Tokyo (1943)",
+        "rating": 4.0,
+        "feeling": "Solid sub mission with crew bonding and steady, satisfying tension.",
+        "genres": [
+          "War"
+        ]
+      },
+      {
+        "title": "The Bedford Incident (1965)",
+        "rating": 4.0,
+        "feeling": "Tense Cold War cat-and-mouse with moral bite and mounting pressure.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Bounty (1984)",
+        "rating": 3.5,
+        "feeling": "Thoughtful, well-acted retelling with seafaring grit, if less rousing than the old-school version.",
+        "genres": [
+          "Action",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Bridge of Spies (2015)",
+        "rating": 3.5,
+        "feeling": "Measured, principled Cold War negotiation that engages, if a bit polished.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Day of the Jackal (1973)",
+        "rating": 4.5,
+        "feeling": "Lean, methodical manhunt that grips from first move to last.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Spy Who Came in from the Cold (1965)",
+        "rating": 4.0,
+        "feeling": "Bleak, intelligent espionage with moral weight I appreciate.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Ipcress File (1965)",
+        "rating": 3.5,
+        "feeling": "Dry, crafty spywork with cool wit",
+        "genres": [
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rope (1948)",
+        "rating": 4.0,
+        "feeling": "Elegant, claustrophobic parlor suspense that tightens with satisfying inevitability.",
+        "genres": [
+          "Thriller",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Wrong Man (1956)",
+        "rating": 3.5,
+        "feeling": "Sober, unsettling true-case ordeal that works, if a bit chilly.",
+        "genres": [
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Laura (1944)",
+        "rating": 4.0,
+        "feeling": "Moody, elegant mystery with a romantic pull that holds me.",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Maltese Falcon (1941)",
+        "rating": 4.0,
+        "feeling": "Taut, crafty detective tangle that delivers classic satisfaction.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Murder on the Orient Express (1974)",
+        "rating": 3.5,
+        "feeling": "Opulent, diverting puzzle\u2014fun, if a shade stagey.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Narrow Margin (1952)",
+        "rating": 4.0,
+        "feeling": "Lean, tough train thriller that moves like a shot.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Night Train to Munich (1940)",
+        "rating": 4.0,
+        "feeling": "Spry wartime caper with clever turns and brisk pace.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "War"
+        ]
+      },
+      {
+        "title": "The Naked Spur (1953)",
+        "rating": 4.0,
+        "feeling": "Taut, rugged pursuit western with strong moral tension.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Man from Laramie (1955)",
+        "rating": 4.0,
+        "feeling": "Brooding frontier tangle with satisfying grit and resolve.",
+        "genres": [
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Fort Apache (1948)",
+        "rating": 4.0,
+        "feeling": "Disciplined cavalry drama of honor and hubris handled with Ford\u2019s steady hand.",
+        "genres": [
+          "Western"
+        ]
+      }
+    ]
+  }
+]

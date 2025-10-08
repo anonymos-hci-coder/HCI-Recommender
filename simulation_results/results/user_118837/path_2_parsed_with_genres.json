@@ -1,0 +1,1328 @@
+[
+  {
+    "page": 1,
+    "recommended_movies": [
+      "Sling Blade (1996)",
+      "Maverick (1994)",
+      "Blazing Saddles (1974)",
+      "Cat Ballou (1965)",
+      "Shanghai Noon (2000)",
+      "Butch Cassidy and the Sundance Kid (1969)",
+      "Back to the Future Part III (1990)",
+      "Westworld (1973)",
+      "The Time Machine (1960)",
+      "The Day the Earth Stood Still (1951)",
+      "Planet of the Apes (1968)",
+      "Forbidden Planet (1956)",
+      "WarGames (1983)",
+      "Dr. Strangelove (1964)",
+      "Creepshow (1982)",
+      "Cat's Eye (1985)",
+      "Ghostbusters (1984)",
+      "Beetlejuice (1988)",
+      "The Princess Bride (1987)",
+      "Jumanji (1995)",
+      "The Mummy (1999)",
+      "The Fugitive (1993)",
+      "In the Line of Fire (1993)",
+      "Clear and Present Danger (1994)",
+      "Wait Until Dark (1967)",
+      "Misery (1990)",
+      "Rear Window (1954)",
+      "Witness for the Prosecution (1957)",
+      "Anatomy of a Murder (1959)",
+      "The Verdict (1982)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Sling Blade (1996)",
+        "rating": 5.0,
+        "feeling": "Powerful, intimate character study that floored me with raw humanity.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Maverick (1994)",
+        "rating": 4.0,
+        "feeling": "Breezy con-game western humor that\u2019s exactly my speed.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Western"
+        ]
+      },
+      {
+        "title": "Blazing Saddles (1974)",
+        "rating": 4.0,
+        "feeling": "Irreverent, genre-bending western comedy right up my alley.",
+        "genres": [
+          "Western",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Cat Ballou (1965)",
+        "rating": 3.5,
+        "feeling": "Light, charming revenge romp",
+        "genres": [
+          "Western",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Shanghai Noon (2000)",
+        "rating": 3.5,
+        "feeling": "Goofy, energetic buddy-western that keeps the fun first.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Butch Cassidy and the Sundance Kid (1969)",
+        "rating": 4.0,
+        "feeling": "Witty outlaw camaraderie and easygoing western charm hit nicely.",
+        "genres": [
+          "Adventure",
+          "Western",
+          "Crime",
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Back to the Future Part III (1990)",
+        "rating": 3.5,
+        "feeling": "Playful western mashup",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Westworld (1973)",
+        "rating": 3.5,
+        "feeling": "Cool pulpy premise with taut, Twilight Zone-style thrills.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Western"
+        ]
+      },
+      {
+        "title": "The Time Machine (1960)",
+        "rating": 3.5,
+        "feeling": "Classic, thoughtful sci-fi adventure with pleasing retro charm.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Fantasy",
+          "Science Fiction",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Day the Earth Stood Still (1951)",
+        "rating": 4.0,
+        "feeling": "Clean, moral sci-fi parable that still lands.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Planet of the Apes (1968)",
+        "rating": 4.0,
+        "feeling": "Sharp sci-fi allegory with that Twilight Zone sting.",
+        "genres": [
+          "Science Fiction",
+          "Adventure",
+          "Drama",
+          "Action"
+        ]
+      },
+      {
+        "title": "Forbidden Planet (1956)",
+        "rating": 3.5,
+        "feeling": "Slick retro sci-fi worldbuilding",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "WarGames (1983)",
+        "rating": 4.0,
+        "feeling": "Nuclear-paranoia thriller with propulsive stakes\u2014my kind of tension.",
+        "genres": [
+          "Thriller",
+          "Science Fiction",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Dr. Strangelove (1964)",
+        "rating": 3.5,
+        "feeling": "Biting satire works",
+        "genres": [
+          "Comedy",
+          "War"
+        ]
+      },
+      {
+        "title": "Creepshow (1982)",
+        "rating": 3.5,
+        "feeling": "Fun, pulpy anthology chills",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Cat's Eye (1985)",
+        "rating": 3.0,
+        "feeling": "Decent trio of tales",
+        "genres": [
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Ghostbusters (1984)",
+        "rating": 4.0,
+        "feeling": "Comedy-fantasy sweet spot\u2014breezy, playful, and rewatchable.",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "Beetlejuice (1988)",
+        "rating": 3.5,
+        "feeling": "Weird, spirited fun with a mischievous streak I enjoy.",
+        "genres": [
+          "Fantasy",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Princess Bride (1987)",
+        "rating": 4.0,
+        "feeling": "Witty, warm fairy-tale adventure that charms across the board.",
+        "genres": [
+          "Adventure",
+          "Family",
+          "Fantasy",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Jumanji (1995)",
+        "rating": 3.5,
+        "feeling": "Family adventure with lively stakes and a nostalgic kick.",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Mummy (1999)",
+        "rating": 3.5,
+        "feeling": "Swashbuckling fun",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Fantasy"
+        ]
+      },
+      {
+        "title": "The Fugitive (1993)",
+        "rating": 4.0,
+        "feeling": "Lean, relentless man-on-the-run thriller\u2014totally my jam.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "In the Line of Fire (1993)",
+        "rating": 3.5,
+        "feeling": "Solid, old-school thriller with sturdy suspense throughout.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Clear and Present Danger (1994)",
+        "rating": 3.5,
+        "feeling": "Competent, engaging spycraft with satisfying payoffs.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Wait Until Dark (1967)",
+        "rating": 4.0,
+        "feeling": "Taut, clever home-invasion suspense that still crackles.",
+        "genres": [
+          "Thriller",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Misery (1990)",
+        "rating": 3.5,
+        "feeling": "Claustrophobic, performance-driven tension that keeps me hooked.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Rear Window (1954)",
+        "rating": 4.0,
+        "feeling": "Masterful, voyeuristic suspense that never stops tightening.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Witness for the Prosecution (1957)",
+        "rating": 4.0,
+        "feeling": "Smart courtroom twists delivered with lively snap.",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Anatomy of a Murder (1959)",
+        "rating": 3.5,
+        "feeling": "Measured, thoughtful courtroom chess\u2014absorbing if a bit long.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Verdict (1982)",
+        "rating": 3.5,
+        "feeling": "Straightforward redemption courtroom drama with weighty payoff.",
+        "genres": [
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "recommended_movies": [
+      "The Andromeda Strain (1971)",
+      "Invasion of the Body Snatchers (1956)",
+      "Colossus: The Forbin Project (1970)",
+      "Fail-Safe (1964)",
+      "The Manchurian Candidate (1962)",
+      "Soylent Green (1973)",
+      "Logan's Run (1976)",
+      "The Final Countdown (1980)",
+      "The Thing from Another World (1951)",
+      "War of the Worlds (1953)",
+      "North by Northwest (1959)",
+      "Dial M for Murder (1954)",
+      "Strangers on a Train (1951)",
+      "The Conversation (1974)",
+      "Three Days of the Condor (1975)",
+      "The Taking of Pelham One Two Three (1974)",
+      "Charade (1963)",
+      "Duel (1971)",
+      "Frantic (1988)",
+      "Witness (1985)",
+      "To Kill a Mockingbird (1962)",
+      "A Few Good Men (1992)",
+      "Presumed Innocent (1990)",
+      "Judgment at Nuremberg (1961)",
+      "Support Your Local Sheriff! (1969)",
+      "Silverado (1985)",
+      "The Frisco Kid (1979)",
+      "Galaxy Quest (1999)",
+      "Big Trouble in Little China (1986)",
+      "The Goonies (1985)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Andromeda Strain (1971)",
+        "rating": 3.5,
+        "feeling": "Cool, clinical sci-fi procedural with just enough dread to pull me in.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Invasion of the Body Snatchers (1956)",
+        "rating": 4.0,
+        "feeling": "Classic paranoia with that Twilight Zone sting I love.",
+        "genres": [
+          "Science Fiction",
+          "Horror",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Colossus: The Forbin Project (1970)",
+        "rating": 3.5,
+        "feeling": "Smart, chilling AI-doomsday premise that hits my nuclear-paranoia sweet spot.",
+        "genres": [
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Fail-Safe (1964)",
+        "rating": 4.0,
+        "feeling": "Tense, no-frills nuclear brinkmanship that keeps the screws turning.",
+        "genres": [
+          "Thriller",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Manchurian Candidate (1962)",
+        "rating": 4.0,
+        "feeling": "Sharp, paranoid thriller with memorable mind-games and steady dread.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Soylent Green (1973)",
+        "rating": 3.5,
+        "feeling": "Grim, pulpy dystopia with a satisfyingly bleak punch.",
+        "genres": [
+          "Science Fiction",
+          "Thriller",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Logan's Run (1976)",
+        "rating": 3.5,
+        "feeling": "Retro-futurist adventure with a fun high-concept and breezy momentum.",
+        "genres": [
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Final Countdown (1980)",
+        "rating": 3.0,
+        "feeling": "Neat time-warp hook, lighter on tension than I prefer but still enjoyable.",
+        "genres": [
+          "War",
+          "Action",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Thing from Another World (1951)",
+        "rating": 3.5,
+        "feeling": "Sturdy arctic siege thrills with pleasing old-school sci-fi vibes.",
+        "genres": [
+          "Drama",
+          "Horror",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "War of the Worlds (1953)",
+        "rating": 3.5,
+        "feeling": "Colorful, earnest invasion spectacle that scratches the retro itch.",
+        "genres": [
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "North by Northwest (1959)",
+        "rating": 4.0,
+        "feeling": "Silky, propulsive mistaken-identity chase that never lets up.",
+        "genres": [
+          "Thriller",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Dial M for Murder (1954)",
+        "rating": 3.5,
+        "feeling": "Talky but tidy cat-and-mouse with clean, satisfying mechanics.",
+        "genres": [
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Strangers on a Train (1951)",
+        "rating": 4.0,
+        "feeling": "Elegant, mounting suspense with a wonderfully wicked premise.",
+        "genres": [
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Conversation (1974)",
+        "rating": 3.5,
+        "feeling": "Meticulous slow-burn paranoia that seeps under the skin.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Three Days of the Condor (1975)",
+        "rating": 3.5,
+        "feeling": "Lean conspiracy run-and-gun with crisp, paranoid stakes.",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "The Taking of Pelham One Two Three (1974)",
+        "rating": 4.0,
+        "feeling": "Taut, street-level thriller with punchy momentum and attitude.",
+        "genres": [
+          "Crime",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Charade (1963)",
+        "rating": 3.5,
+        "feeling": "Playful, twisty caper with charming snap and chemistry.",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Romance"
+        ]
+      },
+      {
+        "title": "Duel (1971)",
+        "rating": 4.0,
+        "feeling": "Pure, stripped-down vehicular menace that had me white-knuckled.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "TV Movie"
+        ]
+      },
+      {
+        "title": "Frantic (1988)",
+        "rating": 3.0,
+        "feeling": "Moody, off-kilter mystery that intrigues more than it thrills.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Witness (1985)",
+        "rating": 3.5,
+        "feeling": "Solid culture-clash thriller with grounded stakes and quiet warmth.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "To Kill a Mockingbird (1962)",
+        "rating": 4.0,
+        "feeling": "Humane, clear-eyed courtroom drama that lands its moral weight.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "A Few Good Men (1992)",
+        "rating": 3.5,
+        "feeling": "Crowd-pleasing courtroom chess with sturdy confrontations.",
+        "genres": [
+          "Drama"
+        ]
+      },
+      {
+        "title": "Presumed Innocent (1990)",
+        "rating": 3.0,
+        "feeling": "Serviceable legal labyrinth that feels a bit cold and twisty for its own good.",
+        "genres": [
+          "Mystery",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Judgment at Nuremberg (1961)",
+        "rating": 3.5,
+        "feeling": "Grave, thoughtful courtroom epic with absorbing moral questions.",
+        "genres": [
+          "Drama",
+          "History"
+        ]
+      },
+      {
+        "title": "Support Your Local Sheriff! (1969)",
+        "rating": 4.0,
+        "feeling": "Easygoing western comedy that matches my breezy sweet spot.",
+        "genres": [
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Silverado (1985)",
+        "rating": 3.5,
+        "feeling": "Rousing, handsomely mounted western that goes down easy.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Frisco Kid (1979)",
+        "rating": 3.5,
+        "feeling": "Gentle, fish-out-of-water western comedy with amiable charm.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Western",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Galaxy Quest (1999)",
+        "rating": 4.0,
+        "feeling": "Affectionate, clever sci-fi spoof that fires on both fan and fun cylinders.",
+        "genres": [
+          "Comedy",
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Big Trouble in Little China (1986)",
+        "rating": 3.5,
+        "feeling": "Goofy, energetic fantasy romp that stays light on its feet.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Goonies (1985)",
+        "rating": 3.5,
+        "feeling": "Nostalgic, lively treasure-hunt adventure with kid-energy to spare.",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Family"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "recommended_movies": [
+      "The Sting (1973)",
+      "Support Your Local Gunfighter (1971)",
+      "Rustlers' Rhapsody (1985)",
+      "City Slickers (1991)",
+      "Tombstone (1993)",
+      "The Magnificent Seven (1960)",
+      "Quigley Down Under (1990)",
+      "3:10 to Yuma (1957)",
+      "Romancing the Stone (1984)",
+      "Midnight Run (1988)",
+      "The Mask of Zorro (1998)",
+      "Men in Black (1997)",
+      "Groundhog Day (1993)",
+      "Tremors (1990)",
+      "Real Genius (1985)",
+      "The Last Starfighter (1984)",
+      "Starman (1984)",
+      "Speed (1994)",
+      "The Hunt for Red October (1990)",
+      "Sneakers (1992)",
+      "Enemy of the State (1998)",
+      "Blow Out (1981)",
+      "The Day of the Jackal (1973)",
+      "Seven Days in May (1964)",
+      "Them! (1954)",
+      "The Incredible Shrinking Man (1957)",
+      "Star Trek IV: The Voyage Home (1986)",
+      "The Rocketeer (1991)",
+      "The Nice Guys (2016)",
+      "Young Frankenstein (1974)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "The Sting (1973)",
+        "rating": 4.0,
+        "feeling": "Classy, nimble con-game with charming snap that fits my breezy caper sweet spot.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Support Your Local Gunfighter (1971)",
+        "rating": 3.5,
+        "feeling": "Easygoing, jokey western romp that goes down easy even if it is a notch below Sheriff.",
+        "genres": [
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Rustlers' Rhapsody (1985)",
+        "rating": 3.0,
+        "feeling": "Goofy genre send-up with some cute gags, more amiable than laugh-out-loud for me.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "City Slickers (1991)",
+        "rating": 3.5,
+        "feeling": "Light fish-out-of-water trail fun with just enough heart to keep me smiling.",
+        "genres": [
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Tombstone (1993)",
+        "rating": 3.5,
+        "feeling": "Rousing, quotable oater with sturdy shootouts and a crowd-pleasing swagger.",
+        "genres": [
+          "Western",
+          "Action"
+        ]
+      },
+      {
+        "title": "The Magnificent Seven (1960)",
+        "rating": 4.0,
+        "feeling": "Classic, rousing western ensemble that hits the heroic-adventure itch.",
+        "genres": [
+          "Western",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Quigley Down Under (1990)",
+        "rating": 3.5,
+        "feeling": "Straight-shooting outback western with clear stakes and satisfying payoffs.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "3:10 to Yuma (1957)",
+        "rating": 4.0,
+        "feeling": "Taut, stripped-down suspense with clean, ticking-clock tension I love.",
+        "genres": [
+          "Western",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Romancing the Stone (1984)",
+        "rating": 3.5,
+        "feeling": "Breezy jungle caper with playful chemistry and pulpy momentum.",
+        "genres": [
+          "Romance",
+          "Comedy",
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Midnight Run (1988)",
+        "rating": 4.0,
+        "feeling": "Lean, funny chase picture with crackling buddy banter and propulsive stakes.",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Mask of Zorro (1998)",
+        "rating": 3.5,
+        "feeling": "Swashbuckling, handsomely mounted adventure that stays lively and light.",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Men in Black (1997)",
+        "rating": 4.0,
+        "feeling": "Snappy, witty sci-fi comedy that hits my Ghostbusters-style sweet spot.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "Groundhog Day (1993)",
+        "rating": 4.0,
+        "feeling": "Clever high-concept loop that balances humor and heart with effortless charm.",
+        "genres": [
+          "Romance",
+          "Fantasy",
+          "Drama",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Tremors (1990)",
+        "rating": 3.5,
+        "feeling": "Creature-feature fun with a playful streak and solid small-town stakes.",
+        "genres": [
+          "Horror",
+          "Action",
+          "Science Fiction",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "Real Genius (1985)",
+        "rating": 3.5,
+        "feeling": "Sunny 80s campus shenanigans with a pleasing tech-paranoia undercurrent.",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Science Fiction"
+        ]
+      },
+      {
+        "title": "The Last Starfighter (1984)",
+        "rating": 3.0,
+        "feeling": "Light, nostalgic space adventure that entertains more than it thrills.",
+        "genres": [
+          "Adventure",
+          "Science Fiction",
+          "Action"
+        ]
+      },
+      {
+        "title": "Starman (1984)",
+        "rating": 3.5,
+        "feeling": "Gentle, humanist road-movie sci-fi that warms more than it wows.",
+        "genres": [
+          "Science Fiction",
+          "Romance",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Speed (1994)",
+        "rating": 4.0,
+        "feeling": "White-knuckle, no-fat action that keeps the bus and me hurtling.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Hunt for Red October (1990)",
+        "rating": 4.0,
+        "feeling": "Cool, steady techno-thriller with that Cold War tension I savor.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Sneakers (1992)",
+        "rating": 3.5,
+        "feeling": "Breezy, ensemble caper with amiable vibes and tidy tech twists.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Enemy of the State (1998)",
+        "rating": 3.5,
+        "feeling": "Slick surveillance paranoia that moves briskly and scratches the conspiracy itch.",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Blow Out (1981)",
+        "rating": 3.5,
+        "feeling": "Moody, absorbing conspiracy spiral with craft that keeps the screws turning.",
+        "genres": [
+          "Thriller",
+          "Mystery",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Day of the Jackal (1973)",
+        "rating": 4.0,
+        "feeling": "Precision clockwork manhunt that hums with elegant, mounting suspense.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Seven Days in May (1964)",
+        "rating": 4.0,
+        "feeling": "Grave, gripping political paranoia that fits my Cold War sweet spot.",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Them! (1954)",
+        "rating": 3.5,
+        "feeling": "Old-school atomic-creature thrills with satisfying retro menace.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "The Incredible Shrinking Man (1957)",
+        "rating": 3.5,
+        "feeling": "Thoughtful 50s sci-fi survival that mixes pulp peril with existential bite.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Star Trek IV: The Voyage Home (1986)",
+        "rating": 3.5,
+        "feeling": "Lighthearted time-travel save-the-whales romp that goes down easy.",
+        "genres": [
+          "Science Fiction",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "The Rocketeer (1991)",
+        "rating": 3.5,
+        "feeling": "Retro pulp adventure with clean thrills and Saturday-matinee charm.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Family"
+        ]
+      },
+      {
+        "title": "The Nice Guys (2016)",
+        "rating": 3.5,
+        "feeling": "Breezy, wisecracking buddy noir that keeps the laughs and mystery humming.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Action"
+        ]
+      },
+      {
+        "title": "Young Frankenstein (1974)",
+        "rating": 4.0,
+        "feeling": "Pitch-perfect Brooks parody that is playful, quotable, and right in my comedy wheelhouse.",
+        "genres": [
+          "Comedy"
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "recommended_movies": [
+      "Rio Bravo (1959)",
+      "My Name Is Nobody (1973)",
+      "Destry Rides Again (1939)",
+      "The Professionals (1966)",
+      "True Grit (1969)",
+      "The Quick and the Dead (1995)",
+      "North to Alaska (1960)",
+      "The Good, the Bad and the Ugly (1966)",
+      "The Italian Job (1969)",
+      "The Thomas Crown Affair (1999)",
+      "The Great Train Robbery (1978)",
+      "Paper Moon (1973)",
+      "Fletch (1985)",
+      "Silver Streak (1976)",
+      "Hopscotch (1980)",
+      "Kiss Kiss Bang Bang (2005)",
+      "The Parallax View (1974)",
+      "No Way Out (1987)",
+      "Ronin (1998)",
+      "Breakdown (1997)",
+      "The Game (1997)",
+      "Die Hard (1988)",
+      "Lethal Weapon (1987)",
+      "Crimson Tide (1995)",
+      "The Great Escape (1963)",
+      "To Catch a Thief (1955)",
+      "Invasion of the Body Snatchers (1978)",
+      "Star Trek II: The Wrath of Khan (1982)",
+      "Raiders of the Lost Ark (1981)",
+      "My Cousin Vinny (1992)"
+    ],
+    "simulated_ratings": [
+      {
+        "title": "Rio Bravo (1959)",
+        "rating": 4.0,
+        "feeling": "Leisurely hangout oater with amiable camaraderie and sturdy stakes - right in my wheelhouse.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "My Name Is Nobody (1973)",
+        "rating": 3.5,
+        "feeling": "Goofy meta-western fun with amiable charm, more cute gags than big laughs.",
+        "genres": [
+          "Comedy",
+          "Western"
+        ]
+      },
+      {
+        "title": "Destry Rides Again (1939)",
+        "rating": 3.5,
+        "feeling": "Light, witty lawman-without-guns twist that goes down easy.",
+        "genres": [
+          "Western",
+          "Comedy"
+        ]
+      },
+      {
+        "title": "The Professionals (1966)",
+        "rating": 3.5,
+        "feeling": "Rousing, handsomely mounted mission-western with clean thrills, a notch shy of great.",
+        "genres": [
+          "Western",
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "True Grit (1969)",
+        "rating": 3.5,
+        "feeling": "Sturdy, old-school oater anchored by a gruff, crowd-pleasing hero.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Quick and the Dead (1995)",
+        "rating": 3.0,
+        "feeling": "Flashy quick-draw gimmickry that entertains more than it grips.",
+        "genres": [
+          "Western",
+          "Action",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "North to Alaska (1960)",
+        "rating": 3.0,
+        "feeling": "Broad, amiable romp with a few good gags, more cute than compelling.",
+        "genres": [
+          "Western",
+          "Comedy",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Good, the Bad and the Ugly (1966)",
+        "rating": 4.0,
+        "feeling": "Iconic, swaggering western epic with deliciously drawn-out tension.",
+        "genres": [
+          "Western"
+        ]
+      },
+      {
+        "title": "The Italian Job (1969)",
+        "rating": 4.0,
+        "feeling": "Swinging, clever caper with playful momentum and grin-inducing set-pieces.",
+        "genres": [
+          "Action",
+          "Crime",
+          "Comedy",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Thomas Crown Affair (1999)",
+        "rating": 3.5,
+        "feeling": "Sleek, flirty cat-and-mouse that goes down easy.",
+        "genres": [
+          "Drama",
+          "Crime",
+          "Romance"
+        ]
+      },
+      {
+        "title": "The Great Train Robbery (1978)",
+        "rating": 3.5,
+        "feeling": "Classy period heist with tidy clockwork and light, pulpy fun.",
+        "genres": [
+          "Thriller",
+          "Adventure",
+          "Drama",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Paper Moon (1973)",
+        "rating": 4.0,
+        "feeling": "Wry, tender con-artist road movie with irresistible chemistry.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Fletch (1985)",
+        "rating": 3.5,
+        "feeling": "Snarky, disguise-happy mystery that keeps the quips and plot humming.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Silver Streak (1976)",
+        "rating": 3.5,
+        "feeling": "Light Hitchcock-on-rails romp, amiable, brisk, and fun.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Romance",
+          "Thriller",
+          "Action"
+        ]
+      },
+      {
+        "title": "Hopscotch (1980)",
+        "rating": 3.5,
+        "feeling": "Gentle, witty spy cat-and-mouse with globe-trotting charm.",
+        "genres": [
+          "Comedy",
+          "Adventure"
+        ]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang (2005)",
+        "rating": 3.5,
+        "feeling": "Crackling banter and twisty neo-noir fun, a breezy good time.",
+        "genres": [
+          "Comedy",
+          "Crime",
+          "Mystery",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "The Parallax View (1974)",
+        "rating": 4.0,
+        "feeling": "Cold, gripping conspiracy dread that hits my paranoid sweet spot.",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "No Way Out (1987)",
+        "rating": 3.5,
+        "feeling": "Slick, twisty D.C. thriller that moves with satisfying urgency.",
+        "genres": [
+          "Thriller",
+          "Drama"
+        ]
+      },
+      {
+        "title": "Ronin (1998)",
+        "rating": 4.0,
+        "feeling": "Cool, muscular chase-thriller with precision set-pieces I savor.",
+        "genres": [
+          "Action",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Breakdown (1997)",
+        "rating": 4.0,
+        "feeling": "Taut, no-frills abduction thriller that had me white-knuckled.",
+        "genres": [
+          "Crime",
+          "Mystery",
+          "Thriller",
+          "Action",
+          "Drama"
+        ]
+      },
+      {
+        "title": "The Game (1997)",
+        "rating": 3.0,
+        "feeling": "Slick and intriguing, but the contrivances kept me at arm's length.",
+        "genres": [
+          "Drama",
+          "Thriller",
+          "Mystery"
+        ]
+      },
+      {
+        "title": "Die Hard (1988)",
+        "rating": 4.0,
+        "feeling": "Tight, witty, white-knuckle action machine - totally my jam.",
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Lethal Weapon (1987)",
+        "rating": 3.5,
+        "feeling": "Sharp buddy-cop chemistry and brisk action - easy to enjoy.",
+        "genres": [
+          "Adventure",
+          "Action",
+          "Comedy",
+          "Thriller",
+          "Crime"
+        ]
+      },
+      {
+        "title": "Crimson Tide (1995)",
+        "rating": 4.0,
+        "feeling": "Clenched, nuclear-brinkmanship drama that pushes my techno-thriller buttons.",
+        "genres": [
+          "Thriller",
+          "Action",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "The Great Escape (1963)",
+        "rating": 4.0,
+        "feeling": "Rousing, meticulously plotted prison-break with irresistible momentum.",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "War"
+        ]
+      },
+      {
+        "title": "To Catch a Thief (1955)",
+        "rating": 3.5,
+        "feeling": "Silky, scenic cat-and-mouse that charms more than it thrills.",
+        "genres": [
+          "Mystery",
+          "Romance",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Invasion of the Body Snatchers (1978)",
+        "rating": 4.0,
+        "feeling": "Moody, escalating paranoia with that Twilight Zone sting I love.",
+        "genres": [
+          "Science Fiction",
+          "Horror"
+        ]
+      },
+      {
+        "title": "Star Trek II: The Wrath of Khan (1982)",
+        "rating": 4.0,
+        "feeling": "Lean, emotional space duel with clean stakes and satisfying payoff.",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "title": "Raiders of the Lost Ark (1981)",
+        "rating": 4.0,
+        "feeling": "Pure, pulpy adventure rush that fires on all cylinders.",
+        "genres": [
+          "Adventure",
+          "Action"
+        ]
+      },
+      {
+        "title": "My Cousin Vinny (1992)",
+        "rating": 4.0,
+        "feeling": "Smart, crowd-pleasing courtroom comedy with irresistible charm.",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ]
+      }
+    ]
+  }
+]
